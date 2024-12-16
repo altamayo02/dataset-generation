@@ -1,0 +1,1202 @@
+[
+  {
+    "id_torneo": 13,
+    "id_equipo": 44,
+    "fecha": "2023-12-28T17:08:39.670Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 48,
+    "id_equipo": 32,
+    "fecha": "2022-12-29T23:16:29.799Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 17,
+    "id_equipo": 14,
+    "fecha": "2024-01-28T08:26:47.655Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 26,
+    "id_equipo": 13,
+    "fecha": "2020-03-24T19:17:40.793Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 10,
+    "id_equipo": 24,
+    "fecha": "2023-06-29T14:25:36.594Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 32,
+    "id_equipo": 29,
+    "fecha": "2024-01-21T07:54:15.263Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 26,
+    "id_equipo": 38,
+    "fecha": "2022-01-20T12:59:58.906Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 14,
+    "id_equipo": 46,
+    "fecha": "2021-02-11T20:36:51.622Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 6,
+    "id_equipo": 22,
+    "fecha": "2021-08-07T11:51:53.111Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 40,
+    "id_equipo": 5,
+    "fecha": "2022-09-18T13:43:53.647Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 19,
+    "id_equipo": 21,
+    "fecha": "2020-07-10T15:36:19.684Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 39,
+    "id_equipo": 24,
+    "fecha": "2021-02-18T06:00:02.422Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 27,
+    "id_equipo": 13,
+    "fecha": "2020-05-19T22:00:51.564Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 33,
+    "id_equipo": 30,
+    "fecha": "2024-11-04T23:30:08.274Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 17,
+    "id_equipo": 8,
+    "fecha": "2021-11-27T20:37:32.996Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 33,
+    "id_equipo": 40,
+    "fecha": "2020-04-21T16:48:58.526Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 47,
+    "id_equipo": 6,
+    "fecha": "2020-11-19T20:31:32.194Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 49,
+    "id_equipo": 7,
+    "fecha": "2020-07-03T09:08:44.223Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 18,
+    "id_equipo": 19,
+    "fecha": "2020-07-25T10:36:43.725Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 16,
+    "id_equipo": 5,
+    "fecha": "2023-04-10T23:11:51.288Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 42,
+    "id_equipo": 7,
+    "fecha": "2021-02-27T01:16:44.683Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 48,
+    "id_equipo": 13,
+    "fecha": "2024-04-20T11:27:21.399Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 50,
+    "id_equipo": 32,
+    "fecha": "2022-01-23T11:52:53.504Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 45,
+    "id_equipo": 32,
+    "fecha": "2024-08-07T09:09:48.597Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 9,
+    "id_equipo": 19,
+    "fecha": "2023-07-16T17:00:53.405Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 30,
+    "id_equipo": 26,
+    "fecha": "2021-04-08T17:44:07.695Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 42,
+    "id_equipo": 48,
+    "fecha": "2021-09-30T21:17:07.023Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 40,
+    "id_equipo": 1,
+    "fecha": "2022-03-17T06:24:23.077Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 18,
+    "id_equipo": 29,
+    "fecha": "2024-11-27T22:16:04.103Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 26,
+    "id_equipo": 7,
+    "fecha": "2021-06-06T21:33:20.001Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 21,
+    "id_equipo": 14,
+    "fecha": "2024-09-15T16:02:48.091Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 1,
+    "id_equipo": 44,
+    "fecha": "2020-11-26T08:26:29.748Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 36,
+    "id_equipo": 16,
+    "fecha": "2022-09-13T16:03:17.044Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 10,
+    "id_equipo": 26,
+    "fecha": "2023-08-31T05:25:29.886Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 48,
+    "id_equipo": 10,
+    "fecha": "2024-10-08T11:28:39.697Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 32,
+    "id_equipo": 27,
+    "fecha": "2020-04-21T01:50:38.617Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 21,
+    "id_equipo": 25,
+    "fecha": "2023-04-09T20:54:16.280Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 3,
+    "id_equipo": 12,
+    "fecha": "2020-12-18T18:29:00.240Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 42,
+    "id_equipo": 7,
+    "fecha": "2020-11-26T07:53:48.238Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 14,
+    "id_equipo": 38,
+    "fecha": "2022-01-20T18:09:20.255Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 14,
+    "id_equipo": 8,
+    "fecha": "2021-05-02T22:15:12.170Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 37,
+    "id_equipo": 42,
+    "fecha": "2022-11-24T21:48:11.126Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 43,
+    "id_equipo": 1,
+    "fecha": "2022-11-14T09:07:43.203Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 50,
+    "id_equipo": 41,
+    "fecha": "2024-02-04T02:36:34.072Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 48,
+    "id_equipo": 38,
+    "fecha": "2020-04-26T05:16:16.353Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 41,
+    "id_equipo": 1,
+    "fecha": "2022-10-08T04:56:48.556Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 27,
+    "id_equipo": 19,
+    "fecha": "2023-01-19T16:44:53.848Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 34,
+    "id_equipo": 11,
+    "fecha": "2020-11-23T14:37:04.262Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 36,
+    "id_equipo": 31,
+    "fecha": "2021-10-29T01:14:04.098Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 30,
+    "id_equipo": 20,
+    "fecha": "2021-07-15T15:47:21.539Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 36,
+    "id_equipo": 2,
+    "fecha": "2021-04-28T17:17:28.127Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 32,
+    "id_equipo": 30,
+    "fecha": "2023-03-26T04:26:20.064Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 1,
+    "id_equipo": 44,
+    "fecha": "2021-09-30T11:24:18.987Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 17,
+    "id_equipo": 18,
+    "fecha": "2022-06-17T07:16:20.326Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 27,
+    "id_equipo": 34,
+    "fecha": "2023-09-07T08:44:44.618Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 8,
+    "id_equipo": 9,
+    "fecha": "2023-09-01T12:36:06.449Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 10,
+    "id_equipo": 30,
+    "fecha": "2020-03-31T11:53:02.059Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 46,
+    "id_equipo": 9,
+    "fecha": "2020-05-08T15:56:40.570Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 19,
+    "id_equipo": 37,
+    "fecha": "2021-09-01T09:24:48.097Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 34,
+    "id_equipo": 47,
+    "fecha": "2022-01-06T13:55:36.048Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 45,
+    "id_equipo": 45,
+    "fecha": "2022-08-04T17:00:28.125Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 20,
+    "id_equipo": 10,
+    "fecha": "2020-11-17T14:30:19.319Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 44,
+    "id_equipo": 5,
+    "fecha": "2023-03-02T17:15:10.163Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 50,
+    "id_equipo": 34,
+    "fecha": "2020-10-08T07:40:57.235Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 35,
+    "id_equipo": 1,
+    "fecha": "2021-07-14T17:13:22.731Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 16,
+    "id_equipo": 45,
+    "fecha": "2024-02-20T10:45:32.304Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 30,
+    "id_equipo": 25,
+    "fecha": "2023-05-11T00:39:43.694Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 4,
+    "id_equipo": 27,
+    "fecha": "2022-01-02T12:06:34.986Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 34,
+    "id_equipo": 32,
+    "fecha": "2024-03-24T01:34:42.299Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 28,
+    "id_equipo": 49,
+    "fecha": "2022-12-25T15:05:52.253Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 34,
+    "id_equipo": 47,
+    "fecha": "2020-06-18T19:51:29.918Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 24,
+    "id_equipo": 45,
+    "fecha": "2024-01-30T21:15:06.294Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 45,
+    "id_equipo": 45,
+    "fecha": "2023-01-08T05:59:36.505Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 11,
+    "id_equipo": 14,
+    "fecha": "2023-08-11T06:05:25.287Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 49,
+    "id_equipo": 25,
+    "fecha": "2024-06-09T18:31:08.414Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 19,
+    "id_equipo": 29,
+    "fecha": "2021-07-08T18:38:39.155Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 40,
+    "id_equipo": 44,
+    "fecha": "2020-12-01T18:05:48.946Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 13,
+    "id_equipo": 5,
+    "fecha": "2020-07-03T22:25:10.757Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 4,
+    "id_equipo": 22,
+    "fecha": "2022-02-13T15:07:58.966Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 25,
+    "id_equipo": 4,
+    "fecha": "2021-07-19T02:57:57.573Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 21,
+    "id_equipo": 42,
+    "fecha": "2020-03-25T22:23:07.652Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 9,
+    "id_equipo": 32,
+    "fecha": "2020-11-04T23:52:09.978Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 48,
+    "id_equipo": 35,
+    "fecha": "2024-02-14T04:04:46.306Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 49,
+    "id_equipo": 15,
+    "fecha": "2024-04-06T15:30:02.862Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 23,
+    "id_equipo": 45,
+    "fecha": "2022-02-22T11:46:40.432Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 14,
+    "id_equipo": 34,
+    "fecha": "2021-12-22T09:34:21.936Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 21,
+    "id_equipo": 46,
+    "fecha": "2023-03-27T17:55:13.296Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 39,
+    "id_equipo": 18,
+    "fecha": "2023-10-30T22:46:38.989Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 26,
+    "id_equipo": 17,
+    "fecha": "2020-08-23T15:35:12.752Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 17,
+    "id_equipo": 30,
+    "fecha": "2023-07-20T20:48:38.814Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 45,
+    "id_equipo": 50,
+    "fecha": "2024-01-10T07:28:39.755Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 12,
+    "id_equipo": 18,
+    "fecha": "2020-06-30T04:22:11.517Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 49,
+    "id_equipo": 46,
+    "fecha": "2021-01-09T22:27:42.611Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 43,
+    "id_equipo": 12,
+    "fecha": "2020-11-27T14:09:23.160Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 18,
+    "id_equipo": 41,
+    "fecha": "2023-05-22T10:54:56.354Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 22,
+    "id_equipo": 20,
+    "fecha": "2024-06-14T03:14:36.888Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 44,
+    "id_equipo": 1,
+    "fecha": "2024-08-22T13:52:26.086Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 24,
+    "id_equipo": 37,
+    "fecha": "2022-06-20T10:35:16.699Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 9,
+    "id_equipo": 3,
+    "fecha": "2024-04-04T23:12:31.083Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 48,
+    "id_equipo": 14,
+    "fecha": "2022-04-14T08:26:08.826Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 9,
+    "id_equipo": 34,
+    "fecha": "2021-05-12T05:24:45.115Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 25,
+    "id_equipo": 50,
+    "fecha": "2022-01-01T01:00:55.153Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 9,
+    "id_equipo": 45,
+    "fecha": "2024-12-07T13:43:43.461Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 3,
+    "id_equipo": 37,
+    "fecha": "2020-12-27T12:58:53.812Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 19,
+    "id_equipo": 47,
+    "fecha": "2021-04-17T23:31:39.576Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 23,
+    "id_equipo": 37,
+    "fecha": "2022-11-24T01:08:48.082Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 29,
+    "id_equipo": 47,
+    "fecha": "2020-10-06T09:05:23.915Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 25,
+    "id_equipo": 22,
+    "fecha": "2024-03-24T02:58:35.084Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 2,
+    "id_equipo": 27,
+    "fecha": "2024-09-11T11:23:22.111Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 43,
+    "id_equipo": 41,
+    "fecha": "2019-12-27T13:04:59.541Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 6,
+    "id_equipo": 25,
+    "fecha": "2020-01-08T14:31:03.031Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 30,
+    "id_equipo": 32,
+    "fecha": "2022-07-02T16:33:37.732Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 31,
+    "id_equipo": 12,
+    "fecha": "2024-04-26T14:17:10.683Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 38,
+    "id_equipo": 49,
+    "fecha": "2024-09-06T23:15:36.089Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 29,
+    "id_equipo": 9,
+    "fecha": "2024-05-04T04:15:46.341Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 27,
+    "id_equipo": 19,
+    "fecha": "2024-04-24T02:46:04.978Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 13,
+    "id_equipo": 1,
+    "fecha": "2020-09-29T02:28:10.747Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 41,
+    "id_equipo": 31,
+    "fecha": "2024-02-20T00:34:40.607Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 35,
+    "id_equipo": 15,
+    "fecha": "2022-08-24T15:49:48.987Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 32,
+    "id_equipo": 36,
+    "fecha": "2022-09-20T19:21:20.502Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 9,
+    "id_equipo": 1,
+    "fecha": "2022-05-06T22:21:31.221Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 45,
+    "id_equipo": 7,
+    "fecha": "2021-06-14T09:41:46.720Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 18,
+    "id_equipo": 17,
+    "fecha": "2023-10-10T19:40:44.192Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 6,
+    "id_equipo": 8,
+    "fecha": "2024-05-14T17:29:33.685Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 18,
+    "id_equipo": 24,
+    "fecha": "2023-04-11T01:45:39.565Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 26,
+    "id_equipo": 2,
+    "fecha": "2021-08-05T21:54:24.932Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 13,
+    "id_equipo": 30,
+    "fecha": "2022-07-04T06:48:04.420Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 30,
+    "id_equipo": 42,
+    "fecha": "2024-12-13T11:11:37.035Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 2,
+    "id_equipo": 42,
+    "fecha": "2022-11-04T09:26:45.192Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 31,
+    "id_equipo": 50,
+    "fecha": "2021-12-12T03:06:41.752Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 12,
+    "id_equipo": 33,
+    "fecha": "2020-01-03T16:22:17.927Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 30,
+    "id_equipo": 48,
+    "fecha": "2023-05-11T02:20:41.692Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 15,
+    "id_equipo": 7,
+    "fecha": "2022-10-01T15:52:07.763Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 45,
+    "id_equipo": 46,
+    "fecha": "2021-12-07T07:27:04.249Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 4,
+    "id_equipo": 21,
+    "fecha": "2020-06-28T17:46:41.033Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 7,
+    "id_equipo": 25,
+    "fecha": "2023-10-11T09:54:46.718Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 33,
+    "id_equipo": 46,
+    "fecha": "2021-01-31T03:54:22.252Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 4,
+    "id_equipo": 26,
+    "fecha": "2020-02-29T21:40:02.114Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 44,
+    "id_equipo": 19,
+    "fecha": "2024-10-02T15:53:18.888Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 9,
+    "id_equipo": 38,
+    "fecha": "2021-09-26T14:55:25.319Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 49,
+    "id_equipo": 5,
+    "fecha": "2020-10-24T07:14:06.220Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 20,
+    "id_equipo": 3,
+    "fecha": "2023-01-12T23:42:09.279Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 49,
+    "id_equipo": 16,
+    "fecha": "2020-01-28T14:41:11.329Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 12,
+    "id_equipo": 9,
+    "fecha": "2020-09-09T03:21:16.436Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 27,
+    "id_equipo": 26,
+    "fecha": "2021-10-28T18:01:59.944Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 11,
+    "id_equipo": 15,
+    "fecha": "2024-06-17T23:29:04.044Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 32,
+    "id_equipo": 15,
+    "fecha": "2020-02-21T15:17:04.453Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 25,
+    "id_equipo": 13,
+    "fecha": "2023-01-31T18:40:59.295Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 1,
+    "id_equipo": 21,
+    "fecha": "2020-12-24T03:35:47.349Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 3,
+    "id_equipo": 32,
+    "fecha": "2021-02-08T09:59:15.148Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 46,
+    "id_equipo": 22,
+    "fecha": "2020-10-30T13:07:54.252Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 26,
+    "id_equipo": 20,
+    "fecha": "2022-04-08T19:46:49.295Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 11,
+    "id_equipo": 6,
+    "fecha": "2022-08-17T12:52:53.039Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 15,
+    "id_equipo": 38,
+    "fecha": "2021-03-06T09:48:30.387Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 36,
+    "id_equipo": 6,
+    "fecha": "2023-10-21T00:29:16.945Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 22,
+    "id_equipo": 32,
+    "fecha": "2020-03-18T06:05:13.526Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 3,
+    "id_equipo": 29,
+    "fecha": "2024-10-02T22:18:56.072Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 34,
+    "id_equipo": 29,
+    "fecha": "2023-06-10T06:34:56.510Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 15,
+    "id_equipo": 4,
+    "fecha": "2024-04-06T12:04:08.508Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 1,
+    "id_equipo": 26,
+    "fecha": "2024-05-29T13:24:37.895Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 32,
+    "id_equipo": 3,
+    "fecha": "2022-09-04T08:41:56.051Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 21,
+    "id_equipo": 47,
+    "fecha": "2022-12-11T04:00:27.892Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 17,
+    "id_equipo": 7,
+    "fecha": "2020-01-20T23:59:16.232Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 17,
+    "id_equipo": 45,
+    "fecha": "2024-12-13T01:25:42.051Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 35,
+    "id_equipo": 8,
+    "fecha": "2021-03-10T04:41:13.156Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 7,
+    "id_equipo": 47,
+    "fecha": "2022-11-24T13:52:26.681Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 47,
+    "id_equipo": 2,
+    "fecha": "2024-03-15T02:37:05.491Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 2,
+    "id_equipo": 47,
+    "fecha": "2020-09-15T11:21:16.004Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 25,
+    "id_equipo": 6,
+    "fecha": "2024-01-31T11:53:17.419Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 32,
+    "id_equipo": 30,
+    "fecha": "2022-01-09T08:48:36.292Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 46,
+    "id_equipo": 2,
+    "fecha": "2020-10-28T12:21:54.840Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 28,
+    "id_equipo": 18,
+    "fecha": "2022-06-15T10:02:16.070Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 4,
+    "id_equipo": 27,
+    "fecha": "2020-08-06T09:19:19.247Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 46,
+    "id_equipo": 43,
+    "fecha": "2020-10-21T13:10:01.675Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 9,
+    "id_equipo": 42,
+    "fecha": "2023-09-25T00:16:31.523Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 10,
+    "id_equipo": 24,
+    "fecha": "2023-01-18T00:57:28.886Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 9,
+    "id_equipo": 46,
+    "fecha": "2024-06-13T13:14:37.486Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 37,
+    "id_equipo": 45,
+    "fecha": "2023-12-09T06:00:23.762Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 44,
+    "id_equipo": 26,
+    "fecha": "2022-10-01T08:23:49.224Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 3,
+    "id_equipo": 47,
+    "fecha": "2024-07-14T08:06:24.290Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 14,
+    "id_equipo": 47,
+    "fecha": "2023-04-13T04:33:15.846Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 12,
+    "id_equipo": 46,
+    "fecha": "2022-07-25T20:12:49.195Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 14,
+    "id_equipo": 33,
+    "fecha": "2024-03-26T04:28:26.689Z",
+    "estado": "JUGANDO"
+  },
+  {
+    "id_torneo": 25,
+    "id_equipo": 39,
+    "fecha": "2024-06-13T00:15:34.325Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 47,
+    "id_equipo": 50,
+    "fecha": "2022-02-06T20:33:09.814Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 46,
+    "id_equipo": 26,
+    "fecha": "2023-07-02T00:18:13.286Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 22,
+    "id_equipo": 45,
+    "fecha": "2022-07-07T09:00:57.487Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 29,
+    "id_equipo": 18,
+    "fecha": "2024-05-19T19:47:25.549Z",
+    "estado": "INSCRITO"
+  },
+  {
+    "id_torneo": 32,
+    "id_equipo": 7,
+    "fecha": "2020-01-26T17:24:21.583Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 5,
+    "id_equipo": 6,
+    "fecha": "2022-10-05T15:48:29.179Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 26,
+    "id_equipo": 8,
+    "fecha": "2020-10-09T10:20:39.660Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 44,
+    "id_equipo": 42,
+    "fecha": "2024-04-04T22:44:09.726Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 19,
+    "id_equipo": 45,
+    "fecha": "2024-10-12T12:39:36.936Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 44,
+    "id_equipo": 47,
+    "fecha": "2024-01-12T21:08:05.315Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 29,
+    "id_equipo": 11,
+    "fecha": "2020-06-13T10:01:09.731Z",
+    "estado": "HIZO CHECK-IN"
+  },
+  {
+    "id_torneo": 49,
+    "id_equipo": 13,
+    "fecha": "2021-03-21T14:39:50.622Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 26,
+    "id_equipo": 3,
+    "fecha": "2020-03-30T23:41:07.338Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 40,
+    "id_equipo": 40,
+    "fecha": "2022-10-30T12:21:58.388Z",
+    "estado": "DESCALIFICADO"
+  },
+  {
+    "id_torneo": 32,
+    "id_equipo": 37,
+    "fecha": "2022-06-26T13:21:55.893Z",
+    "estado": "ELIMINADO"
+  },
+  {
+    "id_torneo": 6,
+    "id_equipo": 8,
+    "fecha": "2024-08-31T15:52:06.153Z",
+    "estado": "HIZO CHECK-IN"
+  }
+]

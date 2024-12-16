@@ -1,0 +1,252 @@
+[
+  {
+    "id_producto": 7,
+    "genero": "Detective",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 64,
+    "genero": "Biography",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 34,
+    "genero": "Horror",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 82,
+    "genero": "Drama",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 75,
+    "genero": "Romance",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 69,
+    "genero": "Comic",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 7,
+    "genero": "Detective",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 86,
+    "genero": "Comedy",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 81,
+    "genero": "Poetry",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 30,
+    "genero": "Historical Fiction",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 97,
+    "genero": "Psychology",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 26,
+    "genero": "Romance",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 4,
+    "genero": "Romance",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 74,
+    "genero": "Fantasy",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 55,
+    "genero": "Western",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 97,
+    "genero": "Biography",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 16,
+    "genero": "Classic",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 24,
+    "genero": "Poetry",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 45,
+    "genero": "Romance",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 66,
+    "genero": "Religion",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 70,
+    "genero": "Detective",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 53,
+    "genero": "Business",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 76,
+    "genero": "Thriller",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 77,
+    "genero": "Business",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 66,
+    "genero": "Memoir",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 46,
+    "genero": "Children's Literature",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 2,
+    "genero": "Romance",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 49,
+    "genero": "Thriller",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 30,
+    "genero": "Science Fiction",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 27,
+    "genero": "Detective",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 54,
+    "genero": "Science Fiction",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 6,
+    "genero": "Mythology",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 62,
+    "genero": "Comedy",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 60,
+    "genero": "Romance",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 82,
+    "genero": "Business",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 87,
+    "genero": "Fantasy",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 51,
+    "genero": "Religion",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 22,
+    "genero": "Fantasy",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 58,
+    "genero": "Mythology",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 53,
+    "genero": "Fantasy",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 60,
+    "genero": "Poetry",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 22,
+    "genero": "Detective",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 30,
+    "genero": "Horror",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 25,
+    "genero": "Western",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 72,
+    "genero": "Young Adult",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 8,
+    "genero": "Comic",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 35,
+    "genero": "Thriller",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 48,
+    "genero": "Children's Literature",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 84,
+    "genero": "Western",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 66,
+    "genero": "Romance",
+    "esrb": "E"
+  }
+]

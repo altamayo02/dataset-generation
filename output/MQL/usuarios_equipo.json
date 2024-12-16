@@ -1,0 +1,1002 @@
+[
+  {
+    "id_equipo": 42,
+    "id_usuario": 26,
+    "fecha_ingr": "2019-12-20T18:08:52.881Z"
+  },
+  {
+    "id_equipo": 30,
+    "id_usuario": 33,
+    "fecha_ingr": "2023-05-03T17:35:19.729Z"
+  },
+  {
+    "id_equipo": 18,
+    "id_usuario": 83,
+    "fecha_ingr": "2021-02-05T20:01:58.041Z"
+  },
+  {
+    "id_equipo": 10,
+    "id_usuario": 8,
+    "fecha_ingr": "2024-05-17T11:43:31.006Z"
+  },
+  {
+    "id_equipo": 37,
+    "id_usuario": 63,
+    "fecha_ingr": "2024-07-01T16:34:57.105Z"
+  },
+  {
+    "id_equipo": 7,
+    "id_usuario": 96,
+    "fecha_ingr": "2024-09-20T04:43:13.709Z"
+  },
+  {
+    "id_equipo": 17,
+    "id_usuario": 16,
+    "fecha_ingr": "2020-04-14T21:28:28.679Z"
+  },
+  {
+    "id_equipo": 6,
+    "id_usuario": 15,
+    "fecha_ingr": "2020-03-01T19:40:25.547Z"
+  },
+  {
+    "id_equipo": 29,
+    "id_usuario": 22,
+    "fecha_ingr": "2024-09-08T20:32:17.390Z"
+  },
+  {
+    "id_equipo": 22,
+    "id_usuario": 27,
+    "fecha_ingr": "2024-11-29T18:57:21.485Z"
+  },
+  {
+    "id_equipo": 39,
+    "id_usuario": 22,
+    "fecha_ingr": "2024-09-10T23:41:03.714Z"
+  },
+  {
+    "id_equipo": 46,
+    "id_usuario": 19,
+    "fecha_ingr": "2023-01-13T20:59:11.202Z"
+  },
+  {
+    "id_equipo": 21,
+    "id_usuario": 96,
+    "fecha_ingr": "2020-12-31T08:25:04.185Z"
+  },
+  {
+    "id_equipo": 14,
+    "id_usuario": 41,
+    "fecha_ingr": "2020-02-13T13:02:14.474Z"
+  },
+  {
+    "id_equipo": 43,
+    "id_usuario": 94,
+    "fecha_ingr": "2022-12-29T15:16:27.513Z"
+  },
+  {
+    "id_equipo": 49,
+    "id_usuario": 24,
+    "fecha_ingr": "2021-04-13T00:38:32.945Z"
+  },
+  {
+    "id_equipo": 9,
+    "id_usuario": 83,
+    "fecha_ingr": "2024-04-15T04:57:01.553Z"
+  },
+  {
+    "id_equipo": 7,
+    "id_usuario": 27,
+    "fecha_ingr": "2020-10-31T05:24:13.055Z"
+  },
+  {
+    "id_equipo": 27,
+    "id_usuario": 11,
+    "fecha_ingr": "2023-06-27T04:29:27.390Z"
+  },
+  {
+    "id_equipo": 40,
+    "id_usuario": 20,
+    "fecha_ingr": "2020-09-02T07:04:37.710Z"
+  },
+  {
+    "id_equipo": 32,
+    "id_usuario": 65,
+    "fecha_ingr": "2021-12-11T04:59:22.188Z"
+  },
+  {
+    "id_equipo": 48,
+    "id_usuario": 29,
+    "fecha_ingr": "2020-09-30T19:44:31.957Z"
+  },
+  {
+    "id_equipo": 16,
+    "id_usuario": 54,
+    "fecha_ingr": "2021-06-20T23:59:20.458Z"
+  },
+  {
+    "id_equipo": 3,
+    "id_usuario": 73,
+    "fecha_ingr": "2022-02-01T16:38:42.050Z"
+  },
+  {
+    "id_equipo": 47,
+    "id_usuario": 72,
+    "fecha_ingr": "2020-10-01T23:37:38.856Z"
+  },
+  {
+    "id_equipo": 16,
+    "id_usuario": 65,
+    "fecha_ingr": "2022-09-05T02:08:26.665Z"
+  },
+  {
+    "id_equipo": 46,
+    "id_usuario": 1,
+    "fecha_ingr": "2023-09-09T16:41:34.049Z"
+  },
+  {
+    "id_equipo": 20,
+    "id_usuario": 10,
+    "fecha_ingr": "2021-03-19T21:17:26.833Z"
+  },
+  {
+    "id_equipo": 17,
+    "id_usuario": 13,
+    "fecha_ingr": "2020-07-13T21:43:17.442Z"
+  },
+  {
+    "id_equipo": 49,
+    "id_usuario": 2,
+    "fecha_ingr": "2022-05-07T17:57:20.808Z"
+  },
+  {
+    "id_equipo": 50,
+    "id_usuario": 97,
+    "fecha_ingr": "2022-07-27T20:57:44.493Z"
+  },
+  {
+    "id_equipo": 34,
+    "id_usuario": 84,
+    "fecha_ingr": "2024-11-08T03:32:03.196Z"
+  },
+  {
+    "id_equipo": 19,
+    "id_usuario": 70,
+    "fecha_ingr": "2020-08-07T07:58:03.808Z"
+  },
+  {
+    "id_equipo": 31,
+    "id_usuario": 35,
+    "fecha_ingr": "2020-07-05T10:45:10.806Z"
+  },
+  {
+    "id_equipo": 25,
+    "id_usuario": 38,
+    "fecha_ingr": "2022-08-26T23:23:25.295Z"
+  },
+  {
+    "id_equipo": 22,
+    "id_usuario": 53,
+    "fecha_ingr": "2022-06-26T23:40:44.840Z"
+  },
+  {
+    "id_equipo": 2,
+    "id_usuario": 46,
+    "fecha_ingr": "2023-09-23T01:42:30.718Z"
+  },
+  {
+    "id_equipo": 21,
+    "id_usuario": 99,
+    "fecha_ingr": "2021-08-21T12:24:54.865Z"
+  },
+  {
+    "id_equipo": 29,
+    "id_usuario": 33,
+    "fecha_ingr": "2024-09-18T00:37:02.657Z"
+  },
+  {
+    "id_equipo": 43,
+    "id_usuario": 56,
+    "fecha_ingr": "2021-08-22T03:34:32.459Z"
+  },
+  {
+    "id_equipo": 8,
+    "id_usuario": 90,
+    "fecha_ingr": "2022-05-31T06:28:09.844Z"
+  },
+  {
+    "id_equipo": 49,
+    "id_usuario": 34,
+    "fecha_ingr": "2022-06-12T21:14:21.661Z"
+  },
+  {
+    "id_equipo": 41,
+    "id_usuario": 56,
+    "fecha_ingr": "2024-07-26T09:17:53.041Z"
+  },
+  {
+    "id_equipo": 47,
+    "id_usuario": 100,
+    "fecha_ingr": "2021-10-22T09:53:51.671Z"
+  },
+  {
+    "id_equipo": 11,
+    "id_usuario": 44,
+    "fecha_ingr": "2020-08-28T05:25:41.694Z"
+  },
+  {
+    "id_equipo": 47,
+    "id_usuario": 37,
+    "fecha_ingr": "2022-09-08T05:13:46.613Z"
+  },
+  {
+    "id_equipo": 16,
+    "id_usuario": 30,
+    "fecha_ingr": "2022-06-20T16:12:00.930Z"
+  },
+  {
+    "id_equipo": 45,
+    "id_usuario": 91,
+    "fecha_ingr": "2023-03-18T12:12:40.179Z"
+  },
+  {
+    "id_equipo": 29,
+    "id_usuario": 41,
+    "fecha_ingr": "2023-06-30T16:41:29.486Z"
+  },
+  {
+    "id_equipo": 24,
+    "id_usuario": 42,
+    "fecha_ingr": "2019-12-26T01:45:01.330Z"
+  },
+  {
+    "id_equipo": 21,
+    "id_usuario": 86,
+    "fecha_ingr": "2023-01-08T16:10:55.555Z"
+  },
+  {
+    "id_equipo": 32,
+    "id_usuario": 72,
+    "fecha_ingr": "2022-06-24T00:24:23.894Z"
+  },
+  {
+    "id_equipo": 10,
+    "id_usuario": 3,
+    "fecha_ingr": "2022-03-30T22:32:47.512Z"
+  },
+  {
+    "id_equipo": 40,
+    "id_usuario": 78,
+    "fecha_ingr": "2024-03-23T00:14:49.695Z"
+  },
+  {
+    "id_equipo": 49,
+    "id_usuario": 44,
+    "fecha_ingr": "2024-12-08T07:09:55.710Z"
+  },
+  {
+    "id_equipo": 5,
+    "id_usuario": 24,
+    "fecha_ingr": "2024-08-08T00:13:03.992Z"
+  },
+  {
+    "id_equipo": 4,
+    "id_usuario": 91,
+    "fecha_ingr": "2020-03-31T08:48:23.448Z"
+  },
+  {
+    "id_equipo": 44,
+    "id_usuario": 70,
+    "fecha_ingr": "2024-01-07T19:43:13.056Z"
+  },
+  {
+    "id_equipo": 40,
+    "id_usuario": 8,
+    "fecha_ingr": "2023-08-06T08:23:09.781Z"
+  },
+  {
+    "id_equipo": 25,
+    "id_usuario": 39,
+    "fecha_ingr": "2022-05-30T19:24:51.544Z"
+  },
+  {
+    "id_equipo": 8,
+    "id_usuario": 92,
+    "fecha_ingr": "2023-03-24T07:39:23.469Z"
+  },
+  {
+    "id_equipo": 3,
+    "id_usuario": 20,
+    "fecha_ingr": "2020-11-27T13:54:22.041Z"
+  },
+  {
+    "id_equipo": 11,
+    "id_usuario": 96,
+    "fecha_ingr": "2021-09-26T08:34:35.607Z"
+  },
+  {
+    "id_equipo": 35,
+    "id_usuario": 63,
+    "fecha_ingr": "2021-11-05T17:47:17.640Z"
+  },
+  {
+    "id_equipo": 25,
+    "id_usuario": 24,
+    "fecha_ingr": "2024-01-16T02:47:16.641Z"
+  },
+  {
+    "id_equipo": 50,
+    "id_usuario": 83,
+    "fecha_ingr": "2022-12-10T19:36:58.824Z"
+  },
+  {
+    "id_equipo": 17,
+    "id_usuario": 32,
+    "fecha_ingr": "2021-06-21T18:00:25.437Z"
+  },
+  {
+    "id_equipo": 34,
+    "id_usuario": 84,
+    "fecha_ingr": "2020-06-28T12:27:51.997Z"
+  },
+  {
+    "id_equipo": 25,
+    "id_usuario": 78,
+    "fecha_ingr": "2023-06-05T14:43:49.256Z"
+  },
+  {
+    "id_equipo": 34,
+    "id_usuario": 50,
+    "fecha_ingr": "2020-06-29T12:16:10.903Z"
+  },
+  {
+    "id_equipo": 47,
+    "id_usuario": 36,
+    "fecha_ingr": "2022-07-13T00:24:25.494Z"
+  },
+  {
+    "id_equipo": 11,
+    "id_usuario": 79,
+    "fecha_ingr": "2020-08-08T06:59:19.922Z"
+  },
+  {
+    "id_equipo": 37,
+    "id_usuario": 65,
+    "fecha_ingr": "2024-12-04T01:23:39.361Z"
+  },
+  {
+    "id_equipo": 15,
+    "id_usuario": 10,
+    "fecha_ingr": "2022-07-13T08:40:05.690Z"
+  },
+  {
+    "id_equipo": 42,
+    "id_usuario": 52,
+    "fecha_ingr": "2023-11-07T09:25:15.222Z"
+  },
+  {
+    "id_equipo": 12,
+    "id_usuario": 37,
+    "fecha_ingr": "2021-06-17T00:31:17.386Z"
+  },
+  {
+    "id_equipo": 44,
+    "id_usuario": 58,
+    "fecha_ingr": "2020-12-11T07:13:48.302Z"
+  },
+  {
+    "id_equipo": 11,
+    "id_usuario": 10,
+    "fecha_ingr": "2020-11-22T22:44:38.493Z"
+  },
+  {
+    "id_equipo": 15,
+    "id_usuario": 91,
+    "fecha_ingr": "2022-10-27T05:07:38.849Z"
+  },
+  {
+    "id_equipo": 31,
+    "id_usuario": 69,
+    "fecha_ingr": "2020-04-18T21:54:09.839Z"
+  },
+  {
+    "id_equipo": 16,
+    "id_usuario": 67,
+    "fecha_ingr": "2024-02-20T08:21:49.170Z"
+  },
+  {
+    "id_equipo": 43,
+    "id_usuario": 9,
+    "fecha_ingr": "2021-05-06T22:07:31.441Z"
+  },
+  {
+    "id_equipo": 46,
+    "id_usuario": 64,
+    "fecha_ingr": "2020-12-29T17:09:41.875Z"
+  },
+  {
+    "id_equipo": 13,
+    "id_usuario": 39,
+    "fecha_ingr": "2023-09-27T04:45:25.827Z"
+  },
+  {
+    "id_equipo": 1,
+    "id_usuario": 85,
+    "fecha_ingr": "2023-05-02T09:20:57.551Z"
+  },
+  {
+    "id_equipo": 24,
+    "id_usuario": 95,
+    "fecha_ingr": "2022-04-23T17:42:41.372Z"
+  },
+  {
+    "id_equipo": 28,
+    "id_usuario": 92,
+    "fecha_ingr": "2020-09-07T19:02:01.256Z"
+  },
+  {
+    "id_equipo": 38,
+    "id_usuario": 2,
+    "fecha_ingr": "2020-11-15T10:08:08.486Z"
+  },
+  {
+    "id_equipo": 4,
+    "id_usuario": 73,
+    "fecha_ingr": "2022-12-01T23:47:15.230Z"
+  },
+  {
+    "id_equipo": 17,
+    "id_usuario": 23,
+    "fecha_ingr": "2020-11-25T09:43:53.257Z"
+  },
+  {
+    "id_equipo": 15,
+    "id_usuario": 86,
+    "fecha_ingr": "2022-08-03T23:48:56.266Z"
+  },
+  {
+    "id_equipo": 43,
+    "id_usuario": 7,
+    "fecha_ingr": "2023-12-30T22:18:17.935Z"
+  },
+  {
+    "id_equipo": 2,
+    "id_usuario": 48,
+    "fecha_ingr": "2022-05-11T14:22:58.261Z"
+  },
+  {
+    "id_equipo": 24,
+    "id_usuario": 10,
+    "fecha_ingr": "2021-05-07T00:30:11.016Z"
+  },
+  {
+    "id_equipo": 40,
+    "id_usuario": 94,
+    "fecha_ingr": "2021-09-01T03:07:49.114Z"
+  },
+  {
+    "id_equipo": 10,
+    "id_usuario": 39,
+    "fecha_ingr": "2020-11-21T21:11:20.827Z"
+  },
+  {
+    "id_equipo": 18,
+    "id_usuario": 36,
+    "fecha_ingr": "2024-01-04T21:43:11.831Z"
+  },
+  {
+    "id_equipo": 17,
+    "id_usuario": 93,
+    "fecha_ingr": "2023-07-02T11:22:45.148Z"
+  },
+  {
+    "id_equipo": 8,
+    "id_usuario": 67,
+    "fecha_ingr": "2020-02-04T11:40:51.629Z"
+  },
+  {
+    "id_equipo": 21,
+    "id_usuario": 69,
+    "fecha_ingr": "2022-03-29T02:40:49.910Z"
+  },
+  {
+    "id_equipo": 8,
+    "id_usuario": 33,
+    "fecha_ingr": "2023-08-19T12:20:05.712Z"
+  },
+  {
+    "id_equipo": 49,
+    "id_usuario": 65,
+    "fecha_ingr": "2020-11-01T04:27:05.899Z"
+  },
+  {
+    "id_equipo": 49,
+    "id_usuario": 4,
+    "fecha_ingr": "2024-11-25T14:20:59.301Z"
+  },
+  {
+    "id_equipo": 13,
+    "id_usuario": 74,
+    "fecha_ingr": "2019-12-22T16:30:57.392Z"
+  },
+  {
+    "id_equipo": 33,
+    "id_usuario": 50,
+    "fecha_ingr": "2024-01-19T17:04:56.377Z"
+  },
+  {
+    "id_equipo": 47,
+    "id_usuario": 79,
+    "fecha_ingr": "2022-11-25T22:28:02.475Z"
+  },
+  {
+    "id_equipo": 23,
+    "id_usuario": 15,
+    "fecha_ingr": "2020-04-19T15:52:35.396Z"
+  },
+  {
+    "id_equipo": 47,
+    "id_usuario": 7,
+    "fecha_ingr": "2021-02-21T14:04:30.136Z"
+  },
+  {
+    "id_equipo": 15,
+    "id_usuario": 57,
+    "fecha_ingr": "2022-03-23T02:03:14.028Z"
+  },
+  {
+    "id_equipo": 4,
+    "id_usuario": 66,
+    "fecha_ingr": "2022-06-17T12:32:08.176Z"
+  },
+  {
+    "id_equipo": 15,
+    "id_usuario": 14,
+    "fecha_ingr": "2024-05-08T13:59:58.770Z"
+  },
+  {
+    "id_equipo": 19,
+    "id_usuario": 65,
+    "fecha_ingr": "2022-03-11T16:32:56.160Z"
+  },
+  {
+    "id_equipo": 20,
+    "id_usuario": 25,
+    "fecha_ingr": "2020-07-08T12:48:35.666Z"
+  },
+  {
+    "id_equipo": 35,
+    "id_usuario": 16,
+    "fecha_ingr": "2022-02-26T20:37:22.685Z"
+  },
+  {
+    "id_equipo": 27,
+    "id_usuario": 17,
+    "fecha_ingr": "2021-05-26T23:33:27.563Z"
+  },
+  {
+    "id_equipo": 13,
+    "id_usuario": 82,
+    "fecha_ingr": "2022-03-23T04:34:19.225Z"
+  },
+  {
+    "id_equipo": 17,
+    "id_usuario": 33,
+    "fecha_ingr": "2022-12-15T10:10:17.734Z"
+  },
+  {
+    "id_equipo": 21,
+    "id_usuario": 10,
+    "fecha_ingr": "2022-12-09T21:13:30.626Z"
+  },
+  {
+    "id_equipo": 36,
+    "id_usuario": 62,
+    "fecha_ingr": "2020-08-26T19:44:10.644Z"
+  },
+  {
+    "id_equipo": 16,
+    "id_usuario": 1,
+    "fecha_ingr": "2024-01-25T19:18:04.918Z"
+  },
+  {
+    "id_equipo": 25,
+    "id_usuario": 8,
+    "fecha_ingr": "2020-05-28T17:39:37.618Z"
+  },
+  {
+    "id_equipo": 30,
+    "id_usuario": 6,
+    "fecha_ingr": "2021-03-14T13:26:32.486Z"
+  },
+  {
+    "id_equipo": 28,
+    "id_usuario": 75,
+    "fecha_ingr": "2020-10-01T17:43:39.320Z"
+  },
+  {
+    "id_equipo": 5,
+    "id_usuario": 45,
+    "fecha_ingr": "2022-04-25T15:05:23.296Z"
+  },
+  {
+    "id_equipo": 27,
+    "id_usuario": 53,
+    "fecha_ingr": "2023-02-20T17:11:29.671Z"
+  },
+  {
+    "id_equipo": 40,
+    "id_usuario": 2,
+    "fecha_ingr": "2020-05-08T02:50:24.565Z"
+  },
+  {
+    "id_equipo": 41,
+    "id_usuario": 98,
+    "fecha_ingr": "2020-07-06T20:37:39.160Z"
+  },
+  {
+    "id_equipo": 39,
+    "id_usuario": 78,
+    "fecha_ingr": "2020-02-07T09:33:41.470Z"
+  },
+  {
+    "id_equipo": 9,
+    "id_usuario": 97,
+    "fecha_ingr": "2022-03-10T05:38:33.210Z"
+  },
+  {
+    "id_equipo": 9,
+    "id_usuario": 71,
+    "fecha_ingr": "2022-02-28T07:43:10.790Z"
+  },
+  {
+    "id_equipo": 14,
+    "id_usuario": 30,
+    "fecha_ingr": "2022-11-09T13:48:52.266Z"
+  },
+  {
+    "id_equipo": 2,
+    "id_usuario": 52,
+    "fecha_ingr": "2023-09-06T08:29:05.629Z"
+  },
+  {
+    "id_equipo": 34,
+    "id_usuario": 31,
+    "fecha_ingr": "2022-03-10T07:19:42.413Z"
+  },
+  {
+    "id_equipo": 18,
+    "id_usuario": 36,
+    "fecha_ingr": "2021-05-10T09:34:55.966Z"
+  },
+  {
+    "id_equipo": 14,
+    "id_usuario": 87,
+    "fecha_ingr": "2023-06-13T19:40:20.774Z"
+  },
+  {
+    "id_equipo": 47,
+    "id_usuario": 82,
+    "fecha_ingr": "2024-11-09T20:08:59.385Z"
+  },
+  {
+    "id_equipo": 32,
+    "id_usuario": 16,
+    "fecha_ingr": "2022-05-10T19:36:56.735Z"
+  },
+  {
+    "id_equipo": 20,
+    "id_usuario": 7,
+    "fecha_ingr": "2024-12-13T12:47:49.643Z"
+  },
+  {
+    "id_equipo": 25,
+    "id_usuario": 82,
+    "fecha_ingr": "2023-01-09T23:48:02.896Z"
+  },
+  {
+    "id_equipo": 20,
+    "id_usuario": 92,
+    "fecha_ingr": "2020-12-01T21:04:51.647Z"
+  },
+  {
+    "id_equipo": 27,
+    "id_usuario": 38,
+    "fecha_ingr": "2022-09-01T23:03:48.223Z"
+  },
+  {
+    "id_equipo": 7,
+    "id_usuario": 63,
+    "fecha_ingr": "2022-01-27T03:19:56.245Z"
+  },
+  {
+    "id_equipo": 26,
+    "id_usuario": 88,
+    "fecha_ingr": "2023-01-07T00:32:29.750Z"
+  },
+  {
+    "id_equipo": 17,
+    "id_usuario": 52,
+    "fecha_ingr": "2021-01-19T22:08:05.299Z"
+  },
+  {
+    "id_equipo": 12,
+    "id_usuario": 77,
+    "fecha_ingr": "2020-05-19T18:07:55.775Z"
+  },
+  {
+    "id_equipo": 23,
+    "id_usuario": 4,
+    "fecha_ingr": "2024-11-29T01:12:04.724Z"
+  },
+  {
+    "id_equipo": 43,
+    "id_usuario": 58,
+    "fecha_ingr": "2024-01-21T17:34:53.503Z"
+  },
+  {
+    "id_equipo": 14,
+    "id_usuario": 51,
+    "fecha_ingr": "2024-10-07T18:42:06.166Z"
+  },
+  {
+    "id_equipo": 19,
+    "id_usuario": 25,
+    "fecha_ingr": "2024-03-01T12:56:36.943Z"
+  },
+  {
+    "id_equipo": 27,
+    "id_usuario": 43,
+    "fecha_ingr": "2022-05-26T20:32:25.352Z"
+  },
+  {
+    "id_equipo": 21,
+    "id_usuario": 37,
+    "fecha_ingr": "2023-03-07T10:37:38.181Z"
+  },
+  {
+    "id_equipo": 41,
+    "id_usuario": 22,
+    "fecha_ingr": "2024-04-15T01:54:59.779Z"
+  },
+  {
+    "id_equipo": 4,
+    "id_usuario": 90,
+    "fecha_ingr": "2020-04-04T13:22:06.406Z"
+  },
+  {
+    "id_equipo": 10,
+    "id_usuario": 6,
+    "fecha_ingr": "2021-03-09T02:56:37.697Z"
+  },
+  {
+    "id_equipo": 32,
+    "id_usuario": 40,
+    "fecha_ingr": "2020-03-25T01:25:29.472Z"
+  },
+  {
+    "id_equipo": 38,
+    "id_usuario": 44,
+    "fecha_ingr": "2023-11-02T15:02:45.286Z"
+  },
+  {
+    "id_equipo": 47,
+    "id_usuario": 86,
+    "fecha_ingr": "2024-03-07T19:51:34.633Z"
+  },
+  {
+    "id_equipo": 31,
+    "id_usuario": 96,
+    "fecha_ingr": "2022-10-29T02:17:43.638Z"
+  },
+  {
+    "id_equipo": 7,
+    "id_usuario": 25,
+    "fecha_ingr": "2022-09-05T16:14:57.514Z"
+  },
+  {
+    "id_equipo": 41,
+    "id_usuario": 95,
+    "fecha_ingr": "2021-05-07T08:58:16.207Z"
+  },
+  {
+    "id_equipo": 40,
+    "id_usuario": 7,
+    "fecha_ingr": "2024-08-16T09:27:48.746Z"
+  },
+  {
+    "id_equipo": 24,
+    "id_usuario": 5,
+    "fecha_ingr": "2022-03-31T04:02:54.365Z"
+  },
+  {
+    "id_equipo": 12,
+    "id_usuario": 19,
+    "fecha_ingr": "2020-03-25T14:56:35.763Z"
+  },
+  {
+    "id_equipo": 16,
+    "id_usuario": 57,
+    "fecha_ingr": "2022-03-18T00:07:31.599Z"
+  },
+  {
+    "id_equipo": 39,
+    "id_usuario": 55,
+    "fecha_ingr": "2023-03-25T16:40:32.989Z"
+  },
+  {
+    "id_equipo": 12,
+    "id_usuario": 50,
+    "fecha_ingr": "2020-10-11T20:17:14.453Z"
+  },
+  {
+    "id_equipo": 45,
+    "id_usuario": 1,
+    "fecha_ingr": "2023-07-08T14:15:41.401Z"
+  },
+  {
+    "id_equipo": 40,
+    "id_usuario": 88,
+    "fecha_ingr": "2021-05-17T23:13:02.609Z"
+  },
+  {
+    "id_equipo": 25,
+    "id_usuario": 71,
+    "fecha_ingr": "2022-05-07T10:12:12.944Z"
+  },
+  {
+    "id_equipo": 38,
+    "id_usuario": 32,
+    "fecha_ingr": "2020-07-08T03:22:27.560Z"
+  },
+  {
+    "id_equipo": 25,
+    "id_usuario": 5,
+    "fecha_ingr": "2021-07-08T15:20:25.893Z"
+  },
+  {
+    "id_equipo": 30,
+    "id_usuario": 40,
+    "fecha_ingr": "2023-02-20T00:59:08.633Z"
+  },
+  {
+    "id_equipo": 15,
+    "id_usuario": 61,
+    "fecha_ingr": "2020-06-01T17:50:00.837Z"
+  },
+  {
+    "id_equipo": 28,
+    "id_usuario": 85,
+    "fecha_ingr": "2022-06-02T06:08:39.767Z"
+  },
+  {
+    "id_equipo": 14,
+    "id_usuario": 25,
+    "fecha_ingr": "2020-06-14T13:25:29.098Z"
+  },
+  {
+    "id_equipo": 22,
+    "id_usuario": 88,
+    "fecha_ingr": "2021-08-23T17:38:24.345Z"
+  },
+  {
+    "id_equipo": 15,
+    "id_usuario": 27,
+    "fecha_ingr": "2020-07-19T10:47:31.092Z"
+  },
+  {
+    "id_equipo": 14,
+    "id_usuario": 41,
+    "fecha_ingr": "2021-05-24T01:21:24.393Z"
+  },
+  {
+    "id_equipo": 39,
+    "id_usuario": 14,
+    "fecha_ingr": "2023-06-02T09:19:24.114Z"
+  },
+  {
+    "id_equipo": 44,
+    "id_usuario": 33,
+    "fecha_ingr": "2021-08-15T12:58:40.803Z"
+  },
+  {
+    "id_equipo": 26,
+    "id_usuario": 72,
+    "fecha_ingr": "2021-01-03T13:13:37.942Z"
+  },
+  {
+    "id_equipo": 18,
+    "id_usuario": 75,
+    "fecha_ingr": "2021-09-05T09:03:56.331Z"
+  },
+  {
+    "id_equipo": 38,
+    "id_usuario": 57,
+    "fecha_ingr": "2022-12-13T20:03:30.855Z"
+  },
+  {
+    "id_equipo": 14,
+    "id_usuario": 83,
+    "fecha_ingr": "2022-12-10T09:26:49.267Z"
+  },
+  {
+    "id_equipo": 5,
+    "id_usuario": 86,
+    "fecha_ingr": "2023-11-28T15:33:24.332Z"
+  },
+  {
+    "id_equipo": 31,
+    "id_usuario": 66,
+    "fecha_ingr": "2022-09-21T22:29:55.301Z"
+  },
+  {
+    "id_equipo": 43,
+    "id_usuario": 40,
+    "fecha_ingr": "2022-04-22T02:44:38.869Z"
+  },
+  {
+    "id_equipo": 9,
+    "id_usuario": 23,
+    "fecha_ingr": "2022-06-26T00:03:01.112Z"
+  },
+  {
+    "id_equipo": 36,
+    "id_usuario": 83,
+    "fecha_ingr": "2024-06-30T12:05:15.009Z"
+  },
+  {
+    "id_equipo": 25,
+    "id_usuario": 48,
+    "fecha_ingr": "2023-06-22T08:54:00.767Z"
+  },
+  {
+    "id_equipo": 43,
+    "id_usuario": 79,
+    "fecha_ingr": "2024-07-17T03:47:51.077Z"
+  },
+  {
+    "id_equipo": 39,
+    "id_usuario": 79,
+    "fecha_ingr": "2023-10-15T23:20:10.162Z"
+  },
+  {
+    "id_equipo": 8,
+    "id_usuario": 96,
+    "fecha_ingr": "2024-11-16T22:08:02.620Z"
+  },
+  {
+    "id_equipo": 1,
+    "id_usuario": 46,
+    "fecha_ingr": "2023-01-24T04:44:58.476Z"
+  },
+  {
+    "id_equipo": 20,
+    "id_usuario": 64,
+    "fecha_ingr": "2021-11-11T13:51:51.008Z"
+  },
+  {
+    "id_equipo": 28,
+    "id_usuario": 44,
+    "fecha_ingr": "2021-04-24T19:12:25.235Z"
+  },
+  {
+    "id_equipo": 29,
+    "id_usuario": 96,
+    "fecha_ingr": "2024-03-01T04:56:07.021Z"
+  },
+  {
+    "id_equipo": 43,
+    "id_usuario": 15,
+    "fecha_ingr": "2020-07-14T20:01:32.205Z"
+  },
+  {
+    "id_equipo": 45,
+    "id_usuario": 95,
+    "fecha_ingr": "2022-08-03T19:46:09.134Z"
+  },
+  {
+    "id_equipo": 5,
+    "id_usuario": 35,
+    "fecha_ingr": "2022-11-04T09:24:40.226Z"
+  }
+]

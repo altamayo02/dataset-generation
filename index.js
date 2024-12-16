@@ -1,145 +1,688 @@
-const { fakerES_MX } = require('@faker-js/faker');
-let faker = fakerES_MX;
+const { faker } = require('@faker-js/faker');
 const fs = require('fs');
 
-let mongoIds = {}
-const collections = fs.readdirSync('./collection_ids/');
+let collQuantities = {
+	'moderadores': 100,
+	'productos': 100,
+	'usuarios': 100,
+
+	'adjuntos': 200,
+	'amistades': 500,
+	'cambios_divisa': 200,
+	'carritos': 200,
+	'equipos': 50,
+	'juegos': 50,
+	'salas': 30,
+	'torneos': 50,
+
+	'expansiones': 30,
+	'participantes': 200,
+	'mensajes': 500,
+	'premios': 100,
+	'productos_carrito': 500,
+	'resenias': 200,
+	'tiquetes': 200,
+	'usuarios_equipo': 200,
+
+	'encuentros': 500,
+	'ganadores': 200
+}
+
+let metodos = [
+	faker.lorem.word(),
+	faker.lorem.word(),
+	faker.lorem.word(),
+	faker.lorem.word(),
+	faker.lorem.word()
+];
+
+/* const collections = fs.readdirSync('./collection_ids/');
 for (const c of collections) {
 	const collName = c.split('.')[0];
-	mongoIds[collName] = JSON.parse(
+	collIds[collName] = JSON.parse(
 		fs.readFileSync(`./collection_ids/${c}`, { encoding: 'utf8'})
 	);
-}
+} */
 
-console.log(JSON.stringify(mongoIds, null, 2));
+console.log(JSON.stringify(collQuantities, null, 2));
 
-const models = {
-	'usuarios': {
-		correo: {
-			category: 'internet',
-			ftype: 'email',
-			type: 'string'
-		},
-		contrasenia: {
-			category: 'string',
-			ftype: 'hexadecimal',
-			type: 'string',
-			args: {
-				length: 32,
-				prefix: '',
-				casing: 'lower'
+const models = [
+	{
+		'moderadores': {
+			dni: {
+				category: 'string',
+				ftype: 'numeric',
+				type: 'string',
+				args: {
+					length: 10
+				}
+			},
+			nombres: {
+				category: 'person',
+				ftype: 'firstName',
+				type: 'string'
+			},
+			apellidos: {
+				category: 'person',
+				ftype: 'lastName',
+				type: 'string'
+			},
+			num_cel: {
+				category: 'phone',
+				ftype: 'number',
+				type: 'string',
+				args: {
+					style: 'international'
+				}
+			},
+			pais: {
+				category: 'location',
+				ftype: 'country',
+				type: 'string'
+			},
+			descr_obligacion: {
+				category: 'lorem',
+				ftype: 'paragraph',
+				type: 'string'
 			}
 		},
-		edad: {
-			category: 'number',
-			ftype: 'int',
-			type: 'number',
-			args: {
-				min: 13,
-				max: 40
+		'productos': {
+			vendedor: {
+				category: 'music',
+				ftype: 'songName',
+				type: 'string'
+			},
+			nombre: {
+				category: 'book',
+				ftype: 'title',
+				type: 'string',
+			},
+			valor: {
+				category: 'number',
+				ftype: 'int',
+				type: 'number',
+				args: {
+					max: 40000
+				}
+			},
+			descuento: {
+				category: 'number',
+				ftype: 'int',
+				type: 'number',
+				args: {
+					max: 40
+				},
+				default: 0
 			}
 		},
-		apodo: {
-			category: 'internet',
-			ftype: 'username',
-			type: 'string',
-			nullable: true
-		},
-		saldo: {
-			category: 'number',
-			ftype: 'int',
-			type: 'number',
-			args: {
-				max: 100000
+		'usuarios': {
+			correo: {
+				category: 'internet',
+				ftype: 'email',
+				type: 'string'
 			},
-			default: 0
-		},
-		pais: {
-			category: 'location',
-			ftype: 'country',
-			type: 'string',
-			nullable: true
-		},
-		num_cel: {
-			category: 'phone',
-			ftype: 'number',
-			type: 'string',
-			args: {
-				style: 'international'
+			contrasenia: {
+				category: 'string',
+				ftype: 'hexadecimal',
+				type: 'string',
+				args: {
+					length: 32,
+					prefix: '',
+					casing: 'lower'
+				}
 			},
-			nullable: true
+			edad: {
+				category: 'number',
+				ftype: 'int',
+				type: 'number',
+				args: {
+					min: 13,
+					max: 40
+				}
+			},
+			apodo: {
+				category: 'internet',
+				ftype: 'username',
+				type: 'string',
+				nullable: true
+			},
+			saldo: {
+				category: 'number',
+				ftype: 'int',
+				type: 'number',
+				args: {
+					max: 100000
+				},
+				default: 0
+			},
+			pais: {
+				category: 'location',
+				ftype: 'country',
+				type: 'string',
+				nullable: true
+			},
+			num_cel: {
+				category: 'phone',
+				ftype: 'number',
+				type: 'string',
+				args: {
+					style: 'international'
+				},
+				nullable: true
+			}
 		}
 	},
-	'productos': {
-		vendedor: {
-			category: 'music',
-			ftype: 'songName',
-			type: 'string'
-		},
-		nombre: {
-			category: 'book',
-			ftype: 'title',
-			type: 'string',
-		},
-		valor: {
-			category: 'number',
-			ftype: 'int',
-			type: 'number',
-			args: {
-				max: 40000
+	{
+		'adjuntos': {
+			nombre: {
+				category: 'system',
+				ftype: 'fileName',
+				args: {
+					extensionCount: 0
+				},
+				type: 'string'
+			},
+			extension: {
+				category: 'system',
+				ftype: 'fileExt',
+				args: 'image/png',
+				type: 'string'
+			},
+			url: {
+				category: 'image',
+				ftype: 'urlPicsumPhotos',
+				type: 'string'
+			},
+			texto_alterno: {
+				category: 'lorem',
+				ftype: 'paragraph',
+				args: {
+					max: 3
+				},
+				nullable: true,
+				type: 'string'
+			},
+			id_producto: {
+				collName: 'productos'
 			}
 		},
-		descuento: {
-			category: 'number',
-			ftype: 'int',
-			type: 'number',
-			args: {
-				max: 40
+		'amistades': {
+			id_usr_emisor: {
+				collName: 'usuarios'
 			},
-			default: 0
-		}
+			id_usr_receptor: {
+				collName: 'usuarios'
+			},
+			tipo: {
+				category: 'string',
+				ftype: 'fromCharacters',
+				args: [
+					'SOLICITADA',
+					'ACEPTADA',
+					'RECHAZADA',
+					'DESAGREGADA'
+				],
+				type: 'string'
+			},
+			fecha: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			}
+		},
+		'cambios_divisa': {
+			id_usuario: {
+				collName: 'usuarios'
+			},
+			usd_pagado: {
+				category: 'number',
+				ftype: 'int',
+				args: {
+					min: 10,
+					max: 200
+				},
+				type: 'number'
+			},
+			creditos_recib: {
+				category: 'number',
+				ftype: 'int',
+				args: {
+					min: 7000,
+					max: 7000000
+				},
+				type: 'number'
+			},
+			metodo: {
+				category: 'string',
+				ftype: 'fromCharacters',
+				args: metodos,
+				type: 'string'
+			},
+			fecha: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			}
+		},
+		'carritos': {
+			id_usuario: {
+				collName: 'usuarios'
+			},
+			valor_total: {
+				category: 'number',
+				ftype: 'int',
+				args: {
+					min: 7000,
+					max: 7000000
+				}
+			},
+			fecha_compra: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			}
+		},
+		'equipos': {
+			id_duenio: {
+				collName: 'usuarios'
+			},
+			nombre: {
+				category: 'music',
+				ftype: 'songName',
+				type: 'string'
+			},
+			descr: {
+				category: 'lorem',
+				ftype: 'paragraph',
+				type: 'string'
+			},
+			fecha_creacion: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			}
+		},
+		'juegos': {
+			id_producto: {
+				collName: 'productos'
+			},
+			genero: {
+				category: 'book',
+				ftype: 'genre',
+				type: 'string'
+			},
+			esrb: {
+				category: 'string',
+				ftype: 'fromCharacters',
+				args: [
+					'E',
+					'E10+',
+					'T',
+					'M17+',
+					'AO18+'
+				],
+				type: 'string'
+			}
+		},
+		'salas': {
+			nombre: {
+				category: 'lorem',
+				ftype: 'words',
+				type: 'string'
+			},
+			descr: {
+				category: 'lorem',
+				ftype: 'paragraph',
+				type: 'string'
+			}
+		},
+		'torneos': {
+			id_eq_organizador: {
+				collName: 'equipos'
+			},
+			nombre: {
+				category: 'lorem',
+				ftype: 'words',
+				type: 'string'
+			},
+			descr: {
+				category: 'lorem',
+				ftype: 'paragraphs',
+				args: {
+					min: 0,
+					max: 5
+				},
+				type: 'string',
+			},
+			cuota: {
+				category: 'number',
+				ftype: 'int',
+				args: {
+					min: 7000,
+					max: 7000000
+				},
+				type: 'number'
+			},
+			tipo_elim: {
+				category: 'string',
+				ftype: 'fromCharacters',
+				args: [
+					'ELIMINACIÓN DIRECTA',
+					'ELIMINACIÓN DOBLE',
+					'TODOS CONTRA TODOS',
+					'ETAPA DE GRUPOS'
+				],
+				type: 'string'
+			},
+			fecha_publ: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			},
+			fecha_inicio: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			},
+			fecha_fin: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			}
+		},
 	},
-	/* 'adjuntos': {
-		nombre: {
-			category: 'system',
-			ftype: 'fileName',
-			args: {
-				extensionCount: 0
+	{
+		'expansiones': {
+			id_producto: {
+				collName: 'productos'
+			},
+			id_juego: {
+				collName: 'juegos'
+			},
+			tipo: {
+				category: 'string',
+				ftype: 'fromCharacters',
+				args: [
+					'DLC',
+					'OST',
+					'COSMÉTICO',
+					'OTRO'
+				],
+				type: 'string'
 			}
 		},
-		extension: {
-			category: 'system',
-			ftype: 'fileExt',
-			args: 'image'
-		},
-		url: {
-			category: 'image',
-			ftype: 'urlPicsumPhotos'
-		},
-		texto_alterno: {
-			category: 'lorem',
-			ftype: 'paragraph',
-			args: {
-				max: 3
+		'participantes': {
+			id_torneo: {
+				collName: 'torneos'
 			},
-			nullable: true
+			id_equipo: {
+				collName: 'equipos'
+			},
+			fecha: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			},
+			estado: {
+				category: 'string',
+				ftype: 'fromCharacters',
+				args: [
+					'INSCRITO',
+					'HIZO CHECK-IN',
+					'JUGANDO',
+					'ELIMINADO',
+					'DESCALIFICADO'
+				],
+				type: 'string'
+			}
 		},
-		id_producto: {
-			mongoColl: 'productos'
-		}
-	} */
-}
+		'mensajes': {
+			id_sala: {
+				collName: 'salas'
+			},
+			id_usuario: {
+				collName: 'usuarios'
+			},
+			contenido: {
+				category: 'lorem',
+				ftype: 'text',
+				type: 'string'
+			},
+			fecha: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			}
+		},
+		'premios': {
+			id_torneo: {
+				collName: 'torneos'
+			},
+			id_producto: {
+				collName: 'productos'
+			},
+			cantidad: {
+				category: 'number',
+				ftype: 'int',
+				args: {
+					min: 1,
+					max: 10
+				},
+				type: 'number'
+			}
+		},
+		'productos_carrito': {
+			id_carrito: {
+				collName: 'carritos'
+			},
+			id_producto: {
+				collName: 'productos'
+			},
+			fecha_agreg: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			},
+			valor_al_comprar: {
+				category: 'number',
+				ftype: 'int',
+				args: {
+					min: 10000,
+					max: 10000000,
+					multipleOf: 100
+				},
+				type: 'number'
+			}
+		},
+		'resenias': {
+			id_producto: {
+				collName: 'productos'
+			},
+			id_usuario: {
+				collName: 'usuarios'
+			},
+			contenido: {
+				category: 'lorem',
+				ftype: 'text',
+				type: 'string'
+			},
+			estrellas: {
+				category: 'number',
+				ftype: 'int',
+				args: {
+					min: 0,
+					max: 5,
+				},
+				type: 'number'
+			},
+			fecha: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			}
+		},
+		'tiquetes': {
+			id_usuario: {
+				collName: 'usuarios'
+			},
+			id_moderador: {
+				collName: 'moderadores'
+			},
+			asunto: {
+				category: 'lorem',
+				ftype: 'sentence',
+				args: {
+					max: 15
+				},
+				type: 'string'
+			},
+			contenido: {
+				category: 'lorem',
+				ftype: 'text',
+				type: 'string'
+			},
+			fecha: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			},
+			estado: {
+				category: 'string',
+				ftype: 'fromCharacters',
+				args: [
+					'PENDIENTE',
+					'EN PROCESO',
+					'ATENDIDO'
+				],
+				type: 'string'
+			}
+		},
+		'usuarios_equipo': {
+			id_equipo: {
+				collName: 'equipos'
+			},
+			id_usuario: {
+				collName: 'usuarios'
+			},
+			fecha_ingr: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			}
+		},
+	},
+	{
+		'encuentros': {
+			id_torneo: {
+				collName: 'torneos'
+			},
+			id_particip1: {
+				collName: 'participantes'
+			},
+			id_particip2: {
+				collName: 'participantes'
+			},
+			puntos1: {
+				category: 'number',
+				ftype: 'int',
+				args: {
+					min: 0,
+					max: 10
+				},
+				type: 'number'
+			},
+			puntos2: {
+				category: 'number',
+				ftype: 'int',
+				args: {
+					min: 0,
+					max: 10
+				},
+				type: 'number'
+			},
+			fecha: {
+				category: 'date',
+				ftype: 'past',
+				type: 'string',
+				args: {
+					years: 5
+				},
+				isDate: true
+			}
+		},
+		'ganadores': {
+			id_particip: {
+				collName: 'participantes'
+			},
+			id_premio: {
+				collName: 'premios'
+			}
+		},
+	}
+]
 
 
 function generateEntries(collection, quantity) {
-	const model = models[collection]
+	const model = models[3][collection]
 	
 	const data = [];
 	for (let i = 0; i < quantity; i++) {
 		let entry = {}
 		for (const columnName in model) {
 			const column = model[columnName];
-			if (!column.mongoColl) {
+			if (!column.collName) {
 				if (column.nullable) {
 					entry[columnName] = faker.helpers.maybe(() => {
 						return faker[column.category][column.ftype].call(null, column.args)
@@ -161,8 +704,7 @@ function generateEntries(collection, quantity) {
 					)
 				}
 			} else {
-				const ids = mongoIds[column.mongoColl];
-				entry[columnName] = ids[Math.floor(ids.length * Math.random())]
+				entry[columnName] = Math.ceil(collQuantities[column.collName] * Math.random())
 			}
 		}
 
@@ -172,8 +714,8 @@ function generateEntries(collection, quantity) {
 	return data;
 }
 
-for (const collName in models) {
-	const entries = generateEntries(collName, 1000);
+for (const collName in models[3]) {
+	const entries = generateEntries(collName, collQuantities[collName]);
 	fs.writeFileSync(
 		`./output/MQL/${collName}.json`, JSON.stringify(entries, null, 2)
 	);
@@ -185,20 +727,26 @@ for (const collName in models) {
 		sql += `INSERT INTO ${collName.toUpperCase()} VALUES (`
 		for (const key in entry) {
 			numCols--;
-			if (
-				models[collName][key]['type'] === 'string' &&
-				entry[key] !== null
-			) sql += '"';
+			if (entry[key] !== null) {
+				if (models[3][collName][key]['isDate']) {
+					sql += 'STR_TO_DATE("';
+				} else if (models[3][collName][key]['type'] === 'string') {
+					sql += '"';
+				}
+			}
 			sql += entry[key];
-			if (
-				models[collName][key]['type'] === 'string' &&
-				entry[key] !== null
-			) sql += '"';
+			if (entry[key] !== null) {
+				if (models[3][collName][key]['isDate']) {
+					sql += '", "%a %b %d %Y %T GMT-0500 (hora estándar de Colombia)")';
+				} else if (models[3][collName][key]['type'] === 'string') {
+					sql += '"';
+				}
+			}
 			if (numCols > 0) {
 				sql += ', ';
 			}
 		}
 		sql += `);\n`;
 	}
-	fs.writeFileSync(`./output/SQL/${collName.toUpperCase()} INSERT.sql`, sql);
+	fs.writeFileSync(`./output/SQL/INSERT ${collName.toUpperCase()}.sql`, sql);
 }
