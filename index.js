@@ -341,6 +341,9 @@ const models = [
 			}
 		},
 		'salas': {
+			id_equipo: {
+				collName: 'equipos'
+			},
 			nombre: {
 				category: 'lorem',
 				ftype: 'words',
@@ -443,8 +446,8 @@ const models = [
 			id_torneo: {
 				collName: 'torneos'
 			},
-			id_equipo: {
-				collName: 'equipos'
+			id_usr_eq: {
+				collName: 'usuarios_equipo'
 			},
 			fecha: {
 				category: 'date',
@@ -675,7 +678,7 @@ const models = [
 
 
 function generateEntries(collection, quantity) {
-	const model = models[3][collection]
+	const model = models[2][collection]
 	
 	const data = [];
 	for (let i = 0; i < quantity; i++) {
@@ -714,7 +717,7 @@ function generateEntries(collection, quantity) {
 	return data;
 }
 
-for (const collName in models[3]) {
+for (const collName in models[2]) {
 	const entries = generateEntries(collName, collQuantities[collName]);
 	fs.writeFileSync(
 		`./output/MQL/${collName}.json`, JSON.stringify(entries, null, 2)
@@ -730,17 +733,17 @@ for (const collName in models[3]) {
 		for (const key in entry) {
 			numCols--;
 			if (entry[key] !== null) {
-				if (models[3][collName][key]['isDate']) {
+				if (models[2][collName][key]['isDate']) {
 					sql += 'STR_TO_DATE("';
-				} else if (models[3][collName][key]['type'] === 'string') {
+				} else if (models[2][collName][key]['type'] === 'string') {
 					sql += '"';
 				}
 			}
 			sql += entry[key];
 			if (entry[key] !== null) {
-				if (models[3][collName][key]['isDate']) {
+				if (models[2][collName][key]['isDate']) {
 					sql += '", "%a %b %d %Y %T GMT-0500 (hora estándar de Colombia)")';
-				} else if (models[3][collName][key]['type'] === 'string') {
+				} else if (models[2][collName][key]['type'] === 'string') {
 					sql += '"';
 				}
 			}

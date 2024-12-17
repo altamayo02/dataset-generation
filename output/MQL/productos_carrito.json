@@ -1,3002 +1,3002 @@
 [
   {
-    "id_carrito": 71,
-    "id_producto": 71,
-    "fecha_agreg": "2024-11-11T17:22:08.562Z",
-    "valor_al_comprar": 4146300
+    "id_carrito": 154,
+    "id_producto": 13,
+    "fecha_agreg": "2020-07-21T10:40:04.027Z",
+    "valor_al_comprar": 6519700
   },
   {
-    "id_carrito": 184,
-    "id_producto": 84,
-    "fecha_agreg": "2022-01-28T06:32:42.638Z",
-    "valor_al_comprar": 5447600
-  },
-  {
-    "id_carrito": 93,
-    "id_producto": 42,
-    "fecha_agreg": "2020-11-16T18:04:05.929Z",
-    "valor_al_comprar": 9954600
-  },
-  {
-    "id_carrito": 159,
-    "id_producto": 16,
-    "fecha_agreg": "2022-07-10T17:16:11.616Z",
-    "valor_al_comprar": 9445500
-  },
-  {
-    "id_carrito": 86,
+    "id_carrito": 175,
     "id_producto": 89,
-    "fecha_agreg": "2022-03-29T10:50:54.766Z",
-    "valor_al_comprar": 4156900
-  },
-  {
-    "id_carrito": 133,
-    "id_producto": 93,
-    "fecha_agreg": "2024-03-06T07:01:43.365Z",
-    "valor_al_comprar": 7150200
-  },
-  {
-    "id_carrito": 118,
-    "id_producto": 71,
-    "fecha_agreg": "2023-09-24T00:19:45.802Z",
-    "valor_al_comprar": 4185800
-  },
-  {
-    "id_carrito": 166,
-    "id_producto": 40,
-    "fecha_agreg": "2020-02-14T22:02:38.310Z",
-    "valor_al_comprar": 4277800
-  },
-  {
-    "id_carrito": 155,
-    "id_producto": 95,
-    "fecha_agreg": "2020-03-17T15:04:12.400Z",
-    "valor_al_comprar": 574500
-  },
-  {
-    "id_carrito": 180,
-    "id_producto": 7,
-    "fecha_agreg": "2021-08-20T11:45:55.052Z",
-    "valor_al_comprar": 3652200
-  },
-  {
-    "id_carrito": 48,
-    "id_producto": 83,
-    "fecha_agreg": "2021-07-03T12:06:31.660Z",
-    "valor_al_comprar": 5075900
-  },
-  {
-    "id_carrito": 92,
-    "id_producto": 72,
-    "fecha_agreg": "2022-06-07T11:58:47.831Z",
-    "valor_al_comprar": 7723500
-  },
-  {
-    "id_carrito": 160,
-    "id_producto": 71,
-    "fecha_agreg": "2023-12-06T19:14:39.596Z",
-    "valor_al_comprar": 7637000
-  },
-  {
-    "id_carrito": 185,
-    "id_producto": 21,
-    "fecha_agreg": "2020-02-01T06:02:29.792Z",
-    "valor_al_comprar": 7766900
-  },
-  {
-    "id_carrito": 58,
-    "id_producto": 84,
-    "fecha_agreg": "2020-01-25T13:41:26.537Z",
-    "valor_al_comprar": 2806200
-  },
-  {
-    "id_carrito": 91,
-    "id_producto": 30,
-    "fecha_agreg": "2023-06-11T01:15:24.230Z",
-    "valor_al_comprar": 9301300
-  },
-  {
-    "id_carrito": 194,
-    "id_producto": 70,
-    "fecha_agreg": "2023-11-23T04:10:08.635Z",
-    "valor_al_comprar": 7806500
-  },
-  {
-    "id_carrito": 195,
-    "id_producto": 60,
-    "fecha_agreg": "2024-07-09T02:06:33.068Z",
-    "valor_al_comprar": 3892000
-  },
-  {
-    "id_carrito": 153,
-    "id_producto": 41,
-    "fecha_agreg": "2024-04-18T03:37:25.411Z",
-    "valor_al_comprar": 8423200
-  },
-  {
-    "id_carrito": 200,
-    "id_producto": 6,
-    "fecha_agreg": "2022-05-05T08:54:30.427Z",
-    "valor_al_comprar": 2359500
-  },
-  {
-    "id_carrito": 164,
-    "id_producto": 81,
-    "fecha_agreg": "2022-09-08T12:03:24.953Z",
-    "valor_al_comprar": 8255000
-  },
-  {
-    "id_carrito": 104,
-    "id_producto": 37,
-    "fecha_agreg": "2024-06-05T04:00:26.685Z",
-    "valor_al_comprar": 2460900
-  },
-  {
-    "id_carrito": 64,
-    "id_producto": 46,
-    "fecha_agreg": "2023-09-10T10:04:31.645Z",
-    "valor_al_comprar": 8501900
-  },
-  {
-    "id_carrito": 38,
-    "id_producto": 29,
-    "fecha_agreg": "2020-08-29T07:55:45.733Z",
-    "valor_al_comprar": 100600
-  },
-  {
-    "id_carrito": 105,
-    "id_producto": 24,
-    "fecha_agreg": "2024-11-04T11:45:58.755Z",
-    "valor_al_comprar": 8586700
-  },
-  {
-    "id_carrito": 170,
-    "id_producto": 95,
-    "fecha_agreg": "2021-02-07T17:21:46.552Z",
-    "valor_al_comprar": 1340300
-  },
-  {
-    "id_carrito": 94,
-    "id_producto": 79,
-    "fecha_agreg": "2023-12-26T16:10:46.893Z",
-    "valor_al_comprar": 3337600
-  },
-  {
-    "id_carrito": 114,
-    "id_producto": 81,
-    "fecha_agreg": "2021-02-21T10:38:08.264Z",
-    "valor_al_comprar": 1200400
-  },
-  {
-    "id_carrito": 109,
-    "id_producto": 99,
-    "fecha_agreg": "2020-05-15T03:02:56.549Z",
-    "valor_al_comprar": 3785700
-  },
-  {
-    "id_carrito": 108,
-    "id_producto": 92,
-    "fecha_agreg": "2021-10-29T10:06:20.705Z",
-    "valor_al_comprar": 9540500
-  },
-  {
-    "id_carrito": 119,
-    "id_producto": 98,
-    "fecha_agreg": "2021-08-22T10:00:00.386Z",
-    "valor_al_comprar": 6210300
-  },
-  {
-    "id_carrito": 173,
-    "id_producto": 55,
-    "fecha_agreg": "2024-07-28T11:06:49.258Z",
-    "valor_al_comprar": 5312400
-  },
-  {
-    "id_carrito": 98,
-    "id_producto": 92,
-    "fecha_agreg": "2020-06-16T04:16:46.620Z",
-    "valor_al_comprar": 6023500
-  },
-  {
-    "id_carrito": 17,
-    "id_producto": 96,
-    "fecha_agreg": "2020-05-19T23:22:17.080Z",
-    "valor_al_comprar": 4306700
-  },
-  {
-    "id_carrito": 8,
-    "id_producto": 87,
-    "fecha_agreg": "2023-11-09T13:29:34.061Z",
-    "valor_al_comprar": 1991100
-  },
-  {
-    "id_carrito": 196,
-    "id_producto": 70,
-    "fecha_agreg": "2022-11-17T05:16:47.854Z",
-    "valor_al_comprar": 3144400
-  },
-  {
-    "id_carrito": 37,
-    "id_producto": 46,
-    "fecha_agreg": "2022-10-05T00:45:38.159Z",
-    "valor_al_comprar": 225400
-  },
-  {
-    "id_carrito": 167,
-    "id_producto": 62,
-    "fecha_agreg": "2021-09-30T16:35:21.516Z",
-    "valor_al_comprar": 3254200
-  },
-  {
-    "id_carrito": 197,
-    "id_producto": 65,
-    "fecha_agreg": "2020-06-12T12:59:08.053Z",
-    "valor_al_comprar": 5326700
-  },
-  {
-    "id_carrito": 103,
-    "id_producto": 99,
-    "fecha_agreg": "2022-04-04T09:36:42.346Z",
-    "valor_al_comprar": 2253700
-  },
-  {
-    "id_carrito": 12,
-    "id_producto": 87,
-    "fecha_agreg": "2021-12-17T00:32:33.187Z",
-    "valor_al_comprar": 1367800
-  },
-  {
-    "id_carrito": 188,
-    "id_producto": 35,
-    "fecha_agreg": "2024-05-21T11:15:25.642Z",
-    "valor_al_comprar": 3724300
-  },
-  {
-    "id_carrito": 190,
-    "id_producto": 17,
-    "fecha_agreg": "2024-03-05T06:12:47.076Z",
-    "valor_al_comprar": 1623400
-  },
-  {
-    "id_carrito": 91,
-    "id_producto": 80,
-    "fecha_agreg": "2022-12-06T20:17:35.215Z",
-    "valor_al_comprar": 841600
-  },
-  {
-    "id_carrito": 29,
-    "id_producto": 46,
-    "fecha_agreg": "2022-04-08T13:53:55.660Z",
-    "valor_al_comprar": 6944900
-  },
-  {
-    "id_carrito": 28,
-    "id_producto": 32,
-    "fecha_agreg": "2024-09-17T18:58:33.134Z",
-    "valor_al_comprar": 1392700
-  },
-  {
-    "id_carrito": 120,
-    "id_producto": 68,
-    "fecha_agreg": "2023-07-19T04:27:46.587Z",
-    "valor_al_comprar": 9435600
-  },
-  {
-    "id_carrito": 85,
-    "id_producto": 33,
-    "fecha_agreg": "2022-06-17T16:16:26.568Z",
-    "valor_al_comprar": 5581400
-  },
-  {
-    "id_carrito": 115,
-    "id_producto": 34,
-    "fecha_agreg": "2024-07-31T07:37:03.745Z",
-    "valor_al_comprar": 2879000
-  },
-  {
-    "id_carrito": 129,
-    "id_producto": 41,
-    "fecha_agreg": "2024-09-20T07:22:21.118Z",
-    "valor_al_comprar": 9597700
-  },
-  {
-    "id_carrito": 155,
-    "id_producto": 63,
-    "fecha_agreg": "2021-05-20T19:10:41.730Z",
-    "valor_al_comprar": 3909100
-  },
-  {
-    "id_carrito": 59,
-    "id_producto": 85,
-    "fecha_agreg": "2020-11-11T13:08:12.338Z",
-    "valor_al_comprar": 3259600
-  },
-  {
-    "id_carrito": 166,
-    "id_producto": 20,
-    "fecha_agreg": "2022-03-31T15:55:39.358Z",
-    "valor_al_comprar": 6571700
-  },
-  {
-    "id_carrito": 3,
-    "id_producto": 46,
-    "fecha_agreg": "2022-05-13T13:26:00.863Z",
-    "valor_al_comprar": 129500
-  },
-  {
-    "id_carrito": 15,
-    "id_producto": 31,
-    "fecha_agreg": "2021-03-13T03:23:51.304Z",
-    "valor_al_comprar": 2525900
-  },
-  {
-    "id_carrito": 166,
-    "id_producto": 52,
-    "fecha_agreg": "2020-12-20T07:08:55.874Z",
-    "valor_al_comprar": 3014900
-  },
-  {
-    "id_carrito": 30,
-    "id_producto": 45,
-    "fecha_agreg": "2021-04-27T06:48:24.296Z",
-    "valor_al_comprar": 2295600
-  },
-  {
-    "id_carrito": 64,
-    "id_producto": 3,
-    "fecha_agreg": "2022-08-24T18:41:47.469Z",
-    "valor_al_comprar": 1459600
-  },
-  {
-    "id_carrito": 80,
-    "id_producto": 27,
-    "fecha_agreg": "2022-10-06T07:36:38.233Z",
-    "valor_al_comprar": 3104800
-  },
-  {
-    "id_carrito": 65,
-    "id_producto": 61,
-    "fecha_agreg": "2022-04-17T23:56:30.973Z",
-    "valor_al_comprar": 708800
-  },
-  {
-    "id_carrito": 127,
-    "id_producto": 64,
-    "fecha_agreg": "2020-04-21T09:15:04.009Z",
-    "valor_al_comprar": 7158900
-  },
-  {
-    "id_carrito": 119,
-    "id_producto": 95,
-    "fecha_agreg": "2022-11-08T03:39:42.421Z",
-    "valor_al_comprar": 6143200
-  },
-  {
-    "id_carrito": 53,
-    "id_producto": 45,
-    "fecha_agreg": "2024-10-16T03:00:20.983Z",
-    "valor_al_comprar": 3364600
-  },
-  {
-    "id_carrito": 103,
-    "id_producto": 36,
-    "fecha_agreg": "2023-10-17T23:05:06.576Z",
-    "valor_al_comprar": 3155500
-  },
-  {
-    "id_carrito": 58,
-    "id_producto": 61,
-    "fecha_agreg": "2024-03-05T00:06:40.500Z",
-    "valor_al_comprar": 9011600
-  },
-  {
-    "id_carrito": 26,
-    "id_producto": 81,
-    "fecha_agreg": "2022-12-19T06:44:55.624Z",
-    "valor_al_comprar": 3714700
-  },
-  {
-    "id_carrito": 181,
-    "id_producto": 71,
-    "fecha_agreg": "2020-05-10T16:12:31.326Z",
-    "valor_al_comprar": 9573700
-  },
-  {
-    "id_carrito": 7,
-    "id_producto": 70,
-    "fecha_agreg": "2024-11-18T23:16:03.410Z",
-    "valor_al_comprar": 4807800
+    "fecha_agreg": "2021-08-30T23:09:31.084Z",
+    "valor_al_comprar": 4186700
   },
   {
     "id_carrito": 100,
-    "id_producto": 84,
-    "fecha_agreg": "2020-05-14T03:13:56.750Z",
-    "valor_al_comprar": 8472500
+    "id_producto": 23,
+    "fecha_agreg": "2023-04-30T17:31:55.486Z",
+    "valor_al_comprar": 597100
+  },
+  {
+    "id_carrito": 26,
+    "id_producto": 60,
+    "fecha_agreg": "2020-08-17T08:04:33.048Z",
+    "valor_al_comprar": 8632800
   },
   {
     "id_carrito": 52,
-    "id_producto": 94,
-    "fecha_agreg": "2020-05-19T07:24:34.159Z",
-    "valor_al_comprar": 9240000
-  },
-  {
-    "id_carrito": 75,
-    "id_producto": 52,
-    "fecha_agreg": "2022-04-05T04:28:16.022Z",
-    "valor_al_comprar": 1025200
-  },
-  {
-    "id_carrito": 84,
-    "id_producto": 52,
-    "fecha_agreg": "2019-12-20T19:29:22.016Z",
-    "valor_al_comprar": 30000
-  },
-  {
-    "id_carrito": 17,
-    "id_producto": 37,
-    "fecha_agreg": "2021-05-19T08:12:29.247Z",
-    "valor_al_comprar": 3447700
-  },
-  {
-    "id_carrito": 44,
-    "id_producto": 28,
-    "fecha_agreg": "2022-03-10T05:42:01.701Z",
-    "valor_al_comprar": 8471700
-  },
-  {
-    "id_carrito": 157,
-    "id_producto": 42,
-    "fecha_agreg": "2022-10-20T10:04:52.615Z",
-    "valor_al_comprar": 2798600
-  },
-  {
-    "id_carrito": 143,
-    "id_producto": 86,
-    "fecha_agreg": "2021-11-29T06:30:13.437Z",
-    "valor_al_comprar": 2656000
-  },
-  {
-    "id_carrito": 189,
-    "id_producto": 4,
-    "fecha_agreg": "2023-10-01T05:46:07.894Z",
-    "valor_al_comprar": 30300
-  },
-  {
-    "id_carrito": 159,
-    "id_producto": 12,
-    "fecha_agreg": "2023-06-07T22:43:50.747Z",
-    "valor_al_comprar": 5699100
-  },
-  {
-    "id_carrito": 193,
-    "id_producto": 98,
-    "fecha_agreg": "2021-12-31T13:58:54.087Z",
-    "valor_al_comprar": 569300
-  },
-  {
-    "id_carrito": 198,
-    "id_producto": 19,
-    "fecha_agreg": "2023-01-31T19:01:42.410Z",
-    "valor_al_comprar": 5623600
-  },
-  {
-    "id_carrito": 135,
-    "id_producto": 49,
-    "fecha_agreg": "2023-11-08T16:49:24.447Z",
-    "valor_al_comprar": 2000500
-  },
-  {
-    "id_carrito": 16,
-    "id_producto": 42,
-    "fecha_agreg": "2024-02-18T04:40:45.175Z",
-    "valor_al_comprar": 7750100
-  },
-  {
-    "id_carrito": 30,
-    "id_producto": 96,
-    "fecha_agreg": "2020-01-11T23:33:54.651Z",
-    "valor_al_comprar": 4478000
-  },
-  {
-    "id_carrito": 4,
-    "id_producto": 92,
-    "fecha_agreg": "2019-12-31T01:06:47.223Z",
-    "valor_al_comprar": 6819000
-  },
-  {
-    "id_carrito": 16,
-    "id_producto": 5,
-    "fecha_agreg": "2024-03-02T07:08:44.254Z",
-    "valor_al_comprar": 3006800
-  },
-  {
-    "id_carrito": 174,
-    "id_producto": 35,
-    "fecha_agreg": "2022-04-27T03:14:09.857Z",
-    "valor_al_comprar": 5172900
-  },
-  {
-    "id_carrito": 157,
-    "id_producto": 75,
-    "fecha_agreg": "2022-07-02T12:06:50.623Z",
-    "valor_al_comprar": 9088500
-  },
-  {
-    "id_carrito": 125,
-    "id_producto": 70,
-    "fecha_agreg": "2021-03-14T05:59:06.707Z",
-    "valor_al_comprar": 9049500
-  },
-  {
-    "id_carrito": 29,
-    "id_producto": 65,
-    "fecha_agreg": "2023-07-24T00:43:51.808Z",
-    "valor_al_comprar": 4526200
-  },
-  {
-    "id_carrito": 199,
-    "id_producto": 10,
-    "fecha_agreg": "2023-05-28T11:27:24.625Z",
-    "valor_al_comprar": 7844600
-  },
-  {
-    "id_carrito": 110,
-    "id_producto": 39,
-    "fecha_agreg": "2021-04-12T17:06:30.527Z",
-    "valor_al_comprar": 8823500
-  },
-  {
-    "id_carrito": 160,
-    "id_producto": 69,
-    "fecha_agreg": "2024-07-23T14:42:00.050Z",
-    "valor_al_comprar": 8703600
-  },
-  {
-    "id_carrito": 144,
-    "id_producto": 80,
-    "fecha_agreg": "2023-03-27T03:05:21.297Z",
-    "valor_al_comprar": 9213200
-  },
-  {
-    "id_carrito": 49,
-    "id_producto": 58,
-    "fecha_agreg": "2022-12-08T10:50:44.577Z",
-    "valor_al_comprar": 1842600
-  },
-  {
-    "id_carrito": 53,
-    "id_producto": 77,
-    "fecha_agreg": "2024-10-02T08:59:44.347Z",
-    "valor_al_comprar": 1861500
-  },
-  {
-    "id_carrito": 17,
-    "id_producto": 7,
-    "fecha_agreg": "2022-08-07T12:44:06.365Z",
-    "valor_al_comprar": 461700
-  },
-  {
-    "id_carrito": 17,
-    "id_producto": 41,
-    "fecha_agreg": "2020-02-19T10:21:30.033Z",
-    "valor_al_comprar": 2168600
-  },
-  {
-    "id_carrito": 185,
-    "id_producto": 24,
-    "fecha_agreg": "2021-12-22T11:07:22.704Z",
-    "valor_al_comprar": 7614400
-  },
-  {
-    "id_carrito": 166,
-    "id_producto": 18,
-    "fecha_agreg": "2022-05-25T07:58:28.125Z",
-    "valor_al_comprar": 8900800
-  },
-  {
-    "id_carrito": 49,
-    "id_producto": 79,
-    "fecha_agreg": "2020-07-03T11:09:59.995Z",
-    "valor_al_comprar": 7753600
-  },
-  {
-    "id_carrito": 16,
-    "id_producto": 6,
-    "fecha_agreg": "2020-10-05T13:51:11.941Z",
-    "valor_al_comprar": 9729500
-  },
-  {
-    "id_carrito": 198,
-    "id_producto": 57,
-    "fecha_agreg": "2021-03-08T18:46:32.227Z",
-    "valor_al_comprar": 6342800
-  },
-  {
-    "id_carrito": 66,
-    "id_producto": 31,
-    "fecha_agreg": "2020-05-22T13:54:47.414Z",
-    "valor_al_comprar": 7822500
-  },
-  {
-    "id_carrito": 124,
-    "id_producto": 43,
-    "fecha_agreg": "2020-05-10T15:27:55.885Z",
-    "valor_al_comprar": 5552500
-  },
-  {
-    "id_carrito": 192,
-    "id_producto": 10,
-    "fecha_agreg": "2024-04-26T18:55:05.299Z",
-    "valor_al_comprar": 8008600
-  },
-  {
-    "id_carrito": 182,
-    "id_producto": 94,
-    "fecha_agreg": "2020-02-25T13:58:42.085Z",
-    "valor_al_comprar": 8684200
-  },
-  {
-    "id_carrito": 46,
-    "id_producto": 65,
-    "fecha_agreg": "2024-08-25T20:48:47.696Z",
-    "valor_al_comprar": 2839500
-  },
-  {
-    "id_carrito": 183,
-    "id_producto": 14,
-    "fecha_agreg": "2023-06-04T20:11:51.107Z",
-    "valor_al_comprar": 9984400
-  },
-  {
-    "id_carrito": 64,
-    "id_producto": 59,
-    "fecha_agreg": "2022-12-09T01:43:56.694Z",
-    "valor_al_comprar": 3968800
-  },
-  {
-    "id_carrito": 120,
-    "id_producto": 15,
-    "fecha_agreg": "2024-09-11T23:19:28.105Z",
-    "valor_al_comprar": 314800
-  },
-  {
-    "id_carrito": 84,
-    "id_producto": 48,
-    "fecha_agreg": "2023-01-04T14:28:57.167Z",
-    "valor_al_comprar": 9036200
-  },
-  {
-    "id_carrito": 183,
-    "id_producto": 67,
-    "fecha_agreg": "2022-05-21T22:51:07.698Z",
-    "valor_al_comprar": 8807700
-  },
-  {
-    "id_carrito": 182,
-    "id_producto": 75,
-    "fecha_agreg": "2024-07-27T21:18:35.860Z",
-    "valor_al_comprar": 4896400
-  },
-  {
-    "id_carrito": 144,
-    "id_producto": 29,
-    "fecha_agreg": "2021-03-04T09:05:00.452Z",
-    "valor_al_comprar": 371400
-  },
-  {
-    "id_carrito": 90,
-    "id_producto": 14,
-    "fecha_agreg": "2019-12-30T10:31:00.074Z",
-    "valor_al_comprar": 8568900
-  },
-  {
-    "id_carrito": 179,
-    "id_producto": 98,
-    "fecha_agreg": "2021-07-16T09:51:05.848Z",
-    "valor_al_comprar": 2338700
-  },
-  {
-    "id_carrito": 66,
-    "id_producto": 84,
-    "fecha_agreg": "2020-10-13T08:08:51.698Z",
-    "valor_al_comprar": 2340800
-  },
-  {
-    "id_carrito": 154,
-    "id_producto": 48,
-    "fecha_agreg": "2022-08-04T11:29:02.433Z",
-    "valor_al_comprar": 3752000
-  },
-  {
-    "id_carrito": 123,
-    "id_producto": 86,
-    "fecha_agreg": "2023-07-09T04:13:42.149Z",
-    "valor_al_comprar": 5941900
-  },
-  {
-    "id_carrito": 19,
-    "id_producto": 6,
-    "fecha_agreg": "2021-06-19T06:48:13.303Z",
-    "valor_al_comprar": 8104300
-  },
-  {
-    "id_carrito": 127,
-    "id_producto": 91,
-    "fecha_agreg": "2019-12-29T00:32:01.936Z",
-    "valor_al_comprar": 1179800
-  },
-  {
-    "id_carrito": 160,
-    "id_producto": 46,
-    "fecha_agreg": "2021-11-30T06:40:29.235Z",
-    "valor_al_comprar": 5789100
-  },
-  {
-    "id_carrito": 116,
-    "id_producto": 36,
-    "fecha_agreg": "2022-03-09T00:15:53.151Z",
-    "valor_al_comprar": 2605500
-  },
-  {
-    "id_carrito": 152,
-    "id_producto": 91,
-    "fecha_agreg": "2022-07-04T12:11:25.772Z",
-    "valor_al_comprar": 5954500
-  },
-  {
-    "id_carrito": 73,
-    "id_producto": 86,
-    "fecha_agreg": "2020-11-26T01:50:05.636Z",
-    "valor_al_comprar": 9877400
-  },
-  {
-    "id_carrito": 200,
-    "id_producto": 80,
-    "fecha_agreg": "2020-10-31T08:17:35.790Z",
-    "valor_al_comprar": 700400
-  },
-  {
-    "id_carrito": 108,
-    "id_producto": 89,
-    "fecha_agreg": "2022-08-18T14:49:29.624Z",
-    "valor_al_comprar": 9336700
-  },
-  {
-    "id_carrito": 145,
-    "id_producto": 100,
-    "fecha_agreg": "2023-04-08T03:09:07.032Z",
-    "valor_al_comprar": 1556700
-  },
-  {
-    "id_carrito": 62,
-    "id_producto": 96,
-    "fecha_agreg": "2023-01-26T11:09:17.529Z",
-    "valor_al_comprar": 8593700
-  },
-  {
-    "id_carrito": 65,
-    "id_producto": 57,
-    "fecha_agreg": "2023-09-06T06:31:22.689Z",
-    "valor_al_comprar": 7476700
-  },
-  {
-    "id_carrito": 170,
-    "id_producto": 51,
-    "fecha_agreg": "2020-12-20T21:52:44.377Z",
-    "valor_al_comprar": 4698500
-  },
-  {
-    "id_carrito": 197,
-    "id_producto": 99,
-    "fecha_agreg": "2024-03-09T15:37:41.739Z",
-    "valor_al_comprar": 9801100
-  },
-  {
-    "id_carrito": 182,
-    "id_producto": 83,
-    "fecha_agreg": "2023-09-16T09:07:52.565Z",
-    "valor_al_comprar": 2071000
-  },
-  {
-    "id_carrito": 74,
-    "id_producto": 45,
-    "fecha_agreg": "2023-03-30T22:09:58.207Z",
-    "valor_al_comprar": 6225700
-  },
-  {
-    "id_carrito": 21,
-    "id_producto": 34,
-    "fecha_agreg": "2020-10-26T05:28:06.241Z",
-    "valor_al_comprar": 2136200
-  },
-  {
-    "id_carrito": 72,
-    "id_producto": 75,
-    "fecha_agreg": "2024-03-31T22:13:42.799Z",
-    "valor_al_comprar": 295700
-  },
-  {
-    "id_carrito": 121,
-    "id_producto": 51,
-    "fecha_agreg": "2020-09-23T18:59:46.059Z",
-    "valor_al_comprar": 8519400
-  },
-  {
-    "id_carrito": 129,
-    "id_producto": 80,
-    "fecha_agreg": "2024-09-02T06:16:05.973Z",
-    "valor_al_comprar": 7684900
-  },
-  {
-    "id_carrito": 11,
-    "id_producto": 19,
-    "fecha_agreg": "2024-02-28T14:08:29.504Z",
-    "valor_al_comprar": 2559200
-  },
-  {
-    "id_carrito": 76,
-    "id_producto": 10,
-    "fecha_agreg": "2022-10-06T20:31:57.176Z",
-    "valor_al_comprar": 1987000
-  },
-  {
-    "id_carrito": 81,
-    "id_producto": 28,
-    "fecha_agreg": "2024-09-05T15:39:50.755Z",
-    "valor_al_comprar": 9652300
-  },
-  {
-    "id_carrito": 167,
-    "id_producto": 94,
-    "fecha_agreg": "2020-05-01T18:11:21.797Z",
-    "valor_al_comprar": 2188900
-  },
-  {
-    "id_carrito": 124,
-    "id_producto": 70,
-    "fecha_agreg": "2020-06-07T15:50:16.327Z",
-    "valor_al_comprar": 1504200
-  },
-  {
-    "id_carrito": 37,
-    "id_producto": 45,
-    "fecha_agreg": "2021-05-19T08:42:42.625Z",
-    "valor_al_comprar": 7616400
-  },
-  {
-    "id_carrito": 23,
-    "id_producto": 69,
-    "fecha_agreg": "2020-03-12T10:33:29.590Z",
-    "valor_al_comprar": 9835500
-  },
-  {
-    "id_carrito": 142,
-    "id_producto": 39,
-    "fecha_agreg": "2023-01-31T14:10:34.065Z",
-    "valor_al_comprar": 4837700
-  },
-  {
-    "id_carrito": 44,
-    "id_producto": 67,
-    "fecha_agreg": "2023-02-03T17:34:58.832Z",
-    "valor_al_comprar": 2623600
-  },
-  {
-    "id_carrito": 27,
-    "id_producto": 47,
-    "fecha_agreg": "2024-04-27T23:11:50.656Z",
-    "valor_al_comprar": 5130300
-  },
-  {
-    "id_carrito": 44,
-    "id_producto": 79,
-    "fecha_agreg": "2022-05-04T05:17:55.670Z",
-    "valor_al_comprar": 3358300
-  },
-  {
-    "id_carrito": 153,
-    "id_producto": 21,
-    "fecha_agreg": "2022-01-16T00:58:36.600Z",
-    "valor_al_comprar": 2951100
-  },
-  {
-    "id_carrito": 54,
-    "id_producto": 67,
-    "fecha_agreg": "2024-06-01T00:35:06.321Z",
-    "valor_al_comprar": 882200
-  },
-  {
-    "id_carrito": 109,
-    "id_producto": 31,
-    "fecha_agreg": "2023-12-25T09:01:29.240Z",
-    "valor_al_comprar": 9829200
-  },
-  {
-    "id_carrito": 80,
-    "id_producto": 94,
-    "fecha_agreg": "2020-02-16T15:39:36.127Z",
-    "valor_al_comprar": 7665600
-  },
-  {
-    "id_carrito": 36,
-    "id_producto": 19,
-    "fecha_agreg": "2021-09-07T19:23:29.003Z",
-    "valor_al_comprar": 5211100
-  },
-  {
-    "id_carrito": 36,
-    "id_producto": 38,
-    "fecha_agreg": "2022-01-11T04:40:34.690Z",
-    "valor_al_comprar": 2672500
-  },
-  {
-    "id_carrito": 163,
-    "id_producto": 57,
-    "fecha_agreg": "2024-11-16T11:03:58.103Z",
-    "valor_al_comprar": 717200
-  },
-  {
-    "id_carrito": 18,
-    "id_producto": 56,
-    "fecha_agreg": "2020-08-30T21:32:14.934Z",
-    "valor_al_comprar": 7617700
-  },
-  {
-    "id_carrito": 85,
-    "id_producto": 92,
-    "fecha_agreg": "2021-05-17T18:43:46.778Z",
-    "valor_al_comprar": 9066500
-  },
-  {
-    "id_carrito": 40,
-    "id_producto": 84,
-    "fecha_agreg": "2021-02-03T02:51:15.022Z",
-    "valor_al_comprar": 9481900
-  },
-  {
-    "id_carrito": 23,
-    "id_producto": 72,
-    "fecha_agreg": "2021-03-06T06:07:07.333Z",
-    "valor_al_comprar": 1632300
-  },
-  {
-    "id_carrito": 53,
-    "id_producto": 19,
-    "fecha_agreg": "2024-01-31T18:06:45.402Z",
-    "valor_al_comprar": 951000
-  },
-  {
-    "id_carrito": 7,
-    "id_producto": 20,
-    "fecha_agreg": "2024-02-13T08:30:10.496Z",
-    "valor_al_comprar": 4690000
-  },
-  {
-    "id_carrito": 69,
-    "id_producto": 88,
-    "fecha_agreg": "2019-12-30T11:27:25.448Z",
-    "valor_al_comprar": 8593000
-  },
-  {
-    "id_carrito": 163,
-    "id_producto": 57,
-    "fecha_agreg": "2022-05-26T19:08:37.627Z",
-    "valor_al_comprar": 5856600
-  },
-  {
-    "id_carrito": 98,
-    "id_producto": 26,
-    "fecha_agreg": "2024-01-19T10:51:40.407Z",
-    "valor_al_comprar": 5713600
-  },
-  {
-    "id_carrito": 172,
-    "id_producto": 1,
-    "fecha_agreg": "2023-11-21T03:51:13.303Z",
-    "valor_al_comprar": 5259900
+    "id_producto": 64,
+    "fecha_agreg": "2021-03-28T16:02:35.455Z",
+    "valor_al_comprar": 1784900
   },
   {
     "id_carrito": 113,
-    "id_producto": 41,
-    "fecha_agreg": "2022-04-24T11:19:51.335Z",
-    "valor_al_comprar": 9737100
+    "id_producto": 31,
+    "fecha_agreg": "2023-11-05T21:30:57.100Z",
+    "valor_al_comprar": 6262600
   },
   {
-    "id_carrito": 50,
-    "id_producto": 51,
-    "fecha_agreg": "2024-11-08T06:37:58.325Z",
-    "valor_al_comprar": 8796700
+    "id_carrito": 3,
+    "id_producto": 98,
+    "fecha_agreg": "2024-08-16T07:43:01.574Z",
+    "valor_al_comprar": 1043100
   },
   {
-    "id_carrito": 22,
-    "id_producto": 35,
-    "fecha_agreg": "2020-01-08T19:47:26.028Z",
-    "valor_al_comprar": 8460600
+    "id_carrito": 36,
+    "id_producto": 44,
+    "fecha_agreg": "2021-07-01T07:57:39.480Z",
+    "valor_al_comprar": 9940800
   },
   {
-    "id_carrito": 123,
-    "id_producto": 90,
-    "fecha_agreg": "2020-08-13T23:06:22.518Z",
-    "valor_al_comprar": 8623400
+    "id_carrito": 53,
+    "id_producto": 81,
+    "fecha_agreg": "2021-01-23T00:19:18.455Z",
+    "valor_al_comprar": 2751600
   },
   {
-    "id_carrito": 9,
-    "id_producto": 5,
-    "fecha_agreg": "2023-12-17T14:06:54.999Z",
-    "valor_al_comprar": 9338600
+    "id_carrito": 11,
+    "id_producto": 46,
+    "fecha_agreg": "2023-03-16T15:54:41.171Z",
+    "valor_al_comprar": 7546900
   },
   {
-    "id_carrito": 160,
-    "id_producto": 86,
-    "fecha_agreg": "2024-05-26T22:19:21.640Z",
-    "valor_al_comprar": 4806100
-  },
-  {
-    "id_carrito": 170,
-    "id_producto": 96,
-    "fecha_agreg": "2023-06-24T16:36:45.746Z",
-    "valor_al_comprar": 9838100
-  },
-  {
-    "id_carrito": 112,
-    "id_producto": 54,
-    "fecha_agreg": "2022-06-09T22:20:45.186Z",
-    "valor_al_comprar": 9805900
+    "id_carrito": 18,
+    "id_producto": 100,
+    "fecha_agreg": "2024-05-13T05:56:19.159Z",
+    "valor_al_comprar": 7170500
   },
   {
     "id_carrito": 20,
-    "id_producto": 60,
-    "fecha_agreg": "2022-09-08T12:08:03.393Z",
-    "valor_al_comprar": 1411000
-  },
-  {
-    "id_carrito": 112,
-    "id_producto": 48,
-    "fecha_agreg": "2020-07-24T05:02:37.264Z",
-    "valor_al_comprar": 3999200
-  },
-  {
-    "id_carrito": 117,
-    "id_producto": 1,
-    "fecha_agreg": "2021-10-19T02:52:41.115Z",
-    "valor_al_comprar": 4470600
-  },
-  {
-    "id_carrito": 69,
-    "id_producto": 93,
-    "fecha_agreg": "2022-10-13T02:53:24.365Z",
-    "valor_al_comprar": 5943900
-  },
-  {
-    "id_carrito": 66,
-    "id_producto": 92,
-    "fecha_agreg": "2023-04-16T20:56:50.386Z",
-    "valor_al_comprar": 6995200
-  },
-  {
-    "id_carrito": 140,
-    "id_producto": 32,
-    "fecha_agreg": "2022-09-06T00:16:10.278Z",
-    "valor_al_comprar": 6098500
-  },
-  {
-    "id_carrito": 11,
-    "id_producto": 23,
-    "fecha_agreg": "2020-09-04T17:09:26.236Z",
-    "valor_al_comprar": 1125200
-  },
-  {
-    "id_carrito": 5,
-    "id_producto": 68,
-    "fecha_agreg": "2024-11-22T08:14:54.687Z",
-    "valor_al_comprar": 7903400
-  },
-  {
-    "id_carrito": 1,
-    "id_producto": 27,
-    "fecha_agreg": "2023-06-11T10:31:52.288Z",
-    "valor_al_comprar": 3759100
-  },
-  {
-    "id_carrito": 28,
-    "id_producto": 37,
-    "fecha_agreg": "2022-08-11T18:33:47.970Z",
-    "valor_al_comprar": 2033500
-  },
-  {
-    "id_carrito": 152,
-    "id_producto": 30,
-    "fecha_agreg": "2024-08-09T06:55:41.381Z",
-    "valor_al_comprar": 9205400
-  },
-  {
-    "id_carrito": 92,
-    "id_producto": 64,
-    "fecha_agreg": "2021-12-01T09:57:44.766Z",
-    "valor_al_comprar": 6804100
-  },
-  {
-    "id_carrito": 175,
-    "id_producto": 39,
-    "fecha_agreg": "2024-10-19T03:20:47.339Z",
-    "valor_al_comprar": 790000
-  },
-  {
-    "id_carrito": 9,
-    "id_producto": 53,
-    "fecha_agreg": "2020-05-17T17:39:58.282Z",
-    "valor_al_comprar": 8813300
-  },
-  {
-    "id_carrito": 44,
-    "id_producto": 88,
-    "fecha_agreg": "2021-07-04T01:11:36.555Z",
-    "valor_al_comprar": 8085800
-  },
-  {
-    "id_carrito": 35,
-    "id_producto": 31,
-    "fecha_agreg": "2021-12-23T09:50:44.840Z",
-    "valor_al_comprar": 8336500
-  },
-  {
-    "id_carrito": 186,
-    "id_producto": 95,
-    "fecha_agreg": "2022-03-21T13:23:26.280Z",
-    "valor_al_comprar": 2091600
-  },
-  {
-    "id_carrito": 126,
-    "id_producto": 83,
-    "fecha_agreg": "2020-12-31T05:34:30.096Z",
-    "valor_al_comprar": 637000
-  },
-  {
-    "id_carrito": 122,
-    "id_producto": 32,
-    "fecha_agreg": "2024-06-28T00:05:00.661Z",
-    "valor_al_comprar": 6427600
-  },
-  {
-    "id_carrito": 28,
-    "id_producto": 33,
-    "fecha_agreg": "2022-10-30T17:26:18.837Z",
-    "valor_al_comprar": 6975700
-  },
-  {
-    "id_carrito": 105,
-    "id_producto": 84,
-    "fecha_agreg": "2023-04-09T11:56:54.853Z",
-    "valor_al_comprar": 5264900
-  },
-  {
-    "id_carrito": 136,
-    "id_producto": 50,
-    "fecha_agreg": "2023-10-16T10:21:29.432Z",
-    "valor_al_comprar": 9756300
-  },
-  {
-    "id_carrito": 185,
-    "id_producto": 63,
-    "fecha_agreg": "2023-05-12T09:03:13.172Z",
-    "valor_al_comprar": 9592700
-  },
-  {
-    "id_carrito": 52,
-    "id_producto": 86,
-    "fecha_agreg": "2021-11-23T14:29:05.714Z",
-    "valor_al_comprar": 9063900
-  },
-  {
-    "id_carrito": 136,
-    "id_producto": 57,
-    "fecha_agreg": "2024-05-27T20:18:49.206Z",
-    "valor_al_comprar": 147400
-  },
-  {
-    "id_carrito": 150,
-    "id_producto": 47,
-    "fecha_agreg": "2021-03-30T17:27:36.909Z",
-    "valor_al_comprar": 1589800
-  },
-  {
-    "id_carrito": 56,
-    "id_producto": 16,
-    "fecha_agreg": "2024-10-03T15:24:14.393Z",
-    "valor_al_comprar": 7892800
-  },
-  {
-    "id_carrito": 30,
-    "id_producto": 1,
-    "fecha_agreg": "2023-07-03T18:53:06.823Z",
-    "valor_al_comprar": 5934200
-  },
-  {
-    "id_carrito": 117,
-    "id_producto": 22,
-    "fecha_agreg": "2023-11-16T19:41:47.844Z",
-    "valor_al_comprar": 8749300
-  },
-  {
-    "id_carrito": 132,
-    "id_producto": 94,
-    "fecha_agreg": "2020-08-03T04:29:33.470Z",
-    "valor_al_comprar": 7667500
-  },
-  {
-    "id_carrito": 109,
-    "id_producto": 26,
-    "fecha_agreg": "2023-06-24T10:53:47.418Z",
-    "valor_al_comprar": 7020300
-  },
-  {
-    "id_carrito": 49,
     "id_producto": 73,
-    "fecha_agreg": "2019-12-28T19:09:53.707Z",
-    "valor_al_comprar": 9497500
+    "fecha_agreg": "2024-03-25T22:29:10.324Z",
+    "valor_al_comprar": 6425300
   },
   {
-    "id_carrito": 189,
-    "id_producto": 96,
-    "fecha_agreg": "2019-12-22T00:39:10.352Z",
-    "valor_al_comprar": 327700
+    "id_carrito": 121,
+    "id_producto": 100,
+    "fecha_agreg": "2022-04-05T20:31:44.685Z",
+    "valor_al_comprar": 4534900
   },
   {
-    "id_carrito": 191,
-    "id_producto": 7,
-    "fecha_agreg": "2024-11-04T00:51:36.738Z",
-    "valor_al_comprar": 7433300
-  },
-  {
-    "id_carrito": 132,
-    "id_producto": 48,
-    "fecha_agreg": "2024-04-22T15:03:40.406Z",
-    "valor_al_comprar": 220300
-  },
-  {
-    "id_carrito": 38,
-    "id_producto": 45,
-    "fecha_agreg": "2021-07-05T16:23:29.063Z",
-    "valor_al_comprar": 5274700
-  },
-  {
-    "id_carrito": 133,
-    "id_producto": 21,
-    "fecha_agreg": "2020-07-27T20:38:46.145Z",
-    "valor_al_comprar": 7119500
-  },
-  {
-    "id_carrito": 184,
-    "id_producto": 21,
-    "fecha_agreg": "2024-08-16T07:45:07.564Z",
-    "valor_al_comprar": 46700
-  },
-  {
-    "id_carrito": 172,
-    "id_producto": 21,
-    "fecha_agreg": "2024-11-26T13:52:00.033Z",
-    "valor_al_comprar": 1922200
-  },
-  {
-    "id_carrito": 50,
-    "id_producto": 97,
-    "fecha_agreg": "2021-04-05T17:53:56.627Z",
-    "valor_al_comprar": 5646600
-  },
-  {
-    "id_carrito": 177,
-    "id_producto": 95,
-    "fecha_agreg": "2023-09-02T03:41:35.326Z",
-    "valor_al_comprar": 2992100
-  },
-  {
-    "id_carrito": 65,
-    "id_producto": 51,
-    "fecha_agreg": "2022-07-01T16:30:28.708Z",
-    "valor_al_comprar": 5019700
-  },
-  {
-    "id_carrito": 199,
-    "id_producto": 96,
-    "fecha_agreg": "2024-09-23T15:20:26.532Z",
-    "valor_al_comprar": 9745300
-  },
-  {
-    "id_carrito": 132,
-    "id_producto": 89,
-    "fecha_agreg": "2020-10-22T16:13:02.449Z",
-    "valor_al_comprar": 8561000
-  },
-  {
-    "id_carrito": 158,
-    "id_producto": 3,
-    "fecha_agreg": "2023-11-14T06:21:43.703Z",
-    "valor_al_comprar": 4125500
-  },
-  {
-    "id_carrito": 87,
-    "id_producto": 12,
-    "fecha_agreg": "2023-01-19T19:19:59.658Z",
-    "valor_al_comprar": 2077400
-  },
-  {
-    "id_carrito": 9,
-    "id_producto": 95,
-    "fecha_agreg": "2024-02-19T23:29:23.887Z",
-    "valor_al_comprar": 944600
-  },
-  {
-    "id_carrito": 136,
-    "id_producto": 78,
-    "fecha_agreg": "2022-06-12T18:11:23.742Z",
-    "valor_al_comprar": 9641100
+    "id_carrito": 29,
+    "id_producto": 64,
+    "fecha_agreg": "2023-06-20T23:28:47.300Z",
+    "valor_al_comprar": 5233500
   },
   {
     "id_carrito": 85,
-    "id_producto": 43,
-    "fecha_agreg": "2022-10-12T18:12:04.834Z",
-    "valor_al_comprar": 1523300
+    "id_producto": 12,
+    "fecha_agreg": "2021-06-16T03:41:45.123Z",
+    "valor_al_comprar": 2703200
   },
   {
-    "id_carrito": 125,
-    "id_producto": 3,
-    "fecha_agreg": "2021-01-23T09:25:19.971Z",
-    "valor_al_comprar": 1727200
+    "id_carrito": 14,
+    "id_producto": 38,
+    "fecha_agreg": "2020-07-22T01:22:08.574Z",
+    "valor_al_comprar": 9991300
   },
   {
-    "id_carrito": 112,
-    "id_producto": 98,
-    "fecha_agreg": "2020-09-26T03:28:05.148Z",
-    "valor_al_comprar": 6547000
+    "id_carrito": 94,
+    "id_producto": 39,
+    "fecha_agreg": "2020-09-03T10:15:03.090Z",
+    "valor_al_comprar": 5165200
   },
   {
-    "id_carrito": 11,
-    "id_producto": 27,
-    "fecha_agreg": "2021-06-21T20:00:20.531Z",
-    "valor_al_comprar": 6372600
+    "id_carrito": 123,
+    "id_producto": 66,
+    "fecha_agreg": "2020-07-11T17:23:24.793Z",
+    "valor_al_comprar": 7479200
   },
   {
-    "id_carrito": 155,
-    "id_producto": 2,
-    "fecha_agreg": "2023-06-04T09:02:35.978Z",
-    "valor_al_comprar": 2377500
+    "id_carrito": 185,
+    "id_producto": 64,
+    "fecha_agreg": "2021-10-26T19:22:08.715Z",
+    "valor_al_comprar": 9367600
   },
   {
-    "id_carrito": 38,
-    "id_producto": 9,
-    "fecha_agreg": "2024-01-21T00:31:37.886Z",
-    "valor_al_comprar": 1081600
+    "id_carrito": 51,
+    "id_producto": 39,
+    "fecha_agreg": "2023-02-07T07:37:19.622Z",
+    "valor_al_comprar": 952200
   },
   {
-    "id_carrito": 159,
-    "id_producto": 62,
-    "fecha_agreg": "2024-02-06T14:37:34.859Z",
-    "valor_al_comprar": 2488800
+    "id_carrito": 87,
+    "id_producto": 15,
+    "fecha_agreg": "2021-02-05T03:20:15.751Z",
+    "valor_al_comprar": 7091200
   },
   {
-    "id_carrito": 141,
+    "id_carrito": 181,
+    "id_producto": 37,
+    "fecha_agreg": "2021-03-15T19:50:20.631Z",
+    "valor_al_comprar": 8539400
+  },
+  {
+    "id_carrito": 195,
+    "id_producto": 71,
+    "fecha_agreg": "2021-07-17T14:59:56.139Z",
+    "valor_al_comprar": 4109400
+  },
+  {
+    "id_carrito": 44,
+    "id_producto": 73,
+    "fecha_agreg": "2024-11-22T11:08:41.117Z",
+    "valor_al_comprar": 6613700
+  },
+  {
+    "id_carrito": 15,
+    "id_producto": 88,
+    "fecha_agreg": "2022-09-28T17:49:41.612Z",
+    "valor_al_comprar": 4815200
+  },
+  {
+    "id_carrito": 60,
+    "id_producto": 80,
+    "fecha_agreg": "2020-10-02T09:27:23.897Z",
+    "valor_al_comprar": 8740300
+  },
+  {
+    "id_carrito": 32,
+    "id_producto": 77,
+    "fecha_agreg": "2021-08-10T22:30:42.557Z",
+    "valor_al_comprar": 6407400
+  },
+  {
+    "id_carrito": 35,
+    "id_producto": 87,
+    "fecha_agreg": "2023-06-23T10:06:24.365Z",
+    "valor_al_comprar": 6533600
+  },
+  {
+    "id_carrito": 192,
+    "id_producto": 39,
+    "fecha_agreg": "2023-03-12T08:25:52.819Z",
+    "valor_al_comprar": 4473000
+  },
+  {
+    "id_carrito": 95,
+    "id_producto": 76,
+    "fecha_agreg": "2022-02-12T20:43:32.498Z",
+    "valor_al_comprar": 5247400
+  },
+  {
+    "id_carrito": 190,
+    "id_producto": 73,
+    "fecha_agreg": "2022-08-11T13:55:38.994Z",
+    "valor_al_comprar": 3144300
+  },
+  {
+    "id_carrito": 42,
+    "id_producto": 84,
+    "fecha_agreg": "2022-04-27T13:51:55.230Z",
+    "valor_al_comprar": 2577600
+  },
+  {
+    "id_carrito": 119,
+    "id_producto": 60,
+    "fecha_agreg": "2024-06-11T13:45:34.929Z",
+    "valor_al_comprar": 6607600
+  },
+  {
+    "id_carrito": 100,
+    "id_producto": 73,
+    "fecha_agreg": "2020-08-19T05:19:40.088Z",
+    "valor_al_comprar": 9660800
+  },
+  {
+    "id_carrito": 24,
+    "id_producto": 75,
+    "fecha_agreg": "2020-09-13T22:22:42.335Z",
+    "valor_al_comprar": 9585000
+  },
+  {
+    "id_carrito": 182,
+    "id_producto": 25,
+    "fecha_agreg": "2023-12-23T15:44:41.402Z",
+    "valor_al_comprar": 6946800
+  },
+  {
+    "id_carrito": 85,
+    "id_producto": 65,
+    "fecha_agreg": "2023-05-19T10:28:04.531Z",
+    "valor_al_comprar": 7328500
+  },
+  {
+    "id_carrito": 89,
+    "id_producto": 82,
+    "fecha_agreg": "2020-06-09T06:19:27.227Z",
+    "valor_al_comprar": 961300
+  },
+  {
+    "id_carrito": 106,
+    "id_producto": 8,
+    "fecha_agreg": "2020-02-12T14:15:49.074Z",
+    "valor_al_comprar": 8629800
+  },
+  {
+    "id_carrito": 16,
     "id_producto": 86,
-    "fecha_agreg": "2021-03-26T01:26:03.418Z",
-    "valor_al_comprar": 3422000
-  },
-  {
-    "id_carrito": 193,
-    "id_producto": 17,
-    "fecha_agreg": "2021-10-05T11:02:17.487Z",
-    "valor_al_comprar": 5614900
+    "fecha_agreg": "2020-04-24T23:25:44.821Z",
+    "valor_al_comprar": 9374800
   },
   {
     "id_carrito": 63,
     "id_producto": 88,
-    "fecha_agreg": "2022-09-11T19:12:33.666Z",
-    "valor_al_comprar": 6017700
+    "fecha_agreg": "2021-03-08T16:31:44.258Z",
+    "valor_al_comprar": 3618300
   },
   {
-    "id_carrito": 110,
-    "id_producto": 36,
-    "fecha_agreg": "2022-01-28T16:08:51.697Z",
-    "valor_al_comprar": 8933800
+    "id_carrito": 40,
+    "id_producto": 82,
+    "fecha_agreg": "2021-09-07T07:52:30.905Z",
+    "valor_al_comprar": 6989200
   },
   {
-    "id_carrito": 112,
-    "id_producto": 22,
-    "fecha_agreg": "2021-09-06T01:44:54.477Z",
-    "valor_al_comprar": 2589700
+    "id_carrito": 32,
+    "id_producto": 16,
+    "fecha_agreg": "2023-01-17T02:23:25.740Z",
+    "valor_al_comprar": 6662200
+  },
+  {
+    "id_carrito": 49,
+    "id_producto": 30,
+    "fecha_agreg": "2021-06-06T01:11:39.013Z",
+    "valor_al_comprar": 8833300
+  },
+  {
+    "id_carrito": 158,
+    "id_producto": 65,
+    "fecha_agreg": "2020-06-29T10:23:46.674Z",
+    "valor_al_comprar": 511400
+  },
+  {
+    "id_carrito": 63,
+    "id_producto": 94,
+    "fecha_agreg": "2023-05-04T22:10:19.085Z",
+    "valor_al_comprar": 1095800
+  },
+  {
+    "id_carrito": 140,
+    "id_producto": 29,
+    "fecha_agreg": "2023-11-25T12:42:37.644Z",
+    "valor_al_comprar": 9180800
+  },
+  {
+    "id_carrito": 151,
+    "id_producto": 45,
+    "fecha_agreg": "2022-01-16T13:59:36.547Z",
+    "valor_al_comprar": 157500
+  },
+  {
+    "id_carrito": 42,
+    "id_producto": 62,
+    "fecha_agreg": "2024-11-23T17:52:04.590Z",
+    "valor_al_comprar": 4485000
+  },
+  {
+    "id_carrito": 50,
+    "id_producto": 6,
+    "fecha_agreg": "2020-01-12T21:15:54.823Z",
+    "valor_al_comprar": 6398700
+  },
+  {
+    "id_carrito": 198,
+    "id_producto": 75,
+    "fecha_agreg": "2023-12-28T02:15:19.869Z",
+    "valor_al_comprar": 24700
   },
   {
     "id_carrito": 104,
-    "id_producto": 10,
-    "fecha_agreg": "2023-01-04T21:54:46.328Z",
-    "valor_al_comprar": 9880700
+    "id_producto": 74,
+    "fecha_agreg": "2021-11-05T01:33:33.085Z",
+    "valor_al_comprar": 3044500
   },
   {
-    "id_carrito": 62,
-    "id_producto": 39,
-    "fecha_agreg": "2023-03-09T09:07:16.352Z",
-    "valor_al_comprar": 3408500
+    "id_carrito": 63,
+    "id_producto": 18,
+    "fecha_agreg": "2020-11-02T12:01:20.339Z",
+    "valor_al_comprar": 8666400
   },
   {
-    "id_carrito": 134,
-    "id_producto": 60,
-    "fecha_agreg": "2021-05-28T03:45:35.000Z",
-    "valor_al_comprar": 9010400
-  },
-  {
-    "id_carrito": 11,
-    "id_producto": 89,
-    "fecha_agreg": "2024-01-12T19:27:51.783Z",
-    "valor_al_comprar": 2406200
-  },
-  {
-    "id_carrito": 162,
-    "id_producto": 82,
-    "fecha_agreg": "2020-06-07T09:40:56.088Z",
-    "valor_al_comprar": 8611100
-  },
-  {
-    "id_carrito": 154,
-    "id_producto": 63,
-    "fecha_agreg": "2022-02-11T14:08:50.513Z",
-    "valor_al_comprar": 8810900
-  },
-  {
-    "id_carrito": 28,
-    "id_producto": 72,
-    "fecha_agreg": "2022-08-30T04:06:07.598Z",
-    "valor_al_comprar": 1197800
+    "id_carrito": 93,
+    "id_producto": 40,
+    "fecha_agreg": "2020-12-10T09:57:39.459Z",
+    "valor_al_comprar": 9149900
   },
   {
     "id_carrito": 179,
+    "id_producto": 95,
+    "fecha_agreg": "2023-03-25T08:23:46.151Z",
+    "valor_al_comprar": 2736900
+  },
+  {
+    "id_carrito": 91,
+    "id_producto": 75,
+    "fecha_agreg": "2020-05-26T14:50:54.273Z",
+    "valor_al_comprar": 6880500
+  },
+  {
+    "id_carrito": 105,
+    "id_producto": 20,
+    "fecha_agreg": "2021-09-06T03:25:26.360Z",
+    "valor_al_comprar": 9706800
+  },
+  {
+    "id_carrito": 154,
+    "id_producto": 64,
+    "fecha_agreg": "2020-02-25T06:41:34.307Z",
+    "valor_al_comprar": 2520100
+  },
+  {
+    "id_carrito": 25,
+    "id_producto": 43,
+    "fecha_agreg": "2021-12-19T17:06:01.731Z",
+    "valor_al_comprar": 5059000
+  },
+  {
+    "id_carrito": 141,
+    "id_producto": 47,
+    "fecha_agreg": "2022-03-14T20:36:30.093Z",
+    "valor_al_comprar": 2944700
+  },
+  {
+    "id_carrito": 140,
+    "id_producto": 18,
+    "fecha_agreg": "2020-02-12T05:20:27.283Z",
+    "valor_al_comprar": 8747900
+  },
+  {
+    "id_carrito": 104,
+    "id_producto": 14,
+    "fecha_agreg": "2021-06-16T02:39:33.195Z",
+    "valor_al_comprar": 187200
+  },
+  {
+    "id_carrito": 114,
+    "id_producto": 18,
+    "fecha_agreg": "2020-02-20T08:35:04.992Z",
+    "valor_al_comprar": 9222000
+  },
+  {
+    "id_carrito": 3,
+    "id_producto": 26,
+    "fecha_agreg": "2020-05-16T03:40:25.886Z",
+    "valor_al_comprar": 6887200
+  },
+  {
+    "id_carrito": 133,
+    "id_producto": 90,
+    "fecha_agreg": "2022-03-22T13:22:06.495Z",
+    "valor_al_comprar": 9494300
+  },
+  {
+    "id_carrito": 101,
+    "id_producto": 8,
+    "fecha_agreg": "2022-04-14T21:19:28.222Z",
+    "valor_al_comprar": 8085600
+  },
+  {
+    "id_carrito": 75,
+    "id_producto": 33,
+    "fecha_agreg": "2022-01-22T01:37:48.718Z",
+    "valor_al_comprar": 7457400
+  },
+  {
+    "id_carrito": 88,
+    "id_producto": 53,
+    "fecha_agreg": "2023-02-06T19:04:40.844Z",
+    "valor_al_comprar": 1127700
+  },
+  {
+    "id_carrito": 185,
+    "id_producto": 56,
+    "fecha_agreg": "2021-05-06T05:02:54.881Z",
+    "valor_al_comprar": 1364800
+  },
+  {
+    "id_carrito": 67,
+    "id_producto": 46,
+    "fecha_agreg": "2020-08-04T19:20:59.928Z",
+    "valor_al_comprar": 2178800
+  },
+  {
+    "id_carrito": 135,
+    "id_producto": 19,
+    "fecha_agreg": "2021-03-02T04:55:07.119Z",
+    "valor_al_comprar": 6556700
+  },
+  {
+    "id_carrito": 176,
+    "id_producto": 70,
+    "fecha_agreg": "2023-02-17T21:51:38.289Z",
+    "valor_al_comprar": 6826600
+  },
+  {
+    "id_carrito": 27,
+    "id_producto": 68,
+    "fecha_agreg": "2022-02-25T14:40:19.686Z",
+    "valor_al_comprar": 28200
+  },
+  {
+    "id_carrito": 123,
+    "id_producto": 70,
+    "fecha_agreg": "2022-03-24T12:44:28.389Z",
+    "valor_al_comprar": 467400
+  },
+  {
+    "id_carrito": 159,
+    "id_producto": 97,
+    "fecha_agreg": "2024-03-18T16:05:33.987Z",
+    "valor_al_comprar": 1377000
+  },
+  {
+    "id_carrito": 47,
+    "id_producto": 52,
+    "fecha_agreg": "2022-11-16T01:22:54.699Z",
+    "valor_al_comprar": 2606900
+  },
+  {
+    "id_carrito": 59,
+    "id_producto": 72,
+    "fecha_agreg": "2024-06-04T16:10:16.382Z",
+    "valor_al_comprar": 1647100
+  },
+  {
+    "id_carrito": 126,
+    "id_producto": 9,
+    "fecha_agreg": "2020-03-08T21:08:44.158Z",
+    "valor_al_comprar": 7245500
+  },
+  {
+    "id_carrito": 181,
+    "id_producto": 82,
+    "fecha_agreg": "2023-12-18T05:25:20.398Z",
+    "valor_al_comprar": 3820100
+  },
+  {
+    "id_carrito": 5,
+    "id_producto": 11,
+    "fecha_agreg": "2021-01-07T05:17:21.145Z",
+    "valor_al_comprar": 3085800
+  },
+  {
+    "id_carrito": 6,
+    "id_producto": 8,
+    "fecha_agreg": "2020-05-19T18:56:38.859Z",
+    "valor_al_comprar": 1434400
+  },
+  {
+    "id_carrito": 199,
+    "id_producto": 31,
+    "fecha_agreg": "2022-02-11T20:10:31.115Z",
+    "valor_al_comprar": 419800
+  },
+  {
+    "id_carrito": 140,
+    "id_producto": 55,
+    "fecha_agreg": "2020-08-30T09:47:02.518Z",
+    "valor_al_comprar": 3038100
+  },
+  {
+    "id_carrito": 102,
+    "id_producto": 1,
+    "fecha_agreg": "2023-05-09T07:03:17.131Z",
+    "valor_al_comprar": 4007100
+  },
+  {
+    "id_carrito": 47,
+    "id_producto": 91,
+    "fecha_agreg": "2021-11-20T14:13:46.475Z",
+    "valor_al_comprar": 7961400
+  },
+  {
+    "id_carrito": 148,
+    "id_producto": 64,
+    "fecha_agreg": "2020-07-24T04:01:18.787Z",
+    "valor_al_comprar": 3426900
+  },
+  {
+    "id_carrito": 137,
+    "id_producto": 67,
+    "fecha_agreg": "2024-01-13T04:27:10.782Z",
+    "valor_al_comprar": 8010600
+  },
+  {
+    "id_carrito": 2,
+    "id_producto": 67,
+    "fecha_agreg": "2020-07-11T07:45:02.105Z",
+    "valor_al_comprar": 1450200
+  },
+  {
+    "id_carrito": 187,
+    "id_producto": 14,
+    "fecha_agreg": "2020-03-02T19:20:05.606Z",
+    "valor_al_comprar": 3437800
+  },
+  {
+    "id_carrito": 122,
+    "id_producto": 2,
+    "fecha_agreg": "2022-11-19T07:49:49.122Z",
+    "valor_al_comprar": 6561800
+  },
+  {
+    "id_carrito": 23,
+    "id_producto": 8,
+    "fecha_agreg": "2023-05-24T09:03:57.735Z",
+    "valor_al_comprar": 9214700
+  },
+  {
+    "id_carrito": 89,
+    "id_producto": 89,
+    "fecha_agreg": "2024-05-03T14:38:26.929Z",
+    "valor_al_comprar": 9813200
+  },
+  {
+    "id_carrito": 182,
+    "id_producto": 97,
+    "fecha_agreg": "2022-01-14T10:11:10.744Z",
+    "valor_al_comprar": 1758200
+  },
+  {
+    "id_carrito": 93,
+    "id_producto": 80,
+    "fecha_agreg": "2021-06-12T09:12:24.862Z",
+    "valor_al_comprar": 6648100
+  },
+  {
+    "id_carrito": 11,
+    "id_producto": 22,
+    "fecha_agreg": "2023-06-28T20:01:25.974Z",
+    "valor_al_comprar": 7475400
+  },
+  {
+    "id_carrito": 126,
+    "id_producto": 43,
+    "fecha_agreg": "2020-11-06T06:33:53.579Z",
+    "valor_al_comprar": 3155300
+  },
+  {
+    "id_carrito": 53,
+    "id_producto": 42,
+    "fecha_agreg": "2021-12-31T18:26:02.112Z",
+    "valor_al_comprar": 9569300
+  },
+  {
+    "id_carrito": 55,
+    "id_producto": 83,
+    "fecha_agreg": "2024-03-03T04:03:23.814Z",
+    "valor_al_comprar": 6965300
+  },
+  {
+    "id_carrito": 170,
+    "id_producto": 23,
+    "fecha_agreg": "2023-07-01T08:59:18.914Z",
+    "valor_al_comprar": 3317400
+  },
+  {
+    "id_carrito": 49,
+    "id_producto": 44,
+    "fecha_agreg": "2021-11-02T06:49:48.333Z",
+    "valor_al_comprar": 8408000
+  },
+  {
+    "id_carrito": 114,
+    "id_producto": 53,
+    "fecha_agreg": "2022-08-01T10:03:52.891Z",
+    "valor_al_comprar": 3795400
+  },
+  {
+    "id_carrito": 38,
+    "id_producto": 62,
+    "fecha_agreg": "2023-11-26T08:59:39.268Z",
+    "valor_al_comprar": 4520300
+  },
+  {
+    "id_carrito": 27,
+    "id_producto": 67,
+    "fecha_agreg": "2023-03-18T23:31:51.883Z",
+    "valor_al_comprar": 3653500
+  },
+  {
+    "id_carrito": 19,
+    "id_producto": 26,
+    "fecha_agreg": "2020-09-27T00:20:05.571Z",
+    "valor_al_comprar": 4147600
+  },
+  {
+    "id_carrito": 148,
+    "id_producto": 51,
+    "fecha_agreg": "2024-05-16T18:51:42.679Z",
+    "valor_al_comprar": 1437800
+  },
+  {
+    "id_carrito": 128,
+    "id_producto": 33,
+    "fecha_agreg": "2023-02-09T21:11:58.422Z",
+    "valor_al_comprar": 5546600
+  },
+  {
+    "id_carrito": 93,
+    "id_producto": 38,
+    "fecha_agreg": "2023-08-19T08:40:02.746Z",
+    "valor_al_comprar": 2852100
+  },
+  {
+    "id_carrito": 21,
+    "id_producto": 56,
+    "fecha_agreg": "2021-07-30T04:00:25.449Z",
+    "valor_al_comprar": 6827700
+  },
+  {
+    "id_carrito": 65,
+    "id_producto": 31,
+    "fecha_agreg": "2021-09-18T22:42:01.179Z",
+    "valor_al_comprar": 2831700
+  },
+  {
+    "id_carrito": 30,
+    "id_producto": 60,
+    "fecha_agreg": "2021-09-21T10:41:11.925Z",
+    "valor_al_comprar": 1924200
+  },
+  {
+    "id_carrito": 25,
+    "id_producto": 89,
+    "fecha_agreg": "2023-05-12T22:42:31.244Z",
+    "valor_al_comprar": 8076800
+  },
+  {
+    "id_carrito": 57,
+    "id_producto": 12,
+    "fecha_agreg": "2021-11-18T23:33:00.935Z",
+    "valor_al_comprar": 6227200
+  },
+  {
+    "id_carrito": 200,
+    "id_producto": 75,
+    "fecha_agreg": "2023-10-08T21:39:55.563Z",
+    "valor_al_comprar": 3032100
+  },
+  {
+    "id_carrito": 59,
+    "id_producto": 53,
+    "fecha_agreg": "2024-07-07T01:32:27.719Z",
+    "valor_al_comprar": 4526400
+  },
+  {
+    "id_carrito": 198,
+    "id_producto": 55,
+    "fecha_agreg": "2024-09-22T23:19:11.015Z",
+    "valor_al_comprar": 4410700
+  },
+  {
+    "id_carrito": 79,
+    "id_producto": 98,
+    "fecha_agreg": "2020-07-17T12:19:29.386Z",
+    "valor_al_comprar": 2080300
+  },
+  {
+    "id_carrito": 159,
+    "id_producto": 16,
+    "fecha_agreg": "2023-06-07T14:21:27.139Z",
+    "valor_al_comprar": 201500
+  },
+  {
+    "id_carrito": 117,
+    "id_producto": 34,
+    "fecha_agreg": "2022-11-29T09:18:08.477Z",
+    "valor_al_comprar": 5010700
+  },
+  {
+    "id_carrito": 178,
+    "id_producto": 26,
+    "fecha_agreg": "2021-01-08T02:37:52.111Z",
+    "valor_al_comprar": 1774700
+  },
+  {
+    "id_carrito": 173,
+    "id_producto": 96,
+    "fecha_agreg": "2024-11-05T06:02:53.186Z",
+    "valor_al_comprar": 3492900
+  },
+  {
+    "id_carrito": 186,
+    "id_producto": 36,
+    "fecha_agreg": "2022-12-02T17:30:31.831Z",
+    "valor_al_comprar": 9582500
+  },
+  {
+    "id_carrito": 12,
+    "id_producto": 61,
+    "fecha_agreg": "2022-12-04T22:31:04.012Z",
+    "valor_al_comprar": 7094600
+  },
+  {
+    "id_carrito": 188,
+    "id_producto": 10,
+    "fecha_agreg": "2024-06-09T18:28:55.566Z",
+    "valor_al_comprar": 3673400
+  },
+  {
+    "id_carrito": 84,
+    "id_producto": 97,
+    "fecha_agreg": "2023-03-02T20:11:25.278Z",
+    "valor_al_comprar": 4898300
+  },
+  {
+    "id_carrito": 175,
+    "id_producto": 82,
+    "fecha_agreg": "2021-03-22T16:39:27.640Z",
+    "valor_al_comprar": 4389100
+  },
+  {
+    "id_carrito": 66,
+    "id_producto": 79,
+    "fecha_agreg": "2022-05-04T04:42:26.859Z",
+    "valor_al_comprar": 2597200
+  },
+  {
+    "id_carrito": 172,
+    "id_producto": 73,
+    "fecha_agreg": "2022-02-15T08:20:49.358Z",
+    "valor_al_comprar": 7274800
+  },
+  {
+    "id_carrito": 2,
+    "id_producto": 100,
+    "fecha_agreg": "2023-10-09T12:03:45.859Z",
+    "valor_al_comprar": 1048000
+  },
+  {
+    "id_carrito": 139,
+    "id_producto": 54,
+    "fecha_agreg": "2023-02-08T05:35:50.574Z",
+    "valor_al_comprar": 3556300
+  },
+  {
+    "id_carrito": 163,
+    "id_producto": 77,
+    "fecha_agreg": "2020-02-03T17:15:58.755Z",
+    "valor_al_comprar": 2154500
+  },
+  {
+    "id_carrito": 59,
+    "id_producto": 14,
+    "fecha_agreg": "2021-11-16T07:24:02.334Z",
+    "valor_al_comprar": 8067100
+  },
+  {
+    "id_carrito": 183,
+    "id_producto": 16,
+    "fecha_agreg": "2024-01-18T12:25:15.319Z",
+    "valor_al_comprar": 808300
+  },
+  {
+    "id_carrito": 39,
+    "id_producto": 26,
+    "fecha_agreg": "2019-12-26T18:46:55.983Z",
+    "valor_al_comprar": 4997000
+  },
+  {
+    "id_carrito": 57,
+    "id_producto": 51,
+    "fecha_agreg": "2021-02-08T22:42:39.946Z",
+    "valor_al_comprar": 9239600
+  },
+  {
+    "id_carrito": 25,
+    "id_producto": 65,
+    "fecha_agreg": "2021-02-22T10:19:29.801Z",
+    "valor_al_comprar": 3358000
+  },
+  {
+    "id_carrito": 95,
+    "id_producto": 25,
+    "fecha_agreg": "2020-07-22T01:30:54.168Z",
+    "valor_al_comprar": 1855100
+  },
+  {
+    "id_carrito": 27,
+    "id_producto": 50,
+    "fecha_agreg": "2024-03-20T02:55:35.699Z",
+    "valor_al_comprar": 1402200
+  },
+  {
+    "id_carrito": 70,
+    "id_producto": 9,
+    "fecha_agreg": "2021-02-14T07:50:00.794Z",
+    "valor_al_comprar": 312000
+  },
+  {
+    "id_carrito": 160,
+    "id_producto": 60,
+    "fecha_agreg": "2024-01-26T16:41:28.683Z",
+    "valor_al_comprar": 2136000
+  },
+  {
+    "id_carrito": 92,
+    "id_producto": 70,
+    "fecha_agreg": "2021-11-22T18:46:44.569Z",
+    "valor_al_comprar": 7504100
+  },
+  {
+    "id_carrito": 43,
+    "id_producto": 72,
+    "fecha_agreg": "2022-09-24T05:14:49.037Z",
+    "valor_al_comprar": 7787500
+  },
+  {
+    "id_carrito": 138,
+    "id_producto": 25,
+    "fecha_agreg": "2022-08-27T23:07:39.592Z",
+    "valor_al_comprar": 9550000
+  },
+  {
+    "id_carrito": 41,
+    "id_producto": 36,
+    "fecha_agreg": "2022-02-27T21:02:48.062Z",
+    "valor_al_comprar": 1726700
+  },
+  {
+    "id_carrito": 53,
+    "id_producto": 34,
+    "fecha_agreg": "2022-06-12T02:20:28.766Z",
+    "valor_al_comprar": 5423600
+  },
+  {
+    "id_carrito": 59,
+    "id_producto": 91,
+    "fecha_agreg": "2021-06-27T18:42:03.876Z",
+    "valor_al_comprar": 1912200
+  },
+  {
+    "id_carrito": 159,
+    "id_producto": 61,
+    "fecha_agreg": "2022-02-22T08:17:00.259Z",
+    "valor_al_comprar": 8809800
+  },
+  {
+    "id_carrito": 39,
+    "id_producto": 75,
+    "fecha_agreg": "2022-02-16T22:49:52.916Z",
+    "valor_al_comprar": 4202500
+  },
+  {
+    "id_carrito": 132,
+    "id_producto": 99,
+    "fecha_agreg": "2023-12-03T01:07:35.258Z",
+    "valor_al_comprar": 136600
+  },
+  {
+    "id_carrito": 96,
+    "id_producto": 81,
+    "fecha_agreg": "2021-03-15T02:12:45.915Z",
+    "valor_al_comprar": 6990200
+  },
+  {
+    "id_carrito": 17,
+    "id_producto": 77,
+    "fecha_agreg": "2021-05-09T10:53:05.269Z",
+    "valor_al_comprar": 7757300
+  },
+  {
+    "id_carrito": 104,
+    "id_producto": 40,
+    "fecha_agreg": "2022-04-27T15:01:59.837Z",
+    "valor_al_comprar": 7388500
+  },
+  {
+    "id_carrito": 156,
+    "id_producto": 53,
+    "fecha_agreg": "2020-10-05T07:06:33.414Z",
+    "valor_al_comprar": 6630200
+  },
+  {
+    "id_carrito": 197,
+    "id_producto": 100,
+    "fecha_agreg": "2022-12-13T01:49:31.822Z",
+    "valor_al_comprar": 6378200
+  },
+  {
+    "id_carrito": 169,
+    "id_producto": 44,
+    "fecha_agreg": "2022-07-07T09:53:35.937Z",
+    "valor_al_comprar": 6837100
+  },
+  {
+    "id_carrito": 24,
+    "id_producto": 94,
+    "fecha_agreg": "2022-12-13T10:43:44.635Z",
+    "valor_al_comprar": 618500
+  },
+  {
+    "id_carrito": 112,
     "id_producto": 15,
-    "fecha_agreg": "2024-05-22T01:37:00.224Z",
-    "valor_al_comprar": 4786700
+    "fecha_agreg": "2021-12-13T03:43:16.110Z",
+    "valor_al_comprar": 9750900
+  },
+  {
+    "id_carrito": 3,
+    "id_producto": 3,
+    "fecha_agreg": "2024-01-29T04:17:14.810Z",
+    "valor_al_comprar": 4450200
+  },
+  {
+    "id_carrito": 189,
+    "id_producto": 35,
+    "fecha_agreg": "2020-11-07T18:56:36.074Z",
+    "valor_al_comprar": 3933600
+  },
+  {
+    "id_carrito": 25,
+    "id_producto": 22,
+    "fecha_agreg": "2024-03-08T20:03:06.817Z",
+    "valor_al_comprar": 3762500
+  },
+  {
+    "id_carrito": 20,
+    "id_producto": 56,
+    "fecha_agreg": "2023-02-16T12:39:07.494Z",
+    "valor_al_comprar": 3557100
+  },
+  {
+    "id_carrito": 121,
+    "id_producto": 88,
+    "fecha_agreg": "2024-04-28T14:52:51.874Z",
+    "valor_al_comprar": 8068100
+  },
+  {
+    "id_carrito": 152,
+    "id_producto": 38,
+    "fecha_agreg": "2021-11-22T14:50:02.045Z",
+    "valor_al_comprar": 7778900
+  },
+  {
+    "id_carrito": 125,
+    "id_producto": 87,
+    "fecha_agreg": "2020-05-05T05:04:19.034Z",
+    "valor_al_comprar": 7283400
+  },
+  {
+    "id_carrito": 181,
+    "id_producto": 62,
+    "fecha_agreg": "2020-03-02T16:01:58.903Z",
+    "valor_al_comprar": 2333600
+  },
+  {
+    "id_carrito": 198,
+    "id_producto": 36,
+    "fecha_agreg": "2021-07-18T11:16:15.074Z",
+    "valor_al_comprar": 4436000
+  },
+  {
+    "id_carrito": 132,
+    "id_producto": 95,
+    "fecha_agreg": "2022-08-22T04:29:37.279Z",
+    "valor_al_comprar": 5543200
+  },
+  {
+    "id_carrito": 15,
+    "id_producto": 50,
+    "fecha_agreg": "2024-07-22T12:51:09.560Z",
+    "valor_al_comprar": 4947500
+  },
+  {
+    "id_carrito": 153,
+    "id_producto": 54,
+    "fecha_agreg": "2024-03-06T08:52:49.903Z",
+    "valor_al_comprar": 3143800
+  },
+  {
+    "id_carrito": 122,
+    "id_producto": 35,
+    "fecha_agreg": "2022-06-06T21:43:00.458Z",
+    "valor_al_comprar": 544000
+  },
+  {
+    "id_carrito": 30,
+    "id_producto": 10,
+    "fecha_agreg": "2022-09-04T11:04:01.250Z",
+    "valor_al_comprar": 422500
+  },
+  {
+    "id_carrito": 163,
+    "id_producto": 27,
+    "fecha_agreg": "2022-08-07T17:14:27.745Z",
+    "valor_al_comprar": 8453600
+  },
+  {
+    "id_carrito": 176,
+    "id_producto": 2,
+    "fecha_agreg": "2024-08-19T09:23:17.130Z",
+    "valor_al_comprar": 6581800
+  },
+  {
+    "id_carrito": 94,
+    "id_producto": 47,
+    "fecha_agreg": "2019-12-28T03:25:55.763Z",
+    "valor_al_comprar": 3443400
+  },
+  {
+    "id_carrito": 51,
+    "id_producto": 60,
+    "fecha_agreg": "2022-10-23T05:03:02.864Z",
+    "valor_al_comprar": 5166400
+  },
+  {
+    "id_carrito": 160,
+    "id_producto": 77,
+    "fecha_agreg": "2023-07-26T00:47:09.419Z",
+    "valor_al_comprar": 1020100
+  },
+  {
+    "id_carrito": 35,
+    "id_producto": 81,
+    "fecha_agreg": "2023-07-06T01:37:24.202Z",
+    "valor_al_comprar": 831600
+  },
+  {
+    "id_carrito": 92,
+    "id_producto": 53,
+    "fecha_agreg": "2020-05-06T12:48:42.371Z",
+    "valor_al_comprar": 4819000
+  },
+  {
+    "id_carrito": 168,
+    "id_producto": 25,
+    "fecha_agreg": "2024-12-09T16:59:26.298Z",
+    "valor_al_comprar": 5495400
+  },
+  {
+    "id_carrito": 50,
+    "id_producto": 8,
+    "fecha_agreg": "2023-02-21T02:42:11.325Z",
+    "valor_al_comprar": 2073100
+  },
+  {
+    "id_carrito": 43,
+    "id_producto": 6,
+    "fecha_agreg": "2021-05-17T22:39:56.898Z",
+    "valor_al_comprar": 5462800
+  },
+  {
+    "id_carrito": 131,
+    "id_producto": 11,
+    "fecha_agreg": "2024-03-28T15:45:03.268Z",
+    "valor_al_comprar": 9217600
+  },
+  {
+    "id_carrito": 6,
+    "id_producto": 29,
+    "fecha_agreg": "2024-10-01T23:23:24.436Z",
+    "valor_al_comprar": 3829300
+  },
+  {
+    "id_carrito": 3,
+    "id_producto": 4,
+    "fecha_agreg": "2021-01-31T10:44:42.320Z",
+    "valor_al_comprar": 52500
+  },
+  {
+    "id_carrito": 82,
+    "id_producto": 51,
+    "fecha_agreg": "2021-11-21T05:04:29.942Z",
+    "valor_al_comprar": 1505400
+  },
+  {
+    "id_carrito": 8,
+    "id_producto": 49,
+    "fecha_agreg": "2022-08-10T05:28:35.599Z",
+    "valor_al_comprar": 9525200
+  },
+  {
+    "id_carrito": 181,
+    "id_producto": 77,
+    "fecha_agreg": "2020-11-01T10:11:18.924Z",
+    "valor_al_comprar": 4808000
+  },
+  {
+    "id_carrito": 13,
+    "id_producto": 62,
+    "fecha_agreg": "2023-04-17T14:07:23.411Z",
+    "valor_al_comprar": 3403700
+  },
+  {
+    "id_carrito": 156,
+    "id_producto": 60,
+    "fecha_agreg": "2021-08-28T01:22:27.375Z",
+    "valor_al_comprar": 6006000
+  },
+  {
+    "id_carrito": 137,
+    "id_producto": 73,
+    "fecha_agreg": "2020-03-15T09:09:02.314Z",
+    "valor_al_comprar": 7227300
+  },
+  {
+    "id_carrito": 190,
+    "id_producto": 9,
+    "fecha_agreg": "2020-01-31T12:29:33.368Z",
+    "valor_al_comprar": 6757700
+  },
+  {
+    "id_carrito": 86,
+    "id_producto": 66,
+    "fecha_agreg": "2021-10-01T13:29:53.083Z",
+    "valor_al_comprar": 2275200
+  },
+  {
+    "id_carrito": 29,
+    "id_producto": 70,
+    "fecha_agreg": "2022-02-23T05:05:35.391Z",
+    "valor_al_comprar": 7389700
+  },
+  {
+    "id_carrito": 18,
+    "id_producto": 43,
+    "fecha_agreg": "2020-08-08T18:28:53.645Z",
+    "valor_al_comprar": 2905200
+  },
+  {
+    "id_carrito": 111,
+    "id_producto": 92,
+    "fecha_agreg": "2022-04-05T00:04:20.768Z",
+    "valor_al_comprar": 2631700
+  },
+  {
+    "id_carrito": 102,
+    "id_producto": 1,
+    "fecha_agreg": "2020-11-11T11:27:30.659Z",
+    "valor_al_comprar": 3353500
+  },
+  {
+    "id_carrito": 132,
+    "id_producto": 21,
+    "fecha_agreg": "2023-12-20T06:45:01.533Z",
+    "valor_al_comprar": 5418100
+  },
+  {
+    "id_carrito": 142,
+    "id_producto": 5,
+    "fecha_agreg": "2020-07-17T08:11:26.386Z",
+    "valor_al_comprar": 9480300
+  },
+  {
+    "id_carrito": 33,
+    "id_producto": 9,
+    "fecha_agreg": "2021-01-19T16:43:43.862Z",
+    "valor_al_comprar": 9416300
+  },
+  {
+    "id_carrito": 160,
+    "id_producto": 92,
+    "fecha_agreg": "2022-08-20T19:27:36.024Z",
+    "valor_al_comprar": 2933600
+  },
+  {
+    "id_carrito": 191,
+    "id_producto": 96,
+    "fecha_agreg": "2022-12-03T08:32:12.297Z",
+    "valor_al_comprar": 6710700
+  },
+  {
+    "id_carrito": 187,
+    "id_producto": 55,
+    "fecha_agreg": "2024-04-07T18:00:27.652Z",
+    "valor_al_comprar": 2100900
+  },
+  {
+    "id_carrito": 166,
+    "id_producto": 73,
+    "fecha_agreg": "2024-10-30T19:28:20.101Z",
+    "valor_al_comprar": 8863400
+  },
+  {
+    "id_carrito": 147,
+    "id_producto": 62,
+    "fecha_agreg": "2021-11-15T15:55:41.694Z",
+    "valor_al_comprar": 415900
+  },
+  {
+    "id_carrito": 84,
+    "id_producto": 69,
+    "fecha_agreg": "2020-12-04T03:30:19.596Z",
+    "valor_al_comprar": 8675200
+  },
+  {
+    "id_carrito": 164,
+    "id_producto": 67,
+    "fecha_agreg": "2021-02-03T07:11:09.605Z",
+    "valor_al_comprar": 9107400
+  },
+  {
+    "id_carrito": 69,
+    "id_producto": 80,
+    "fecha_agreg": "2022-03-07T15:26:40.368Z",
+    "valor_al_comprar": 4508500
+  },
+  {
+    "id_carrito": 183,
+    "id_producto": 79,
+    "fecha_agreg": "2020-04-12T19:18:25.255Z",
+    "valor_al_comprar": 588400
+  },
+  {
+    "id_carrito": 180,
+    "id_producto": 96,
+    "fecha_agreg": "2022-01-09T14:01:49.925Z",
+    "valor_al_comprar": 8770200
+  },
+  {
+    "id_carrito": 75,
+    "id_producto": 93,
+    "fecha_agreg": "2022-09-03T03:46:21.391Z",
+    "valor_al_comprar": 9583700
+  },
+  {
+    "id_carrito": 175,
+    "id_producto": 93,
+    "fecha_agreg": "2022-11-29T02:45:54.129Z",
+    "valor_al_comprar": 5791600
+  },
+  {
+    "id_carrito": 104,
+    "id_producto": 50,
+    "fecha_agreg": "2020-08-17T20:08:54.595Z",
+    "valor_al_comprar": 2987300
+  },
+  {
+    "id_carrito": 88,
+    "id_producto": 80,
+    "fecha_agreg": "2022-09-21T17:08:36.447Z",
+    "valor_al_comprar": 2547800
+  },
+  {
+    "id_carrito": 183,
+    "id_producto": 16,
+    "fecha_agreg": "2022-04-17T09:23:53.091Z",
+    "valor_al_comprar": 1129000
+  },
+  {
+    "id_carrito": 148,
+    "id_producto": 73,
+    "fecha_agreg": "2022-01-22T17:18:08.806Z",
+    "valor_al_comprar": 5599000
+  },
+  {
+    "id_carrito": 54,
+    "id_producto": 27,
+    "fecha_agreg": "2023-11-19T10:16:43.378Z",
+    "valor_al_comprar": 9625500
+  },
+  {
+    "id_carrito": 70,
+    "id_producto": 100,
+    "fecha_agreg": "2024-04-16T01:03:58.005Z",
+    "valor_al_comprar": 3268400
+  },
+  {
+    "id_carrito": 79,
+    "id_producto": 72,
+    "fecha_agreg": "2022-06-06T11:22:39.427Z",
+    "valor_al_comprar": 4266400
+  },
+  {
+    "id_carrito": 141,
+    "id_producto": 84,
+    "fecha_agreg": "2022-04-23T17:16:35.426Z",
+    "valor_al_comprar": 6653200
+  },
+  {
+    "id_carrito": 121,
+    "id_producto": 19,
+    "fecha_agreg": "2019-12-24T23:14:33.732Z",
+    "valor_al_comprar": 4427700
+  },
+  {
+    "id_carrito": 1,
+    "id_producto": 3,
+    "fecha_agreg": "2021-06-30T06:42:06.132Z",
+    "valor_al_comprar": 2312200
+  },
+  {
+    "id_carrito": 73,
+    "id_producto": 57,
+    "fecha_agreg": "2021-08-26T20:24:24.328Z",
+    "valor_al_comprar": 6418000
+  },
+  {
+    "id_carrito": 131,
+    "id_producto": 78,
+    "fecha_agreg": "2020-04-26T07:40:09.277Z",
+    "valor_al_comprar": 6319500
+  },
+  {
+    "id_carrito": 75,
+    "id_producto": 75,
+    "fecha_agreg": "2021-09-09T08:33:31.520Z",
+    "valor_al_comprar": 3295800
+  },
+  {
+    "id_carrito": 152,
+    "id_producto": 24,
+    "fecha_agreg": "2024-11-03T04:53:07.689Z",
+    "valor_al_comprar": 5797000
+  },
+  {
+    "id_carrito": 147,
+    "id_producto": 47,
+    "fecha_agreg": "2021-02-06T21:34:16.281Z",
+    "valor_al_comprar": 2982800
+  },
+  {
+    "id_carrito": 58,
+    "id_producto": 88,
+    "fecha_agreg": "2024-10-04T09:31:38.527Z",
+    "valor_al_comprar": 2448900
+  },
+  {
+    "id_carrito": 101,
+    "id_producto": 72,
+    "fecha_agreg": "2024-01-14T04:31:22.737Z",
+    "valor_al_comprar": 4277700
+  },
+  {
+    "id_carrito": 111,
+    "id_producto": 4,
+    "fecha_agreg": "2020-01-16T11:40:05.640Z",
+    "valor_al_comprar": 7926100
+  },
+  {
+    "id_carrito": 102,
+    "id_producto": 77,
+    "fecha_agreg": "2022-07-10T22:59:35.222Z",
+    "valor_al_comprar": 2744200
+  },
+  {
+    "id_carrito": 140,
+    "id_producto": 67,
+    "fecha_agreg": "2023-12-23T19:04:00.338Z",
+    "valor_al_comprar": 2573600
+  },
+  {
+    "id_carrito": 106,
+    "id_producto": 63,
+    "fecha_agreg": "2020-03-29T08:40:21.116Z",
+    "valor_al_comprar": 5550900
+  },
+  {
+    "id_carrito": 99,
+    "id_producto": 72,
+    "fecha_agreg": "2021-06-02T12:40:43.919Z",
+    "valor_al_comprar": 4331400
+  },
+  {
+    "id_carrito": 148,
+    "id_producto": 3,
+    "fecha_agreg": "2022-07-31T17:44:52.794Z",
+    "valor_al_comprar": 93500
+  },
+  {
+    "id_carrito": 46,
+    "id_producto": 74,
+    "fecha_agreg": "2023-02-28T13:55:17.855Z",
+    "valor_al_comprar": 36300
+  },
+  {
+    "id_carrito": 40,
+    "id_producto": 53,
+    "fecha_agreg": "2021-12-27T05:47:35.911Z",
+    "valor_al_comprar": 7572500
+  },
+  {
+    "id_carrito": 177,
+    "id_producto": 82,
+    "fecha_agreg": "2023-12-30T14:53:51.491Z",
+    "valor_al_comprar": 3858000
+  },
+  {
+    "id_carrito": 140,
+    "id_producto": 18,
+    "fecha_agreg": "2022-01-11T19:32:47.537Z",
+    "valor_al_comprar": 923100
+  },
+  {
+    "id_carrito": 132,
+    "id_producto": 72,
+    "fecha_agreg": "2023-07-10T01:56:16.840Z",
+    "valor_al_comprar": 5767800
+  },
+  {
+    "id_carrito": 4,
+    "id_producto": 81,
+    "fecha_agreg": "2024-08-02T17:38:11.986Z",
+    "valor_al_comprar": 6525200
+  },
+  {
+    "id_carrito": 107,
+    "id_producto": 22,
+    "fecha_agreg": "2023-08-02T13:11:16.458Z",
+    "valor_al_comprar": 6691700
+  },
+  {
+    "id_carrito": 112,
+    "id_producto": 4,
+    "fecha_agreg": "2024-08-06T19:59:04.440Z",
+    "valor_al_comprar": 1392100
+  },
+  {
+    "id_carrito": 102,
+    "id_producto": 86,
+    "fecha_agreg": "2020-07-06T02:43:10.136Z",
+    "valor_al_comprar": 4203000
+  },
+  {
+    "id_carrito": 24,
+    "id_producto": 32,
+    "fecha_agreg": "2021-08-24T04:56:14.548Z",
+    "valor_al_comprar": 4056800
+  },
+  {
+    "id_carrito": 11,
+    "id_producto": 74,
+    "fecha_agreg": "2020-04-16T21:19:59.417Z",
+    "valor_al_comprar": 3248700
+  },
+  {
+    "id_carrito": 128,
+    "id_producto": 19,
+    "fecha_agreg": "2021-11-15T20:26:33.045Z",
+    "valor_al_comprar": 2334000
+  },
+  {
+    "id_carrito": 162,
+    "id_producto": 92,
+    "fecha_agreg": "2020-06-19T17:29:08.130Z",
+    "valor_al_comprar": 8616200
+  },
+  {
+    "id_carrito": 75,
+    "id_producto": 11,
+    "fecha_agreg": "2020-02-18T05:18:44.488Z",
+    "valor_al_comprar": 2825900
+  },
+  {
+    "id_carrito": 182,
+    "id_producto": 94,
+    "fecha_agreg": "2023-05-27T04:18:01.202Z",
+    "valor_al_comprar": 9361400
+  },
+  {
+    "id_carrito": 62,
+    "id_producto": 19,
+    "fecha_agreg": "2021-06-29T10:44:18.827Z",
+    "valor_al_comprar": 9178500
+  },
+  {
+    "id_carrito": 82,
+    "id_producto": 42,
+    "fecha_agreg": "2022-07-21T11:43:52.463Z",
+    "valor_al_comprar": 9361100
+  },
+  {
+    "id_carrito": 140,
+    "id_producto": 57,
+    "fecha_agreg": "2024-06-06T11:10:03.947Z",
+    "valor_al_comprar": 7777100
+  },
+  {
+    "id_carrito": 59,
+    "id_producto": 11,
+    "fecha_agreg": "2021-12-02T07:26:21.687Z",
+    "valor_al_comprar": 960300
+  },
+  {
+    "id_carrito": 177,
+    "id_producto": 93,
+    "fecha_agreg": "2023-12-09T10:33:26.999Z",
+    "valor_al_comprar": 4668000
+  },
+  {
+    "id_carrito": 9,
+    "id_producto": 4,
+    "fecha_agreg": "2023-05-13T10:02:43.384Z",
+    "valor_al_comprar": 9910000
+  },
+  {
+    "id_carrito": 116,
+    "id_producto": 99,
+    "fecha_agreg": "2023-03-24T18:28:36.762Z",
+    "valor_al_comprar": 4408600
+  },
+  {
+    "id_carrito": 82,
+    "id_producto": 53,
+    "fecha_agreg": "2023-10-20T07:15:35.086Z",
+    "valor_al_comprar": 4161100
+  },
+  {
+    "id_carrito": 144,
+    "id_producto": 43,
+    "fecha_agreg": "2022-07-18T06:34:25.811Z",
+    "valor_al_comprar": 4605100
+  },
+  {
+    "id_carrito": 91,
+    "id_producto": 50,
+    "fecha_agreg": "2022-01-01T05:03:00.540Z",
+    "valor_al_comprar": 528000
+  },
+  {
+    "id_carrito": 84,
+    "id_producto": 2,
+    "fecha_agreg": "2020-01-18T17:19:46.627Z",
+    "valor_al_comprar": 8442600
+  },
+  {
+    "id_carrito": 126,
+    "id_producto": 73,
+    "fecha_agreg": "2023-11-11T00:49:26.958Z",
+    "valor_al_comprar": 8681600
+  },
+  {
+    "id_carrito": 180,
+    "id_producto": 49,
+    "fecha_agreg": "2022-05-01T00:32:44.402Z",
+    "valor_al_comprar": 4140600
+  },
+  {
+    "id_carrito": 158,
+    "id_producto": 39,
+    "fecha_agreg": "2020-02-22T10:49:31.247Z",
+    "valor_al_comprar": 492200
+  },
+  {
+    "id_carrito": 115,
+    "id_producto": 20,
+    "fecha_agreg": "2022-02-20T18:36:27.015Z",
+    "valor_al_comprar": 5923900
+  },
+  {
+    "id_carrito": 98,
+    "id_producto": 85,
+    "fecha_agreg": "2024-03-05T05:45:12.751Z",
+    "valor_al_comprar": 8661600
+  },
+  {
+    "id_carrito": 177,
+    "id_producto": 75,
+    "fecha_agreg": "2023-12-01T06:48:48.471Z",
+    "valor_al_comprar": 5836800
+  },
+  {
+    "id_carrito": 60,
+    "id_producto": 86,
+    "fecha_agreg": "2021-12-31T11:50:17.280Z",
+    "valor_al_comprar": 3353900
+  },
+  {
+    "id_carrito": 199,
+    "id_producto": 24,
+    "fecha_agreg": "2023-06-13T22:39:24.875Z",
+    "valor_al_comprar": 2681900
+  },
+  {
+    "id_carrito": 168,
+    "id_producto": 14,
+    "fecha_agreg": "2020-02-23T12:33:43.946Z",
+    "valor_al_comprar": 8194900
+  },
+  {
+    "id_carrito": 14,
+    "id_producto": 48,
+    "fecha_agreg": "2023-03-29T05:40:25.112Z",
+    "valor_al_comprar": 9369500
+  },
+  {
+    "id_carrito": 160,
+    "id_producto": 61,
+    "fecha_agreg": "2021-03-09T12:04:18.655Z",
+    "valor_al_comprar": 1633700
+  },
+  {
+    "id_carrito": 62,
+    "id_producto": 30,
+    "fecha_agreg": "2022-01-26T15:33:21.538Z",
+    "valor_al_comprar": 1866900
+  },
+  {
+    "id_carrito": 29,
+    "id_producto": 11,
+    "fecha_agreg": "2020-06-30T23:50:53.338Z",
+    "valor_al_comprar": 801500
+  },
+  {
+    "id_carrito": 77,
+    "id_producto": 69,
+    "fecha_agreg": "2021-04-14T05:39:26.124Z",
+    "valor_al_comprar": 2176600
+  },
+  {
+    "id_carrito": 41,
+    "id_producto": 28,
+    "fecha_agreg": "2021-09-27T23:40:26.085Z",
+    "valor_al_comprar": 4561900
+  },
+  {
+    "id_carrito": 123,
+    "id_producto": 98,
+    "fecha_agreg": "2022-08-24T23:56:18.079Z",
+    "valor_al_comprar": 5204800
+  },
+  {
+    "id_carrito": 158,
+    "id_producto": 31,
+    "fecha_agreg": "2024-06-05T11:39:11.743Z",
+    "valor_al_comprar": 8623300
+  },
+  {
+    "id_carrito": 9,
+    "id_producto": 42,
+    "fecha_agreg": "2021-05-09T10:50:44.165Z",
+    "valor_al_comprar": 8320200
+  },
+  {
+    "id_carrito": 185,
+    "id_producto": 98,
+    "fecha_agreg": "2023-10-05T16:43:19.937Z",
+    "valor_al_comprar": 5745200
+  },
+  {
+    "id_carrito": 124,
+    "id_producto": 68,
+    "fecha_agreg": "2020-05-26T14:39:31.884Z",
+    "valor_al_comprar": 9277500
+  },
+  {
+    "id_carrito": 77,
+    "id_producto": 55,
+    "fecha_agreg": "2020-03-14T20:23:33.217Z",
+    "valor_al_comprar": 7538200
+  },
+  {
+    "id_carrito": 97,
+    "id_producto": 20,
+    "fecha_agreg": "2022-06-19T18:57:25.589Z",
+    "valor_al_comprar": 2299000
+  },
+  {
+    "id_carrito": 112,
+    "id_producto": 32,
+    "fecha_agreg": "2023-07-01T06:53:58.563Z",
+    "valor_al_comprar": 7082200
+  },
+  {
+    "id_carrito": 81,
+    "id_producto": 39,
+    "fecha_agreg": "2020-11-03T01:47:29.004Z",
+    "valor_al_comprar": 1064000
+  },
+  {
+    "id_carrito": 94,
+    "id_producto": 93,
+    "fecha_agreg": "2023-12-02T05:16:10.842Z",
+    "valor_al_comprar": 3247800
+  },
+  {
+    "id_carrito": 107,
+    "id_producto": 40,
+    "fecha_agreg": "2020-02-12T23:23:06.212Z",
+    "valor_al_comprar": 8913000
+  },
+  {
+    "id_carrito": 177,
+    "id_producto": 41,
+    "fecha_agreg": "2024-06-16T08:50:48.477Z",
+    "valor_al_comprar": 6087300
+  },
+  {
+    "id_carrito": 122,
+    "id_producto": 11,
+    "fecha_agreg": "2022-09-07T02:22:24.884Z",
+    "valor_al_comprar": 2692900
+  },
+  {
+    "id_carrito": 34,
+    "id_producto": 27,
+    "fecha_agreg": "2020-05-06T15:22:13.180Z",
+    "valor_al_comprar": 982700
+  },
+  {
+    "id_carrito": 184,
+    "id_producto": 15,
+    "fecha_agreg": "2024-04-04T18:51:21.485Z",
+    "valor_al_comprar": 6452700
+  },
+  {
+    "id_carrito": 163,
+    "id_producto": 86,
+    "fecha_agreg": "2021-12-27T15:38:51.961Z",
+    "valor_al_comprar": 3557400
+  },
+  {
+    "id_carrito": 16,
+    "id_producto": 23,
+    "fecha_agreg": "2021-09-16T21:40:22.053Z",
+    "valor_al_comprar": 2324900
+  },
+  {
+    "id_carrito": 49,
+    "id_producto": 50,
+    "fecha_agreg": "2023-11-15T12:44:15.697Z",
+    "valor_al_comprar": 1629300
+  },
+  {
+    "id_carrito": 180,
+    "id_producto": 10,
+    "fecha_agreg": "2020-09-07T13:56:49.206Z",
+    "valor_al_comprar": 2173100
+  },
+  {
+    "id_carrito": 181,
+    "id_producto": 21,
+    "fecha_agreg": "2021-08-14T09:53:59.493Z",
+    "valor_al_comprar": 796500
+  },
+  {
+    "id_carrito": 41,
+    "id_producto": 15,
+    "fecha_agreg": "2021-10-23T17:47:11.545Z",
+    "valor_al_comprar": 8783800
+  },
+  {
+    "id_carrito": 139,
+    "id_producto": 71,
+    "fecha_agreg": "2022-09-13T00:40:19.092Z",
+    "valor_al_comprar": 5531400
+  },
+  {
+    "id_carrito": 94,
+    "id_producto": 85,
+    "fecha_agreg": "2024-11-09T02:37:05.572Z",
+    "valor_al_comprar": 7117500
+  },
+  {
+    "id_carrito": 52,
+    "id_producto": 29,
+    "fecha_agreg": "2022-09-25T05:16:45.159Z",
+    "valor_al_comprar": 4510100
+  },
+  {
+    "id_carrito": 184,
+    "id_producto": 51,
+    "fecha_agreg": "2020-11-01T06:26:31.374Z",
+    "valor_al_comprar": 4044800
+  },
+  {
+    "id_carrito": 170,
+    "id_producto": 65,
+    "fecha_agreg": "2024-10-19T11:05:38.952Z",
+    "valor_al_comprar": 8177500
+  },
+  {
+    "id_carrito": 162,
+    "id_producto": 9,
+    "fecha_agreg": "2022-07-06T23:31:38.329Z",
+    "valor_al_comprar": 2845200
+  },
+  {
+    "id_carrito": 75,
+    "id_producto": 23,
+    "fecha_agreg": "2020-09-09T15:02:07.102Z",
+    "valor_al_comprar": 850400
+  },
+  {
+    "id_carrito": 165,
+    "id_producto": 24,
+    "fecha_agreg": "2023-01-21T04:01:13.716Z",
+    "valor_al_comprar": 8236800
+  },
+  {
+    "id_carrito": 123,
+    "id_producto": 55,
+    "fecha_agreg": "2021-08-20T07:14:02.882Z",
+    "valor_al_comprar": 6904900
+  },
+  {
+    "id_carrito": 99,
+    "id_producto": 82,
+    "fecha_agreg": "2024-01-09T01:51:08.495Z",
+    "valor_al_comprar": 903900
+  },
+  {
+    "id_carrito": 96,
+    "id_producto": 64,
+    "fecha_agreg": "2023-03-12T10:08:05.683Z",
+    "valor_al_comprar": 3841400
+  },
+  {
+    "id_carrito": 79,
+    "id_producto": 98,
+    "fecha_agreg": "2020-08-15T07:15:34.545Z",
+    "valor_al_comprar": 8039200
+  },
+  {
+    "id_carrito": 7,
+    "id_producto": 40,
+    "fecha_agreg": "2024-01-25T23:35:50.399Z",
+    "valor_al_comprar": 6732300
+  },
+  {
+    "id_carrito": 5,
+    "id_producto": 89,
+    "fecha_agreg": "2022-11-12T15:01:33.757Z",
+    "valor_al_comprar": 4936700
+  },
+  {
+    "id_carrito": 144,
+    "id_producto": 82,
+    "fecha_agreg": "2020-10-28T19:43:35.227Z",
+    "valor_al_comprar": 6644300
+  },
+  {
+    "id_carrito": 169,
+    "id_producto": 58,
+    "fecha_agreg": "2021-07-16T06:25:31.331Z",
+    "valor_al_comprar": 3776000
+  },
+  {
+    "id_carrito": 89,
+    "id_producto": 48,
+    "fecha_agreg": "2024-04-02T18:10:39.630Z",
+    "valor_al_comprar": 9222000
+  },
+  {
+    "id_carrito": 17,
+    "id_producto": 94,
+    "fecha_agreg": "2021-02-25T12:11:41.849Z",
+    "valor_al_comprar": 8647100
+  },
+  {
+    "id_carrito": 123,
+    "id_producto": 17,
+    "fecha_agreg": "2024-03-25T23:43:57.130Z",
+    "valor_al_comprar": 4753200
+  },
+  {
+    "id_carrito": 172,
+    "id_producto": 65,
+    "fecha_agreg": "2024-08-01T04:41:45.279Z",
+    "valor_al_comprar": 3607300
+  },
+  {
+    "id_carrito": 122,
+    "id_producto": 19,
+    "fecha_agreg": "2024-08-02T06:00:21.733Z",
+    "valor_al_comprar": 8228600
+  },
+  {
+    "id_carrito": 169,
+    "id_producto": 37,
+    "fecha_agreg": "2023-03-10T09:00:35.639Z",
+    "valor_al_comprar": 3351200
+  },
+  {
+    "id_carrito": 143,
+    "id_producto": 42,
+    "fecha_agreg": "2021-01-27T23:34:10.285Z",
+    "valor_al_comprar": 6602400
+  },
+  {
+    "id_carrito": 32,
+    "id_producto": 98,
+    "fecha_agreg": "2022-06-30T14:15:55.808Z",
+    "valor_al_comprar": 902100
+  },
+  {
+    "id_carrito": 179,
+    "id_producto": 11,
+    "fecha_agreg": "2023-01-25T22:59:08.259Z",
+    "valor_al_comprar": 8502100
+  },
+  {
+    "id_carrito": 129,
+    "id_producto": 43,
+    "fecha_agreg": "2020-04-15T16:17:34.282Z",
+    "valor_al_comprar": 1470300
+  },
+  {
+    "id_carrito": 19,
+    "id_producto": 13,
+    "fecha_agreg": "2020-07-14T14:07:54.980Z",
+    "valor_al_comprar": 6083600
+  },
+  {
+    "id_carrito": 44,
+    "id_producto": 30,
+    "fecha_agreg": "2023-09-07T14:33:40.102Z",
+    "valor_al_comprar": 2130200
+  },
+  {
+    "id_carrito": 105,
+    "id_producto": 7,
+    "fecha_agreg": "2020-03-04T17:11:56.502Z",
+    "valor_al_comprar": 5818400
+  },
+  {
+    "id_carrito": 55,
+    "id_producto": 62,
+    "fecha_agreg": "2024-11-11T09:07:38.650Z",
+    "valor_al_comprar": 8373600
+  },
+  {
+    "id_carrito": 52,
+    "id_producto": 28,
+    "fecha_agreg": "2020-10-04T06:45:36.575Z",
+    "valor_al_comprar": 9764400
+  },
+  {
+    "id_carrito": 71,
+    "id_producto": 49,
+    "fecha_agreg": "2022-08-29T02:45:24.802Z",
+    "valor_al_comprar": 1727900
+  },
+  {
+    "id_carrito": 24,
+    "id_producto": 94,
+    "fecha_agreg": "2020-04-06T16:18:43.297Z",
+    "valor_al_comprar": 9335800
+  },
+  {
+    "id_carrito": 89,
+    "id_producto": 79,
+    "fecha_agreg": "2020-10-07T00:02:27.974Z",
+    "valor_al_comprar": 6151700
+  },
+  {
+    "id_carrito": 144,
+    "id_producto": 48,
+    "fecha_agreg": "2021-09-14T23:05:00.153Z",
+    "valor_al_comprar": 1718500
+  },
+  {
+    "id_carrito": 141,
+    "id_producto": 49,
+    "fecha_agreg": "2024-01-22T00:08:36.372Z",
+    "valor_al_comprar": 2070400
+  },
+  {
+    "id_carrito": 182,
+    "id_producto": 61,
+    "fecha_agreg": "2024-04-12T05:41:19.882Z",
+    "valor_al_comprar": 7733200
+  },
+  {
+    "id_carrito": 76,
+    "id_producto": 96,
+    "fecha_agreg": "2021-08-06T08:54:57.369Z",
+    "valor_al_comprar": 9554300
+  },
+  {
+    "id_carrito": 195,
+    "id_producto": 17,
+    "fecha_agreg": "2024-08-06T04:15:35.195Z",
+    "valor_al_comprar": 1332600
+  },
+  {
+    "id_carrito": 108,
+    "id_producto": 26,
+    "fecha_agreg": "2020-07-18T21:12:20.384Z",
+    "valor_al_comprar": 6191400
+  },
+  {
+    "id_carrito": 116,
+    "id_producto": 94,
+    "fecha_agreg": "2023-08-25T18:02:04.237Z",
+    "valor_al_comprar": 803700
+  },
+  {
+    "id_carrito": 86,
+    "id_producto": 75,
+    "fecha_agreg": "2020-03-25T19:23:15.688Z",
+    "valor_al_comprar": 6049000
+  },
+  {
+    "id_carrito": 85,
+    "id_producto": 57,
+    "fecha_agreg": "2022-10-26T01:50:33.245Z",
+    "valor_al_comprar": 689500
+  },
+  {
+    "id_carrito": 198,
+    "id_producto": 23,
+    "fecha_agreg": "2023-01-08T09:27:53.385Z",
+    "valor_al_comprar": 4358500
+  },
+  {
+    "id_carrito": 178,
+    "id_producto": 61,
+    "fecha_agreg": "2020-12-09T23:41:00.011Z",
+    "valor_al_comprar": 4135700
+  },
+  {
+    "id_carrito": 3,
+    "id_producto": 26,
+    "fecha_agreg": "2020-11-09T10:26:24.692Z",
+    "valor_al_comprar": 6594500
+  },
+  {
+    "id_carrito": 130,
+    "id_producto": 93,
+    "fecha_agreg": "2021-10-12T17:20:08.704Z",
+    "valor_al_comprar": 1097600
+  },
+  {
+    "id_carrito": 172,
+    "id_producto": 99,
+    "fecha_agreg": "2024-11-06T22:57:43.844Z",
+    "valor_al_comprar": 1581800
+  },
+  {
+    "id_carrito": 194,
+    "id_producto": 85,
+    "fecha_agreg": "2024-07-23T22:52:37.477Z",
+    "valor_al_comprar": 5712300
+  },
+  {
+    "id_carrito": 67,
+    "id_producto": 68,
+    "fecha_agreg": "2020-02-25T02:17:19.519Z",
+    "valor_al_comprar": 6558400
+  },
+  {
+    "id_carrito": 189,
+    "id_producto": 69,
+    "fecha_agreg": "2023-03-30T18:31:28.979Z",
+    "valor_al_comprar": 6240600
+  },
+  {
+    "id_carrito": 39,
+    "id_producto": 82,
+    "fecha_agreg": "2021-03-10T14:53:21.521Z",
+    "valor_al_comprar": 6487900
+  },
+  {
+    "id_carrito": 67,
+    "id_producto": 1,
+    "fecha_agreg": "2020-04-14T13:04:35.729Z",
+    "valor_al_comprar": 3062800
+  },
+  {
+    "id_carrito": 152,
+    "id_producto": 81,
+    "fecha_agreg": "2024-03-01T09:37:58.746Z",
+    "valor_al_comprar": 9401100
+  },
+  {
+    "id_carrito": 175,
+    "id_producto": 48,
+    "fecha_agreg": "2024-01-21T02:24:27.590Z",
+    "valor_al_comprar": 5659900
+  },
+  {
+    "id_carrito": 150,
+    "id_producto": 16,
+    "fecha_agreg": "2023-02-03T21:25:19.345Z",
+    "valor_al_comprar": 5327600
+  },
+  {
+    "id_carrito": 78,
+    "id_producto": 48,
+    "fecha_agreg": "2023-09-30T20:33:01.807Z",
+    "valor_al_comprar": 756900
+  },
+  {
+    "id_carrito": 173,
+    "id_producto": 41,
+    "fecha_agreg": "2021-03-13T05:06:01.731Z",
+    "valor_al_comprar": 8139700
+  },
+  {
+    "id_carrito": 63,
+    "id_producto": 89,
+    "fecha_agreg": "2020-06-19T00:31:34.885Z",
+    "valor_al_comprar": 8368300
+  },
+  {
+    "id_carrito": 85,
+    "id_producto": 99,
+    "fecha_agreg": "2020-12-12T15:38:50.208Z",
+    "valor_al_comprar": 7723600
+  },
+  {
+    "id_carrito": 123,
+    "id_producto": 30,
+    "fecha_agreg": "2020-04-27T02:22:35.699Z",
+    "valor_al_comprar": 4370000
+  },
+  {
+    "id_carrito": 116,
+    "id_producto": 37,
+    "fecha_agreg": "2020-11-03T21:52:22.364Z",
+    "valor_al_comprar": 662800
+  },
+  {
+    "id_carrito": 108,
+    "id_producto": 13,
+    "fecha_agreg": "2024-10-18T03:12:08.962Z",
+    "valor_al_comprar": 8501300
+  },
+  {
+    "id_carrito": 25,
+    "id_producto": 78,
+    "fecha_agreg": "2020-02-01T17:29:41.323Z",
+    "valor_al_comprar": 1666900
+  },
+  {
+    "id_carrito": 81,
+    "id_producto": 7,
+    "fecha_agreg": "2022-07-25T00:57:00.342Z",
+    "valor_al_comprar": 5048100
+  },
+  {
+    "id_carrito": 177,
+    "id_producto": 86,
+    "fecha_agreg": "2020-08-20T12:34:53.412Z",
+    "valor_al_comprar": 8834300
+  },
+  {
+    "id_carrito": 185,
+    "id_producto": 63,
+    "fecha_agreg": "2019-12-19T10:15:36.300Z",
+    "valor_al_comprar": 2144000
+  },
+  {
+    "id_carrito": 60,
+    "id_producto": 91,
+    "fecha_agreg": "2021-05-06T19:04:30.736Z",
+    "valor_al_comprar": 4974500
+  },
+  {
+    "id_carrito": 24,
+    "id_producto": 35,
+    "fecha_agreg": "2022-06-05T07:54:17.623Z",
+    "valor_al_comprar": 6612300
+  },
+  {
+    "id_carrito": 149,
+    "id_producto": 85,
+    "fecha_agreg": "2020-03-01T14:38:03.518Z",
+    "valor_al_comprar": 7685300
+  },
+  {
+    "id_carrito": 123,
+    "id_producto": 42,
+    "fecha_agreg": "2023-07-20T17:42:10.334Z",
+    "valor_al_comprar": 6181300
+  },
+  {
+    "id_carrito": 166,
+    "id_producto": 39,
+    "fecha_agreg": "2024-11-08T22:37:21.977Z",
+    "valor_al_comprar": 13500
+  },
+  {
+    "id_carrito": 194,
+    "id_producto": 20,
+    "fecha_agreg": "2023-02-23T16:48:13.774Z",
+    "valor_al_comprar": 4989400
+  },
+  {
+    "id_carrito": 28,
+    "id_producto": 67,
+    "fecha_agreg": "2020-03-24T04:24:02.906Z",
+    "valor_al_comprar": 1721200
+  },
+  {
+    "id_carrito": 23,
+    "id_producto": 11,
+    "fecha_agreg": "2020-11-21T23:12:39.233Z",
+    "valor_al_comprar": 8135700
+  },
+  {
+    "id_carrito": 151,
+    "id_producto": 9,
+    "fecha_agreg": "2022-06-10T08:25:50.922Z",
+    "valor_al_comprar": 1736700
+  },
+  {
+    "id_carrito": 113,
+    "id_producto": 95,
+    "fecha_agreg": "2024-07-31T23:33:42.064Z",
+    "valor_al_comprar": 6319300
+  },
+  {
+    "id_carrito": 5,
+    "id_producto": 34,
+    "fecha_agreg": "2022-03-09T02:20:46.898Z",
+    "valor_al_comprar": 8402800
+  },
+  {
+    "id_carrito": 53,
+    "id_producto": 9,
+    "fecha_agreg": "2022-12-13T15:05:12.609Z",
+    "valor_al_comprar": 2719400
+  },
+  {
+    "id_carrito": 172,
+    "id_producto": 20,
+    "fecha_agreg": "2024-04-04T17:06:58.758Z",
+    "valor_al_comprar": 9816100
+  },
+  {
+    "id_carrito": 35,
+    "id_producto": 59,
+    "fecha_agreg": "2022-02-08T11:23:14.683Z",
+    "valor_al_comprar": 5203200
+  },
+  {
+    "id_carrito": 133,
+    "id_producto": 77,
+    "fecha_agreg": "2023-10-10T20:07:33.577Z",
+    "valor_al_comprar": 2814100
+  },
+  {
+    "id_carrito": 56,
+    "id_producto": 31,
+    "fecha_agreg": "2023-04-10T06:30:28.293Z",
+    "valor_al_comprar": 2677700
+  },
+  {
+    "id_carrito": 93,
+    "id_producto": 72,
+    "fecha_agreg": "2021-07-31T03:34:54.862Z",
+    "valor_al_comprar": 7447500
+  },
+  {
+    "id_carrito": 147,
+    "id_producto": 51,
+    "fecha_agreg": "2020-01-13T16:03:44.507Z",
+    "valor_al_comprar": 4684400
+  },
+  {
+    "id_carrito": 126,
+    "id_producto": 85,
+    "fecha_agreg": "2022-10-14T08:04:38.257Z",
+    "valor_al_comprar": 8639500
+  },
+  {
+    "id_carrito": 3,
+    "id_producto": 31,
+    "fecha_agreg": "2021-05-30T23:22:10.043Z",
+    "valor_al_comprar": 4102600
+  },
+  {
+    "id_carrito": 10,
+    "id_producto": 27,
+    "fecha_agreg": "2022-06-10T00:15:15.438Z",
+    "valor_al_comprar": 8152100
+  },
+  {
+    "id_carrito": 55,
+    "id_producto": 99,
+    "fecha_agreg": "2021-11-05T01:53:32.232Z",
+    "valor_al_comprar": 5557800
+  },
+  {
+    "id_carrito": 190,
+    "id_producto": 78,
+    "fecha_agreg": "2022-03-16T05:10:20.225Z",
+    "valor_al_comprar": 7017800
+  },
+  {
+    "id_carrito": 51,
+    "id_producto": 73,
+    "fecha_agreg": "2023-03-15T21:49:33.076Z",
+    "valor_al_comprar": 825500
+  },
+  {
+    "id_carrito": 176,
+    "id_producto": 52,
+    "fecha_agreg": "2022-09-26T15:31:59.763Z",
+    "valor_al_comprar": 8556200
+  },
+  {
+    "id_carrito": 131,
+    "id_producto": 22,
+    "fecha_agreg": "2023-05-15T02:53:27.652Z",
+    "valor_al_comprar": 3674100
+  },
+  {
+    "id_carrito": 18,
+    "id_producto": 38,
+    "fecha_agreg": "2021-12-12T14:56:06.222Z",
+    "valor_al_comprar": 5333500
+  },
+  {
+    "id_carrito": 199,
+    "id_producto": 38,
+    "fecha_agreg": "2020-02-10T11:43:58.653Z",
+    "valor_al_comprar": 7817500
+  },
+  {
+    "id_carrito": 34,
+    "id_producto": 44,
+    "fecha_agreg": "2021-08-03T19:08:34.764Z",
+    "valor_al_comprar": 4574300
+  },
+  {
+    "id_carrito": 66,
+    "id_producto": 80,
+    "fecha_agreg": "2021-08-26T14:47:36.170Z",
+    "valor_al_comprar": 7665800
+  },
+  {
+    "id_carrito": 24,
+    "id_producto": 47,
+    "fecha_agreg": "2020-05-15T14:07:35.254Z",
+    "valor_al_comprar": 171300
+  },
+  {
+    "id_carrito": 23,
+    "id_producto": 86,
+    "fecha_agreg": "2023-11-06T20:06:25.136Z",
+    "valor_al_comprar": 9383000
+  },
+  {
+    "id_carrito": 18,
+    "id_producto": 53,
+    "fecha_agreg": "2024-01-26T11:20:12.129Z",
+    "valor_al_comprar": 2146500
+  },
+  {
+    "id_carrito": 199,
+    "id_producto": 64,
+    "fecha_agreg": "2023-01-26T08:05:13.577Z",
+    "valor_al_comprar": 8283700
+  },
+  {
+    "id_carrito": 174,
+    "id_producto": 56,
+    "fecha_agreg": "2024-01-13T08:46:12.825Z",
+    "valor_al_comprar": 383300
+  },
+  {
+    "id_carrito": 7,
+    "id_producto": 66,
+    "fecha_agreg": "2021-11-10T04:53:59.905Z",
+    "valor_al_comprar": 6620700
+  },
+  {
+    "id_carrito": 124,
+    "id_producto": 66,
+    "fecha_agreg": "2024-04-23T19:48:03.531Z",
+    "valor_al_comprar": 5242800
+  },
+  {
+    "id_carrito": 104,
+    "id_producto": 5,
+    "fecha_agreg": "2020-08-18T21:44:40.342Z",
+    "valor_al_comprar": 1950100
+  },
+  {
+    "id_carrito": 161,
+    "id_producto": 3,
+    "fecha_agreg": "2021-06-17T06:52:25.353Z",
+    "valor_al_comprar": 1409200
+  },
+  {
+    "id_carrito": 24,
+    "id_producto": 45,
+    "fecha_agreg": "2021-03-16T12:48:53.830Z",
+    "valor_al_comprar": 3358600
+  },
+  {
+    "id_carrito": 57,
+    "id_producto": 26,
+    "fecha_agreg": "2024-04-15T23:13:11.798Z",
+    "valor_al_comprar": 8312700
+  },
+  {
+    "id_carrito": 109,
+    "id_producto": 39,
+    "fecha_agreg": "2023-09-24T10:57:27.496Z",
+    "valor_al_comprar": 9540400
+  },
+  {
+    "id_carrito": 127,
+    "id_producto": 18,
+    "fecha_agreg": "2021-08-06T21:13:22.527Z",
+    "valor_al_comprar": 2853700
+  },
+  {
+    "id_carrito": 109,
+    "id_producto": 35,
+    "fecha_agreg": "2021-01-30T09:43:41.827Z",
+    "valor_al_comprar": 1513900
+  },
+  {
+    "id_carrito": 192,
+    "id_producto": 46,
+    "fecha_agreg": "2021-11-07T13:08:43.751Z",
+    "valor_al_comprar": 9894300
+  },
+  {
+    "id_carrito": 145,
+    "id_producto": 63,
+    "fecha_agreg": "2024-04-07T12:58:03.277Z",
+    "valor_al_comprar": 9605900
+  },
+  {
+    "id_carrito": 102,
+    "id_producto": 72,
+    "fecha_agreg": "2024-03-24T14:56:19.696Z",
+    "valor_al_comprar": 6458400
+  },
+  {
+    "id_carrito": 42,
+    "id_producto": 51,
+    "fecha_agreg": "2020-07-23T17:29:00.130Z",
+    "valor_al_comprar": 7782500
+  },
+  {
+    "id_carrito": 73,
+    "id_producto": 37,
+    "fecha_agreg": "2023-02-15T22:52:39.473Z",
+    "valor_al_comprar": 1651500
+  },
+  {
+    "id_carrito": 33,
+    "id_producto": 33,
+    "fecha_agreg": "2024-07-23T09:22:33.318Z",
+    "valor_al_comprar": 2686700
+  },
+  {
+    "id_carrito": 141,
+    "id_producto": 86,
+    "fecha_agreg": "2023-07-13T19:49:07.417Z",
+    "valor_al_comprar": 9382400
+  },
+  {
+    "id_carrito": 78,
+    "id_producto": 72,
+    "fecha_agreg": "2023-12-15T22:03:09.269Z",
+    "valor_al_comprar": 2758200
+  },
+  {
+    "id_carrito": 52,
+    "id_producto": 82,
+    "fecha_agreg": "2020-12-17T09:24:14.773Z",
+    "valor_al_comprar": 3203600
+  },
+  {
+    "id_carrito": 5,
+    "id_producto": 77,
+    "fecha_agreg": "2020-02-06T14:43:14.380Z",
+    "valor_al_comprar": 9334600
+  },
+  {
+    "id_carrito": 5,
+    "id_producto": 32,
+    "fecha_agreg": "2022-05-04T23:22:41.822Z",
+    "valor_al_comprar": 1163900
+  },
+  {
+    "id_carrito": 168,
+    "id_producto": 65,
+    "fecha_agreg": "2022-02-10T17:46:59.284Z",
+    "valor_al_comprar": 9223400
+  },
+  {
+    "id_carrito": 123,
+    "id_producto": 70,
+    "fecha_agreg": "2024-09-20T03:59:31.322Z",
+    "valor_al_comprar": 5834500
+  },
+  {
+    "id_carrito": 64,
+    "id_producto": 30,
+    "fecha_agreg": "2024-05-13T06:58:39.913Z",
+    "valor_al_comprar": 7390400
+  },
+  {
+    "id_carrito": 170,
+    "id_producto": 85,
+    "fecha_agreg": "2021-08-06T02:57:40.815Z",
+    "valor_al_comprar": 1280200
+  },
+  {
+    "id_carrito": 161,
+    "id_producto": 35,
+    "fecha_agreg": "2023-03-08T18:13:41.783Z",
+    "valor_al_comprar": 2720000
+  },
+  {
+    "id_carrito": 123,
+    "id_producto": 33,
+    "fecha_agreg": "2022-11-29T20:08:27.661Z",
+    "valor_al_comprar": 9222300
+  },
+  {
+    "id_carrito": 117,
+    "id_producto": 34,
+    "fecha_agreg": "2023-10-12T14:21:29.363Z",
+    "valor_al_comprar": 1330100
+  },
+  {
+    "id_carrito": 9,
+    "id_producto": 93,
+    "fecha_agreg": "2022-12-08T07:38:24.840Z",
+    "valor_al_comprar": 1800100
+  },
+  {
+    "id_carrito": 79,
+    "id_producto": 50,
+    "fecha_agreg": "2021-05-27T06:56:23.721Z",
+    "valor_al_comprar": 3708900
+  },
+  {
+    "id_carrito": 81,
+    "id_producto": 87,
+    "fecha_agreg": "2023-06-22T07:55:48.205Z",
+    "valor_al_comprar": 3109300
+  },
+  {
+    "id_carrito": 61,
+    "id_producto": 45,
+    "fecha_agreg": "2023-03-06T23:20:52.170Z",
+    "valor_al_comprar": 80200
+  },
+  {
+    "id_carrito": 145,
+    "id_producto": 66,
+    "fecha_agreg": "2022-12-17T17:07:38.614Z",
+    "valor_al_comprar": 3611700
+  },
+  {
+    "id_carrito": 69,
+    "id_producto": 94,
+    "fecha_agreg": "2021-11-10T05:54:28.879Z",
+    "valor_al_comprar": 4849800
+  },
+  {
+    "id_carrito": 28,
+    "id_producto": 84,
+    "fecha_agreg": "2024-04-28T09:22:41.294Z",
+    "valor_al_comprar": 2602700
+  },
+  {
+    "id_carrito": 198,
+    "id_producto": 1,
+    "fecha_agreg": "2023-11-18T13:27:11.541Z",
+    "valor_al_comprar": 1374900
   },
   {
     "id_carrito": 176,
     "id_producto": 85,
-    "fecha_agreg": "2023-08-21T11:47:32.834Z",
-    "valor_al_comprar": 5775100
+    "fecha_agreg": "2021-11-27T12:52:27.231Z",
+    "valor_al_comprar": 7115700
   },
   {
-    "id_carrito": 56,
-    "id_producto": 27,
-    "fecha_agreg": "2022-12-16T12:48:12.988Z",
-    "valor_al_comprar": 9994700
+    "id_carrito": 101,
+    "id_producto": 49,
+    "fecha_agreg": "2024-06-01T23:03:03.797Z",
+    "valor_al_comprar": 2682400
   },
   {
-    "id_carrito": 6,
-    "id_producto": 18,
-    "fecha_agreg": "2023-10-31T15:12:05.834Z",
-    "valor_al_comprar": 6906900
+    "id_carrito": 92,
+    "id_producto": 72,
+    "fecha_agreg": "2020-11-18T14:10:46.993Z",
+    "valor_al_comprar": 8525400
   },
   {
-    "id_carrito": 69,
-    "id_producto": 38,
-    "fecha_agreg": "2022-10-09T18:56:01.368Z",
-    "valor_al_comprar": 4775700
+    "id_carrito": 141,
+    "id_producto": 11,
+    "fecha_agreg": "2024-11-08T12:47:23.672Z",
+    "valor_al_comprar": 602800
   },
   {
-    "id_carrito": 4,
-    "id_producto": 48,
-    "fecha_agreg": "2022-09-23T13:04:57.199Z",
-    "valor_al_comprar": 2376700
+    "id_carrito": 92,
+    "id_producto": 51,
+    "fecha_agreg": "2020-02-06T03:57:49.718Z",
+    "valor_al_comprar": 390300
   },
   {
-    "id_carrito": 1,
-    "id_producto": 95,
-    "fecha_agreg": "2022-04-14T13:26:05.526Z",
-    "valor_al_comprar": 3100000
+    "id_carrito": 92,
+    "id_producto": 15,
+    "fecha_agreg": "2020-02-05T18:33:36.232Z",
+    "valor_al_comprar": 5700500
   },
   {
-    "id_carrito": 179,
-    "id_producto": 28,
-    "fecha_agreg": "2021-09-22T07:42:01.935Z",
-    "valor_al_comprar": 7808100
+    "id_carrito": 75,
+    "id_producto": 55,
+    "fecha_agreg": "2023-12-19T07:41:07.033Z",
+    "valor_al_comprar": 859800
+  },
+  {
+    "id_carrito": 187,
+    "id_producto": 99,
+    "fecha_agreg": "2021-09-12T07:53:52.137Z",
+    "valor_al_comprar": 6314500
+  },
+  {
+    "id_carrito": 156,
+    "id_producto": 15,
+    "fecha_agreg": "2020-03-03T06:18:26.994Z",
+    "valor_al_comprar": 1782000
+  },
+  {
+    "id_carrito": 101,
+    "id_producto": 12,
+    "fecha_agreg": "2022-06-03T13:54:49.920Z",
+    "valor_al_comprar": 9394000
+  },
+  {
+    "id_carrito": 62,
+    "id_producto": 40,
+    "fecha_agreg": "2020-12-19T20:25:04.618Z",
+    "valor_al_comprar": 5225700
+  },
+  {
+    "id_carrito": 31,
+    "id_producto": 16,
+    "fecha_agreg": "2023-08-13T04:10:45.203Z",
+    "valor_al_comprar": 2197400
+  },
+  {
+    "id_carrito": 173,
+    "id_producto": 100,
+    "fecha_agreg": "2020-11-19T07:45:09.059Z",
+    "valor_al_comprar": 3324900
   },
   {
     "id_carrito": 104,
-    "id_producto": 59,
-    "fecha_agreg": "2022-03-26T05:17:46.573Z",
-    "valor_al_comprar": 6752200
+    "id_producto": 43,
+    "fecha_agreg": "2021-12-03T04:28:17.541Z",
+    "valor_al_comprar": 4535300
   },
   {
-    "id_carrito": 189,
-    "id_producto": 98,
-    "fecha_agreg": "2020-08-08T17:25:30.198Z",
-    "valor_al_comprar": 3542200
+    "id_carrito": 77,
+    "id_producto": 5,
+    "fecha_agreg": "2024-11-09T21:03:28.237Z",
+    "valor_al_comprar": 7818400
   },
   {
-    "id_carrito": 111,
+    "id_carrito": 50,
+    "id_producto": 30,
+    "fecha_agreg": "2020-07-10T10:49:13.980Z",
+    "valor_al_comprar": 660200
+  },
+  {
+    "id_carrito": 56,
+    "id_producto": 86,
+    "fecha_agreg": "2024-10-25T10:24:11.194Z",
+    "valor_al_comprar": 2537300
+  },
+  {
+    "id_carrito": 83,
+    "id_producto": 65,
+    "fecha_agreg": "2022-04-15T20:53:27.727Z",
+    "valor_al_comprar": 5083900
+  },
+  {
+    "id_carrito": 173,
     "id_producto": 97,
-    "fecha_agreg": "2023-10-15T02:09:39.556Z",
-    "valor_al_comprar": 6565300
+    "fecha_agreg": "2023-06-24T06:56:46.639Z",
+    "valor_al_comprar": 4127300
+  },
+  {
+    "id_carrito": 65,
+    "id_producto": 5,
+    "fecha_agreg": "2023-04-20T18:57:10.232Z",
+    "valor_al_comprar": 7311800
+  },
+  {
+    "id_carrito": 112,
+    "id_producto": 53,
+    "fecha_agreg": "2023-12-09T02:10:23.142Z",
+    "valor_al_comprar": 7734800
+  },
+  {
+    "id_carrito": 54,
+    "id_producto": 58,
+    "fecha_agreg": "2020-05-21T18:40:02.085Z",
+    "valor_al_comprar": 4111900
+  },
+  {
+    "id_carrito": 198,
+    "id_producto": 84,
+    "fecha_agreg": "2022-03-31T22:03:26.601Z",
+    "valor_al_comprar": 2845300
+  },
+  {
+    "id_carrito": 47,
+    "id_producto": 28,
+    "fecha_agreg": "2023-03-09T11:52:12.957Z",
+    "valor_al_comprar": 7793600
+  },
+  {
+    "id_carrito": 126,
+    "id_producto": 4,
+    "fecha_agreg": "2022-03-28T02:02:18.152Z",
+    "valor_al_comprar": 1584800
+  },
+  {
+    "id_carrito": 68,
+    "id_producto": 78,
+    "fecha_agreg": "2020-06-16T12:24:54.841Z",
+    "valor_al_comprar": 5654400
+  },
+  {
+    "id_carrito": 21,
+    "id_producto": 55,
+    "fecha_agreg": "2024-07-05T08:07:17.932Z",
+    "valor_al_comprar": 9447800
+  },
+  {
+    "id_carrito": 149,
+    "id_producto": 35,
+    "fecha_agreg": "2023-04-28T14:14:21.942Z",
+    "valor_al_comprar": 3294100
+  },
+  {
+    "id_carrito": 6,
+    "id_producto": 20,
+    "fecha_agreg": "2022-02-02T06:24:52.606Z",
+    "valor_al_comprar": 3533900
+  },
+  {
+    "id_carrito": 43,
+    "id_producto": 29,
+    "fecha_agreg": "2020-11-01T04:11:02.464Z",
+    "valor_al_comprar": 4459400
+  },
+  {
+    "id_carrito": 38,
+    "id_producto": 15,
+    "fecha_agreg": "2023-01-15T19:12:22.931Z",
+    "valor_al_comprar": 24700
+  },
+  {
+    "id_carrito": 107,
+    "id_producto": 72,
+    "fecha_agreg": "2022-07-31T22:07:08.974Z",
+    "valor_al_comprar": 7655200
+  },
+  {
+    "id_carrito": 46,
+    "id_producto": 22,
+    "fecha_agreg": "2021-05-04T20:07:00.366Z",
+    "valor_al_comprar": 9436700
+  },
+  {
+    "id_carrito": 30,
+    "id_producto": 67,
+    "fecha_agreg": "2020-10-03T19:16:48.732Z",
+    "valor_al_comprar": 7869300
+  },
+  {
+    "id_carrito": 5,
+    "id_producto": 2,
+    "fecha_agreg": "2024-01-16T18:53:47.055Z",
+    "valor_al_comprar": 4610900
+  },
+  {
+    "id_carrito": 57,
+    "id_producto": 95,
+    "fecha_agreg": "2024-05-14T09:16:38.407Z",
+    "valor_al_comprar": 4613100
+  },
+  {
+    "id_carrito": 184,
+    "id_producto": 50,
+    "fecha_agreg": "2023-03-06T13:59:03.074Z",
+    "valor_al_comprar": 6599900
+  },
+  {
+    "id_carrito": 122,
+    "id_producto": 89,
+    "fecha_agreg": "2021-07-13T23:00:45.706Z",
+    "valor_al_comprar": 5400900
   },
   {
     "id_carrito": 48,
-    "id_producto": 100,
-    "fecha_agreg": "2022-10-05T04:32:47.051Z",
-    "valor_al_comprar": 5103700
+    "id_producto": 73,
+    "fecha_agreg": "2022-05-03T21:50:12.081Z",
+    "valor_al_comprar": 565000
   },
   {
-    "id_carrito": 155,
-    "id_producto": 82,
-    "fecha_agreg": "2020-06-24T19:36:06.330Z",
-    "valor_al_comprar": 5617200
+    "id_carrito": 122,
+    "id_producto": 17,
+    "fecha_agreg": "2024-07-28T22:49:58.444Z",
+    "valor_al_comprar": 8100400
   },
   {
-    "id_carrito": 34,
-    "id_producto": 15,
-    "fecha_agreg": "2023-11-10T10:20:01.725Z",
-    "valor_al_comprar": 1691500
+    "id_carrito": 143,
+    "id_producto": 99,
+    "fecha_agreg": "2022-03-19T17:32:21.322Z",
+    "valor_al_comprar": 6410300
   },
   {
-    "id_carrito": 130,
-    "id_producto": 69,
-    "fecha_agreg": "2022-07-14T14:16:07.100Z",
-    "valor_al_comprar": 9803500
-  },
-  {
-    "id_carrito": 131,
+    "id_carrito": 142,
     "id_producto": 18,
-    "fecha_agreg": "2023-05-26T12:08:39.800Z",
-    "valor_al_comprar": 3791200
+    "fecha_agreg": "2021-12-23T02:39:43.048Z",
+    "valor_al_comprar": 3091500
   },
   {
-    "id_carrito": 166,
-    "id_producto": 66,
-    "fecha_agreg": "2020-06-30T03:02:39.168Z",
-    "valor_al_comprar": 8780500
+    "id_carrito": 120,
+    "id_producto": 31,
+    "fecha_agreg": "2021-08-12T01:17:56.046Z",
+    "valor_al_comprar": 3618100
   },
   {
-    "id_carrito": 96,
-    "id_producto": 60,
-    "fecha_agreg": "2021-12-13T07:41:46.740Z",
-    "valor_al_comprar": 8737000
+    "id_carrito": 126,
+    "id_producto": 32,
+    "fecha_agreg": "2022-12-25T15:11:03.109Z",
+    "valor_al_comprar": 9271000
   },
   {
-    "id_carrito": 86,
+    "id_carrito": 62,
+    "id_producto": 96,
+    "fecha_agreg": "2023-09-05T09:34:30.581Z",
+    "valor_al_comprar": 8909900
+  },
+  {
+    "id_carrito": 35,
+    "id_producto": 36,
+    "fecha_agreg": "2020-02-01T02:23:44.530Z",
+    "valor_al_comprar": 2849500
+  },
+  {
+    "id_carrito": 26,
+    "id_producto": 8,
+    "fecha_agreg": "2021-07-10T13:04:49.903Z",
+    "valor_al_comprar": 3974500
+  },
+  {
+    "id_carrito": 59,
+    "id_producto": 41,
+    "fecha_agreg": "2022-12-25T12:25:43.542Z",
+    "valor_al_comprar": 1680900
+  },
+  {
+    "id_carrito": 137,
+    "id_producto": 12,
+    "fecha_agreg": "2023-02-23T15:59:02.047Z",
+    "valor_al_comprar": 4196300
+  },
+  {
+    "id_carrito": 18,
+    "id_producto": 39,
+    "fecha_agreg": "2022-10-03T11:03:06.081Z",
+    "valor_al_comprar": 8314200
+  },
+  {
+    "id_carrito": 39,
     "id_producto": 24,
-    "fecha_agreg": "2023-06-23T02:34:54.215Z",
-    "valor_al_comprar": 1008500
+    "fecha_agreg": "2024-06-26T15:44:11.440Z",
+    "valor_al_comprar": 2109600
   },
   {
-    "id_carrito": 116,
-    "id_producto": 1,
-    "fecha_agreg": "2023-10-01T21:52:06.923Z",
-    "valor_al_comprar": 3156400
+    "id_carrito": 153,
+    "id_producto": 12,
+    "fecha_agreg": "2023-07-26T06:20:24.513Z",
+    "valor_al_comprar": 7822300
   },
   {
-    "id_carrito": 194,
-    "id_producto": 8,
-    "fecha_agreg": "2024-08-29T22:23:25.803Z",
-    "valor_al_comprar": 939300
+    "id_carrito": 23,
+    "id_producto": 59,
+    "fecha_agreg": "2021-07-02T01:42:37.094Z",
+    "valor_al_comprar": 63100
   },
   {
-    "id_carrito": 191,
-    "id_producto": 8,
-    "fecha_agreg": "2021-03-27T04:30:19.184Z",
-    "valor_al_comprar": 481000
+    "id_carrito": 44,
+    "id_producto": 75,
+    "fecha_agreg": "2020-11-05T08:19:56.756Z",
+    "valor_al_comprar": 2071200
+  },
+  {
+    "id_carrito": 109,
+    "id_producto": 79,
+    "fecha_agreg": "2021-03-18T15:41:33.809Z",
+    "valor_al_comprar": 23800
+  },
+  {
+    "id_carrito": 172,
+    "id_producto": 4,
+    "fecha_agreg": "2022-02-16T10:39:31.650Z",
+    "valor_al_comprar": 2868800
   },
   {
     "id_carrito": 196,
     "id_producto": 83,
-    "fecha_agreg": "2021-03-26T11:02:19.395Z",
-    "valor_al_comprar": 1878900
+    "fecha_agreg": "2021-04-08T04:18:14.926Z",
+    "valor_al_comprar": 6489100
   },
   {
-    "id_carrito": 35,
-    "id_producto": 85,
-    "fecha_agreg": "2020-11-02T16:33:02.145Z",
-    "valor_al_comprar": 77200
+    "id_carrito": 127,
+    "id_producto": 12,
+    "fecha_agreg": "2023-02-25T09:19:28.840Z",
+    "valor_al_comprar": 83400
   },
   {
-    "id_carrito": 191,
-    "id_producto": 60,
-    "fecha_agreg": "2020-01-06T17:43:06.992Z",
-    "valor_al_comprar": 4728500
-  },
-  {
-    "id_carrito": 146,
-    "id_producto": 80,
-    "fecha_agreg": "2023-12-16T17:31:53.180Z",
-    "valor_al_comprar": 436300
-  },
-  {
-    "id_carrito": 18,
+    "id_carrito": 29,
     "id_producto": 1,
-    "fecha_agreg": "2021-09-26T12:29:32.530Z",
-    "valor_al_comprar": 9513100
+    "fecha_agreg": "2023-08-30T13:12:03.442Z",
+    "valor_al_comprar": 4199800
   },
   {
-    "id_carrito": 155,
-    "id_producto": 38,
-    "fecha_agreg": "2024-05-15T09:45:32.576Z",
-    "valor_al_comprar": 3024000
-  },
-  {
-    "id_carrito": 39,
-    "id_producto": 23,
-    "fecha_agreg": "2022-08-03T08:21:35.204Z",
-    "valor_al_comprar": 6595000
-  },
-  {
-    "id_carrito": 11,
-    "id_producto": 31,
-    "fecha_agreg": "2020-08-18T00:42:10.632Z",
-    "valor_al_comprar": 32700
-  },
-  {
-    "id_carrito": 143,
-    "id_producto": 87,
-    "fecha_agreg": "2023-06-05T17:45:32.909Z",
-    "valor_al_comprar": 2787500
-  },
-  {
-    "id_carrito": 146,
-    "id_producto": 51,
-    "fecha_agreg": "2023-09-26T00:03:02.916Z",
-    "valor_al_comprar": 520300
-  },
-  {
-    "id_carrito": 95,
-    "id_producto": 63,
-    "fecha_agreg": "2021-04-12T01:52:32.832Z",
-    "valor_al_comprar": 7792000
-  },
-  {
-    "id_carrito": 108,
-    "id_producto": 27,
-    "fecha_agreg": "2020-12-18T00:15:57.621Z",
-    "valor_al_comprar": 4318400
-  },
-  {
-    "id_carrito": 35,
-    "id_producto": 17,
-    "fecha_agreg": "2021-05-03T16:39:36.158Z",
-    "valor_al_comprar": 513700
-  },
-  {
-    "id_carrito": 88,
+    "id_carrito": 176,
     "id_producto": 52,
-    "fecha_agreg": "2021-11-16T19:50:54.071Z",
-    "valor_al_comprar": 9008700
+    "fecha_agreg": "2022-12-31T16:14:25.521Z",
+    "valor_al_comprar": 6149800
   },
   {
-    "id_carrito": 3,
-    "id_producto": 43,
-    "fecha_agreg": "2021-04-25T04:08:59.256Z",
-    "valor_al_comprar": 437500
-  },
-  {
-    "id_carrito": 130,
-    "id_producto": 81,
-    "fecha_agreg": "2023-07-09T04:51:16.339Z",
-    "valor_al_comprar": 9752700
-  },
-  {
-    "id_carrito": 186,
-    "id_producto": 51,
-    "fecha_agreg": "2022-12-11T05:38:31.496Z",
-    "valor_al_comprar": 1317300
-  },
-  {
-    "id_carrito": 56,
-    "id_producto": 91,
-    "fecha_agreg": "2023-04-01T22:50:22.429Z",
-    "valor_al_comprar": 2830500
-  },
-  {
-    "id_carrito": 194,
-    "id_producto": 97,
-    "fecha_agreg": "2023-09-14T04:23:03.712Z",
-    "valor_al_comprar": 3186800
-  },
-  {
-    "id_carrito": 144,
-    "id_producto": 13,
-    "fecha_agreg": "2021-02-08T06:07:00.664Z",
-    "valor_al_comprar": 3786700
-  },
-  {
-    "id_carrito": 117,
-    "id_producto": 32,
-    "fecha_agreg": "2021-11-10T14:33:04.593Z",
-    "valor_al_comprar": 5782800
-  },
-  {
-    "id_carrito": 176,
-    "id_producto": 9,
-    "fecha_agreg": "2022-01-07T21:00:37.270Z",
-    "valor_al_comprar": 891900
-  },
-  {
-    "id_carrito": 70,
-    "id_producto": 96,
-    "fecha_agreg": "2022-09-22T14:36:36.877Z",
-    "valor_al_comprar": 2405800
-  },
-  {
-    "id_carrito": 175,
-    "id_producto": 43,
-    "fecha_agreg": "2022-04-24T07:08:46.291Z",
-    "valor_al_comprar": 9137300
-  },
-  {
-    "id_carrito": 136,
-    "id_producto": 8,
-    "fecha_agreg": "2020-05-04T15:54:55.132Z",
-    "valor_al_comprar": 9668800
-  },
-  {
-    "id_carrito": 186,
-    "id_producto": 35,
-    "fecha_agreg": "2024-06-30T02:48:13.435Z",
-    "valor_al_comprar": 1598100
-  },
-  {
-    "id_carrito": 40,
-    "id_producto": 30,
-    "fecha_agreg": "2022-03-24T12:45:00.313Z",
-    "valor_al_comprar": 4553800
-  },
-  {
-    "id_carrito": 189,
-    "id_producto": 79,
-    "fecha_agreg": "2024-01-26T01:57:14.149Z",
-    "valor_al_comprar": 8520200
-  },
-  {
-    "id_carrito": 119,
-    "id_producto": 37,
-    "fecha_agreg": "2020-10-27T14:57:58.005Z",
-    "valor_al_comprar": 8187100
-  },
-  {
-    "id_carrito": 71,
-    "id_producto": 24,
-    "fecha_agreg": "2022-01-14T06:53:49.819Z",
-    "valor_al_comprar": 3937300
-  },
-  {
-    "id_carrito": 8,
-    "id_producto": 55,
-    "fecha_agreg": "2022-06-08T19:38:49.309Z",
-    "valor_al_comprar": 4565200
-  },
-  {
-    "id_carrito": 26,
-    "id_producto": 13,
-    "fecha_agreg": "2022-05-18T07:01:48.107Z",
-    "valor_al_comprar": 6637300
-  },
-  {
-    "id_carrito": 122,
-    "id_producto": 73,
-    "fecha_agreg": "2022-01-28T04:06:26.367Z",
-    "valor_al_comprar": 7789300
-  },
-  {
-    "id_carrito": 84,
-    "id_producto": 63,
-    "fecha_agreg": "2021-12-04T20:01:54.631Z",
-    "valor_al_comprar": 1529700
-  },
-  {
-    "id_carrito": 166,
-    "id_producto": 90,
-    "fecha_agreg": "2023-12-22T17:29:13.325Z",
-    "valor_al_comprar": 2669600
-  },
-  {
-    "id_carrito": 74,
-    "id_producto": 39,
-    "fecha_agreg": "2023-10-28T00:12:24.303Z",
-    "valor_al_comprar": 2886600
-  },
-  {
-    "id_carrito": 20,
-    "id_producto": 28,
-    "fecha_agreg": "2021-05-23T21:25:30.859Z",
-    "valor_al_comprar": 3282000
-  },
-  {
-    "id_carrito": 87,
-    "id_producto": 45,
-    "fecha_agreg": "2022-06-01T22:50:24.732Z",
-    "valor_al_comprar": 8452100
-  },
-  {
-    "id_carrito": 15,
-    "id_producto": 9,
-    "fecha_agreg": "2022-11-27T06:47:34.357Z",
-    "valor_al_comprar": 7600700
-  },
-  {
-    "id_carrito": 35,
-    "id_producto": 83,
-    "fecha_agreg": "2020-12-08T01:58:19.961Z",
-    "valor_al_comprar": 3718600
-  },
-  {
-    "id_carrito": 191,
-    "id_producto": 51,
-    "fecha_agreg": "2021-11-14T05:49:13.492Z",
-    "valor_al_comprar": 3169300
-  },
-  {
-    "id_carrito": 73,
-    "id_producto": 40,
-    "fecha_agreg": "2024-11-15T00:14:23.361Z",
-    "valor_al_comprar": 6938500
-  },
-  {
-    "id_carrito": 128,
-    "id_producto": 55,
-    "fecha_agreg": "2024-03-04T13:12:43.124Z",
-    "valor_al_comprar": 5980400
-  },
-  {
-    "id_carrito": 90,
-    "id_producto": 68,
-    "fecha_agreg": "2020-01-23T16:23:50.371Z",
-    "valor_al_comprar": 9210700
-  },
-  {
-    "id_carrito": 69,
-    "id_producto": 62,
-    "fecha_agreg": "2024-01-02T03:53:31.164Z",
-    "valor_al_comprar": 271500
-  },
-  {
-    "id_carrito": 197,
-    "id_producto": 13,
-    "fecha_agreg": "2022-05-08T09:08:11.284Z",
-    "valor_al_comprar": 8901700
-  },
-  {
-    "id_carrito": 87,
-    "id_producto": 66,
-    "fecha_agreg": "2023-05-07T00:42:16.993Z",
-    "valor_al_comprar": 4030100
-  },
-  {
-    "id_carrito": 177,
-    "id_producto": 4,
-    "fecha_agreg": "2021-03-27T05:26:24.345Z",
-    "valor_al_comprar": 9337800
-  },
-  {
-    "id_carrito": 183,
-    "id_producto": 74,
-    "fecha_agreg": "2022-10-28T02:17:37.219Z",
-    "valor_al_comprar": 2124100
-  },
-  {
-    "id_carrito": 163,
-    "id_producto": 90,
-    "fecha_agreg": "2022-01-21T18:11:27.910Z",
-    "valor_al_comprar": 1789200
-  },
-  {
-    "id_carrito": 131,
-    "id_producto": 90,
-    "fecha_agreg": "2022-01-06T23:47:46.659Z",
-    "valor_al_comprar": 4320100
-  },
-  {
-    "id_carrito": 83,
-    "id_producto": 91,
-    "fecha_agreg": "2020-08-10T11:19:25.449Z",
-    "valor_al_comprar": 9792600
-  },
-  {
-    "id_carrito": 187,
-    "id_producto": 64,
-    "fecha_agreg": "2024-02-21T06:58:19.623Z",
-    "valor_al_comprar": 5535200
-  },
-  {
-    "id_carrito": 142,
-    "id_producto": 1,
-    "fecha_agreg": "2020-12-25T05:16:46.080Z",
-    "valor_al_comprar": 9374900
-  },
-  {
-    "id_carrito": 172,
-    "id_producto": 74,
-    "fecha_agreg": "2020-02-15T09:52:25.969Z",
-    "valor_al_comprar": 2514600
-  },
-  {
-    "id_carrito": 86,
-    "id_producto": 32,
-    "fecha_agreg": "2023-08-14T04:55:50.773Z",
-    "valor_al_comprar": 3683200
-  },
-  {
-    "id_carrito": 76,
-    "id_producto": 88,
-    "fecha_agreg": "2020-08-21T07:06:27.116Z",
-    "valor_al_comprar": 9512800
-  },
-  {
-    "id_carrito": 73,
-    "id_producto": 47,
-    "fecha_agreg": "2020-09-30T07:42:00.233Z",
-    "valor_al_comprar": 1563200
-  },
-  {
-    "id_carrito": 153,
-    "id_producto": 65,
-    "fecha_agreg": "2023-12-28T04:58:21.707Z",
-    "valor_al_comprar": 1020100
-  },
-  {
-    "id_carrito": 31,
-    "id_producto": 16,
-    "fecha_agreg": "2020-10-25T14:58:09.166Z",
-    "valor_al_comprar": 252000
-  },
-  {
-    "id_carrito": 134,
-    "id_producto": 48,
-    "fecha_agreg": "2021-04-07T23:35:06.144Z",
-    "valor_al_comprar": 2729000
-  },
-  {
-    "id_carrito": 32,
-    "id_producto": 93,
-    "fecha_agreg": "2022-09-16T09:19:43.997Z",
-    "valor_al_comprar": 972000
-  },
-  {
-    "id_carrito": 72,
-    "id_producto": 74,
-    "fecha_agreg": "2020-04-25T02:44:35.375Z",
-    "valor_al_comprar": 6394400
-  },
-  {
-    "id_carrito": 46,
-    "id_producto": 48,
-    "fecha_agreg": "2022-03-13T14:50:31.486Z",
-    "valor_al_comprar": 6691900
-  },
-  {
-    "id_carrito": 36,
-    "id_producto": 11,
-    "fecha_agreg": "2021-09-07T17:22:42.823Z",
-    "valor_al_comprar": 2745900
-  },
-  {
-    "id_carrito": 40,
-    "id_producto": 78,
-    "fecha_agreg": "2024-02-25T01:49:23.508Z",
-    "valor_al_comprar": 7743900
-  },
-  {
-    "id_carrito": 105,
-    "id_producto": 16,
-    "fecha_agreg": "2022-05-20T11:44:43.820Z",
-    "valor_al_comprar": 6013100
-  },
-  {
-    "id_carrito": 63,
-    "id_producto": 47,
-    "fecha_agreg": "2023-10-15T14:30:29.802Z",
-    "valor_al_comprar": 6027400
-  },
-  {
-    "id_carrito": 176,
-    "id_producto": 53,
-    "fecha_agreg": "2022-09-30T06:43:29.814Z",
-    "valor_al_comprar": 1352900
-  },
-  {
-    "id_carrito": 8,
-    "id_producto": 19,
-    "fecha_agreg": "2021-09-12T12:12:55.706Z",
-    "valor_al_comprar": 7904800
-  },
-  {
-    "id_carrito": 14,
-    "id_producto": 51,
-    "fecha_agreg": "2024-09-05T15:57:28.649Z",
-    "valor_al_comprar": 6975700
-  },
-  {
-    "id_carrito": 74,
-    "id_producto": 8,
-    "fecha_agreg": "2020-05-12T18:42:03.194Z",
-    "valor_al_comprar": 6517100
-  },
-  {
-    "id_carrito": 97,
-    "id_producto": 33,
-    "fecha_agreg": "2024-07-08T16:38:14.464Z",
-    "valor_al_comprar": 5164800
-  },
-  {
-    "id_carrito": 28,
-    "id_producto": 33,
-    "fecha_agreg": "2022-12-23T07:03:14.441Z",
-    "valor_al_comprar": 439200
-  },
-  {
-    "id_carrito": 184,
-    "id_producto": 72,
-    "fecha_agreg": "2024-10-31T13:30:55.319Z",
-    "valor_al_comprar": 4927400
-  },
-  {
-    "id_carrito": 199,
-    "id_producto": 55,
-    "fecha_agreg": "2024-02-11T03:33:25.431Z",
-    "valor_al_comprar": 30400
-  },
-  {
-    "id_carrito": 183,
-    "id_producto": 65,
-    "fecha_agreg": "2023-12-26T10:07:39.032Z",
-    "valor_al_comprar": 5023700
-  },
-  {
-    "id_carrito": 4,
-    "id_producto": 68,
-    "fecha_agreg": "2023-03-23T15:48:43.447Z",
-    "valor_al_comprar": 6929600
-  },
-  {
-    "id_carrito": 115,
-    "id_producto": 43,
-    "fecha_agreg": "2020-02-14T05:17:48.597Z",
-    "valor_al_comprar": 2914900
-  },
-  {
-    "id_carrito": 73,
-    "id_producto": 91,
-    "fecha_agreg": "2020-04-05T00:43:12.898Z",
-    "valor_al_comprar": 6668300
-  },
-  {
-    "id_carrito": 123,
-    "id_producto": 53,
-    "fecha_agreg": "2022-11-04T19:13:00.570Z",
-    "valor_al_comprar": 2519100
-  },
-  {
-    "id_carrito": 129,
-    "id_producto": 84,
-    "fecha_agreg": "2021-07-21T22:56:31.383Z",
-    "valor_al_comprar": 5655500
-  },
-  {
-    "id_carrito": 56,
-    "id_producto": 43,
-    "fecha_agreg": "2022-03-02T14:47:59.385Z",
-    "valor_al_comprar": 5635200
-  },
-  {
-    "id_carrito": 129,
-    "id_producto": 74,
-    "fecha_agreg": "2024-05-21T08:36:06.348Z",
-    "valor_al_comprar": 4511200
-  },
-  {
-    "id_carrito": 180,
-    "id_producto": 73,
-    "fecha_agreg": "2024-05-30T08:39:53.533Z",
-    "valor_al_comprar": 2639500
-  },
-  {
-    "id_carrito": 75,
-    "id_producto": 41,
-    "fecha_agreg": "2022-04-29T13:10:25.757Z",
-    "valor_al_comprar": 1468600
-  },
-  {
-    "id_carrito": 94,
-    "id_producto": 95,
-    "fecha_agreg": "2023-07-18T22:06:02.742Z",
-    "valor_al_comprar": 9942200
-  },
-  {
-    "id_carrito": 141,
-    "id_producto": 4,
-    "fecha_agreg": "2024-09-21T16:26:46.787Z",
-    "valor_al_comprar": 9873400
-  },
-  {
-    "id_carrito": 67,
-    "id_producto": 99,
-    "fecha_agreg": "2020-02-03T13:44:16.165Z",
-    "valor_al_comprar": 1574800
-  },
-  {
-    "id_carrito": 59,
-    "id_producto": 10,
-    "fecha_agreg": "2022-11-22T11:47:19.928Z",
-    "valor_al_comprar": 6036600
-  },
-  {
-    "id_carrito": 64,
-    "id_producto": 15,
-    "fecha_agreg": "2022-08-10T05:49:12.392Z",
-    "valor_al_comprar": 5748600
-  },
-  {
-    "id_carrito": 115,
-    "id_producto": 42,
-    "fecha_agreg": "2023-08-19T15:35:17.237Z",
-    "valor_al_comprar": 3088100
-  },
-  {
-    "id_carrito": 109,
-    "id_producto": 6,
-    "fecha_agreg": "2022-02-27T22:05:45.461Z",
-    "valor_al_comprar": 7143600
-  },
-  {
-    "id_carrito": 70,
-    "id_producto": 45,
-    "fecha_agreg": "2022-06-12T03:55:16.069Z",
-    "valor_al_comprar": 1293500
-  },
-  {
-    "id_carrito": 170,
-    "id_producto": 51,
-    "fecha_agreg": "2023-10-29T07:05:35.719Z",
-    "valor_al_comprar": 3914900
-  },
-  {
-    "id_carrito": 87,
-    "id_producto": 53,
-    "fecha_agreg": "2024-06-06T15:51:34.638Z",
-    "valor_al_comprar": 756900
-  },
-  {
-    "id_carrito": 9,
-    "id_producto": 59,
-    "fecha_agreg": "2021-03-26T16:23:01.574Z",
-    "valor_al_comprar": 8605800
-  },
-  {
-    "id_carrito": 46,
-    "id_producto": 36,
-    "fecha_agreg": "2024-05-24T22:47:29.058Z",
-    "valor_al_comprar": 3678900
-  },
-  {
-    "id_carrito": 20,
-    "id_producto": 98,
-    "fecha_agreg": "2024-02-06T20:04:52.637Z",
-    "valor_al_comprar": 6818300
-  },
-  {
-    "id_carrito": 172,
-    "id_producto": 70,
-    "fecha_agreg": "2020-06-02T02:08:23.200Z",
-    "valor_al_comprar": 4480800
-  },
-  {
-    "id_carrito": 161,
-    "id_producto": 97,
-    "fecha_agreg": "2023-08-06T06:25:22.371Z",
-    "valor_al_comprar": 5750700
-  },
-  {
-    "id_carrito": 76,
-    "id_producto": 89,
-    "fecha_agreg": "2024-07-03T05:46:50.548Z",
-    "valor_al_comprar": 9673400
-  },
-  {
-    "id_carrito": 155,
-    "id_producto": 72,
-    "fecha_agreg": "2021-02-09T06:15:31.345Z",
-    "valor_al_comprar": 1654800
-  },
-  {
-    "id_carrito": 174,
-    "id_producto": 53,
-    "fecha_agreg": "2022-08-10T08:33:56.187Z",
-    "valor_al_comprar": 7676200
-  },
-  {
-    "id_carrito": 31,
-    "id_producto": 37,
-    "fecha_agreg": "2024-03-02T13:08:21.843Z",
-    "valor_al_comprar": 8855900
-  },
-  {
-    "id_carrito": 124,
-    "id_producto": 54,
-    "fecha_agreg": "2024-02-24T21:30:09.396Z",
-    "valor_al_comprar": 5321200
-  },
-  {
-    "id_carrito": 150,
-    "id_producto": 75,
-    "fecha_agreg": "2021-07-12T18:36:18.489Z",
-    "valor_al_comprar": 2481000
-  },
-  {
-    "id_carrito": 25,
-    "id_producto": 33,
-    "fecha_agreg": "2020-02-02T16:14:41.152Z",
-    "valor_al_comprar": 8163600
-  },
-  {
-    "id_carrito": 134,
-    "id_producto": 79,
-    "fecha_agreg": "2021-06-24T16:44:44.578Z",
-    "valor_al_comprar": 7401100
-  },
-  {
-    "id_carrito": 4,
-    "id_producto": 96,
-    "fecha_agreg": "2020-10-23T01:53:09.654Z",
-    "valor_al_comprar": 8655600
-  },
-  {
-    "id_carrito": 45,
-    "id_producto": 4,
-    "fecha_agreg": "2020-05-27T11:19:30.536Z",
-    "valor_al_comprar": 6818400
-  },
-  {
-    "id_carrito": 185,
-    "id_producto": 48,
-    "fecha_agreg": "2024-04-20T03:52:30.624Z",
-    "valor_al_comprar": 9914600
-  },
-  {
-    "id_carrito": 2,
-    "id_producto": 65,
-    "fecha_agreg": "2023-05-03T16:05:12.565Z",
-    "valor_al_comprar": 2419900
-  },
-  {
-    "id_carrito": 112,
-    "id_producto": 96,
-    "fecha_agreg": "2024-12-15T09:22:40.423Z",
-    "valor_al_comprar": 3304300
-  },
-  {
-    "id_carrito": 127,
-    "id_producto": 91,
-    "fecha_agreg": "2022-09-02T13:24:33.416Z",
-    "valor_al_comprar": 3540600
-  },
-  {
-    "id_carrito": 148,
-    "id_producto": 56,
-    "fecha_agreg": "2024-05-06T15:55:52.818Z",
-    "valor_al_comprar": 2083200
-  },
-  {
-    "id_carrito": 45,
-    "id_producto": 26,
-    "fecha_agreg": "2022-09-03T01:30:44.757Z",
-    "valor_al_comprar": 3239500
-  },
-  {
-    "id_carrito": 148,
-    "id_producto": 5,
-    "fecha_agreg": "2022-02-05T03:53:41.830Z",
-    "valor_al_comprar": 2360900
-  },
-  {
-    "id_carrito": 87,
-    "id_producto": 95,
-    "fecha_agreg": "2020-06-02T10:48:54.921Z",
-    "valor_al_comprar": 9308800
-  },
-  {
-    "id_carrito": 115,
-    "id_producto": 62,
-    "fecha_agreg": "2021-05-01T10:17:41.542Z",
-    "valor_al_comprar": 1372800
-  },
-  {
-    "id_carrito": 76,
-    "id_producto": 93,
-    "fecha_agreg": "2021-09-04T15:00:00.882Z",
-    "valor_al_comprar": 1015000
-  },
-  {
-    "id_carrito": 119,
-    "id_producto": 66,
-    "fecha_agreg": "2022-09-07T16:04:24.343Z",
-    "valor_al_comprar": 7290000
-  },
-  {
-    "id_carrito": 200,
-    "id_producto": 97,
-    "fecha_agreg": "2023-03-23T13:40:55.260Z",
-    "valor_al_comprar": 7403500
-  },
-  {
-    "id_carrito": 162,
-    "id_producto": 89,
-    "fecha_agreg": "2023-05-13T01:40:08.055Z",
-    "valor_al_comprar": 2056200
-  },
-  {
-    "id_carrito": 177,
-    "id_producto": 70,
-    "fecha_agreg": "2024-03-31T11:25:09.426Z",
-    "valor_al_comprar": 527100
-  },
-  {
-    "id_carrito": 128,
-    "id_producto": 26,
-    "fecha_agreg": "2024-08-10T23:42:42.372Z",
-    "valor_al_comprar": 2000300
-  },
-  {
-    "id_carrito": 118,
-    "id_producto": 39,
-    "fecha_agreg": "2021-06-10T09:52:37.362Z",
-    "valor_al_comprar": 2836300
-  },
-  {
-    "id_carrito": 17,
-    "id_producto": 19,
-    "fecha_agreg": "2021-10-10T11:34:31.536Z",
-    "valor_al_comprar": 9365200
-  },
-  {
-    "id_carrito": 83,
-    "id_producto": 29,
-    "fecha_agreg": "2020-09-26T15:32:49.559Z",
-    "valor_al_comprar": 3591300
-  },
-  {
-    "id_carrito": 50,
-    "id_producto": 71,
-    "fecha_agreg": "2020-06-08T19:41:05.944Z",
-    "valor_al_comprar": 2086800
-  },
-  {
-    "id_carrito": 48,
-    "id_producto": 5,
-    "fecha_agreg": "2021-12-26T04:11:28.155Z",
-    "valor_al_comprar": 4102300
-  },
-  {
-    "id_carrito": 155,
-    "id_producto": 29,
-    "fecha_agreg": "2020-12-04T12:30:58.727Z",
-    "valor_al_comprar": 9507600
-  },
-  {
-    "id_carrito": 180,
-    "id_producto": 15,
-    "fecha_agreg": "2024-02-21T07:05:59.719Z",
-    "valor_al_comprar": 1015400
-  },
-  {
-    "id_carrito": 155,
-    "id_producto": 40,
-    "fecha_agreg": "2020-11-15T04:07:50.471Z",
-    "valor_al_comprar": 9699400
-  },
-  {
-    "id_carrito": 43,
-    "id_producto": 45,
-    "fecha_agreg": "2021-01-30T16:00:38.164Z",
-    "valor_al_comprar": 7355500
-  },
-  {
-    "id_carrito": 132,
-    "id_producto": 76,
-    "fecha_agreg": "2022-08-09T09:40:50.318Z",
-    "valor_al_comprar": 1807100
-  },
-  {
-    "id_carrito": 57,
-    "id_producto": 97,
-    "fecha_agreg": "2024-09-20T19:15:40.541Z",
-    "valor_al_comprar": 8612700
-  },
-  {
-    "id_carrito": 56,
-    "id_producto": 29,
-    "fecha_agreg": "2024-11-14T15:50:47.445Z",
-    "valor_al_comprar": 9398800
-  },
-  {
-    "id_carrito": 29,
-    "id_producto": 94,
-    "fecha_agreg": "2020-04-20T22:00:29.232Z",
-    "valor_al_comprar": 1840000
-  },
-  {
-    "id_carrito": 136,
-    "id_producto": 41,
-    "fecha_agreg": "2021-01-13T20:08:33.203Z",
-    "valor_al_comprar": 3789000
-  },
-  {
-    "id_carrito": 10,
-    "id_producto": 95,
-    "fecha_agreg": "2021-05-24T17:22:00.094Z",
-    "valor_al_comprar": 9648700
-  },
-  {
-    "id_carrito": 83,
-    "id_producto": 49,
-    "fecha_agreg": "2023-06-25T19:27:39.774Z",
-    "valor_al_comprar": 8854100
-  },
-  {
-    "id_carrito": 85,
-    "id_producto": 39,
-    "fecha_agreg": "2020-12-06T16:49:50.366Z",
-    "valor_al_comprar": 7356400
-  },
-  {
-    "id_carrito": 154,
-    "id_producto": 84,
-    "fecha_agreg": "2019-12-28T12:16:57.422Z",
-    "valor_al_comprar": 9332300
-  },
-  {
-    "id_carrito": 26,
-    "id_producto": 41,
-    "fecha_agreg": "2023-01-21T10:57:22.676Z",
-    "valor_al_comprar": 2166300
-  },
-  {
-    "id_carrito": 123,
-    "id_producto": 60,
-    "fecha_agreg": "2020-04-22T13:09:58.204Z",
-    "valor_al_comprar": 3593500
-  },
-  {
-    "id_carrito": 183,
-    "id_producto": 43,
-    "fecha_agreg": "2021-05-23T09:37:33.535Z",
-    "valor_al_comprar": 8350300
-  },
-  {
-    "id_carrito": 56,
-    "id_producto": 51,
-    "fecha_agreg": "2024-03-04T09:37:15.640Z",
-    "valor_al_comprar": 3012500
-  },
-  {
-    "id_carrito": 35,
-    "id_producto": 89,
-    "fecha_agreg": "2022-05-05T12:19:59.547Z",
-    "valor_al_comprar": 562100
-  },
-  {
-    "id_carrito": 40,
-    "id_producto": 38,
-    "fecha_agreg": "2023-08-06T07:28:15.586Z",
-    "valor_al_comprar": 1034700
-  },
-  {
-    "id_carrito": 18,
-    "id_producto": 76,
-    "fecha_agreg": "2022-11-28T19:00:36.331Z",
-    "valor_al_comprar": 9728600
-  },
-  {
-    "id_carrito": 121,
-    "id_producto": 65,
-    "fecha_agreg": "2021-09-15T23:11:36.658Z",
-    "valor_al_comprar": 3073400
-  },
-  {
-    "id_carrito": 9,
-    "id_producto": 96,
-    "fecha_agreg": "2020-08-13T01:40:54.573Z",
-    "valor_al_comprar": 683500
-  },
-  {
-    "id_carrito": 97,
-    "id_producto": 73,
-    "fecha_agreg": "2023-06-22T10:24:53.531Z",
-    "valor_al_comprar": 5490400
-  },
-  {
-    "id_carrito": 127,
-    "id_producto": 69,
-    "fecha_agreg": "2021-11-10T01:58:29.944Z",
-    "valor_al_comprar": 9842700
-  },
-  {
-    "id_carrito": 117,
-    "id_producto": 3,
-    "fecha_agreg": "2023-08-10T10:31:37.241Z",
-    "valor_al_comprar": 9830400
-  },
-  {
-    "id_carrito": 70,
-    "id_producto": 54,
-    "fecha_agreg": "2023-06-25T02:07:15.515Z",
-    "valor_al_comprar": 5166000
-  },
-  {
-    "id_carrito": 176,
-    "id_producto": 29,
-    "fecha_agreg": "2023-04-09T11:12:18.135Z",
-    "valor_al_comprar": 7513100
-  },
-  {
-    "id_carrito": 193,
-    "id_producto": 81,
-    "fecha_agreg": "2022-08-14T18:52:31.637Z",
-    "valor_al_comprar": 501800
-  },
-  {
-    "id_carrito": 77,
-    "id_producto": 34,
-    "fecha_agreg": "2020-10-29T08:16:42.137Z",
-    "valor_al_comprar": 5621400
-  },
-  {
-    "id_carrito": 72,
-    "id_producto": 30,
-    "fecha_agreg": "2021-05-04T06:43:31.296Z",
-    "valor_al_comprar": 905000
-  },
-  {
-    "id_carrito": 183,
-    "id_producto": 54,
-    "fecha_agreg": "2021-05-01T04:23:42.090Z",
-    "valor_al_comprar": 3619500
-  },
-  {
-    "id_carrito": 137,
-    "id_producto": 55,
-    "fecha_agreg": "2023-07-05T00:37:04.723Z",
-    "valor_al_comprar": 5809900
-  },
-  {
-    "id_carrito": 16,
-    "id_producto": 73,
-    "fecha_agreg": "2023-01-18T03:16:55.214Z",
-    "valor_al_comprar": 4587700
-  },
-  {
-    "id_carrito": 161,
-    "id_producto": 70,
-    "fecha_agreg": "2022-04-09T13:48:33.082Z",
-    "valor_al_comprar": 3596700
-  },
-  {
-    "id_carrito": 144,
-    "id_producto": 66,
-    "fecha_agreg": "2021-09-10T12:42:01.381Z",
-    "valor_al_comprar": 9704900
-  },
-  {
-    "id_carrito": 101,
-    "id_producto": 37,
-    "fecha_agreg": "2021-07-15T21:33:20.457Z",
-    "valor_al_comprar": 4326000
-  },
-  {
-    "id_carrito": 78,
-    "id_producto": 13,
-    "fecha_agreg": "2021-04-02T19:52:50.838Z",
-    "valor_al_comprar": 7999900
-  },
-  {
-    "id_carrito": 78,
-    "id_producto": 30,
-    "fecha_agreg": "2022-10-29T10:00:09.851Z",
-    "valor_al_comprar": 902400
-  },
-  {
-    "id_carrito": 197,
-    "id_producto": 21,
-    "fecha_agreg": "2020-07-04T00:16:08.904Z",
-    "valor_al_comprar": 518300
-  },
-  {
-    "id_carrito": 96,
-    "id_producto": 35,
-    "fecha_agreg": "2024-04-28T01:09:56.664Z",
-    "valor_al_comprar": 738100
-  },
-  {
-    "id_carrito": 31,
-    "id_producto": 77,
-    "fecha_agreg": "2022-06-30T10:07:28.104Z",
-    "valor_al_comprar": 4232600
-  },
-  {
-    "id_carrito": 169,
-    "id_producto": 33,
-    "fecha_agreg": "2023-12-19T10:55:08.644Z",
-    "valor_al_comprar": 6000800
-  },
-  {
-    "id_carrito": 159,
-    "id_producto": 69,
-    "fecha_agreg": "2022-08-24T22:22:27.933Z",
-    "valor_al_comprar": 4409700
-  },
-  {
-    "id_carrito": 108,
-    "id_producto": 6,
-    "fecha_agreg": "2020-02-20T19:02:20.508Z",
-    "valor_al_comprar": 6558000
-  },
-  {
-    "id_carrito": 112,
-    "id_producto": 36,
-    "fecha_agreg": "2023-08-21T19:19:46.108Z",
-    "valor_al_comprar": 8681100
-  },
-  {
-    "id_carrito": 144,
-    "id_producto": 21,
-    "fecha_agreg": "2024-01-30T18:37:13.167Z",
-    "valor_al_comprar": 3820800
-  },
-  {
-    "id_carrito": 147,
-    "id_producto": 48,
-    "fecha_agreg": "2022-05-28T23:52:33.606Z",
-    "valor_al_comprar": 9171900
-  },
-  {
-    "id_carrito": 73,
-    "id_producto": 45,
-    "fecha_agreg": "2020-08-23T15:55:11.526Z",
-    "valor_al_comprar": 580300
-  },
-  {
-    "id_carrito": 43,
-    "id_producto": 44,
-    "fecha_agreg": "2020-08-19T21:53:08.746Z",
-    "valor_al_comprar": 5227500
-  },
-  {
-    "id_carrito": 170,
-    "id_producto": 18,
-    "fecha_agreg": "2022-02-06T18:16:02.280Z",
-    "valor_al_comprar": 6926500
-  },
-  {
-    "id_carrito": 194,
-    "id_producto": 72,
-    "fecha_agreg": "2023-03-06T07:09:03.595Z",
-    "valor_al_comprar": 9349900
-  },
-  {
-    "id_carrito": 40,
-    "id_producto": 100,
-    "fecha_agreg": "2023-10-10T23:11:06.558Z",
-    "valor_al_comprar": 5193100
-  },
-  {
-    "id_carrito": 26,
-    "id_producto": 27,
-    "fecha_agreg": "2021-05-17T13:44:37.630Z",
-    "valor_al_comprar": 6086000
-  },
-  {
-    "id_carrito": 23,
-    "id_producto": 67,
-    "fecha_agreg": "2024-03-22T10:03:58.391Z",
-    "valor_al_comprar": 9175700
-  },
-  {
-    "id_carrito": 108,
-    "id_producto": 91,
-    "fecha_agreg": "2020-01-18T04:04:09.646Z",
-    "valor_al_comprar": 6187700
-  },
-  {
-    "id_carrito": 12,
-    "id_producto": 87,
-    "fecha_agreg": "2020-06-04T09:31:54.551Z",
-    "valor_al_comprar": 8564200
-  },
-  {
-    "id_carrito": 16,
-    "id_producto": 69,
-    "fecha_agreg": "2021-07-02T21:27:38.895Z",
-    "valor_al_comprar": 4862400
-  },
-  {
-    "id_carrito": 91,
-    "id_producto": 37,
-    "fecha_agreg": "2021-06-01T17:26:17.918Z",
-    "valor_al_comprar": 7980900
-  },
-  {
-    "id_carrito": 182,
-    "id_producto": 43,
-    "fecha_agreg": "2020-08-05T17:12:27.061Z",
-    "valor_al_comprar": 5374500
-  },
-  {
-    "id_carrito": 25,
-    "id_producto": 75,
-    "fecha_agreg": "2020-11-28T18:55:27.734Z",
-    "valor_al_comprar": 6731700
-  },
-  {
-    "id_carrito": 75,
+    "id_carrito": 66,
     "id_producto": 50,
-    "fecha_agreg": "2022-11-08T07:59:24.109Z",
-    "valor_al_comprar": 6516900
+    "fecha_agreg": "2020-06-30T15:24:02.993Z",
+    "valor_al_comprar": 6362800
   },
   {
-    "id_carrito": 199,
-    "id_producto": 35,
-    "fecha_agreg": "2020-10-27T10:28:19.081Z",
-    "valor_al_comprar": 7478800
+    "id_carrito": 56,
+    "id_producto": 94,
+    "fecha_agreg": "2022-05-06T01:22:29.415Z",
+    "valor_al_comprar": 5814200
   },
   {
-    "id_carrito": 26,
-    "id_producto": 85,
-    "fecha_agreg": "2023-08-17T22:54:19.059Z",
-    "valor_al_comprar": 2782300
+    "id_carrito": 170,
+    "id_producto": 22,
+    "fecha_agreg": "2021-11-22T16:44:24.801Z",
+    "valor_al_comprar": 7304300
   },
   {
-    "id_carrito": 198,
-    "id_producto": 70,
-    "fecha_agreg": "2024-06-01T19:25:17.832Z",
-    "valor_al_comprar": 2346100
+    "id_carrito": 45,
+    "id_producto": 75,
+    "fecha_agreg": "2024-11-18T04:22:49.652Z",
+    "valor_al_comprar": 750000
   },
   {
-    "id_carrito": 116,
-    "id_producto": 19,
-    "fecha_agreg": "2023-09-10T10:47:16.713Z",
-    "valor_al_comprar": 391300
-  },
-  {
-    "id_carrito": 189,
-    "id_producto": 79,
-    "fecha_agreg": "2023-06-09T05:06:24.213Z",
-    "valor_al_comprar": 963900
-  },
-  {
-    "id_carrito": 30,
-    "id_producto": 6,
-    "fecha_agreg": "2022-06-25T10:21:56.149Z",
-    "valor_al_comprar": 3726000
-  },
-  {
-    "id_carrito": 12,
-    "id_producto": 81,
-    "fecha_agreg": "2023-03-08T17:19:19.416Z",
-    "valor_al_comprar": 1831200
-  },
-  {
-    "id_carrito": 117,
-    "id_producto": 5,
-    "fecha_agreg": "2021-08-16T08:56:23.140Z",
-    "valor_al_comprar": 561300
-  },
-  {
-    "id_carrito": 105,
-    "id_producto": 88,
-    "fecha_agreg": "2021-12-14T17:04:33.178Z",
-    "valor_al_comprar": 303700
-  },
-  {
-    "id_carrito": 69,
-    "id_producto": 44,
-    "fecha_agreg": "2023-08-13T07:03:54.249Z",
-    "valor_al_comprar": 8377900
-  },
-  {
-    "id_carrito": 75,
-    "id_producto": 62,
-    "fecha_agreg": "2024-05-04T17:55:44.118Z",
-    "valor_al_comprar": 4453100
-  },
-  {
-    "id_carrito": 19,
-    "id_producto": 99,
-    "fecha_agreg": "2022-07-06T03:11:01.185Z",
-    "valor_al_comprar": 3098800
-  },
-  {
-    "id_carrito": 52,
-    "id_producto": 24,
-    "fecha_agreg": "2023-09-01T15:08:11.924Z",
-    "valor_al_comprar": 1126100
-  },
-  {
-    "id_carrito": 144,
-    "id_producto": 55,
-    "fecha_agreg": "2023-04-08T01:58:21.895Z",
-    "valor_al_comprar": 3262000
-  },
-  {
-    "id_carrito": 174,
-    "id_producto": 44,
-    "fecha_agreg": "2020-11-19T02:05:27.728Z",
-    "valor_al_comprar": 1907000
-  },
-  {
-    "id_carrito": 39,
-    "id_producto": 63,
-    "fecha_agreg": "2023-02-19T10:17:59.924Z",
-    "valor_al_comprar": 5960100
-  },
-  {
-    "id_carrito": 38,
-    "id_producto": 98,
-    "fecha_agreg": "2023-06-17T09:25:50.279Z",
-    "valor_al_comprar": 2070100
-  },
-  {
-    "id_carrito": 77,
-    "id_producto": 57,
-    "fecha_agreg": "2020-03-31T23:27:09.177Z",
-    "valor_al_comprar": 7102800
-  },
-  {
-    "id_carrito": 122,
-    "id_producto": 97,
-    "fecha_agreg": "2021-04-26T17:43:39.791Z",
-    "valor_al_comprar": 563100
-  },
-  {
-    "id_carrito": 16,
-    "id_producto": 15,
-    "fecha_agreg": "2020-02-15T02:42:08.783Z",
-    "valor_al_comprar": 6930000
-  },
-  {
-    "id_carrito": 188,
-    "id_producto": 64,
-    "fecha_agreg": "2020-07-18T21:29:29.410Z",
-    "valor_al_comprar": 7103700
-  },
-  {
-    "id_carrito": 166,
-    "id_producto": 77,
-    "fecha_agreg": "2023-12-10T18:14:29.379Z",
-    "valor_al_comprar": 6448200
-  },
-  {
-    "id_carrito": 14,
-    "id_producto": 36,
-    "fecha_agreg": "2022-06-24T17:30:31.716Z",
-    "valor_al_comprar": 4014000
-  },
-  {
-    "id_carrito": 29,
-    "id_producto": 51,
-    "fecha_agreg": "2023-11-30T06:54:57.190Z",
-    "valor_al_comprar": 1643700
-  },
-  {
-    "id_carrito": 47,
-    "id_producto": 65,
-    "fecha_agreg": "2024-03-09T10:02:02.783Z",
-    "valor_al_comprar": 4072100
-  },
-  {
-    "id_carrito": 15,
-    "id_producto": 93,
-    "fecha_agreg": "2022-03-02T13:25:26.694Z",
-    "valor_al_comprar": 1709300
-  },
-  {
-    "id_carrito": 52,
-    "id_producto": 61,
-    "fecha_agreg": "2020-04-07T05:30:25.125Z",
-    "valor_al_comprar": 3228300
-  },
-  {
-    "id_carrito": 10,
-    "id_producto": 46,
-    "fecha_agreg": "2021-04-08T12:54:27.524Z",
-    "valor_al_comprar": 699900
-  },
-  {
-    "id_carrito": 190,
+    "id_carrito": 133,
     "id_producto": 54,
-    "fecha_agreg": "2020-10-18T18:53:00.444Z",
-    "valor_al_comprar": 1035600
+    "fecha_agreg": "2021-02-27T17:28:54.933Z",
+    "valor_al_comprar": 4731200
+  },
+  {
+    "id_carrito": 127,
+    "id_producto": 66,
+    "fecha_agreg": "2022-10-29T10:24:48.741Z",
+    "valor_al_comprar": 6388900
   },
   {
     "id_carrito": 103,
-    "id_producto": 58,
-    "fecha_agreg": "2020-05-18T15:38:58.927Z",
-    "valor_al_comprar": 8756900
+    "id_producto": 93,
+    "fecha_agreg": "2020-11-21T02:17:20.917Z",
+    "valor_al_comprar": 6876300
   },
   {
-    "id_carrito": 87,
-    "id_producto": 83,
-    "fecha_agreg": "2022-10-18T20:05:52.247Z",
-    "valor_al_comprar": 1158700
-  },
-  {
-    "id_carrito": 37,
+    "id_carrito": 30,
     "id_producto": 87,
-    "fecha_agreg": "2023-01-15T07:28:30.902Z",
-    "valor_al_comprar": 442200
-  },
-  {
-    "id_carrito": 24,
-    "id_producto": 48,
-    "fecha_agreg": "2020-05-03T01:06:04.097Z",
-    "valor_al_comprar": 6056800
-  },
-  {
-    "id_carrito": 155,
-    "id_producto": 74,
-    "fecha_agreg": "2024-04-27T10:02:11.268Z",
-    "valor_al_comprar": 852600
-  },
-  {
-    "id_carrito": 26,
-    "id_producto": 30,
-    "fecha_agreg": "2024-11-13T14:36:16.616Z",
-    "valor_al_comprar": 6899200
-  },
-  {
-    "id_carrito": 9,
-    "id_producto": 75,
-    "fecha_agreg": "2020-11-11T22:08:02.093Z",
-    "valor_al_comprar": 2971000
-  },
-  {
-    "id_carrito": 107,
-    "id_producto": 37,
-    "fecha_agreg": "2020-10-29T10:21:55.926Z",
-    "valor_al_comprar": 3824200
-  },
-  {
-    "id_carrito": 15,
-    "id_producto": 6,
-    "fecha_agreg": "2020-10-22T22:36:50.920Z",
-    "valor_al_comprar": 834100
-  },
-  {
-    "id_carrito": 109,
-    "id_producto": 62,
-    "fecha_agreg": "2023-07-23T09:45:29.893Z",
-    "valor_al_comprar": 5211000
-  },
-  {
-    "id_carrito": 144,
-    "id_producto": 81,
-    "fecha_agreg": "2023-09-20T23:59:14.574Z",
-    "valor_al_comprar": 4748600
-  },
-  {
-    "id_carrito": 17,
-    "id_producto": 72,
-    "fecha_agreg": "2021-01-27T07:47:00.550Z",
-    "valor_al_comprar": 218000
-  },
-  {
-    "id_carrito": 146,
-    "id_producto": 98,
-    "fecha_agreg": "2023-02-18T06:02:54.146Z",
-    "valor_al_comprar": 4516300
-  },
-  {
-    "id_carrito": 76,
-    "id_producto": 37,
-    "fecha_agreg": "2023-10-27T00:11:59.583Z",
-    "valor_al_comprar": 7290700
-  },
-  {
-    "id_carrito": 144,
-    "id_producto": 53,
-    "fecha_agreg": "2021-01-04T02:54:28.922Z",
-    "valor_al_comprar": 7306600
-  },
-  {
-    "id_carrito": 37,
-    "id_producto": 9,
-    "fecha_agreg": "2024-05-10T16:30:03.211Z",
-    "valor_al_comprar": 2329700
+    "fecha_agreg": "2024-06-10T06:10:17.150Z",
+    "valor_al_comprar": 9534600
   }
 ]

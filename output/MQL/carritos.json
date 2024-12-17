@@ -1,1002 +1,1002 @@
 [
   {
-    "id_usuario": 30,
-    "valor_total": 3497612,
-    "fecha_compra": "2022-03-22T16:01:11.975Z"
-  },
-  {
-    "id_usuario": 92,
-    "valor_total": 2959338,
-    "fecha_compra": "2021-05-01T15:33:04.618Z"
-  },
-  {
-    "id_usuario": 30,
-    "valor_total": 2631903,
-    "fecha_compra": "2023-09-06T08:19:35.940Z"
-  },
-  {
-    "id_usuario": 98,
-    "valor_total": 2418793,
-    "fecha_compra": "2022-12-07T20:51:47.202Z"
-  },
-  {
-    "id_usuario": 50,
-    "valor_total": 4440368,
-    "fecha_compra": "2021-09-28T13:30:56.095Z"
-  },
-  {
-    "id_usuario": 96,
-    "valor_total": 4251380,
-    "fecha_compra": "2023-02-26T03:50:33.803Z"
-  },
-  {
-    "id_usuario": 66,
-    "valor_total": 3918417,
-    "fecha_compra": "2020-06-16T10:38:50.396Z"
-  },
-  {
-    "id_usuario": 12,
-    "valor_total": 4545848,
-    "fecha_compra": "2020-09-09T18:49:13.359Z"
-  },
-  {
-    "id_usuario": 25,
-    "valor_total": 6673417,
-    "fecha_compra": "2022-10-21T21:33:58.259Z"
-  },
-  {
-    "id_usuario": 57,
-    "valor_total": 731635,
-    "fecha_compra": "2023-12-20T00:09:08.960Z"
-  },
-  {
-    "id_usuario": 84,
-    "valor_total": 5801662,
-    "fecha_compra": "2022-08-07T17:55:58.452Z"
-  },
-  {
-    "id_usuario": 98,
-    "valor_total": 2552958,
-    "fecha_compra": "2022-10-05T06:00:22.437Z"
-  },
-  {
-    "id_usuario": 49,
-    "valor_total": 274996,
-    "fecha_compra": "2021-05-27T23:47:38.422Z"
-  },
-  {
-    "id_usuario": 88,
-    "valor_total": 958720,
-    "fecha_compra": "2023-10-28T13:22:18.606Z"
-  },
-  {
-    "id_usuario": 43,
-    "valor_total": 3977017,
-    "fecha_compra": "2021-10-06T21:37:09.228Z"
-  },
-  {
-    "id_usuario": 22,
-    "valor_total": 3920752,
-    "fecha_compra": "2020-08-03T04:20:30.006Z"
-  },
-  {
-    "id_usuario": 76,
-    "valor_total": 550510,
-    "fecha_compra": "2021-09-17T01:35:50.414Z"
-  },
-  {
-    "id_usuario": 37,
-    "valor_total": 2808902,
-    "fecha_compra": "2021-09-13T12:44:27.839Z"
-  },
-  {
-    "id_usuario": 35,
-    "valor_total": 5780163,
-    "fecha_compra": "2024-09-22T21:54:11.588Z"
-  },
-  {
-    "id_usuario": 28,
-    "valor_total": 4977212,
-    "fecha_compra": "2024-09-28T01:54:10.796Z"
-  },
-  {
-    "id_usuario": 24,
-    "valor_total": 5477129,
-    "fecha_compra": "2021-02-05T06:28:28.745Z"
-  },
-  {
-    "id_usuario": 95,
-    "valor_total": 1163200,
-    "fecha_compra": "2024-03-12T22:23:36.706Z"
-  },
-  {
-    "id_usuario": 39,
-    "valor_total": 5215888,
-    "fecha_compra": "2020-04-06T03:28:31.604Z"
-  },
-  {
-    "id_usuario": 43,
-    "valor_total": 3499453,
-    "fecha_compra": "2023-01-15T08:53:39.575Z"
-  },
-  {
-    "id_usuario": 52,
-    "valor_total": 4871388,
-    "fecha_compra": "2023-03-02T10:08:43.465Z"
-  },
-  {
-    "id_usuario": 55,
-    "valor_total": 2458872,
-    "fecha_compra": "2021-05-10T19:58:07.577Z"
-  },
-  {
-    "id_usuario": 27,
-    "valor_total": 6830633,
-    "fecha_compra": "2023-10-02T11:34:01.278Z"
-  },
-  {
-    "id_usuario": 11,
-    "valor_total": 1546135,
-    "fecha_compra": "2024-07-26T22:11:44.203Z"
-  },
-  {
-    "id_usuario": 36,
-    "valor_total": 3663780,
-    "fecha_compra": "2022-08-20T22:18:46.261Z"
-  },
-  {
     "id_usuario": 71,
-    "valor_total": 4795177,
-    "fecha_compra": "2021-02-03T16:39:52.588Z"
-  },
-  {
-    "id_usuario": 23,
-    "valor_total": 5434547,
-    "fecha_compra": "2020-07-24T19:16:02.360Z"
-  },
-  {
-    "id_usuario": 56,
-    "valor_total": 6981305,
-    "fecha_compra": "2023-11-05T17:37:28.912Z"
-  },
-  {
-    "id_usuario": 50,
-    "valor_total": 6262133,
-    "fecha_compra": "2021-10-09T20:52:46.291Z"
+    "valor_total": 6884625,
+    "fecha_compra": "2022-04-04T03:59:36.295Z"
   },
   {
     "id_usuario": 22,
-    "valor_total": 5255393,
-    "fecha_compra": "2023-08-05T15:04:50.220Z"
-  },
-  {
-    "id_usuario": 92,
-    "valor_total": 6702020,
-    "fecha_compra": "2020-02-08T09:44:07.496Z"
-  },
-  {
-    "id_usuario": 54,
-    "valor_total": 3963152,
-    "fecha_compra": "2023-07-10T23:02:21.826Z"
-  },
-  {
-    "id_usuario": 45,
-    "valor_total": 5164943,
-    "fecha_compra": "2020-01-12T22:55:33.001Z"
-  },
-  {
-    "id_usuario": 14,
-    "valor_total": 692036,
-    "fecha_compra": "2022-10-01T05:36:43.024Z"
-  },
-  {
-    "id_usuario": 52,
-    "valor_total": 5003327,
-    "fecha_compra": "2024-01-10T02:59:11.741Z"
-  },
-  {
-    "id_usuario": 95,
-    "valor_total": 3913851,
-    "fecha_compra": "2023-01-21T08:53:39.587Z"
-  },
-  {
-    "id_usuario": 83,
-    "valor_total": 4606034,
-    "fecha_compra": "2020-12-15T19:11:22.599Z"
-  },
-  {
-    "id_usuario": 55,
-    "valor_total": 2205364,
-    "fecha_compra": "2023-09-09T03:36:39.728Z"
-  },
-  {
-    "id_usuario": 28,
-    "valor_total": 1360913,
-    "fecha_compra": "2021-02-20T06:34:14.235Z"
-  },
-  {
-    "id_usuario": 42,
-    "valor_total": 1544266,
-    "fecha_compra": "2024-04-10T09:35:37.153Z"
+    "valor_total": 226152,
+    "fecha_compra": "2022-02-14T06:43:37.479Z"
   },
   {
     "id_usuario": 84,
-    "valor_total": 1488083,
-    "fecha_compra": "2020-11-03T14:09:54.883Z"
-  },
-  {
-    "id_usuario": 47,
-    "valor_total": 2780471,
-    "fecha_compra": "2021-03-14T06:09:23.032Z"
-  },
-  {
-    "id_usuario": 88,
-    "valor_total": 3688438,
-    "fecha_compra": "2024-10-12T06:27:19.594Z"
-  },
-  {
-    "id_usuario": 91,
-    "valor_total": 5688535,
-    "fecha_compra": "2024-05-06T04:17:27.333Z"
-  },
-  {
-    "id_usuario": 91,
-    "valor_total": 149237,
-    "fecha_compra": "2021-08-20T14:06:32.849Z"
-  },
-  {
-    "id_usuario": 4,
-    "valor_total": 1891262,
-    "fecha_compra": "2022-03-08T14:17:06.974Z"
-  },
-  {
-    "id_usuario": 14,
-    "valor_total": 2107346,
-    "fecha_compra": "2020-04-02T04:58:58.540Z"
-  },
-  {
-    "id_usuario": 17,
-    "valor_total": 6646349,
-    "fecha_compra": "2023-12-19T10:12:56.186Z"
-  },
-  {
-    "id_usuario": 27,
-    "valor_total": 1907234,
-    "fecha_compra": "2021-10-02T05:47:12.258Z"
-  },
-  {
-    "id_usuario": 5,
-    "valor_total": 6355507,
-    "fecha_compra": "2021-02-28T06:59:28.933Z"
-  },
-  {
-    "id_usuario": 61,
-    "valor_total": 1359291,
-    "fecha_compra": "2020-03-27T17:19:41.974Z"
-  },
-  {
-    "id_usuario": 24,
-    "valor_total": 3071586,
-    "fecha_compra": "2020-05-10T10:23:09.560Z"
-  },
-  {
-    "id_usuario": 27,
-    "valor_total": 6604216,
-    "fecha_compra": "2023-12-24T02:19:49.845Z"
-  },
-  {
-    "id_usuario": 27,
-    "valor_total": 5362493,
-    "fecha_compra": "2022-06-07T10:02:39.970Z"
-  },
-  {
-    "id_usuario": 35,
-    "valor_total": 1682135,
-    "fecha_compra": "2023-03-02T03:04:26.793Z"
-  },
-  {
-    "id_usuario": 48,
-    "valor_total": 5512827,
-    "fecha_compra": "2023-01-16T17:39:52.213Z"
-  },
-  {
-    "id_usuario": 35,
-    "valor_total": 3136821,
-    "fecha_compra": "2024-12-15T21:16:29.347Z"
-  },
-  {
-    "id_usuario": 36,
-    "valor_total": 5310725,
-    "fecha_compra": "2020-12-10T16:49:49.243Z"
-  },
-  {
-    "id_usuario": 37,
-    "valor_total": 6958133,
-    "fecha_compra": "2020-12-15T17:44:41.600Z"
-  },
-  {
-    "id_usuario": 85,
-    "valor_total": 726254,
-    "fecha_compra": "2023-10-11T11:50:09.441Z"
-  },
-  {
-    "id_usuario": 73,
-    "valor_total": 3504007,
-    "fecha_compra": "2021-07-17T10:00:12.116Z"
-  },
-  {
-    "id_usuario": 47,
-    "valor_total": 645738,
-    "fecha_compra": "2022-02-27T20:44:32.813Z"
-  },
-  {
-    "id_usuario": 53,
-    "valor_total": 1610715,
-    "fecha_compra": "2022-08-21T21:11:16.450Z"
-  },
-  {
-    "id_usuario": 97,
-    "valor_total": 5096183,
-    "fecha_compra": "2023-03-05T19:37:56.565Z"
-  },
-  {
-    "id_usuario": 60,
-    "valor_total": 6373613,
-    "fecha_compra": "2021-03-04T21:36:30.813Z"
-  },
-  {
-    "id_usuario": 78,
-    "valor_total": 6036250,
-    "fecha_compra": "2021-04-25T14:08:15.426Z"
-  },
-  {
-    "id_usuario": 15,
-    "valor_total": 5691810,
-    "fecha_compra": "2020-10-25T21:48:29.913Z"
-  },
-  {
-    "id_usuario": 47,
-    "valor_total": 6813434,
-    "fecha_compra": "2024-04-29T22:37:36.370Z"
-  },
-  {
-    "id_usuario": 34,
-    "valor_total": 6050857,
-    "fecha_compra": "2021-08-12T05:28:32.954Z"
-  },
-  {
-    "id_usuario": 42,
-    "valor_total": 926765,
-    "fecha_compra": "2023-01-08T04:49:21.993Z"
-  },
-  {
-    "id_usuario": 52,
-    "valor_total": 4297816,
-    "fecha_compra": "2023-09-17T10:42:38.894Z"
-  },
-  {
-    "id_usuario": 59,
-    "valor_total": 6494329,
-    "fecha_compra": "2020-03-17T11:42:45.760Z"
-  },
-  {
-    "id_usuario": 100,
-    "valor_total": 5780299,
-    "fecha_compra": "2020-06-27T08:08:39.341Z"
-  },
-  {
-    "id_usuario": 12,
-    "valor_total": 2221091,
-    "fecha_compra": "2024-01-12T22:32:44.893Z"
-  },
-  {
-    "id_usuario": 28,
-    "valor_total": 333943,
-    "fecha_compra": "2024-05-30T09:30:35.540Z"
-  },
-  {
-    "id_usuario": 62,
-    "valor_total": 6457478,
-    "fecha_compra": "2021-06-08T17:36:38.762Z"
-  },
-  {
-    "id_usuario": 94,
-    "valor_total": 3784674,
-    "fecha_compra": "2024-06-06T18:09:50.308Z"
-  },
-  {
-    "id_usuario": 18,
-    "valor_total": 6327171,
-    "fecha_compra": "2022-07-02T16:37:36.187Z"
-  },
-  {
-    "id_usuario": 49,
-    "valor_total": 5101073,
-    "fecha_compra": "2023-04-02T21:53:58.383Z"
-  },
-  {
-    "id_usuario": 61,
-    "valor_total": 4018186,
-    "fecha_compra": "2023-03-16T21:09:09.504Z"
-  },
-  {
-    "id_usuario": 78,
-    "valor_total": 3607466,
-    "fecha_compra": "2024-09-06T01:05:31.914Z"
+    "valor_total": 5019904,
+    "fecha_compra": "2023-08-12T09:02:48.287Z"
   },
   {
     "id_usuario": 32,
-    "valor_total": 4792848,
-    "fecha_compra": "2024-01-08T14:41:43.108Z"
-  },
-  {
-    "id_usuario": 59,
-    "valor_total": 66560,
-    "fecha_compra": "2023-09-12T05:31:24.955Z"
-  },
-  {
-    "id_usuario": 71,
-    "valor_total": 5558800,
-    "fecha_compra": "2020-02-05T10:12:48.409Z"
-  },
-  {
-    "id_usuario": 46,
-    "valor_total": 957088,
-    "fecha_compra": "2022-09-04T05:27:50.750Z"
-  },
-  {
-    "id_usuario": 72,
-    "valor_total": 529572,
-    "fecha_compra": "2020-12-08T12:52:39.008Z"
-  },
-  {
-    "id_usuario": 20,
-    "valor_total": 5220808,
-    "fecha_compra": "2024-08-15T19:42:34.375Z"
-  },
-  {
-    "id_usuario": 95,
-    "valor_total": 3415063,
-    "fecha_compra": "2024-10-29T05:30:06.739Z"
-  },
-  {
-    "id_usuario": 73,
-    "valor_total": 1703718,
-    "fecha_compra": "2022-01-20T14:16:43.490Z"
-  },
-  {
-    "id_usuario": 14,
-    "valor_total": 85237,
-    "fecha_compra": "2024-03-23T17:49:10.595Z"
-  },
-  {
-    "id_usuario": 49,
-    "valor_total": 5350924,
-    "fecha_compra": "2022-07-12T16:52:10.713Z"
-  },
-  {
-    "id_usuario": 18,
-    "valor_total": 4544770,
-    "fecha_compra": "2024-03-02T17:07:19.787Z"
-  },
-  {
-    "id_usuario": 63,
-    "valor_total": 2757660,
-    "fecha_compra": "2020-08-12T02:09:02.809Z"
-  },
-  {
-    "id_usuario": 16,
-    "valor_total": 4807140,
-    "fecha_compra": "2022-03-31T12:10:08.516Z"
-  },
-  {
-    "id_usuario": 96,
-    "valor_total": 1817588,
-    "fecha_compra": "2020-03-22T04:25:27.924Z"
-  },
-  {
-    "id_usuario": 93,
-    "valor_total": 4986111,
-    "fecha_compra": "2020-12-28T13:53:14.950Z"
-  },
-  {
-    "id_usuario": 69,
-    "valor_total": 5873448,
-    "fecha_compra": "2022-03-07T15:56:18.798Z"
-  },
-  {
-    "id_usuario": 24,
-    "valor_total": 1129316,
-    "fecha_compra": "2024-01-24T09:02:25.164Z"
-  },
-  {
-    "id_usuario": 52,
-    "valor_total": 3449792,
-    "fecha_compra": "2021-03-22T06:14:55.329Z"
-  },
-  {
-    "id_usuario": 48,
-    "valor_total": 2422404,
-    "fecha_compra": "2023-10-02T15:06:45.588Z"
-  },
-  {
-    "id_usuario": 81,
-    "valor_total": 5816901,
-    "fecha_compra": "2023-11-29T01:01:09.957Z"
-  },
-  {
-    "id_usuario": 57,
-    "valor_total": 354136,
-    "fecha_compra": "2020-10-20T06:40:40.196Z"
-  },
-  {
-    "id_usuario": 46,
-    "valor_total": 5495965,
-    "fecha_compra": "2022-11-06T16:01:47.829Z"
-  },
-  {
-    "id_usuario": 1,
-    "valor_total": 5596213,
-    "fecha_compra": "2020-07-26T01:50:49.162Z"
-  },
-  {
-    "id_usuario": 16,
-    "valor_total": 3548225,
-    "fecha_compra": "2024-02-06T10:21:21.679Z"
-  },
-  {
-    "id_usuario": 22,
-    "valor_total": 2828308,
-    "fecha_compra": "2022-02-21T19:18:06.520Z"
-  },
-  {
-    "id_usuario": 48,
-    "valor_total": 4206837,
-    "fecha_compra": "2020-02-11T13:49:50.491Z"
-  },
-  {
-    "id_usuario": 30,
-    "valor_total": 5632745,
-    "fecha_compra": "2022-04-18T04:31:53.485Z"
-  },
-  {
-    "id_usuario": 68,
-    "valor_total": 3458392,
-    "fecha_compra": "2024-01-04T10:55:41.493Z"
-  },
-  {
-    "id_usuario": 81,
-    "valor_total": 2719510,
-    "fecha_compra": "2024-02-22T11:03:19.747Z"
-  },
-  {
-    "id_usuario": 36,
-    "valor_total": 1511892,
-    "fecha_compra": "2021-10-26T15:54:31.641Z"
-  },
-  {
-    "id_usuario": 86,
-    "valor_total": 2684634,
-    "fecha_compra": "2021-10-14T16:23:05.247Z"
-  },
-  {
-    "id_usuario": 57,
-    "valor_total": 977680,
-    "fecha_compra": "2023-12-30T00:22:10.565Z"
-  },
-  {
-    "id_usuario": 98,
-    "valor_total": 6597554,
-    "fecha_compra": "2023-07-29T09:18:05.886Z"
-  },
-  {
-    "id_usuario": 80,
-    "valor_total": 6883550,
-    "fecha_compra": "2024-02-18T04:03:21.712Z"
-  },
-  {
-    "id_usuario": 78,
-    "valor_total": 6684912,
-    "fecha_compra": "2022-12-08T21:25:02.695Z"
-  },
-  {
-    "id_usuario": 76,
-    "valor_total": 823936,
-    "fecha_compra": "2024-07-30T02:44:22.328Z"
-  },
-  {
-    "id_usuario": 87,
-    "valor_total": 4555953,
-    "fecha_compra": "2023-08-08T14:58:50.709Z"
-  },
-  {
-    "id_usuario": 97,
-    "valor_total": 3212398,
-    "fecha_compra": "2020-07-15T01:57:50.298Z"
-  },
-  {
-    "id_usuario": 52,
-    "valor_total": 4861312,
-    "fecha_compra": "2024-10-28T20:58:40.877Z"
-  },
-  {
-    "id_usuario": 49,
-    "valor_total": 1127062,
-    "fecha_compra": "2023-12-22T11:23:19.331Z"
-  },
-  {
-    "id_usuario": 81,
-    "valor_total": 5790115,
-    "fecha_compra": "2024-01-27T02:25:14.332Z"
-  },
-  {
-    "id_usuario": 7,
-    "valor_total": 6981642,
-    "fecha_compra": "2020-09-28T22:32:35.154Z"
-  },
-  {
-    "id_usuario": 9,
-    "valor_total": 5637637,
-    "fecha_compra": "2023-05-21T12:16:28.500Z"
-  },
-  {
-    "id_usuario": 36,
-    "valor_total": 1039454,
-    "fecha_compra": "2023-07-13T16:11:57.703Z"
-  },
-  {
-    "id_usuario": 11,
-    "valor_total": 3875417,
-    "fecha_compra": "2023-05-20T22:53:52.069Z"
-  },
-  {
-    "id_usuario": 36,
-    "valor_total": 1652355,
-    "fecha_compra": "2023-01-09T12:30:56.914Z"
-  },
-  {
-    "id_usuario": 76,
-    "valor_total": 847725,
-    "fecha_compra": "2023-11-28T03:14:03.209Z"
-  },
-  {
-    "id_usuario": 1,
-    "valor_total": 2423556,
-    "fecha_compra": "2023-09-17T05:59:41.363Z"
-  },
-  {
-    "id_usuario": 53,
-    "valor_total": 6910276,
-    "fecha_compra": "2024-02-14T20:32:08.237Z"
-  },
-  {
-    "id_usuario": 30,
-    "valor_total": 4706256,
-    "fecha_compra": "2022-07-19T22:09:47.407Z"
-  },
-  {
-    "id_usuario": 45,
-    "valor_total": 2528780,
-    "fecha_compra": "2019-12-27T23:58:48.601Z"
-  },
-  {
-    "id_usuario": 11,
-    "valor_total": 2959354,
-    "fecha_compra": "2021-11-01T09:25:15.566Z"
-  },
-  {
-    "id_usuario": 30,
-    "valor_total": 2816145,
-    "fecha_compra": "2022-12-14T20:06:10.438Z"
-  },
-  {
-    "id_usuario": 52,
-    "valor_total": 5715357,
-    "fecha_compra": "2023-03-04T04:18:47.865Z"
-  },
-  {
-    "id_usuario": 59,
-    "valor_total": 6808795,
-    "fecha_compra": "2024-07-04T04:06:37.827Z"
-  },
-  {
-    "id_usuario": 5,
-    "valor_total": 1746479,
-    "fecha_compra": "2023-08-16T17:58:44.710Z"
-  },
-  {
-    "id_usuario": 43,
-    "valor_total": 6253411,
-    "fecha_compra": "2024-02-20T15:54:10.411Z"
-  },
-  {
-    "id_usuario": 59,
-    "valor_total": 6128148,
-    "fecha_compra": "2020-07-10T09:39:48.646Z"
-  },
-  {
-    "id_usuario": 51,
-    "valor_total": 4491493,
-    "fecha_compra": "2022-03-31T08:06:40.141Z"
+    "valor_total": 6171264,
+    "fecha_compra": "2021-12-04T22:20:40.145Z"
   },
   {
     "id_usuario": 100,
-    "valor_total": 2832957,
-    "fecha_compra": "2022-03-08T08:38:24.510Z"
-  },
-  {
-    "id_usuario": 73,
-    "valor_total": 2729376,
-    "fecha_compra": "2021-01-10T03:03:49.930Z"
-  },
-  {
-    "id_usuario": 23,
-    "valor_total": 3141385,
-    "fecha_compra": "2024-02-29T19:26:49.997Z"
-  },
-  {
-    "id_usuario": 1,
-    "valor_total": 2899578,
-    "fecha_compra": "2020-11-18T09:38:59.515Z"
-  },
-  {
-    "id_usuario": 91,
-    "valor_total": 184945,
-    "fecha_compra": "2020-12-10T02:33:14.681Z"
-  },
-  {
-    "id_usuario": 10,
-    "valor_total": 4172601,
-    "fecha_compra": "2024-09-30T02:34:30.283Z"
-  },
-  {
-    "id_usuario": 22,
-    "valor_total": 28465,
-    "fecha_compra": "2023-11-05T17:28:48.270Z"
-  },
-  {
-    "id_usuario": 24,
-    "valor_total": 5225143,
-    "fecha_compra": "2024-05-20T18:03:09.454Z"
-  },
-  {
-    "id_usuario": 42,
-    "valor_total": 1975455,
-    "fecha_compra": "2021-12-20T08:54:35.897Z"
-  },
-  {
-    "id_usuario": 50,
-    "valor_total": 5789328,
-    "fecha_compra": "2023-10-18T23:46:04.381Z"
-  },
-  {
-    "id_usuario": 36,
-    "valor_total": 1402219,
-    "fecha_compra": "2023-01-01T09:02:31.326Z"
-  },
-  {
-    "id_usuario": 77,
-    "valor_total": 5843762,
-    "fecha_compra": "2020-08-22T05:36:35.301Z"
-  },
-  {
-    "id_usuario": 87,
-    "valor_total": 6957368,
-    "fecha_compra": "2021-11-16T15:57:57.942Z"
-  },
-  {
-    "id_usuario": 4,
-    "valor_total": 356554,
-    "fecha_compra": "2021-07-23T13:06:54.004Z"
-  },
-  {
-    "id_usuario": 29,
-    "valor_total": 6775717,
-    "fecha_compra": "2024-08-26T22:10:14.932Z"
-  },
-  {
-    "id_usuario": 100,
-    "valor_total": 5657059,
-    "fecha_compra": "2022-06-20T14:00:10.086Z"
-  },
-  {
-    "id_usuario": 73,
-    "valor_total": 2473382,
-    "fecha_compra": "2022-11-19T23:55:20.902Z"
-  },
-  {
-    "id_usuario": 7,
-    "valor_total": 5375553,
-    "fecha_compra": "2024-02-09T01:00:37.773Z"
-  },
-  {
-    "id_usuario": 9,
-    "valor_total": 3700993,
-    "fecha_compra": "2023-08-11T10:25:51.867Z"
-  },
-  {
-    "id_usuario": 39,
-    "valor_total": 5896917,
-    "fecha_compra": "2024-09-14T14:52:11.974Z"
-  },
-  {
-    "id_usuario": 2,
-    "valor_total": 3344656,
-    "fecha_compra": "2020-02-03T03:18:57.008Z"
-  },
-  {
-    "id_usuario": 93,
-    "valor_total": 1422359,
-    "fecha_compra": "2022-04-10T00:11:14.175Z"
-  },
-  {
-    "id_usuario": 6,
-    "valor_total": 6754174,
-    "fecha_compra": "2022-08-23T04:06:15.854Z"
-  },
-  {
-    "id_usuario": 40,
-    "valor_total": 870176,
-    "fecha_compra": "2021-09-14T14:42:19.965Z"
-  },
-  {
-    "id_usuario": 92,
-    "valor_total": 1961141,
-    "fecha_compra": "2023-05-15T08:41:56.216Z"
-  },
-  {
-    "id_usuario": 11,
-    "valor_total": 1130482,
-    "fecha_compra": "2023-05-01T17:02:54.960Z"
-  },
-  {
-    "id_usuario": 40,
-    "valor_total": 1852714,
-    "fecha_compra": "2024-11-05T10:19:40.612Z"
-  },
-  {
-    "id_usuario": 14,
-    "valor_total": 2713935,
-    "fecha_compra": "2020-05-03T11:28:01.311Z"
-  },
-  {
-    "id_usuario": 81,
-    "valor_total": 6702092,
-    "fecha_compra": "2021-03-21T23:31:05.741Z"
-  },
-  {
-    "id_usuario": 14,
-    "valor_total": 2856049,
-    "fecha_compra": "2024-10-31T07:06:06.421Z"
-  },
-  {
-    "id_usuario": 43,
-    "valor_total": 5842970,
-    "fecha_compra": "2023-05-08T03:46:57.592Z"
-  },
-  {
-    "id_usuario": 93,
-    "valor_total": 5846892,
-    "fecha_compra": "2023-03-03T17:03:24.511Z"
-  },
-  {
-    "id_usuario": 33,
-    "valor_total": 5150479,
-    "fecha_compra": "2023-03-13T02:43:12.526Z"
-  },
-  {
-    "id_usuario": 17,
-    "valor_total": 2328948,
-    "fecha_compra": "2024-09-30T23:48:57.990Z"
-  },
-  {
-    "id_usuario": 57,
-    "valor_total": 4069306,
-    "fecha_compra": "2021-08-08T15:59:23.952Z"
-  },
-  {
-    "id_usuario": 14,
-    "valor_total": 1230044,
-    "fecha_compra": "2020-06-08T07:49:25.965Z"
-  },
-  {
-    "id_usuario": 79,
-    "valor_total": 2423322,
-    "fecha_compra": "2022-11-25T01:38:04.217Z"
-  },
-  {
-    "id_usuario": 26,
-    "valor_total": 428240,
-    "fecha_compra": "2019-12-29T19:03:15.183Z"
-  },
-  {
-    "id_usuario": 22,
-    "valor_total": 5108176,
-    "fecha_compra": "2024-04-26T23:17:53.566Z"
-  },
-  {
-    "id_usuario": 84,
-    "valor_total": 4449882,
-    "fecha_compra": "2022-02-17T16:56:26.539Z"
-  },
-  {
-    "id_usuario": 82,
-    "valor_total": 2700822,
-    "fecha_compra": "2022-10-01T08:02:38.747Z"
-  },
-  {
-    "id_usuario": 35,
-    "valor_total": 6649665,
-    "fecha_compra": "2024-04-03T23:06:10.596Z"
-  },
-  {
-    "id_usuario": 98,
-    "valor_total": 1401319,
-    "fecha_compra": "2024-12-09T21:48:35.831Z"
-  },
-  {
-    "id_usuario": 27,
-    "valor_total": 6060511,
-    "fecha_compra": "2023-04-06T07:02:56.394Z"
-  },
-  {
-    "id_usuario": 93,
-    "valor_total": 3804772,
-    "fecha_compra": "2022-10-07T06:49:51.238Z"
-  },
-  {
-    "id_usuario": 64,
-    "valor_total": 5490281,
-    "fecha_compra": "2021-01-13T06:20:59.215Z"
+    "valor_total": 2589499,
+    "fecha_compra": "2021-08-16T00:36:01.653Z"
   },
   {
     "id_usuario": 99,
-    "valor_total": 2924434,
-    "fecha_compra": "2022-08-23T13:14:17.998Z"
+    "valor_total": 5300840,
+    "fecha_compra": "2021-01-09T21:56:42.401Z"
   },
   {
-    "id_usuario": 13,
-    "valor_total": 4591746,
-    "fecha_compra": "2023-05-08T18:15:44.322Z"
-  },
-  {
-    "id_usuario": 28,
-    "valor_total": 2546740,
-    "fecha_compra": "2024-02-17T05:40:03.628Z"
-  },
-  {
-    "id_usuario": 22,
-    "valor_total": 2755113,
-    "fecha_compra": "2020-07-21T03:32:40.025Z"
-  },
-  {
-    "id_usuario": 97,
-    "valor_total": 4373300,
-    "fecha_compra": "2021-02-16T09:11:52.425Z"
+    "id_usuario": 77,
+    "valor_total": 4185902,
+    "fecha_compra": "2023-02-05T04:20:55.855Z"
   },
   {
     "id_usuario": 5,
-    "valor_total": 229287,
-    "fecha_compra": "2023-08-02T12:43:16.394Z"
+    "valor_total": 3160068,
+    "fecha_compra": "2022-05-12T10:58:42.534Z"
   },
   {
-    "id_usuario": 92,
-    "valor_total": 3392675,
-    "fecha_compra": "2023-07-25T14:06:44.351Z"
+    "id_usuario": 21,
+    "valor_total": 3620554,
+    "fecha_compra": "2021-01-31T09:02:00.917Z"
   },
   {
-    "id_usuario": 51,
-    "valor_total": 2025207,
-    "fecha_compra": "2024-04-27T03:33:56.701Z"
+    "id_usuario": 21,
+    "valor_total": 218042,
+    "fecha_compra": "2021-01-31T21:37:50.905Z"
   },
   {
-    "id_usuario": 83,
-    "valor_total": 6445227,
-    "fecha_compra": "2024-10-08T01:38:05.012Z"
+    "id_usuario": 93,
+    "valor_total": 4327739,
+    "fecha_compra": "2024-11-25T23:16:01.973Z"
+  },
+  {
+    "id_usuario": 5,
+    "valor_total": 5969809,
+    "fecha_compra": "2023-10-20T12:03:47.893Z"
+  },
+  {
+    "id_usuario": 90,
+    "valor_total": 828919,
+    "fecha_compra": "2020-10-29T05:46:52.489Z"
+  },
+  {
+    "id_usuario": 96,
+    "valor_total": 6289046,
+    "fecha_compra": "2022-10-09T00:11:18.479Z"
+  },
+  {
+    "id_usuario": 73,
+    "valor_total": 6240074,
+    "fecha_compra": "2020-03-18T00:01:12.595Z"
+  },
+  {
+    "id_usuario": 6,
+    "valor_total": 5309092,
+    "fecha_compra": "2020-02-23T08:49:24.780Z"
+  },
+  {
+    "id_usuario": 21,
+    "valor_total": 1076353,
+    "fecha_compra": "2023-09-02T12:39:39.683Z"
+  },
+  {
+    "id_usuario": 24,
+    "valor_total": 4806688,
+    "fecha_compra": "2021-10-12T18:09:15.354Z"
+  },
+  {
+    "id_usuario": 69,
+    "valor_total": 3543317,
+    "fecha_compra": "2022-12-04T17:25:44.410Z"
+  },
+  {
+    "id_usuario": 95,
+    "valor_total": 387160,
+    "fecha_compra": "2024-07-18T03:16:29.578Z"
+  },
+  {
+    "id_usuario": 26,
+    "valor_total": 682603,
+    "fecha_compra": "2024-01-25T12:29:21.198Z"
+  },
+  {
+    "id_usuario": 52,
+    "valor_total": 2538288,
+    "fecha_compra": "2022-04-30T06:21:04.333Z"
   },
   {
     "id_usuario": 45,
-    "valor_total": 1571898,
-    "fecha_compra": "2023-12-27T06:18:21.968Z"
+    "valor_total": 486361,
+    "fecha_compra": "2023-02-14T09:39:28.486Z"
+  },
+  {
+    "id_usuario": 32,
+    "valor_total": 4730071,
+    "fecha_compra": "2021-10-16T15:39:30.830Z"
+  },
+  {
+    "id_usuario": 83,
+    "valor_total": 2122237,
+    "fecha_compra": "2022-03-26T20:32:29.287Z"
+  },
+  {
+    "id_usuario": 4,
+    "valor_total": 4167003,
+    "fecha_compra": "2020-06-21T22:44:47.727Z"
+  },
+  {
+    "id_usuario": 89,
+    "valor_total": 2483950,
+    "fecha_compra": "2021-02-28T23:24:36.413Z"
+  },
+  {
+    "id_usuario": 7,
+    "valor_total": 2951848,
+    "fecha_compra": "2023-04-12T21:19:17.025Z"
+  },
+  {
+    "id_usuario": 66,
+    "valor_total": 2206663,
+    "fecha_compra": "2021-10-06T00:40:09.024Z"
+  },
+  {
+    "id_usuario": 8,
+    "valor_total": 2284067,
+    "fecha_compra": "2023-03-26T23:10:40.707Z"
+  },
+  {
+    "id_usuario": 61,
+    "valor_total": 21422,
+    "fecha_compra": "2020-11-10T19:42:55.237Z"
+  },
+  {
+    "id_usuario": 42,
+    "valor_total": 1656612,
+    "fecha_compra": "2021-10-04T01:41:54.907Z"
+  },
+  {
+    "id_usuario": 100,
+    "valor_total": 6719625,
+    "fecha_compra": "2022-01-18T05:48:50.612Z"
+  },
+  {
+    "id_usuario": 8,
+    "valor_total": 6705385,
+    "fecha_compra": "2021-12-07T19:27:22.936Z"
+  },
+  {
+    "id_usuario": 63,
+    "valor_total": 950726,
+    "fecha_compra": "2021-11-12T00:06:22.807Z"
+  },
+  {
+    "id_usuario": 99,
+    "valor_total": 6335290,
+    "fecha_compra": "2021-10-22T22:50:38.529Z"
+  },
+  {
+    "id_usuario": 9,
+    "valor_total": 6592670,
+    "fecha_compra": "2024-10-01T23:39:16.339Z"
+  },
+  {
+    "id_usuario": 64,
+    "valor_total": 661362,
+    "fecha_compra": "2020-12-22T01:22:30.808Z"
+  },
+  {
+    "id_usuario": 41,
+    "valor_total": 6468806,
+    "fecha_compra": "2023-02-27T00:31:45.227Z"
+  },
+  {
+    "id_usuario": 67,
+    "valor_total": 4887366,
+    "fecha_compra": "2021-03-10T00:28:44.684Z"
+  },
+  {
+    "id_usuario": 80,
+    "valor_total": 1948023,
+    "fecha_compra": "2021-09-28T00:32:30.171Z"
+  },
+  {
+    "id_usuario": 48,
+    "valor_total": 6230727,
+    "fecha_compra": "2020-10-24T04:38:10.439Z"
+  },
+  {
+    "id_usuario": 59,
+    "valor_total": 5637544,
+    "fecha_compra": "2021-07-17T15:17:49.938Z"
+  },
+  {
+    "id_usuario": 37,
+    "valor_total": 1008686,
+    "fecha_compra": "2024-07-01T02:21:35.781Z"
+  },
+  {
+    "id_usuario": 73,
+    "valor_total": 3609922,
+    "fecha_compra": "2023-04-17T11:37:33.903Z"
+  },
+  {
+    "id_usuario": 51,
+    "valor_total": 1394565,
+    "fecha_compra": "2022-04-22T18:14:56.080Z"
+  },
+  {
+    "id_usuario": 66,
+    "valor_total": 4585622,
+    "fecha_compra": "2023-06-02T17:09:26.963Z"
+  },
+  {
+    "id_usuario": 60,
+    "valor_total": 22072,
+    "fecha_compra": "2023-10-24T12:31:11.350Z"
+  },
+  {
+    "id_usuario": 41,
+    "valor_total": 6491551,
+    "fecha_compra": "2020-04-02T06:11:37.588Z"
+  },
+  {
+    "id_usuario": 73,
+    "valor_total": 1110858,
+    "fecha_compra": "2023-12-29T08:58:12.705Z"
+  },
+  {
+    "id_usuario": 66,
+    "valor_total": 5461680,
+    "fecha_compra": "2020-12-09T06:23:49.246Z"
+  },
+  {
+    "id_usuario": 54,
+    "valor_total": 1384191,
+    "fecha_compra": "2022-09-20T18:35:43.495Z"
+  },
+  {
+    "id_usuario": 7,
+    "valor_total": 712005,
+    "fecha_compra": "2020-02-05T16:55:56.191Z"
+  },
+  {
+    "id_usuario": 43,
+    "valor_total": 1174959,
+    "fecha_compra": "2022-06-26T05:23:02.198Z"
+  },
+  {
+    "id_usuario": 92,
+    "valor_total": 3856510,
+    "fecha_compra": "2020-05-16T08:24:47.650Z"
+  },
+  {
+    "id_usuario": 68,
+    "valor_total": 1840752,
+    "fecha_compra": "2020-12-10T18:30:20.332Z"
+  },
+  {
+    "id_usuario": 36,
+    "valor_total": 577900,
+    "fecha_compra": "2021-03-07T22:09:44.926Z"
+  },
+  {
+    "id_usuario": 48,
+    "valor_total": 1932227,
+    "fecha_compra": "2023-10-16T22:18:18.769Z"
+  },
+  {
+    "id_usuario": 13,
+    "valor_total": 1880966,
+    "fecha_compra": "2024-10-18T06:04:46.749Z"
+  },
+  {
+    "id_usuario": 3,
+    "valor_total": 1940977,
+    "fecha_compra": "2024-12-12T17:22:02.411Z"
+  },
+  {
+    "id_usuario": 92,
+    "valor_total": 1614586,
+    "fecha_compra": "2023-01-14T11:46:51.270Z"
+  },
+  {
+    "id_usuario": 3,
+    "valor_total": 813383,
+    "fecha_compra": "2021-06-29T02:45:36.552Z"
+  },
+  {
+    "id_usuario": 35,
+    "valor_total": 2143648,
+    "fecha_compra": "2023-03-14T14:43:31.970Z"
+  },
+  {
+    "id_usuario": 63,
+    "valor_total": 4901202,
+    "fecha_compra": "2021-11-04T12:33:29.268Z"
+  },
+  {
+    "id_usuario": 87,
+    "valor_total": 861665,
+    "fecha_compra": "2024-07-14T20:05:18.924Z"
+  },
+  {
+    "id_usuario": 23,
+    "valor_total": 6908130,
+    "fecha_compra": "2021-01-29T19:53:56.223Z"
+  },
+  {
+    "id_usuario": 35,
+    "valor_total": 1059338,
+    "fecha_compra": "2023-05-16T12:09:51.419Z"
+  },
+  {
+    "id_usuario": 33,
+    "valor_total": 6631291,
+    "fecha_compra": "2022-05-20T03:17:31.181Z"
+  },
+  {
+    "id_usuario": 71,
+    "valor_total": 3072589,
+    "fecha_compra": "2021-01-29T09:55:17.965Z"
+  },
+  {
+    "id_usuario": 10,
+    "valor_total": 388636,
+    "fecha_compra": "2023-12-25T16:40:27.475Z"
+  },
+  {
+    "id_usuario": 16,
+    "valor_total": 1692104,
+    "fecha_compra": "2022-11-04T03:12:08.614Z"
+  },
+  {
+    "id_usuario": 3,
+    "valor_total": 3188445,
+    "fecha_compra": "2024-08-14T17:21:51.603Z"
+  },
+  {
+    "id_usuario": 3,
+    "valor_total": 6960410,
+    "fecha_compra": "2022-12-23T20:57:46.924Z"
+  },
+  {
+    "id_usuario": 97,
+    "valor_total": 6088022,
+    "fecha_compra": "2023-06-02T21:56:48.789Z"
+  },
+  {
+    "id_usuario": 49,
+    "valor_total": 6246455,
+    "fecha_compra": "2021-10-17T08:46:29.521Z"
+  },
+  {
+    "id_usuario": 93,
+    "valor_total": 3269923,
+    "fecha_compra": "2024-10-14T06:58:43.038Z"
+  },
+  {
+    "id_usuario": 2,
+    "valor_total": 4268369,
+    "fecha_compra": "2020-01-14T17:10:47.868Z"
+  },
+  {
+    "id_usuario": 100,
+    "valor_total": 2747409,
+    "fecha_compra": "2021-05-23T01:15:53.482Z"
+  },
+  {
+    "id_usuario": 74,
+    "valor_total": 2871673,
+    "fecha_compra": "2023-10-07T01:58:47.651Z"
+  },
+  {
+    "id_usuario": 9,
+    "valor_total": 5589715,
+    "fecha_compra": "2023-10-06T23:01:38.336Z"
+  },
+  {
+    "id_usuario": 21,
+    "valor_total": 730632,
+    "fecha_compra": "2020-07-18T13:00:22.955Z"
+  },
+  {
+    "id_usuario": 44,
+    "valor_total": 1611699,
+    "fecha_compra": "2020-11-10T17:13:25.648Z"
+  },
+  {
+    "id_usuario": 75,
+    "valor_total": 6194733,
+    "fecha_compra": "2024-11-22T06:44:35.191Z"
+  },
+  {
+    "id_usuario": 15,
+    "valor_total": 3699299,
+    "fecha_compra": "2020-10-07T15:38:57.154Z"
+  },
+  {
+    "id_usuario": 81,
+    "valor_total": 2412255,
+    "fecha_compra": "2021-07-23T02:55:15.837Z"
+  },
+  {
+    "id_usuario": 42,
+    "valor_total": 4680309,
+    "fecha_compra": "2022-02-21T21:14:01.866Z"
+  },
+  {
+    "id_usuario": 33,
+    "valor_total": 3595368,
+    "fecha_compra": "2022-03-16T16:46:18.227Z"
+  },
+  {
+    "id_usuario": 13,
+    "valor_total": 3581228,
+    "fecha_compra": "2020-07-04T13:59:53.008Z"
+  },
+  {
+    "id_usuario": 59,
+    "valor_total": 4144991,
+    "fecha_compra": "2022-12-12T10:44:01.604Z"
+  },
+  {
+    "id_usuario": 65,
+    "valor_total": 6749730,
+    "fecha_compra": "2021-10-29T20:13:28.649Z"
+  },
+  {
+    "id_usuario": 32,
+    "valor_total": 5674441,
+    "fecha_compra": "2023-10-26T17:00:35.899Z"
+  },
+  {
+    "id_usuario": 72,
+    "valor_total": 1283061,
+    "fecha_compra": "2023-06-04T02:09:56.019Z"
+  },
+  {
+    "id_usuario": 44,
+    "valor_total": 4482754,
+    "fecha_compra": "2023-03-04T16:18:31.535Z"
+  },
+  {
+    "id_usuario": 98,
+    "valor_total": 3965843,
+    "fecha_compra": "2020-05-24T02:46:13.160Z"
+  },
+  {
+    "id_usuario": 8,
+    "valor_total": 1259755,
+    "fecha_compra": "2022-07-24T08:18:19.407Z"
+  },
+  {
+    "id_usuario": 67,
+    "valor_total": 6369153,
+    "fecha_compra": "2021-08-24T21:00:24.090Z"
+  },
+  {
+    "id_usuario": 61,
+    "valor_total": 396713,
+    "fecha_compra": "2023-09-08T13:27:48.276Z"
+  },
+  {
+    "id_usuario": 65,
+    "valor_total": 2080480,
+    "fecha_compra": "2020-03-31T09:24:07.326Z"
+  },
+  {
+    "id_usuario": 10,
+    "valor_total": 5619973,
+    "fecha_compra": "2022-07-26T10:38:16.791Z"
+  },
+  {
+    "id_usuario": 43,
+    "valor_total": 2607380,
+    "fecha_compra": "2020-02-09T11:11:02.551Z"
+  },
+  {
+    "id_usuario": 48,
+    "valor_total": 4149962,
+    "fecha_compra": "2023-10-12T22:03:32.102Z"
+  },
+  {
+    "id_usuario": 19,
+    "valor_total": 1257280,
+    "fecha_compra": "2023-01-23T00:52:04.527Z"
+  },
+  {
+    "id_usuario": 64,
+    "valor_total": 6535311,
+    "fecha_compra": "2022-07-14T04:32:29.980Z"
+  },
+  {
+    "id_usuario": 12,
+    "valor_total": 5324488,
+    "fecha_compra": "2021-04-23T12:11:17.187Z"
+  },
+  {
+    "id_usuario": 58,
+    "valor_total": 1801037,
+    "fecha_compra": "2023-04-08T20:08:50.009Z"
+  },
+  {
+    "id_usuario": 75,
+    "valor_total": 5448520,
+    "fecha_compra": "2020-11-01T21:09:14.946Z"
+  },
+  {
+    "id_usuario": 73,
+    "valor_total": 3457286,
+    "fecha_compra": "2023-06-11T10:11:49.990Z"
+  },
+  {
+    "id_usuario": 19,
+    "valor_total": 2158056,
+    "fecha_compra": "2024-10-13T22:18:43.748Z"
+  },
+  {
+    "id_usuario": 36,
+    "valor_total": 6626572,
+    "fecha_compra": "2022-06-02T18:55:54.974Z"
+  },
+  {
+    "id_usuario": 49,
+    "valor_total": 3230488,
+    "fecha_compra": "2023-02-05T12:12:53.358Z"
+  },
+  {
+    "id_usuario": 55,
+    "valor_total": 5590566,
+    "fecha_compra": "2020-05-22T07:16:43.362Z"
+  },
+  {
+    "id_usuario": 17,
+    "valor_total": 5001737,
+    "fecha_compra": "2023-01-13T02:29:34.275Z"
+  },
+  {
+    "id_usuario": 73,
+    "valor_total": 6634767,
+    "fecha_compra": "2024-08-26T23:27:39.331Z"
+  },
+  {
+    "id_usuario": 27,
+    "valor_total": 1972033,
+    "fecha_compra": "2022-04-02T10:27:35.016Z"
+  },
+  {
+    "id_usuario": 82,
+    "valor_total": 4264511,
+    "fecha_compra": "2022-05-31T10:13:38.411Z"
+  },
+  {
+    "id_usuario": 75,
+    "valor_total": 4003346,
+    "fecha_compra": "2024-03-26T07:39:15.471Z"
+  },
+  {
+    "id_usuario": 64,
+    "valor_total": 4946694,
+    "fecha_compra": "2023-03-24T18:22:54.027Z"
+  },
+  {
+    "id_usuario": 39,
+    "valor_total": 4791107,
+    "fecha_compra": "2022-07-15T14:25:27.092Z"
+  },
+  {
+    "id_usuario": 49,
+    "valor_total": 3440607,
+    "fecha_compra": "2020-06-20T12:13:01.432Z"
+  },
+  {
+    "id_usuario": 24,
+    "valor_total": 6042354,
+    "fecha_compra": "2024-08-07T17:05:13.373Z"
+  },
+  {
+    "id_usuario": 17,
+    "valor_total": 407151,
+    "fecha_compra": "2023-03-13T00:44:34.490Z"
+  },
+  {
+    "id_usuario": 85,
+    "valor_total": 2246495,
+    "fecha_compra": "2023-03-08T03:00:49.586Z"
+  },
+  {
+    "id_usuario": 39,
+    "valor_total": 1307699,
+    "fecha_compra": "2023-04-08T11:26:01.079Z"
+  },
+  {
+    "id_usuario": 65,
+    "valor_total": 4842898,
+    "fecha_compra": "2022-07-11T22:51:36.844Z"
+  },
+  {
+    "id_usuario": 67,
+    "valor_total": 4252330,
+    "fecha_compra": "2022-01-19T22:26:11.169Z"
+  },
+  {
+    "id_usuario": 59,
+    "valor_total": 1542764,
+    "fecha_compra": "2024-06-21T22:51:57.324Z"
+  },
+  {
+    "id_usuario": 75,
+    "valor_total": 3957050,
+    "fecha_compra": "2024-04-28T15:59:40.948Z"
+  },
+  {
+    "id_usuario": 92,
+    "valor_total": 4665265,
+    "fecha_compra": "2022-07-01T03:02:13.265Z"
+  },
+  {
+    "id_usuario": 64,
+    "valor_total": 3802635,
+    "fecha_compra": "2024-09-09T05:07:54.097Z"
+  },
+  {
+    "id_usuario": 77,
+    "valor_total": 6501770,
+    "fecha_compra": "2021-09-21T05:15:52.919Z"
+  },
+  {
+    "id_usuario": 70,
+    "valor_total": 3552926,
+    "fecha_compra": "2022-07-29T17:32:28.731Z"
+  },
+  {
+    "id_usuario": 64,
+    "valor_total": 5077388,
+    "fecha_compra": "2024-07-28T08:22:54.356Z"
+  },
+  {
+    "id_usuario": 7,
+    "valor_total": 5492296,
+    "fecha_compra": "2023-08-10T04:18:59.578Z"
+  },
+  {
+    "id_usuario": 24,
+    "valor_total": 5279866,
+    "fecha_compra": "2022-02-08T09:16:24.540Z"
+  },
+  {
+    "id_usuario": 31,
+    "valor_total": 645150,
+    "fecha_compra": "2021-01-22T01:16:12.111Z"
+  },
+  {
+    "id_usuario": 46,
+    "valor_total": 2902512,
+    "fecha_compra": "2021-12-04T02:00:17.639Z"
+  },
+  {
+    "id_usuario": 57,
+    "valor_total": 2656044,
+    "fecha_compra": "2020-11-05T10:19:54.660Z"
+  },
+  {
+    "id_usuario": 60,
+    "valor_total": 5644678,
+    "fecha_compra": "2022-09-13T15:29:58.268Z"
+  },
+  {
+    "id_usuario": 79,
+    "valor_total": 1165476,
+    "fecha_compra": "2022-11-15T03:56:56.845Z"
+  },
+  {
+    "id_usuario": 72,
+    "valor_total": 5217602,
+    "fecha_compra": "2020-05-23T15:51:56.247Z"
+  },
+  {
+    "id_usuario": 81,
+    "valor_total": 5840673,
+    "fecha_compra": "2024-03-01T02:04:10.679Z"
+  },
+  {
+    "id_usuario": 24,
+    "valor_total": 4846874,
+    "fecha_compra": "2024-07-27T00:44:06.556Z"
+  },
+  {
+    "id_usuario": 55,
+    "valor_total": 2140312,
+    "fecha_compra": "2023-04-12T19:23:50.255Z"
+  },
+  {
+    "id_usuario": 83,
+    "valor_total": 5816940,
+    "fecha_compra": "2021-05-21T14:58:20.964Z"
+  },
+  {
+    "id_usuario": 32,
+    "valor_total": 3620842,
+    "fecha_compra": "2021-05-14T18:56:48.306Z"
+  },
+  {
+    "id_usuario": 22,
+    "valor_total": 1233497,
+    "fecha_compra": "2023-04-19T16:48:19.648Z"
+  },
+  {
+    "id_usuario": 74,
+    "valor_total": 2451450,
+    "fecha_compra": "2023-07-28T19:36:29.575Z"
+  },
+  {
+    "id_usuario": 46,
+    "valor_total": 2642143,
+    "fecha_compra": "2022-08-09T20:34:42.690Z"
+  },
+  {
+    "id_usuario": 84,
+    "valor_total": 786135,
+    "fecha_compra": "2023-05-19T01:00:42.375Z"
+  },
+  {
+    "id_usuario": 9,
+    "valor_total": 5690255,
+    "fecha_compra": "2024-11-08T21:06:58.625Z"
+  },
+  {
+    "id_usuario": 96,
+    "valor_total": 3301805,
+    "fecha_compra": "2021-12-03T13:11:04.382Z"
+  },
+  {
+    "id_usuario": 63,
+    "valor_total": 202122,
+    "fecha_compra": "2023-02-27T03:09:36.950Z"
+  },
+  {
+    "id_usuario": 67,
+    "valor_total": 2234726,
+    "fecha_compra": "2023-10-01T09:25:30.671Z"
+  },
+  {
+    "id_usuario": 68,
+    "valor_total": 6285151,
+    "fecha_compra": "2023-07-06T03:25:12.213Z"
+  },
+  {
+    "id_usuario": 12,
+    "valor_total": 2071513,
+    "fecha_compra": "2024-07-04T00:18:04.148Z"
+  },
+  {
+    "id_usuario": 96,
+    "valor_total": 1274592,
+    "fecha_compra": "2021-11-19T03:02:55.396Z"
+  },
+  {
+    "id_usuario": 99,
+    "valor_total": 4881019,
+    "fecha_compra": "2023-02-05T15:38:25.620Z"
+  },
+  {
+    "id_usuario": 26,
+    "valor_total": 4222501,
+    "fecha_compra": "2021-07-10T02:36:28.914Z"
+  },
+  {
+    "id_usuario": 95,
+    "valor_total": 6579594,
+    "fecha_compra": "2021-01-15T17:31:35.479Z"
+  },
+  {
+    "id_usuario": 31,
+    "valor_total": 5088549,
+    "fecha_compra": "2022-07-24T16:23:56.590Z"
+  },
+  {
+    "id_usuario": 29,
+    "valor_total": 6014130,
+    "fecha_compra": "2024-06-17T02:48:50.083Z"
+  },
+  {
+    "id_usuario": 48,
+    "valor_total": 736149,
+    "fecha_compra": "2024-09-30T01:47:49.329Z"
+  },
+  {
+    "id_usuario": 41,
+    "valor_total": 3314385,
+    "fecha_compra": "2020-03-23T02:43:00.034Z"
+  },
+  {
+    "id_usuario": 85,
+    "valor_total": 306452,
+    "fecha_compra": "2024-10-20T18:01:15.610Z"
+  },
+  {
+    "id_usuario": 71,
+    "valor_total": 1472258,
+    "fecha_compra": "2023-07-21T17:42:50.013Z"
+  },
+  {
+    "id_usuario": 6,
+    "valor_total": 633747,
+    "fecha_compra": "2023-01-09T07:02:05.103Z"
+  },
+  {
+    "id_usuario": 31,
+    "valor_total": 407409,
+    "fecha_compra": "2022-09-27T15:11:59.546Z"
+  },
+  {
+    "id_usuario": 82,
+    "valor_total": 5006497,
+    "fecha_compra": "2020-10-27T02:33:14.349Z"
+  },
+  {
+    "id_usuario": 25,
+    "valor_total": 3404246,
+    "fecha_compra": "2022-03-01T02:32:39.219Z"
+  },
+  {
+    "id_usuario": 71,
+    "valor_total": 361508,
+    "fecha_compra": "2022-02-24T20:11:29.450Z"
+  },
+  {
+    "id_usuario": 97,
+    "valor_total": 2254208,
+    "fecha_compra": "2020-10-21T23:48:04.268Z"
+  },
+  {
+    "id_usuario": 97,
+    "valor_total": 2694690,
+    "fecha_compra": "2023-03-14T17:16:13.454Z"
+  },
+  {
+    "id_usuario": 2,
+    "valor_total": 5917456,
+    "fecha_compra": "2024-08-19T12:54:55.718Z"
+  },
+  {
+    "id_usuario": 74,
+    "valor_total": 5969559,
+    "fecha_compra": "2021-01-26T08:18:25.384Z"
+  },
+  {
+    "id_usuario": 43,
+    "valor_total": 2338850,
+    "fecha_compra": "2023-08-23T15:51:27.698Z"
+  },
+  {
+    "id_usuario": 48,
+    "valor_total": 6271745,
+    "fecha_compra": "2020-06-08T21:33:29.367Z"
+  },
+  {
+    "id_usuario": 57,
+    "valor_total": 6137113,
+    "fecha_compra": "2020-12-21T09:41:25.733Z"
+  },
+  {
+    "id_usuario": 76,
+    "valor_total": 3117590,
+    "fecha_compra": "2020-02-29T16:19:29.562Z"
+  },
+  {
+    "id_usuario": 91,
+    "valor_total": 4647917,
+    "fecha_compra": "2021-12-28T04:07:51.406Z"
+  },
+  {
+    "id_usuario": 18,
+    "valor_total": 3569219,
+    "fecha_compra": "2021-08-10T10:54:56.420Z"
+  },
+  {
+    "id_usuario": 7,
+    "valor_total": 4984646,
+    "fecha_compra": "2023-10-21T13:31:15.339Z"
+  },
+  {
+    "id_usuario": 91,
+    "valor_total": 2765260,
+    "fecha_compra": "2021-04-23T10:30:26.768Z"
+  },
+  {
+    "id_usuario": 22,
+    "valor_total": 2995788,
+    "fecha_compra": "2024-03-31T19:48:25.770Z"
+  },
+  {
+    "id_usuario": 64,
+    "valor_total": 1307149,
+    "fecha_compra": "2023-02-05T16:03:41.299Z"
+  },
+  {
+    "id_usuario": 75,
+    "valor_total": 5595407,
+    "fecha_compra": "2023-07-06T05:33:24.288Z"
+  },
+  {
+    "id_usuario": 25,
+    "valor_total": 6294403,
+    "fecha_compra": "2022-06-28T22:45:22.692Z"
+  },
+  {
+    "id_usuario": 10,
+    "valor_total": 3360547,
+    "fecha_compra": "2021-12-16T23:50:12.442Z"
+  },
+  {
+    "id_usuario": 28,
+    "valor_total": 3271022,
+    "fecha_compra": "2022-08-31T01:29:45.033Z"
+  },
+  {
+    "id_usuario": 25,
+    "valor_total": 3746466,
+    "fecha_compra": "2022-09-17T05:18:08.693Z"
+  },
+  {
+    "id_usuario": 96,
+    "valor_total": 2201221,
+    "fecha_compra": "2020-03-11T16:39:32.761Z"
+  },
+  {
+    "id_usuario": 86,
+    "valor_total": 1559330,
+    "fecha_compra": "2021-09-26T21:01:33.383Z"
+  },
+  {
+    "id_usuario": 22,
+    "valor_total": 2825500,
+    "fecha_compra": "2021-05-16T06:37:05.833Z"
+  },
+  {
+    "id_usuario": 37,
+    "valor_total": 452920,
+    "fecha_compra": "2021-08-19T12:25:08.590Z"
+  },
+  {
+    "id_usuario": 25,
+    "valor_total": 105257,
+    "fecha_compra": "2023-01-07T04:15:08.858Z"
+  },
+  {
+    "id_usuario": 23,
+    "valor_total": 6368927,
+    "fecha_compra": "2020-11-28T20:54:07.035Z"
+  },
+  {
+    "id_usuario": 64,
+    "valor_total": 581492,
+    "fecha_compra": "2020-03-12T20:57:59.532Z"
+  },
+  {
+    "id_usuario": 36,
+    "valor_total": 6297378,
+    "fecha_compra": "2020-05-08T10:25:33.559Z"
+  },
+  {
+    "id_usuario": 34,
+    "valor_total": 3285657,
+    "fecha_compra": "2021-08-19T20:49:31.297Z"
+  },
+  {
+    "id_usuario": 85,
+    "valor_total": 2575074,
+    "fecha_compra": "2020-11-16T02:09:17.456Z"
+  },
+  {
+    "id_usuario": 52,
+    "valor_total": 6481352,
+    "fecha_compra": "2022-02-27T05:06:08.977Z"
   }
 ]

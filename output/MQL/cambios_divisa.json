@@ -1,1402 +1,1402 @@
 [
   {
-    "id_usuario": 47,
-    "usd_pagado": 132,
-    "creditos_recib": 4992483,
-    "metodo": "stips",
-    "fecha": "2021-03-25T07:47:49.484Z"
+    "id_usuario": 53,
+    "usd_pagado": 183,
+    "creditos_recib": 1503097,
+    "metodo": "subnecto",
+    "fecha": "2022-06-29T15:26:37.397Z"
   },
   {
-    "id_usuario": 24,
-    "usd_pagado": 42,
-    "creditos_recib": 4226138,
-    "metodo": "stips",
-    "fecha": "2021-11-25T14:46:18.829Z"
+    "id_usuario": 9,
+    "usd_pagado": 63,
+    "creditos_recib": 3979795,
+    "metodo": "ceno",
+    "fecha": "2024-02-18T10:41:18.900Z"
+  },
+  {
+    "id_usuario": 7,
+    "usd_pagado": 183,
+    "creditos_recib": 45030,
+    "metodo": "ceno",
+    "fecha": "2021-04-24T06:57:55.946Z"
   },
   {
     "id_usuario": 5,
-    "usd_pagado": 13,
-    "creditos_recib": 4064620,
-    "metodo": "absque",
-    "fecha": "2022-03-17T18:05:36.885Z"
+    "usd_pagado": 113,
+    "creditos_recib": 5442511,
+    "metodo": "ceno",
+    "fecha": "2022-02-21T10:38:23.101Z"
   },
   {
-    "id_usuario": 60,
-    "usd_pagado": 172,
-    "creditos_recib": 6220638,
-    "metodo": "varietas",
-    "fecha": "2024-08-08T04:37:59.663Z"
-  },
-  {
-    "id_usuario": 72,
-    "usd_pagado": 102,
-    "creditos_recib": 1837159,
-    "metodo": "uterque",
-    "fecha": "2020-01-21T04:23:31.881Z"
-  },
-  {
-    "id_usuario": 45,
-    "usd_pagado": 124,
-    "creditos_recib": 812466,
-    "metodo": "varietas",
-    "fecha": "2022-11-21T11:21:38.126Z"
-  },
-  {
-    "id_usuario": 61,
-    "usd_pagado": 104,
-    "creditos_recib": 3510568,
-    "metodo": "absque",
-    "fecha": "2023-04-02T04:58:04.449Z"
-  },
-  {
-    "id_usuario": 47,
-    "usd_pagado": 144,
-    "creditos_recib": 1913242,
-    "metodo": "varietas",
-    "fecha": "2021-01-19T07:45:53.679Z"
-  },
-  {
-    "id_usuario": 78,
-    "usd_pagado": 107,
-    "creditos_recib": 6876493,
-    "metodo": "absque",
-    "fecha": "2024-04-15T07:06:05.820Z"
-  },
-  {
-    "id_usuario": 39,
-    "usd_pagado": 181,
-    "creditos_recib": 1615281,
-    "metodo": "varietas",
-    "fecha": "2020-01-02T03:03:38.649Z"
-  },
-  {
-    "id_usuario": 32,
-    "usd_pagado": 106,
-    "creditos_recib": 4713875,
-    "metodo": "uterque",
-    "fecha": "2021-10-09T10:06:59.596Z"
-  },
-  {
-    "id_usuario": 43,
-    "usd_pagado": 75,
-    "creditos_recib": 3548336,
-    "metodo": "stips",
-    "fecha": "2021-04-27T21:12:01.029Z"
-  },
-  {
-    "id_usuario": 20,
-    "usd_pagado": 109,
-    "creditos_recib": 2569852,
-    "metodo": "uterque",
-    "fecha": "2022-09-14T11:23:11.562Z"
+    "id_usuario": 82,
+    "usd_pagado": 34,
+    "creditos_recib": 5688342,
+    "metodo": "subnecto",
+    "fecha": "2020-12-14T07:17:31.299Z"
   },
   {
     "id_usuario": 80,
-    "usd_pagado": 87,
-    "creditos_recib": 4139023,
-    "metodo": "uterque",
-    "fecha": "2020-05-23T16:42:01.468Z"
-  },
-  {
-    "id_usuario": 79,
-    "usd_pagado": 87,
-    "creditos_recib": 5674622,
-    "metodo": "absque",
-    "fecha": "2020-10-10T23:04:53.578Z"
-  },
-  {
-    "id_usuario": 16,
-    "usd_pagado": 164,
-    "creditos_recib": 2481855,
-    "metodo": "uterque",
-    "fecha": "2021-06-08T19:42:27.115Z"
-  },
-  {
-    "id_usuario": 84,
-    "usd_pagado": 68,
-    "creditos_recib": 5274834,
-    "metodo": "absque",
-    "fecha": "2023-12-18T03:53:27.257Z"
-  },
-  {
-    "id_usuario": 29,
-    "usd_pagado": 147,
-    "creditos_recib": 2021014,
-    "metodo": "eos",
-    "fecha": "2022-09-03T18:29:21.304Z"
-  },
-  {
-    "id_usuario": 63,
-    "usd_pagado": 47,
-    "creditos_recib": 745273,
-    "metodo": "absque",
-    "fecha": "2023-12-15T08:42:27.995Z"
-  },
-  {
-    "id_usuario": 8,
-    "usd_pagado": 46,
-    "creditos_recib": 3232956,
-    "metodo": "absque",
-    "fecha": "2019-12-19T07:20:15.062Z"
-  },
-  {
-    "id_usuario": 14,
-    "usd_pagado": 160,
-    "creditos_recib": 2483926,
-    "metodo": "absque",
-    "fecha": "2022-06-09T05:40:13.790Z"
-  },
-  {
-    "id_usuario": 42,
-    "usd_pagado": 77,
-    "creditos_recib": 951199,
-    "metodo": "absque",
-    "fecha": "2022-08-30T22:43:52.217Z"
-  },
-  {
-    "id_usuario": 93,
-    "usd_pagado": 20,
-    "creditos_recib": 3812062,
-    "metodo": "stips",
-    "fecha": "2020-12-07T02:55:58.820Z"
-  },
-  {
-    "id_usuario": 84,
-    "usd_pagado": 82,
-    "creditos_recib": 4888098,
-    "metodo": "eos",
-    "fecha": "2024-12-03T23:50:14.368Z"
-  },
-  {
-    "id_usuario": 84,
-    "usd_pagado": 15,
-    "creditos_recib": 3480306,
-    "metodo": "varietas",
-    "fecha": "2022-07-08T13:16:17.462Z"
-  },
-  {
-    "id_usuario": 15,
-    "usd_pagado": 183,
-    "creditos_recib": 6184175,
-    "metodo": "absque",
-    "fecha": "2024-08-31T14:59:29.936Z"
-  },
-  {
-    "id_usuario": 58,
-    "usd_pagado": 101,
-    "creditos_recib": 2866514,
-    "metodo": "stips",
-    "fecha": "2024-06-24T20:28:06.935Z"
-  },
-  {
-    "id_usuario": 88,
-    "usd_pagado": 137,
-    "creditos_recib": 1799793,
-    "metodo": "stips",
-    "fecha": "2021-08-16T14:30:04.849Z"
-  },
-  {
-    "id_usuario": 67,
-    "usd_pagado": 184,
-    "creditos_recib": 714840,
-    "metodo": "stips",
-    "fecha": "2023-08-05T01:38:00.447Z"
-  },
-  {
-    "id_usuario": 71,
-    "usd_pagado": 114,
-    "creditos_recib": 5039970,
-    "metodo": "eos",
-    "fecha": "2020-09-25T04:44:27.637Z"
-  },
-  {
-    "id_usuario": 25,
-    "usd_pagado": 68,
-    "creditos_recib": 5876303,
-    "metodo": "uterque",
-    "fecha": "2023-01-13T23:15:10.274Z"
-  },
-  {
-    "id_usuario": 18,
-    "usd_pagado": 130,
-    "creditos_recib": 1317807,
-    "metodo": "stips",
-    "fecha": "2024-07-30T04:18:01.700Z"
-  },
-  {
-    "id_usuario": 77,
-    "usd_pagado": 164,
-    "creditos_recib": 1525679,
-    "metodo": "uterque",
-    "fecha": "2020-06-09T05:51:16.466Z"
-  },
-  {
-    "id_usuario": 8,
-    "usd_pagado": 103,
-    "creditos_recib": 1643306,
-    "metodo": "absque",
-    "fecha": "2024-09-01T20:12:21.719Z"
-  },
-  {
-    "id_usuario": 11,
-    "usd_pagado": 116,
-    "creditos_recib": 3682084,
-    "metodo": "absque",
-    "fecha": "2021-09-21T00:48:45.202Z"
-  },
-  {
-    "id_usuario": 76,
-    "usd_pagado": 19,
-    "creditos_recib": 581454,
-    "metodo": "stips",
-    "fecha": "2024-10-29T03:52:31.823Z"
-  },
-  {
-    "id_usuario": 1,
-    "usd_pagado": 11,
-    "creditos_recib": 6381029,
-    "metodo": "eos",
-    "fecha": "2020-05-02T03:27:31.320Z"
-  },
-  {
-    "id_usuario": 76,
-    "usd_pagado": 111,
-    "creditos_recib": 494931,
-    "metodo": "absque",
-    "fecha": "2022-04-18T04:44:12.910Z"
-  },
-  {
-    "id_usuario": 13,
-    "usd_pagado": 130,
-    "creditos_recib": 1577764,
-    "metodo": "stips",
-    "fecha": "2021-10-17T20:29:26.562Z"
-  },
-  {
-    "id_usuario": 56,
-    "usd_pagado": 155,
-    "creditos_recib": 4229766,
-    "metodo": "eos",
-    "fecha": "2021-11-09T20:52:18.637Z"
-  },
-  {
-    "id_usuario": 22,
-    "usd_pagado": 192,
-    "creditos_recib": 3824498,
-    "metodo": "absque",
-    "fecha": "2020-04-29T16:36:18.046Z"
-  },
-  {
-    "id_usuario": 78,
-    "usd_pagado": 109,
-    "creditos_recib": 5696761,
-    "metodo": "absque",
-    "fecha": "2020-04-17T07:25:19.744Z"
-  },
-  {
-    "id_usuario": 98,
-    "usd_pagado": 31,
-    "creditos_recib": 1069745,
-    "metodo": "stips",
-    "fecha": "2022-07-18T01:41:09.043Z"
-  },
-  {
-    "id_usuario": 90,
-    "usd_pagado": 194,
-    "creditos_recib": 1506411,
-    "metodo": "uterque",
-    "fecha": "2020-08-29T10:44:25.245Z"
-  },
-  {
-    "id_usuario": 46,
-    "usd_pagado": 156,
-    "creditos_recib": 1590756,
-    "metodo": "absque",
-    "fecha": "2020-03-12T23:49:46.725Z"
-  },
-  {
-    "id_usuario": 63,
-    "usd_pagado": 193,
-    "creditos_recib": 273807,
-    "metodo": "stips",
-    "fecha": "2023-11-14T01:52:35.248Z"
-  },
-  {
-    "id_usuario": 63,
-    "usd_pagado": 110,
-    "creditos_recib": 1613486,
-    "metodo": "absque",
-    "fecha": "2022-02-03T03:10:17.249Z"
-  },
-  {
-    "id_usuario": 86,
-    "usd_pagado": 152,
-    "creditos_recib": 4072748,
-    "metodo": "stips",
-    "fecha": "2019-12-25T06:11:38.001Z"
-  },
-  {
-    "id_usuario": 67,
-    "usd_pagado": 170,
-    "creditos_recib": 86202,
-    "metodo": "stips",
-    "fecha": "2024-10-25T12:01:29.023Z"
-  },
-  {
-    "id_usuario": 92,
-    "usd_pagado": 156,
-    "creditos_recib": 5189770,
-    "metodo": "varietas",
-    "fecha": "2021-06-30T15:37:01.613Z"
-  },
-  {
-    "id_usuario": 27,
-    "usd_pagado": 148,
-    "creditos_recib": 5333712,
-    "metodo": "uterque",
-    "fecha": "2023-11-04T20:04:29.608Z"
-  },
-  {
-    "id_usuario": 30,
-    "usd_pagado": 55,
-    "creditos_recib": 5208040,
-    "metodo": "eos",
-    "fecha": "2022-04-08T10:26:47.856Z"
-  },
-  {
-    "id_usuario": 72,
-    "usd_pagado": 162,
-    "creditos_recib": 2879051,
-    "metodo": "stips",
-    "fecha": "2021-05-31T18:01:34.971Z"
-  },
-  {
-    "id_usuario": 5,
-    "usd_pagado": 46,
-    "creditos_recib": 4036490,
-    "metodo": "absque",
-    "fecha": "2022-08-01T03:35:29.102Z"
-  },
-  {
-    "id_usuario": 38,
-    "usd_pagado": 102,
-    "creditos_recib": 2048398,
-    "metodo": "eos",
-    "fecha": "2021-03-09T09:37:45.974Z"
-  },
-  {
-    "id_usuario": 20,
-    "usd_pagado": 166,
-    "creditos_recib": 2664609,
-    "metodo": "absque",
-    "fecha": "2024-09-30T05:34:23.699Z"
-  },
-  {
-    "id_usuario": 75,
-    "usd_pagado": 24,
-    "creditos_recib": 2690068,
-    "metodo": "varietas",
-    "fecha": "2020-08-09T23:01:50.360Z"
-  },
-  {
-    "id_usuario": 10,
-    "usd_pagado": 58,
-    "creditos_recib": 3895280,
-    "metodo": "varietas",
-    "fecha": "2020-03-01T08:40:34.651Z"
-  },
-  {
-    "id_usuario": 91,
-    "usd_pagado": 142,
-    "creditos_recib": 6952005,
-    "metodo": "absque",
-    "fecha": "2020-10-27T05:42:07.334Z"
-  },
-  {
-    "id_usuario": 2,
-    "usd_pagado": 20,
-    "creditos_recib": 3191012,
-    "metodo": "varietas",
-    "fecha": "2023-01-01T18:44:20.639Z"
-  },
-  {
-    "id_usuario": 16,
-    "usd_pagado": 167,
-    "creditos_recib": 4141280,
-    "metodo": "eos",
-    "fecha": "2023-01-04T17:44:33.833Z"
-  },
-  {
-    "id_usuario": 92,
-    "usd_pagado": 29,
-    "creditos_recib": 6315609,
-    "metodo": "uterque",
-    "fecha": "2020-05-06T23:19:38.045Z"
-  },
-  {
-    "id_usuario": 22,
-    "usd_pagado": 115,
-    "creditos_recib": 4271286,
-    "metodo": "stips",
-    "fecha": "2024-05-29T08:27:08.880Z"
-  },
-  {
-    "id_usuario": 3,
-    "usd_pagado": 117,
-    "creditos_recib": 4709082,
-    "metodo": "varietas",
-    "fecha": "2020-05-07T06:36:32.698Z"
-  },
-  {
-    "id_usuario": 63,
-    "usd_pagado": 117,
-    "creditos_recib": 2665495,
-    "metodo": "absque",
-    "fecha": "2021-05-07T15:19:47.746Z"
-  },
-  {
-    "id_usuario": 55,
-    "usd_pagado": 47,
-    "creditos_recib": 4459264,
-    "metodo": "absque",
-    "fecha": "2020-08-30T02:24:32.420Z"
-  },
-  {
-    "id_usuario": 44,
-    "usd_pagado": 40,
-    "creditos_recib": 5997670,
-    "metodo": "absque",
-    "fecha": "2020-11-15T19:15:57.224Z"
-  },
-  {
-    "id_usuario": 54,
-    "usd_pagado": 91,
-    "creditos_recib": 5618146,
-    "metodo": "absque",
-    "fecha": "2022-05-07T06:48:38.754Z"
-  },
-  {
-    "id_usuario": 64,
-    "usd_pagado": 21,
-    "creditos_recib": 2445186,
-    "metodo": "varietas",
-    "fecha": "2022-12-31T10:45:13.578Z"
-  },
-  {
-    "id_usuario": 54,
-    "usd_pagado": 100,
-    "creditos_recib": 130004,
-    "metodo": "varietas",
-    "fecha": "2021-05-02T16:37:01.704Z"
-  },
-  {
-    "id_usuario": 59,
-    "usd_pagado": 36,
-    "creditos_recib": 1064546,
-    "metodo": "absque",
-    "fecha": "2024-02-24T14:28:47.230Z"
-  },
-  {
-    "id_usuario": 25,
-    "usd_pagado": 22,
-    "creditos_recib": 2010852,
-    "metodo": "stips",
-    "fecha": "2023-09-06T09:30:09.614Z"
-  },
-  {
-    "id_usuario": 58,
-    "usd_pagado": 117,
-    "creditos_recib": 6154351,
-    "metodo": "uterque",
-    "fecha": "2021-09-13T05:59:11.335Z"
-  },
-  {
-    "id_usuario": 44,
-    "usd_pagado": 163,
-    "creditos_recib": 2092133,
-    "metodo": "eos",
-    "fecha": "2022-03-24T19:03:58.226Z"
-  },
-  {
-    "id_usuario": 73,
-    "usd_pagado": 122,
-    "creditos_recib": 2667908,
-    "metodo": "eos",
-    "fecha": "2023-11-05T02:03:35.062Z"
+    "usd_pagado": 76,
+    "creditos_recib": 1629622,
+    "metodo": "subnecto",
+    "fecha": "2024-09-29T20:59:15.277Z"
   },
   {
     "id_usuario": 100,
-    "usd_pagado": 133,
-    "creditos_recib": 5468846,
-    "metodo": "eos",
-    "fecha": "2020-12-28T20:55:13.347Z"
-  },
-  {
-    "id_usuario": 49,
-    "usd_pagado": 145,
-    "creditos_recib": 263356,
-    "metodo": "uterque",
-    "fecha": "2024-07-19T16:07:15.057Z"
-  },
-  {
-    "id_usuario": 8,
-    "usd_pagado": 29,
-    "creditos_recib": 2527696,
-    "metodo": "absque",
-    "fecha": "2022-11-16T04:21:55.962Z"
-  },
-  {
-    "id_usuario": 15,
-    "usd_pagado": 90,
-    "creditos_recib": 2758597,
-    "metodo": "eos",
-    "fecha": "2021-06-10T16:11:02.412Z"
-  },
-  {
-    "id_usuario": 87,
-    "usd_pagado": 137,
-    "creditos_recib": 1671868,
-    "metodo": "varietas",
-    "fecha": "2020-11-09T10:15:20.979Z"
-  },
-  {
-    "id_usuario": 21,
-    "usd_pagado": 130,
-    "creditos_recib": 6880272,
-    "metodo": "uterque",
-    "fecha": "2023-07-28T23:14:16.741Z"
-  },
-  {
-    "id_usuario": 99,
-    "usd_pagado": 74,
-    "creditos_recib": 1010683,
-    "metodo": "uterque",
-    "fecha": "2024-09-28T20:37:20.643Z"
+    "usd_pagado": 190,
+    "creditos_recib": 3083630,
+    "metodo": "arbor",
+    "fecha": "2024-01-27T08:07:12.195Z"
   },
   {
     "id_usuario": 40,
-    "usd_pagado": 133,
-    "creditos_recib": 2922625,
-    "metodo": "eos",
-    "fecha": "2020-08-17T09:59:29.867Z"
+    "usd_pagado": 85,
+    "creditos_recib": 5838625,
+    "metodo": "desparatus",
+    "fecha": "2022-01-24T10:23:51.977Z"
   },
   {
-    "id_usuario": 78,
-    "usd_pagado": 97,
-    "creditos_recib": 6350833,
-    "metodo": "uterque",
-    "fecha": "2023-07-18T14:21:31.465Z"
+    "id_usuario": 55,
+    "usd_pagado": 100,
+    "creditos_recib": 30171,
+    "metodo": "subnecto",
+    "fecha": "2020-08-21T21:27:22.732Z"
   },
   {
-    "id_usuario": 60,
-    "usd_pagado": 72,
-    "creditos_recib": 6064312,
-    "metodo": "varietas",
-    "fecha": "2024-09-05T16:58:37.277Z"
+    "id_usuario": 38,
+    "usd_pagado": 157,
+    "creditos_recib": 4143363,
+    "metodo": "ceno",
+    "fecha": "2020-01-10T01:35:27.633Z"
   },
   {
-    "id_usuario": 61,
-    "usd_pagado": 14,
-    "creditos_recib": 4737737,
-    "metodo": "eos",
-    "fecha": "2022-09-08T23:07:46.734Z"
+    "id_usuario": 42,
+    "usd_pagado": 42,
+    "creditos_recib": 3233290,
+    "metodo": "desparatus",
+    "fecha": "2020-08-08T20:08:49.976Z"
   },
   {
-    "id_usuario": 33,
-    "usd_pagado": 177,
-    "creditos_recib": 653793,
-    "metodo": "uterque",
-    "fecha": "2023-08-07T17:13:25.137Z"
-  },
-  {
-    "id_usuario": 84,
-    "usd_pagado": 169,
-    "creditos_recib": 3153095,
-    "metodo": "stips",
-    "fecha": "2020-04-19T15:44:01.955Z"
-  },
-  {
-    "id_usuario": 43,
-    "usd_pagado": 105,
-    "creditos_recib": 3583918,
-    "metodo": "eos",
-    "fecha": "2023-02-21T18:26:48.823Z"
-  },
-  {
-    "id_usuario": 94,
-    "usd_pagado": 182,
-    "creditos_recib": 5191404,
-    "metodo": "absque",
-    "fecha": "2022-04-06T21:27:52.430Z"
-  },
-  {
-    "id_usuario": 18,
-    "usd_pagado": 165,
-    "creditos_recib": 6308710,
-    "metodo": "uterque",
-    "fecha": "2024-09-07T10:48:37.451Z"
-  },
-  {
-    "id_usuario": 65,
-    "usd_pagado": 26,
-    "creditos_recib": 4544243,
-    "metodo": "uterque",
-    "fecha": "2021-06-25T09:31:45.101Z"
-  },
-  {
-    "id_usuario": 46,
-    "usd_pagado": 80,
-    "creditos_recib": 6581811,
-    "metodo": "uterque",
-    "fecha": "2021-04-18T13:10:37.279Z"
-  },
-  {
-    "id_usuario": 45,
-    "usd_pagado": 61,
-    "creditos_recib": 2165723,
-    "metodo": "absque",
-    "fecha": "2020-02-11T10:33:44.221Z"
-  },
-  {
-    "id_usuario": 17,
-    "usd_pagado": 135,
-    "creditos_recib": 6603330,
-    "metodo": "uterque",
-    "fecha": "2022-09-08T03:54:28.869Z"
-  },
-  {
-    "id_usuario": 96,
+    "id_usuario": 49,
     "usd_pagado": 13,
-    "creditos_recib": 4534728,
-    "metodo": "uterque",
-    "fecha": "2022-01-24T05:56:14.981Z"
+    "creditos_recib": 4845978,
+    "metodo": "ceno",
+    "fecha": "2019-12-29T16:57:00.169Z"
   },
   {
-    "id_usuario": 45,
-    "usd_pagado": 81,
-    "creditos_recib": 5409028,
-    "metodo": "varietas",
-    "fecha": "2024-07-08T08:22:14.727Z"
+    "id_usuario": 39,
+    "usd_pagado": 83,
+    "creditos_recib": 5496984,
+    "metodo": "condico",
+    "fecha": "2023-02-17T04:56:37.738Z"
   },
   {
-    "id_usuario": 37,
-    "usd_pagado": 32,
-    "creditos_recib": 3226117,
-    "metodo": "uterque",
-    "fecha": "2022-02-10T15:53:27.825Z"
+    "id_usuario": 26,
+    "usd_pagado": 144,
+    "creditos_recib": 6176980,
+    "metodo": "condico",
+    "fecha": "2024-11-19T08:12:43.276Z"
   },
   {
-    "id_usuario": 21,
-    "usd_pagado": 107,
-    "creditos_recib": 6262782,
-    "metodo": "stips",
-    "fecha": "2023-03-19T23:59:38.330Z"
-  },
-  {
-    "id_usuario": 57,
-    "usd_pagado": 179,
-    "creditos_recib": 1462461,
-    "metodo": "eos",
-    "fecha": "2021-07-07T10:01:21.055Z"
-  },
-  {
-    "id_usuario": 98,
-    "usd_pagado": 23,
-    "creditos_recib": 110734,
-    "metodo": "absque",
-    "fecha": "2022-05-01T22:37:15.661Z"
-  },
-  {
-    "id_usuario": 93,
-    "usd_pagado": 75,
-    "creditos_recib": 5168049,
-    "metodo": "absque",
-    "fecha": "2024-09-16T15:32:44.810Z"
-  },
-  {
-    "id_usuario": 1,
-    "usd_pagado": 84,
-    "creditos_recib": 5190118,
-    "metodo": "varietas",
-    "fecha": "2021-12-14T19:28:48.189Z"
-  },
-  {
-    "id_usuario": 67,
-    "usd_pagado": 151,
-    "creditos_recib": 3730959,
-    "metodo": "absque",
-    "fecha": "2024-01-13T05:22:01.558Z"
+    "id_usuario": 87,
+    "usd_pagado": 142,
+    "creditos_recib": 6113845,
+    "metodo": "condico",
+    "fecha": "2021-05-09T00:47:18.196Z"
   },
   {
     "id_usuario": 32,
-    "usd_pagado": 20,
-    "creditos_recib": 2530814,
-    "metodo": "stips",
-    "fecha": "2023-01-27T08:58:28.643Z"
+    "usd_pagado": 143,
+    "creditos_recib": 5813333,
+    "metodo": "ceno",
+    "fecha": "2020-12-10T01:07:38.686Z"
   },
   {
-    "id_usuario": 54,
-    "usd_pagado": 17,
-    "creditos_recib": 739901,
-    "metodo": "varietas",
-    "fecha": "2024-07-05T15:33:39.450Z"
+    "id_usuario": 17,
+    "usd_pagado": 57,
+    "creditos_recib": 6125093,
+    "metodo": "condico",
+    "fecha": "2023-02-28T10:15:43.476Z"
   },
   {
-    "id_usuario": 94,
-    "usd_pagado": 105,
-    "creditos_recib": 4912650,
-    "metodo": "stips",
-    "fecha": "2024-01-29T02:54:20.208Z"
+    "id_usuario": 46,
+    "usd_pagado": 48,
+    "creditos_recib": 5273612,
+    "metodo": "subnecto",
+    "fecha": "2020-12-08T11:12:14.577Z"
   },
   {
-    "id_usuario": 28,
-    "usd_pagado": 43,
-    "creditos_recib": 2771241,
-    "metodo": "uterque",
-    "fecha": "2020-01-13T22:28:45.525Z"
+    "id_usuario": 72,
+    "usd_pagado": 119,
+    "creditos_recib": 1153590,
+    "metodo": "condico",
+    "fecha": "2020-12-03T01:25:07.064Z"
   },
   {
-    "id_usuario": 77,
-    "usd_pagado": 106,
-    "creditos_recib": 4896800,
-    "metodo": "stips",
-    "fecha": "2022-10-17T05:16:26.896Z"
-  },
-  {
-    "id_usuario": 95,
-    "usd_pagado": 73,
-    "creditos_recib": 6458232,
-    "metodo": "eos",
-    "fecha": "2021-11-01T11:42:21.709Z"
-  },
-  {
-    "id_usuario": 18,
-    "usd_pagado": 69,
-    "creditos_recib": 5787665,
-    "metodo": "uterque",
-    "fecha": "2021-06-01T14:10:02.118Z"
-  },
-  {
-    "id_usuario": 75,
-    "usd_pagado": 140,
-    "creditos_recib": 6549171,
-    "metodo": "uterque",
-    "fecha": "2024-01-22T15:04:45.916Z"
-  },
-  {
-    "id_usuario": 58,
-    "usd_pagado": 147,
-    "creditos_recib": 1402515,
-    "metodo": "absque",
-    "fecha": "2020-11-19T02:10:30.647Z"
-  },
-  {
-    "id_usuario": 47,
-    "usd_pagado": 61,
-    "creditos_recib": 4562391,
-    "metodo": "absque",
-    "fecha": "2020-07-07T09:18:43.793Z"
-  },
-  {
-    "id_usuario": 33,
-    "usd_pagado": 141,
-    "creditos_recib": 579039,
-    "metodo": "varietas",
-    "fecha": "2022-01-13T05:18:42.723Z"
+    "id_usuario": 68,
+    "usd_pagado": 59,
+    "creditos_recib": 4399838,
+    "metodo": "desparatus",
+    "fecha": "2021-12-25T07:46:07.379Z"
   },
   {
     "id_usuario": 1,
-    "usd_pagado": 14,
-    "creditos_recib": 5744652,
-    "metodo": "absque",
-    "fecha": "2024-08-27T04:25:40.806Z"
+    "usd_pagado": 200,
+    "creditos_recib": 739109,
+    "metodo": "desparatus",
+    "fecha": "2021-09-02T15:41:42.904Z"
   },
   {
-    "id_usuario": 59,
-    "usd_pagado": 99,
-    "creditos_recib": 3157414,
-    "metodo": "eos",
-    "fecha": "2020-11-02T08:36:09.662Z"
+    "id_usuario": 54,
+    "usd_pagado": 149,
+    "creditos_recib": 5572704,
+    "metodo": "arbor",
+    "fecha": "2022-11-30T06:44:22.387Z"
   },
   {
-    "id_usuario": 80,
-    "usd_pagado": 123,
-    "creditos_recib": 6278827,
-    "metodo": "stips",
-    "fecha": "2023-03-25T12:11:06.602Z"
+    "id_usuario": 30,
+    "usd_pagado": 27,
+    "creditos_recib": 4913103,
+    "metodo": "arbor",
+    "fecha": "2021-05-04T12:33:44.404Z"
   },
   {
-    "id_usuario": 64,
+    "id_usuario": 69,
+    "usd_pagado": 93,
+    "creditos_recib": 4737935,
+    "metodo": "arbor",
+    "fecha": "2023-05-01T14:03:01.980Z"
+  },
+  {
+    "id_usuario": 72,
+    "usd_pagado": 93,
+    "creditos_recib": 3450933,
+    "metodo": "ceno",
+    "fecha": "2024-10-14T15:13:05.994Z"
+  },
+  {
+    "id_usuario": 74,
+    "usd_pagado": 157,
+    "creditos_recib": 4000358,
+    "metodo": "arbor",
+    "fecha": "2022-10-30T19:23:18.318Z"
+  },
+  {
+    "id_usuario": 7,
+    "usd_pagado": 129,
+    "creditos_recib": 2188185,
+    "metodo": "arbor",
+    "fecha": "2023-01-12T20:55:19.951Z"
+  },
+  {
+    "id_usuario": 89,
+    "usd_pagado": 110,
+    "creditos_recib": 2261370,
+    "metodo": "ceno",
+    "fecha": "2020-01-31T23:36:10.754Z"
+  },
+  {
+    "id_usuario": 39,
+    "usd_pagado": 180,
+    "creditos_recib": 3112995,
+    "metodo": "arbor",
+    "fecha": "2023-03-18T17:39:59.627Z"
+  },
+  {
+    "id_usuario": 73,
+    "usd_pagado": 52,
+    "creditos_recib": 6919832,
+    "metodo": "arbor",
+    "fecha": "2021-01-15T12:22:54.744Z"
+  },
+  {
+    "id_usuario": 29,
+    "usd_pagado": 193,
+    "creditos_recib": 6581435,
+    "metodo": "arbor",
+    "fecha": "2021-05-17T00:48:55.164Z"
+  },
+  {
+    "id_usuario": 85,
+    "usd_pagado": 193,
+    "creditos_recib": 1065604,
+    "metodo": "ceno",
+    "fecha": "2023-04-05T10:03:47.572Z"
+  },
+  {
+    "id_usuario": 26,
+    "usd_pagado": 157,
+    "creditos_recib": 1447819,
+    "metodo": "arbor",
+    "fecha": "2024-08-09T05:17:21.395Z"
+  },
+  {
+    "id_usuario": 3,
+    "usd_pagado": 126,
+    "creditos_recib": 4536164,
+    "metodo": "desparatus",
+    "fecha": "2022-02-26T00:15:33.123Z"
+  },
+  {
+    "id_usuario": 43,
+    "usd_pagado": 110,
+    "creditos_recib": 6046191,
+    "metodo": "ceno",
+    "fecha": "2021-05-03T05:52:53.382Z"
+  },
+  {
+    "id_usuario": 47,
     "usd_pagado": 75,
-    "creditos_recib": 4784453,
-    "metodo": "uterque",
-    "fecha": "2022-03-30T22:44:08.528Z"
+    "creditos_recib": 5156784,
+    "metodo": "subnecto",
+    "fecha": "2022-05-22T13:32:11.527Z"
+  },
+  {
+    "id_usuario": 100,
+    "usd_pagado": 41,
+    "creditos_recib": 4032081,
+    "metodo": "desparatus",
+    "fecha": "2021-07-30T13:29:11.177Z"
+  },
+  {
+    "id_usuario": 82,
+    "usd_pagado": 184,
+    "creditos_recib": 5344343,
+    "metodo": "condico",
+    "fecha": "2022-12-11T19:04:13.706Z"
+  },
+  {
+    "id_usuario": 25,
+    "usd_pagado": 189,
+    "creditos_recib": 1159545,
+    "metodo": "condico",
+    "fecha": "2021-01-22T13:25:10.967Z"
+  },
+  {
+    "id_usuario": 88,
+    "usd_pagado": 70,
+    "creditos_recib": 5342763,
+    "metodo": "desparatus",
+    "fecha": "2024-04-16T18:45:18.703Z"
+  },
+  {
+    "id_usuario": 93,
+    "usd_pagado": 24,
+    "creditos_recib": 2223088,
+    "metodo": "ceno",
+    "fecha": "2020-12-23T09:31:34.561Z"
+  },
+  {
+    "id_usuario": 74,
+    "usd_pagado": 52,
+    "creditos_recib": 6579571,
+    "metodo": "desparatus",
+    "fecha": "2024-06-24T01:28:58.943Z"
+  },
+  {
+    "id_usuario": 35,
+    "usd_pagado": 86,
+    "creditos_recib": 536091,
+    "metodo": "condico",
+    "fecha": "2024-12-06T19:00:51.924Z"
+  },
+  {
+    "id_usuario": 86,
+    "usd_pagado": 187,
+    "creditos_recib": 3953631,
+    "metodo": "ceno",
+    "fecha": "2023-10-03T06:59:21.595Z"
+  },
+  {
+    "id_usuario": 93,
+    "usd_pagado": 63,
+    "creditos_recib": 1938233,
+    "metodo": "subnecto",
+    "fecha": "2022-05-15T14:25:05.679Z"
+  },
+  {
+    "id_usuario": 90,
+    "usd_pagado": 103,
+    "creditos_recib": 2749290,
+    "metodo": "condico",
+    "fecha": "2021-03-23T20:04:32.222Z"
+  },
+  {
+    "id_usuario": 49,
+    "usd_pagado": 171,
+    "creditos_recib": 4819049,
+    "metodo": "ceno",
+    "fecha": "2023-03-03T07:41:27.781Z"
+  },
+  {
+    "id_usuario": 28,
+    "usd_pagado": 130,
+    "creditos_recib": 3169370,
+    "metodo": "desparatus",
+    "fecha": "2020-10-30T07:03:39.353Z"
+  },
+  {
+    "id_usuario": 11,
+    "usd_pagado": 108,
+    "creditos_recib": 3726964,
+    "metodo": "arbor",
+    "fecha": "2024-07-03T11:24:54.978Z"
+  },
+  {
+    "id_usuario": 65,
+    "usd_pagado": 132,
+    "creditos_recib": 3198825,
+    "metodo": "ceno",
+    "fecha": "2022-10-30T23:45:34.210Z"
+  },
+  {
+    "id_usuario": 68,
+    "usd_pagado": 186,
+    "creditos_recib": 6650329,
+    "metodo": "condico",
+    "fecha": "2022-10-08T16:32:36.393Z"
+  },
+  {
+    "id_usuario": 23,
+    "usd_pagado": 18,
+    "creditos_recib": 3944405,
+    "metodo": "condico",
+    "fecha": "2022-06-12T23:50:48.760Z"
   },
   {
     "id_usuario": 28,
     "usd_pagado": 197,
-    "creditos_recib": 1721261,
-    "metodo": "uterque",
-    "fecha": "2023-03-07T08:16:30.703Z"
-  },
-  {
-    "id_usuario": 60,
-    "usd_pagado": 22,
-    "creditos_recib": 6494553,
-    "metodo": "varietas",
-    "fecha": "2022-04-21T20:05:30.914Z"
-  },
-  {
-    "id_usuario": 36,
-    "usd_pagado": 15,
-    "creditos_recib": 5210737,
-    "metodo": "varietas",
-    "fecha": "2023-08-21T18:03:20.172Z"
-  },
-  {
-    "id_usuario": 8,
-    "usd_pagado": 147,
-    "creditos_recib": 4281701,
-    "metodo": "eos",
-    "fecha": "2021-03-11T01:59:01.898Z"
-  },
-  {
-    "id_usuario": 23,
-    "usd_pagado": 70,
-    "creditos_recib": 586804,
-    "metodo": "absque",
-    "fecha": "2021-12-20T06:08:43.347Z"
-  },
-  {
-    "id_usuario": 20,
-    "usd_pagado": 57,
-    "creditos_recib": 883519,
-    "metodo": "eos",
-    "fecha": "2022-03-05T20:33:09.883Z"
-  },
-  {
-    "id_usuario": 18,
-    "usd_pagado": 118,
-    "creditos_recib": 961331,
-    "metodo": "uterque",
-    "fecha": "2021-08-18T14:00:37.988Z"
-  },
-  {
-    "id_usuario": 86,
-    "usd_pagado": 195,
-    "creditos_recib": 5697799,
-    "metodo": "uterque",
-    "fecha": "2024-08-25T18:14:29.821Z"
+    "creditos_recib": 2437095,
+    "metodo": "condico",
+    "fecha": "2023-02-15T22:17:56.198Z"
   },
   {
     "id_usuario": 94,
-    "usd_pagado": 126,
-    "creditos_recib": 978662,
-    "metodo": "uterque",
-    "fecha": "2022-07-30T21:07:43.993Z"
-  },
-  {
-    "id_usuario": 4,
-    "usd_pagado": 49,
-    "creditos_recib": 5655334,
-    "metodo": "absque",
-    "fecha": "2022-08-24T16:25:20.412Z"
-  },
-  {
-    "id_usuario": 79,
-    "usd_pagado": 80,
-    "creditos_recib": 17820,
-    "metodo": "stips",
-    "fecha": "2023-07-22T03:27:16.332Z"
-  },
-  {
-    "id_usuario": 4,
-    "usd_pagado": 158,
-    "creditos_recib": 747151,
-    "metodo": "eos",
-    "fecha": "2024-03-19T09:03:36.730Z"
-  },
-  {
-    "id_usuario": 77,
-    "usd_pagado": 45,
-    "creditos_recib": 4062621,
-    "metodo": "varietas",
-    "fecha": "2020-05-12T09:10:23.500Z"
-  },
-  {
-    "id_usuario": 78,
-    "usd_pagado": 81,
-    "creditos_recib": 3416467,
-    "metodo": "stips",
-    "fecha": "2021-12-26T10:57:20.203Z"
-  },
-  {
-    "id_usuario": 20,
-    "usd_pagado": 44,
-    "creditos_recib": 5754615,
-    "metodo": "varietas",
-    "fecha": "2022-06-25T15:42:51.459Z"
-  },
-  {
-    "id_usuario": 78,
-    "usd_pagado": 136,
-    "creditos_recib": 3457423,
-    "metodo": "eos",
-    "fecha": "2021-11-13T08:59:54.389Z"
+    "usd_pagado": 134,
+    "creditos_recib": 1178421,
+    "metodo": "desparatus",
+    "fecha": "2021-07-07T21:37:43.082Z"
   },
   {
     "id_usuario": 13,
-    "usd_pagado": 128,
-    "creditos_recib": 2156178,
-    "metodo": "varietas",
-    "fecha": "2024-05-07T17:11:53.892Z"
-  },
-  {
-    "id_usuario": 47,
-    "usd_pagado": 177,
-    "creditos_recib": 6983150,
-    "metodo": "varietas",
-    "fecha": "2023-12-20T15:00:52.379Z"
-  },
-  {
-    "id_usuario": 70,
-    "usd_pagado": 53,
-    "creditos_recib": 2778285,
-    "metodo": "uterque",
-    "fecha": "2024-02-26T13:55:17.430Z"
-  },
-  {
-    "id_usuario": 52,
-    "usd_pagado": 193,
-    "creditos_recib": 4879060,
-    "metodo": "uterque",
-    "fecha": "2021-01-12T19:28:31.993Z"
-  },
-  {
-    "id_usuario": 28,
-    "usd_pagado": 185,
-    "creditos_recib": 1560358,
-    "metodo": "stips",
-    "fecha": "2024-12-01T22:20:30.720Z"
-  },
-  {
-    "id_usuario": 83,
-    "usd_pagado": 18,
-    "creditos_recib": 1597840,
-    "metodo": "stips",
-    "fecha": "2022-07-24T22:59:53.299Z"
-  },
-  {
-    "id_usuario": 13,
-    "usd_pagado": 166,
-    "creditos_recib": 3805072,
-    "metodo": "eos",
-    "fecha": "2022-09-28T17:08:14.115Z"
-  },
-  {
-    "id_usuario": 72,
-    "usd_pagado": 36,
-    "creditos_recib": 696811,
-    "metodo": "eos",
-    "fecha": "2020-06-23T10:53:32.549Z"
-  },
-  {
-    "id_usuario": 82,
-    "usd_pagado": 115,
-    "creditos_recib": 5026654,
-    "metodo": "uterque",
-    "fecha": "2023-06-17T12:23:51.564Z"
-  },
-  {
-    "id_usuario": 29,
-    "usd_pagado": 10,
-    "creditos_recib": 627003,
-    "metodo": "eos",
-    "fecha": "2023-12-08T07:15:01.604Z"
-  },
-  {
-    "id_usuario": 26,
-    "usd_pagado": 155,
-    "creditos_recib": 6505428,
-    "metodo": "stips",
-    "fecha": "2022-01-16T17:30:21.204Z"
+    "usd_pagado": 148,
+    "creditos_recib": 223310,
+    "metodo": "desparatus",
+    "fecha": "2022-10-21T20:59:11.137Z"
   },
   {
     "id_usuario": 25,
-    "usd_pagado": 182,
-    "creditos_recib": 493114,
-    "metodo": "varietas",
-    "fecha": "2020-03-06T09:02:02.171Z"
-  },
-  {
-    "id_usuario": 20,
-    "usd_pagado": 78,
-    "creditos_recib": 4612376,
-    "metodo": "uterque",
-    "fecha": "2023-04-04T22:02:10.195Z"
-  },
-  {
-    "id_usuario": 24,
-    "usd_pagado": 192,
-    "creditos_recib": 6572847,
-    "metodo": "absque",
-    "fecha": "2019-12-24T16:50:37.429Z"
-  },
-  {
-    "id_usuario": 83,
     "usd_pagado": 155,
-    "creditos_recib": 6518622,
-    "metodo": "absque",
-    "fecha": "2021-06-27T03:57:28.193Z"
-  },
-  {
-    "id_usuario": 50,
-    "usd_pagado": 124,
-    "creditos_recib": 2936179,
-    "metodo": "uterque",
-    "fecha": "2021-08-02T15:23:01.271Z"
-  },
-  {
-    "id_usuario": 22,
-    "usd_pagado": 182,
-    "creditos_recib": 917772,
-    "metodo": "uterque",
-    "fecha": "2023-02-01T02:22:25.389Z"
-  },
-  {
-    "id_usuario": 3,
-    "usd_pagado": 92,
-    "creditos_recib": 2330906,
-    "metodo": "stips",
-    "fecha": "2022-06-17T23:19:54.114Z"
-  },
-  {
-    "id_usuario": 100,
-    "usd_pagado": 84,
-    "creditos_recib": 3680709,
-    "metodo": "stips",
-    "fecha": "2023-05-05T10:57:33.611Z"
-  },
-  {
-    "id_usuario": 43,
-    "usd_pagado": 157,
-    "creditos_recib": 2440276,
-    "metodo": "absque",
-    "fecha": "2022-09-27T11:17:18.221Z"
-  },
-  {
-    "id_usuario": 80,
-    "usd_pagado": 27,
-    "creditos_recib": 5392392,
-    "metodo": "uterque",
-    "fecha": "2023-12-25T09:40:30.412Z"
-  },
-  {
-    "id_usuario": 65,
-    "usd_pagado": 120,
-    "creditos_recib": 5446143,
-    "metodo": "uterque",
-    "fecha": "2023-12-31T21:55:59.456Z"
-  },
-  {
-    "id_usuario": 42,
-    "usd_pagado": 200,
-    "creditos_recib": 5186831,
-    "metodo": "eos",
-    "fecha": "2022-08-13T18:49:12.754Z"
-  },
-  {
-    "id_usuario": 8,
-    "usd_pagado": 183,
-    "creditos_recib": 4639137,
-    "metodo": "stips",
-    "fecha": "2020-10-09T19:18:34.374Z"
-  },
-  {
-    "id_usuario": 69,
-    "usd_pagado": 182,
-    "creditos_recib": 6830439,
-    "metodo": "stips",
-    "fecha": "2020-07-22T09:14:52.086Z"
-  },
-  {
-    "id_usuario": 64,
-    "usd_pagado": 69,
-    "creditos_recib": 3644663,
-    "metodo": "stips",
-    "fecha": "2020-09-07T10:28:14.303Z"
-  },
-  {
-    "id_usuario": 19,
-    "usd_pagado": 172,
-    "creditos_recib": 649480,
-    "metodo": "stips",
-    "fecha": "2022-12-06T11:20:33.371Z"
-  },
-  {
-    "id_usuario": 82,
-    "usd_pagado": 43,
-    "creditos_recib": 2943724,
-    "metodo": "eos",
-    "fecha": "2020-10-10T06:55:57.916Z"
-  },
-  {
-    "id_usuario": 84,
-    "usd_pagado": 135,
-    "creditos_recib": 2308116,
-    "metodo": "varietas",
-    "fecha": "2020-11-03T04:06:44.515Z"
-  },
-  {
-    "id_usuario": 16,
-    "usd_pagado": 101,
-    "creditos_recib": 672754,
-    "metodo": "uterque",
-    "fecha": "2020-02-15T11:48:27.987Z"
-  },
-  {
-    "id_usuario": 73,
-    "usd_pagado": 165,
-    "creditos_recib": 2063897,
-    "metodo": "stips",
-    "fecha": "2021-08-01T13:45:03.950Z"
-  },
-  {
-    "id_usuario": 49,
-    "usd_pagado": 47,
-    "creditos_recib": 265617,
-    "metodo": "eos",
-    "fecha": "2022-05-05T23:05:39.623Z"
-  },
-  {
-    "id_usuario": 68,
-    "usd_pagado": 67,
-    "creditos_recib": 3698004,
-    "metodo": "eos",
-    "fecha": "2021-03-03T10:34:23.478Z"
-  },
-  {
-    "id_usuario": 93,
-    "usd_pagado": 182,
-    "creditos_recib": 2042689,
-    "metodo": "varietas",
-    "fecha": "2022-11-14T12:15:20.792Z"
-  },
-  {
-    "id_usuario": 4,
-    "usd_pagado": 139,
-    "creditos_recib": 6945081,
-    "metodo": "eos",
-    "fecha": "2022-04-10T20:59:31.671Z"
-  },
-  {
-    "id_usuario": 34,
-    "usd_pagado": 86,
-    "creditos_recib": 4580312,
-    "metodo": "eos",
-    "fecha": "2024-08-10T14:23:58.166Z"
-  },
-  {
-    "id_usuario": 15,
-    "usd_pagado": 32,
-    "creditos_recib": 2726990,
-    "metodo": "uterque",
-    "fecha": "2021-05-13T17:16:26.659Z"
+    "creditos_recib": 2881786,
+    "metodo": "subnecto",
+    "fecha": "2022-06-13T14:38:59.038Z"
   },
   {
     "id_usuario": 26,
-    "usd_pagado": 75,
-    "creditos_recib": 5311500,
-    "metodo": "eos",
-    "fecha": "2024-10-29T14:19:38.122Z"
+    "usd_pagado": 130,
+    "creditos_recib": 993214,
+    "metodo": "ceno",
+    "fecha": "2021-05-06T06:42:16.560Z"
+  },
+  {
+    "id_usuario": 44,
+    "usd_pagado": 117,
+    "creditos_recib": 2292133,
+    "metodo": "desparatus",
+    "fecha": "2022-05-31T04:44:23.879Z"
+  },
+  {
+    "id_usuario": 82,
+    "usd_pagado": 175,
+    "creditos_recib": 742550,
+    "metodo": "desparatus",
+    "fecha": "2020-05-17T04:17:24.976Z"
+  },
+  {
+    "id_usuario": 26,
+    "usd_pagado": 71,
+    "creditos_recib": 5397235,
+    "metodo": "subnecto",
+    "fecha": "2023-11-24T13:54:15.016Z"
+  },
+  {
+    "id_usuario": 69,
+    "usd_pagado": 96,
+    "creditos_recib": 5267023,
+    "metodo": "arbor",
+    "fecha": "2023-01-27T18:09:13.019Z"
+  },
+  {
+    "id_usuario": 21,
+    "usd_pagado": 139,
+    "creditos_recib": 5256079,
+    "metodo": "ceno",
+    "fecha": "2021-09-30T11:13:35.232Z"
+  },
+  {
+    "id_usuario": 99,
+    "usd_pagado": 173,
+    "creditos_recib": 302907,
+    "metodo": "subnecto",
+    "fecha": "2024-01-01T13:50:12.482Z"
+  },
+  {
+    "id_usuario": 7,
+    "usd_pagado": 38,
+    "creditos_recib": 2129566,
+    "metodo": "arbor",
+    "fecha": "2021-08-23T22:22:06.704Z"
   },
   {
     "id_usuario": 64,
-    "usd_pagado": 92,
-    "creditos_recib": 6060358,
-    "metodo": "eos",
-    "fecha": "2022-06-01T07:12:20.065Z"
+    "usd_pagado": 136,
+    "creditos_recib": 5331993,
+    "metodo": "condico",
+    "fecha": "2022-08-18T00:01:34.241Z"
   },
   {
-    "id_usuario": 87,
-    "usd_pagado": 164,
-    "creditos_recib": 2842426,
-    "metodo": "uterque",
-    "fecha": "2020-02-11T06:21:20.724Z"
+    "id_usuario": 77,
+    "usd_pagado": 118,
+    "creditos_recib": 285298,
+    "metodo": "ceno",
+    "fecha": "2024-03-25T23:29:41.060Z"
   },
   {
-    "id_usuario": 66,
-    "usd_pagado": 86,
-    "creditos_recib": 6161031,
-    "metodo": "varietas",
-    "fecha": "2020-03-14T15:35:27.671Z"
+    "id_usuario": 90,
+    "usd_pagado": 179,
+    "creditos_recib": 5435116,
+    "metodo": "condico",
+    "fecha": "2022-02-09T20:06:36.270Z"
   },
   {
-    "id_usuario": 87,
-    "usd_pagado": 43,
-    "creditos_recib": 6328437,
-    "metodo": "uterque",
-    "fecha": "2024-03-26T15:14:19.508Z"
+    "id_usuario": 88,
+    "usd_pagado": 131,
+    "creditos_recib": 6967914,
+    "metodo": "condico",
+    "fecha": "2022-07-26T15:43:48.480Z"
   },
   {
-    "id_usuario": 22,
-    "usd_pagado": 182,
-    "creditos_recib": 5864902,
-    "metodo": "absque",
-    "fecha": "2021-05-26T20:38:16.418Z"
+    "id_usuario": 98,
+    "usd_pagado": 136,
+    "creditos_recib": 2115203,
+    "metodo": "arbor",
+    "fecha": "2021-02-02T05:31:47.913Z"
+  },
+  {
+    "id_usuario": 24,
+    "usd_pagado": 124,
+    "creditos_recib": 3168464,
+    "metodo": "subnecto",
+    "fecha": "2022-09-25T06:42:04.577Z"
+  },
+  {
+    "id_usuario": 99,
+    "usd_pagado": 39,
+    "creditos_recib": 2942905,
+    "metodo": "ceno",
+    "fecha": "2022-06-22T12:12:12.998Z"
+  },
+  {
+    "id_usuario": 65,
+    "usd_pagado": 47,
+    "creditos_recib": 6424338,
+    "metodo": "condico",
+    "fecha": "2020-04-30T20:23:53.796Z"
   },
   {
     "id_usuario": 76,
-    "usd_pagado": 90,
-    "creditos_recib": 784184,
-    "metodo": "eos",
-    "fecha": "2021-11-07T19:25:48.147Z"
+    "usd_pagado": 131,
+    "creditos_recib": 1575754,
+    "metodo": "condico",
+    "fecha": "2021-12-23T20:27:11.604Z"
   },
   {
-    "id_usuario": 19,
-    "usd_pagado": 59,
-    "creditos_recib": 2457009,
-    "metodo": "eos",
-    "fecha": "2020-01-31T08:09:48.212Z"
+    "id_usuario": 62,
+    "usd_pagado": 196,
+    "creditos_recib": 371002,
+    "metodo": "ceno",
+    "fecha": "2022-11-21T22:16:18.581Z"
+  },
+  {
+    "id_usuario": 35,
+    "usd_pagado": 129,
+    "creditos_recib": 1860321,
+    "metodo": "desparatus",
+    "fecha": "2021-12-10T13:59:39.739Z"
+  },
+  {
+    "id_usuario": 24,
+    "usd_pagado": 104,
+    "creditos_recib": 1829181,
+    "metodo": "desparatus",
+    "fecha": "2023-12-21T07:17:06.730Z"
+  },
+  {
+    "id_usuario": 62,
+    "usd_pagado": 92,
+    "creditos_recib": 1650889,
+    "metodo": "condico",
+    "fecha": "2020-11-27T16:34:38.699Z"
+  },
+  {
+    "id_usuario": 78,
+    "usd_pagado": 121,
+    "creditos_recib": 4268980,
+    "metodo": "subnecto",
+    "fecha": "2021-07-26T08:56:29.083Z"
+  },
+  {
+    "id_usuario": 4,
+    "usd_pagado": 138,
+    "creditos_recib": 5316469,
+    "metodo": "desparatus",
+    "fecha": "2024-11-22T00:21:21.581Z"
   },
   {
     "id_usuario": 97,
-    "usd_pagado": 123,
-    "creditos_recib": 2858733,
-    "metodo": "varietas",
-    "fecha": "2020-04-01T14:22:20.059Z"
+    "usd_pagado": 59,
+    "creditos_recib": 5315097,
+    "metodo": "subnecto",
+    "fecha": "2022-03-23T13:29:06.174Z"
   },
   {
-    "id_usuario": 11,
-    "usd_pagado": 188,
-    "creditos_recib": 1004940,
-    "metodo": "varietas",
-    "fecha": "2023-09-10T22:55:25.609Z"
+    "id_usuario": 51,
+    "usd_pagado": 169,
+    "creditos_recib": 475336,
+    "metodo": "arbor",
+    "fecha": "2023-01-13T02:43:36.482Z"
   },
   {
-    "id_usuario": 57,
-    "usd_pagado": 121,
-    "creditos_recib": 890570,
-    "metodo": "uterque",
-    "fecha": "2020-02-20T00:08:42.743Z"
+    "id_usuario": 80,
+    "usd_pagado": 159,
+    "creditos_recib": 854897,
+    "metodo": "desparatus",
+    "fecha": "2020-07-23T10:33:30.369Z"
   },
   {
-    "id_usuario": 23,
-    "usd_pagado": 83,
-    "creditos_recib": 6816579,
-    "metodo": "absque",
-    "fecha": "2023-11-05T03:12:56.741Z"
+    "id_usuario": 51,
+    "usd_pagado": 98,
+    "creditos_recib": 2150975,
+    "metodo": "desparatus",
+    "fecha": "2021-12-09T22:19:32.050Z"
   },
   {
-    "id_usuario": 36,
-    "usd_pagado": 170,
-    "creditos_recib": 3280797,
-    "metodo": "varietas",
-    "fecha": "2022-08-28T01:46:01.506Z"
+    "id_usuario": 27,
+    "usd_pagado": 103,
+    "creditos_recib": 2815562,
+    "metodo": "condico",
+    "fecha": "2020-09-12T21:35:58.051Z"
+  },
+  {
+    "id_usuario": 30,
+    "usd_pagado": 16,
+    "creditos_recib": 3330240,
+    "metodo": "arbor",
+    "fecha": "2024-05-31T07:47:52.671Z"
   },
   {
     "id_usuario": 5,
-    "usd_pagado": 58,
-    "creditos_recib": 4649552,
-    "metodo": "eos",
-    "fecha": "2022-09-30T07:47:50.619Z"
+    "usd_pagado": 119,
+    "creditos_recib": 2218366,
+    "metodo": "desparatus",
+    "fecha": "2024-01-15T21:38:45.342Z"
   },
   {
-    "id_usuario": 76,
-    "usd_pagado": 30,
-    "creditos_recib": 4604641,
-    "metodo": "absque",
-    "fecha": "2020-02-19T03:13:49.287Z"
+    "id_usuario": 86,
+    "usd_pagado": 66,
+    "creditos_recib": 1863260,
+    "metodo": "condico",
+    "fecha": "2024-02-08T18:28:17.440Z"
   },
   {
-    "id_usuario": 11,
-    "usd_pagado": 32,
-    "creditos_recib": 1207249,
-    "metodo": "eos",
-    "fecha": "2024-04-12T17:54:32.494Z"
+    "id_usuario": 1,
+    "usd_pagado": 154,
+    "creditos_recib": 5522327,
+    "metodo": "ceno",
+    "fecha": "2020-01-07T03:38:19.182Z"
+  },
+  {
+    "id_usuario": 26,
+    "usd_pagado": 114,
+    "creditos_recib": 4425252,
+    "metodo": "ceno",
+    "fecha": "2023-11-25T01:18:59.242Z"
+  },
+  {
+    "id_usuario": 37,
+    "usd_pagado": 25,
+    "creditos_recib": 5541136,
+    "metodo": "subnecto",
+    "fecha": "2021-01-17T19:52:03.585Z"
+  },
+  {
+    "id_usuario": 14,
+    "usd_pagado": 80,
+    "creditos_recib": 604637,
+    "metodo": "arbor",
+    "fecha": "2022-02-16T00:19:06.369Z"
+  },
+  {
+    "id_usuario": 23,
+    "usd_pagado": 105,
+    "creditos_recib": 2519032,
+    "metodo": "condico",
+    "fecha": "2022-01-18T02:43:55.387Z"
+  },
+  {
+    "id_usuario": 100,
+    "usd_pagado": 82,
+    "creditos_recib": 6762189,
+    "metodo": "condico",
+    "fecha": "2022-10-17T23:22:15.170Z"
+  },
+  {
+    "id_usuario": 87,
+    "usd_pagado": 179,
+    "creditos_recib": 6351423,
+    "metodo": "desparatus",
+    "fecha": "2021-05-03T03:45:23.512Z"
+  },
+  {
+    "id_usuario": 54,
+    "usd_pagado": 52,
+    "creditos_recib": 5628817,
+    "metodo": "desparatus",
+    "fecha": "2024-02-04T10:28:27.119Z"
+  },
+  {
+    "id_usuario": 57,
+    "usd_pagado": 159,
+    "creditos_recib": 3134323,
+    "metodo": "condico",
+    "fecha": "2021-07-07T19:00:58.039Z"
+  },
+  {
+    "id_usuario": 33,
+    "usd_pagado": 127,
+    "creditos_recib": 1004796,
+    "metodo": "condico",
+    "fecha": "2021-05-05T23:27:01.091Z"
+  },
+  {
+    "id_usuario": 27,
+    "usd_pagado": 38,
+    "creditos_recib": 1865865,
+    "metodo": "condico",
+    "fecha": "2024-10-29T22:13:38.251Z"
+  },
+  {
+    "id_usuario": 72,
+    "usd_pagado": 31,
+    "creditos_recib": 1974342,
+    "metodo": "arbor",
+    "fecha": "2024-06-11T02:35:37.822Z"
+  },
+  {
+    "id_usuario": 53,
+    "usd_pagado": 61,
+    "creditos_recib": 5316254,
+    "metodo": "desparatus",
+    "fecha": "2023-10-23T11:55:01.858Z"
   },
   {
     "id_usuario": 19,
+    "usd_pagado": 179,
+    "creditos_recib": 175723,
+    "metodo": "subnecto",
+    "fecha": "2022-12-22T08:44:30.168Z"
+  },
+  {
+    "id_usuario": 32,
+    "usd_pagado": 194,
+    "creditos_recib": 98493,
+    "metodo": "arbor",
+    "fecha": "2023-01-23T15:41:51.000Z"
+  },
+  {
+    "id_usuario": 55,
+    "usd_pagado": 170,
+    "creditos_recib": 2404241,
+    "metodo": "arbor",
+    "fecha": "2024-06-20T18:06:33.662Z"
+  },
+  {
+    "id_usuario": 26,
+    "usd_pagado": 184,
+    "creditos_recib": 83806,
+    "metodo": "desparatus",
+    "fecha": "2021-07-10T06:19:41.073Z"
+  },
+  {
+    "id_usuario": 85,
+    "usd_pagado": 65,
+    "creditos_recib": 4202992,
+    "metodo": "condico",
+    "fecha": "2021-03-29T19:16:27.113Z"
+  },
+  {
+    "id_usuario": 57,
+    "usd_pagado": 142,
+    "creditos_recib": 4800239,
+    "metodo": "ceno",
+    "fecha": "2020-07-19T01:03:52.108Z"
+  },
+  {
+    "id_usuario": 2,
+    "usd_pagado": 92,
+    "creditos_recib": 1778102,
+    "metodo": "subnecto",
+    "fecha": "2020-11-25T01:35:24.818Z"
+  },
+  {
+    "id_usuario": 4,
+    "usd_pagado": 121,
+    "creditos_recib": 3050598,
+    "metodo": "condico",
+    "fecha": "2022-11-02T12:50:25.248Z"
+  },
+  {
+    "id_usuario": 32,
+    "usd_pagado": 156,
+    "creditos_recib": 839262,
+    "metodo": "arbor",
+    "fecha": "2020-03-30T09:51:25.636Z"
+  },
+  {
+    "id_usuario": 47,
+    "usd_pagado": 160,
+    "creditos_recib": 5597371,
+    "metodo": "desparatus",
+    "fecha": "2024-03-06T11:27:40.599Z"
+  },
+  {
+    "id_usuario": 81,
+    "usd_pagado": 91,
+    "creditos_recib": 2157099,
+    "metodo": "desparatus",
+    "fecha": "2023-10-19T06:57:59.378Z"
+  },
+  {
+    "id_usuario": 65,
+    "usd_pagado": 169,
+    "creditos_recib": 3766488,
+    "metodo": "desparatus",
+    "fecha": "2022-10-23T19:30:11.442Z"
+  },
+  {
+    "id_usuario": 32,
+    "usd_pagado": 148,
+    "creditos_recib": 6167727,
+    "metodo": "desparatus",
+    "fecha": "2020-05-14T14:40:39.380Z"
+  },
+  {
+    "id_usuario": 4,
+    "usd_pagado": 83,
+    "creditos_recib": 6941252,
+    "metodo": "condico",
+    "fecha": "2024-01-11T01:09:58.342Z"
+  },
+  {
+    "id_usuario": 40,
+    "usd_pagado": 156,
+    "creditos_recib": 1433231,
+    "metodo": "condico",
+    "fecha": "2023-10-06T12:17:29.337Z"
+  },
+  {
+    "id_usuario": 98,
+    "usd_pagado": 73,
+    "creditos_recib": 6411006,
+    "metodo": "condico",
+    "fecha": "2021-07-24T12:46:43.554Z"
+  },
+  {
+    "id_usuario": 52,
     "usd_pagado": 95,
-    "creditos_recib": 3897701,
-    "metodo": "stips",
-    "fecha": "2023-10-18T11:04:26.477Z"
+    "creditos_recib": 5883515,
+    "metodo": "ceno",
+    "fecha": "2020-03-14T04:12:14.127Z"
+  },
+  {
+    "id_usuario": 68,
+    "usd_pagado": 120,
+    "creditos_recib": 1104603,
+    "metodo": "desparatus",
+    "fecha": "2020-04-09T12:54:31.877Z"
+  },
+  {
+    "id_usuario": 23,
+    "usd_pagado": 57,
+    "creditos_recib": 175855,
+    "metodo": "arbor",
+    "fecha": "2024-07-03T13:22:12.993Z"
+  },
+  {
+    "id_usuario": 73,
+    "usd_pagado": 78,
+    "creditos_recib": 5066371,
+    "metodo": "subnecto",
+    "fecha": "2022-12-16T14:36:57.548Z"
+  },
+  {
+    "id_usuario": 53,
+    "usd_pagado": 119,
+    "creditos_recib": 5708597,
+    "metodo": "desparatus",
+    "fecha": "2023-03-21T01:49:11.037Z"
+  },
+  {
+    "id_usuario": 56,
+    "usd_pagado": 69,
+    "creditos_recib": 1186155,
+    "metodo": "ceno",
+    "fecha": "2021-09-06T16:04:23.379Z"
+  },
+  {
+    "id_usuario": 5,
+    "usd_pagado": 147,
+    "creditos_recib": 2110333,
+    "metodo": "ceno",
+    "fecha": "2020-11-05T01:47:23.641Z"
+  },
+  {
+    "id_usuario": 35,
+    "usd_pagado": 122,
+    "creditos_recib": 4695660,
+    "metodo": "condico",
+    "fecha": "2023-11-25T08:55:13.783Z"
+  },
+  {
+    "id_usuario": 12,
+    "usd_pagado": 23,
+    "creditos_recib": 2382627,
+    "metodo": "desparatus",
+    "fecha": "2020-07-18T04:52:40.419Z"
+  },
+  {
+    "id_usuario": 8,
+    "usd_pagado": 152,
+    "creditos_recib": 952689,
+    "metodo": "desparatus",
+    "fecha": "2024-06-07T20:40:45.597Z"
+  },
+  {
+    "id_usuario": 36,
+    "usd_pagado": 86,
+    "creditos_recib": 2754523,
+    "metodo": "arbor",
+    "fecha": "2022-05-26T23:42:05.285Z"
+  },
+  {
+    "id_usuario": 87,
+    "usd_pagado": 48,
+    "creditos_recib": 4131749,
+    "metodo": "arbor",
+    "fecha": "2023-04-19T08:28:27.256Z"
+  },
+  {
+    "id_usuario": 88,
+    "usd_pagado": 61,
+    "creditos_recib": 5120454,
+    "metodo": "ceno",
+    "fecha": "2023-12-15T02:14:38.708Z"
+  },
+  {
+    "id_usuario": 50,
+    "usd_pagado": 74,
+    "creditos_recib": 2834620,
+    "metodo": "ceno",
+    "fecha": "2023-05-19T18:58:33.846Z"
+  },
+  {
+    "id_usuario": 69,
+    "usd_pagado": 81,
+    "creditos_recib": 6332782,
+    "metodo": "ceno",
+    "fecha": "2021-10-25T10:01:13.872Z"
+  },
+  {
+    "id_usuario": 87,
+    "usd_pagado": 122,
+    "creditos_recib": 3497841,
+    "metodo": "ceno",
+    "fecha": "2024-01-23T13:25:37.914Z"
+  },
+  {
+    "id_usuario": 79,
+    "usd_pagado": 23,
+    "creditos_recib": 1560784,
+    "metodo": "condico",
+    "fecha": "2023-06-12T03:21:45.770Z"
+  },
+  {
+    "id_usuario": 80,
+    "usd_pagado": 101,
+    "creditos_recib": 1266788,
+    "metodo": "ceno",
+    "fecha": "2022-11-11T13:09:06.729Z"
+  },
+  {
+    "id_usuario": 25,
+    "usd_pagado": 136,
+    "creditos_recib": 6813155,
+    "metodo": "arbor",
+    "fecha": "2024-10-11T10:55:21.697Z"
+  },
+  {
+    "id_usuario": 63,
+    "usd_pagado": 36,
+    "creditos_recib": 2520946,
+    "metodo": "subnecto",
+    "fecha": "2022-07-21T08:44:15.189Z"
+  },
+  {
+    "id_usuario": 11,
+    "usd_pagado": 126,
+    "creditos_recib": 2647935,
+    "metodo": "ceno",
+    "fecha": "2024-10-28T10:29:18.915Z"
+  },
+  {
+    "id_usuario": 88,
+    "usd_pagado": 127,
+    "creditos_recib": 6015311,
+    "metodo": "ceno",
+    "fecha": "2020-11-17T11:37:07.824Z"
+  },
+  {
+    "id_usuario": 42,
+    "usd_pagado": 197,
+    "creditos_recib": 1030572,
+    "metodo": "condico",
+    "fecha": "2022-01-26T04:59:27.521Z"
+  },
+  {
+    "id_usuario": 13,
+    "usd_pagado": 194,
+    "creditos_recib": 5187100,
+    "metodo": "desparatus",
+    "fecha": "2022-08-17T08:44:26.514Z"
+  },
+  {
+    "id_usuario": 73,
+    "usd_pagado": 48,
+    "creditos_recib": 793063,
+    "metodo": "ceno",
+    "fecha": "2024-01-13T03:57:45.253Z"
+  },
+  {
+    "id_usuario": 63,
+    "usd_pagado": 81,
+    "creditos_recib": 5320270,
+    "metodo": "desparatus",
+    "fecha": "2024-03-05T02:39:41.724Z"
+  },
+  {
+    "id_usuario": 5,
+    "usd_pagado": 91,
+    "creditos_recib": 5141217,
+    "metodo": "condico",
+    "fecha": "2021-03-22T23:59:54.975Z"
+  },
+  {
+    "id_usuario": 27,
+    "usd_pagado": 152,
+    "creditos_recib": 4781855,
+    "metodo": "desparatus",
+    "fecha": "2020-07-07T02:39:08.230Z"
+  },
+  {
+    "id_usuario": 33,
+    "usd_pagado": 186,
+    "creditos_recib": 1152069,
+    "metodo": "desparatus",
+    "fecha": "2022-10-10T13:26:49.099Z"
+  },
+  {
+    "id_usuario": 16,
+    "usd_pagado": 66,
+    "creditos_recib": 2784620,
+    "metodo": "subnecto",
+    "fecha": "2022-05-25T18:07:20.924Z"
+  },
+  {
+    "id_usuario": 37,
+    "usd_pagado": 138,
+    "creditos_recib": 4344790,
+    "metodo": "condico",
+    "fecha": "2021-12-13T22:25:10.847Z"
+  },
+  {
+    "id_usuario": 83,
+    "usd_pagado": 110,
+    "creditos_recib": 2740194,
+    "metodo": "ceno",
+    "fecha": "2022-08-13T17:50:38.597Z"
+  },
+  {
+    "id_usuario": 77,
+    "usd_pagado": 30,
+    "creditos_recib": 2366580,
+    "metodo": "desparatus",
+    "fecha": "2021-06-28T06:40:09.930Z"
+  },
+  {
+    "id_usuario": 71,
+    "usd_pagado": 181,
+    "creditos_recib": 6530329,
+    "metodo": "ceno",
+    "fecha": "2021-03-30T10:31:09.470Z"
+  },
+  {
+    "id_usuario": 22,
+    "usd_pagado": 199,
+    "creditos_recib": 299666,
+    "metodo": "ceno",
+    "fecha": "2023-08-08T15:25:22.096Z"
+  },
+  {
+    "id_usuario": 21,
+    "usd_pagado": 173,
+    "creditos_recib": 3118057,
+    "metodo": "subnecto",
+    "fecha": "2024-06-09T06:18:38.149Z"
+  },
+  {
+    "id_usuario": 5,
+    "usd_pagado": 139,
+    "creditos_recib": 5178837,
+    "metodo": "arbor",
+    "fecha": "2024-09-02T17:39:28.493Z"
+  },
+  {
+    "id_usuario": 45,
+    "usd_pagado": 35,
+    "creditos_recib": 3958724,
+    "metodo": "subnecto",
+    "fecha": "2022-05-12T08:19:33.414Z"
+  },
+  {
+    "id_usuario": 83,
+    "usd_pagado": 76,
+    "creditos_recib": 3835773,
+    "metodo": "ceno",
+    "fecha": "2023-02-03T15:46:00.317Z"
+  },
+  {
+    "id_usuario": 100,
+    "usd_pagado": 33,
+    "creditos_recib": 1001787,
+    "metodo": "subnecto",
+    "fecha": "2020-04-21T19:14:42.705Z"
+  },
+  {
+    "id_usuario": 22,
+    "usd_pagado": 41,
+    "creditos_recib": 5960145,
+    "metodo": "subnecto",
+    "fecha": "2023-12-17T06:51:45.274Z"
+  },
+  {
+    "id_usuario": 22,
+    "usd_pagado": 30,
+    "creditos_recib": 563940,
+    "metodo": "arbor",
+    "fecha": "2020-07-20T02:33:54.780Z"
+  },
+  {
+    "id_usuario": 2,
+    "usd_pagado": 148,
+    "creditos_recib": 1841037,
+    "metodo": "ceno",
+    "fecha": "2023-02-27T05:37:25.406Z"
+  },
+  {
+    "id_usuario": 14,
+    "usd_pagado": 40,
+    "creditos_recib": 6989958,
+    "metodo": "subnecto",
+    "fecha": "2022-12-28T23:31:23.966Z"
+  },
+  {
+    "id_usuario": 74,
+    "usd_pagado": 89,
+    "creditos_recib": 869839,
+    "metodo": "arbor",
+    "fecha": "2022-04-16T08:26:39.182Z"
+  },
+  {
+    "id_usuario": 37,
+    "usd_pagado": 72,
+    "creditos_recib": 4451162,
+    "metodo": "condico",
+    "fecha": "2020-04-04T07:19:34.995Z"
+  },
+  {
+    "id_usuario": 37,
+    "usd_pagado": 126,
+    "creditos_recib": 2399270,
+    "metodo": "desparatus",
+    "fecha": "2021-09-30T00:53:57.474Z"
+  },
+  {
+    "id_usuario": 28,
+    "usd_pagado": 199,
+    "creditos_recib": 6480801,
+    "metodo": "desparatus",
+    "fecha": "2021-07-21T15:32:53.133Z"
+  },
+  {
+    "id_usuario": 24,
+    "usd_pagado": 142,
+    "creditos_recib": 895472,
+    "metodo": "ceno",
+    "fecha": "2021-02-01T19:41:56.689Z"
+  },
+  {
+    "id_usuario": 33,
+    "usd_pagado": 18,
+    "creditos_recib": 889596,
+    "metodo": "desparatus",
+    "fecha": "2020-06-03T13:12:09.557Z"
+  },
+  {
+    "id_usuario": 31,
+    "usd_pagado": 23,
+    "creditos_recib": 960394,
+    "metodo": "desparatus",
+    "fecha": "2020-06-09T09:13:01.758Z"
+  },
+  {
+    "id_usuario": 41,
+    "usd_pagado": 73,
+    "creditos_recib": 5752663,
+    "metodo": "condico",
+    "fecha": "2024-06-28T01:48:07.591Z"
+  },
+  {
+    "id_usuario": 37,
+    "usd_pagado": 176,
+    "creditos_recib": 6054640,
+    "metodo": "subnecto",
+    "fecha": "2020-01-03T14:36:44.895Z"
+  },
+  {
+    "id_usuario": 77,
+    "usd_pagado": 34,
+    "creditos_recib": 1569936,
+    "metodo": "desparatus",
+    "fecha": "2021-05-15T17:42:07.793Z"
+  },
+  {
+    "id_usuario": 79,
+    "usd_pagado": 162,
+    "creditos_recib": 3098466,
+    "metodo": "ceno",
+    "fecha": "2020-02-29T04:25:26.504Z"
+  },
+  {
+    "id_usuario": 5,
+    "usd_pagado": 134,
+    "creditos_recib": 6719877,
+    "metodo": "arbor",
+    "fecha": "2020-02-02T18:22:48.439Z"
+  },
+  {
+    "id_usuario": 62,
+    "usd_pagado": 29,
+    "creditos_recib": 1124319,
+    "metodo": "subnecto",
+    "fecha": "2020-05-25T00:23:07.533Z"
   },
   {
     "id_usuario": 18,
     "usd_pagado": 49,
-    "creditos_recib": 58067,
-    "metodo": "absque",
-    "fecha": "2020-09-03T12:26:29.930Z"
-  },
-  {
-    "id_usuario": 24,
-    "usd_pagado": 166,
-    "creditos_recib": 2249884,
-    "metodo": "stips",
-    "fecha": "2023-10-01T18:20:57.250Z"
-  },
-  {
-    "id_usuario": 48,
-    "usd_pagado": 124,
-    "creditos_recib": 2705228,
-    "metodo": "stips",
-    "fecha": "2022-08-27T19:22:51.124Z"
-  },
-  {
-    "id_usuario": 24,
-    "usd_pagado": 120,
-    "creditos_recib": 3007302,
-    "metodo": "stips",
-    "fecha": "2022-11-27T05:22:15.566Z"
-  },
-  {
-    "id_usuario": 68,
-    "usd_pagado": 134,
-    "creditos_recib": 5845469,
-    "metodo": "varietas",
-    "fecha": "2023-04-03T17:25:53.343Z"
+    "creditos_recib": 6765229,
+    "metodo": "desparatus",
+    "fecha": "2024-11-20T05:32:57.158Z"
   },
   {
     "id_usuario": 39,
-    "usd_pagado": 23,
-    "creditos_recib": 1246210,
-    "metodo": "stips",
-    "fecha": "2023-07-01T09:23:18.917Z"
+    "usd_pagado": 192,
+    "creditos_recib": 3691502,
+    "metodo": "subnecto",
+    "fecha": "2023-08-24T09:08:04.596Z"
   },
   {
-    "id_usuario": 8,
-    "usd_pagado": 147,
-    "creditos_recib": 135327,
-    "metodo": "eos",
-    "fecha": "2021-05-06T05:49:33.260Z"
-  },
-  {
-    "id_usuario": 84,
-    "usd_pagado": 17,
-    "creditos_recib": 2145793,
-    "metodo": "eos",
-    "fecha": "2022-04-21T09:10:28.280Z"
-  },
-  {
-    "id_usuario": 100,
-    "usd_pagado": 177,
-    "creditos_recib": 6177004,
-    "metodo": "stips",
-    "fecha": "2022-05-22T23:25:20.104Z"
-  },
-  {
-    "id_usuario": 80,
-    "usd_pagado": 79,
-    "creditos_recib": 5264064,
-    "metodo": "stips",
-    "fecha": "2022-11-12T15:57:55.680Z"
+    "id_usuario": 53,
+    "usd_pagado": 85,
+    "creditos_recib": 6979508,
+    "metodo": "condico",
+    "fecha": "2024-09-23T16:36:21.958Z"
   },
   {
     "id_usuario": 51,
-    "usd_pagado": 130,
-    "creditos_recib": 6563008,
-    "metodo": "eos",
-    "fecha": "2024-02-15T23:11:02.191Z"
+    "usd_pagado": 111,
+    "creditos_recib": 5127172,
+    "metodo": "desparatus",
+    "fecha": "2020-11-24T06:43:53.714Z"
+  },
+  {
+    "id_usuario": 75,
+    "usd_pagado": 81,
+    "creditos_recib": 3204846,
+    "metodo": "arbor",
+    "fecha": "2022-11-06T00:11:25.805Z"
+  },
+  {
+    "id_usuario": 25,
+    "usd_pagado": 165,
+    "creditos_recib": 6324340,
+    "metodo": "ceno",
+    "fecha": "2020-05-08T05:03:41.800Z"
+  },
+  {
+    "id_usuario": 30,
+    "usd_pagado": 154,
+    "creditos_recib": 6467513,
+    "metodo": "desparatus",
+    "fecha": "2023-01-05T01:09:28.010Z"
+  },
+  {
+    "id_usuario": 90,
+    "usd_pagado": 23,
+    "creditos_recib": 5710584,
+    "metodo": "condico",
+    "fecha": "2021-09-15T07:20:50.895Z"
+  },
+  {
+    "id_usuario": 40,
+    "usd_pagado": 149,
+    "creditos_recib": 4574171,
+    "metodo": "condico",
+    "fecha": "2020-11-01T20:29:21.248Z"
+  },
+  {
+    "id_usuario": 93,
+    "usd_pagado": 49,
+    "creditos_recib": 3670517,
+    "metodo": "ceno",
+    "fecha": "2021-04-05T05:22:42.604Z"
+  },
+  {
+    "id_usuario": 54,
+    "usd_pagado": 186,
+    "creditos_recib": 349298,
+    "metodo": "condico",
+    "fecha": "2021-06-21T23:49:51.726Z"
+  },
+  {
+    "id_usuario": 64,
+    "usd_pagado": 73,
+    "creditos_recib": 6972372,
+    "metodo": "ceno",
+    "fecha": "2022-04-01T06:16:33.089Z"
+  },
+  {
+    "id_usuario": 63,
+    "usd_pagado": 15,
+    "creditos_recib": 2428476,
+    "metodo": "condico",
+    "fecha": "2022-07-18T22:27:12.450Z"
+  },
+  {
+    "id_usuario": 2,
+    "usd_pagado": 120,
+    "creditos_recib": 4390564,
+    "metodo": "condico",
+    "fecha": "2024-11-24T01:32:22.446Z"
+  },
+  {
+    "id_usuario": 78,
+    "usd_pagado": 195,
+    "creditos_recib": 3741434,
+    "metodo": "ceno",
+    "fecha": "2023-08-31T01:39:25.605Z"
+  },
+  {
+    "id_usuario": 36,
+    "usd_pagado": 103,
+    "creditos_recib": 809274,
+    "metodo": "ceno",
+    "fecha": "2023-10-26T14:59:11.398Z"
+  },
+  {
+    "id_usuario": 85,
+    "usd_pagado": 57,
+    "creditos_recib": 3344631,
+    "metodo": "subnecto",
+    "fecha": "2022-03-04T23:27:11.182Z"
+  },
+  {
+    "id_usuario": 49,
+    "usd_pagado": 184,
+    "creditos_recib": 3024959,
+    "metodo": "condico",
+    "fecha": "2024-04-21T02:37:29.605Z"
+  },
+  {
+    "id_usuario": 84,
+    "usd_pagado": 194,
+    "creditos_recib": 727416,
+    "metodo": "arbor",
+    "fecha": "2020-01-11T03:40:14.698Z"
+  },
+  {
+    "id_usuario": 42,
+    "usd_pagado": 102,
+    "creditos_recib": 2602202,
+    "metodo": "condico",
+    "fecha": "2020-10-16T16:42:36.820Z"
+  },
+  {
+    "id_usuario": 79,
+    "usd_pagado": 147,
+    "creditos_recib": 4362432,
+    "metodo": "subnecto",
+    "fecha": "2023-08-13T04:21:13.654Z"
+  },
+  {
+    "id_usuario": 42,
+    "usd_pagado": 51,
+    "creditos_recib": 6750158,
+    "metodo": "arbor",
+    "fecha": "2024-01-30T11:37:07.634Z"
+  },
+  {
+    "id_usuario": 66,
+    "usd_pagado": 150,
+    "creditos_recib": 3771292,
+    "metodo": "condico",
+    "fecha": "2023-09-04T20:05:33.854Z"
+  },
+  {
+    "id_usuario": 98,
+    "usd_pagado": 25,
+    "creditos_recib": 2772094,
+    "metodo": "desparatus",
+    "fecha": "2023-10-15T21:29:41.248Z"
+  },
+  {
+    "id_usuario": 34,
+    "usd_pagado": 143,
+    "creditos_recib": 2486888,
+    "metodo": "desparatus",
+    "fecha": "2024-08-26T11:38:03.040Z"
+  },
+  {
+    "id_usuario": 92,
+    "usd_pagado": 175,
+    "creditos_recib": 937630,
+    "metodo": "desparatus",
+    "fecha": "2024-02-17T20:12:03.113Z"
+  },
+  {
+    "id_usuario": 43,
+    "usd_pagado": 17,
+    "creditos_recib": 5192019,
+    "metodo": "subnecto",
+    "fecha": "2024-01-31T16:09:35.817Z"
   }
 ]

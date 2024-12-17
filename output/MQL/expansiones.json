@@ -1,152 +1,152 @@
 [
   {
-    "id_producto": 71,
-    "id_juego": 36,
-    "tipo": "OST"
-  },
-  {
-    "id_producto": 85,
-    "id_juego": 20,
-    "tipo": "OTRO"
-  },
-  {
-    "id_producto": 29,
-    "id_juego": 39,
-    "tipo": "COSMÉTICO"
-  },
-  {
-    "id_producto": 81,
-    "id_juego": 43,
-    "tipo": "OTRO"
-  },
-  {
-    "id_producto": 93,
-    "id_juego": 12,
-    "tipo": "DLC"
-  },
-  {
-    "id_producto": 79,
-    "id_juego": 38,
-    "tipo": "OTRO"
-  },
-  {
-    "id_producto": 94,
-    "id_juego": 8,
-    "tipo": "OST"
-  },
-  {
-    "id_producto": 74,
-    "id_juego": 17,
-    "tipo": "COSMÉTICO"
-  },
-  {
-    "id_producto": 50,
-    "id_juego": 17,
-    "tipo": "OTRO"
-  },
-  {
-    "id_producto": 84,
-    "id_juego": 35,
-    "tipo": "OST"
-  },
-  {
-    "id_producto": 47,
-    "id_juego": 18,
-    "tipo": "DLC"
-  },
-  {
-    "id_producto": 58,
-    "id_juego": 29,
-    "tipo": "DLC"
-  },
-  {
-    "id_producto": 87,
-    "id_juego": 3,
-    "tipo": "OST"
-  },
-  {
-    "id_producto": 70,
-    "id_juego": 22,
-    "tipo": "OST"
-  },
-  {
-    "id_producto": 69,
-    "id_juego": 20,
-    "tipo": "OST"
-  },
-  {
-    "id_producto": 82,
+    "id_producto": 25,
     "id_juego": 5,
     "tipo": "COSMÉTICO"
   },
   {
-    "id_producto": 97,
-    "id_juego": 47,
-    "tipo": "OTRO"
-  },
-  {
-    "id_producto": 40,
-    "id_juego": 25,
-    "tipo": "OST"
-  },
-  {
     "id_producto": 58,
-    "id_juego": 40,
-    "tipo": "OST"
-  },
-  {
-    "id_producto": 47,
-    "id_juego": 19,
-    "tipo": "COSMÉTICO"
-  },
-  {
-    "id_producto": 75,
-    "id_juego": 40,
-    "tipo": "OTRO"
-  },
-  {
-    "id_producto": 63,
-    "id_juego": 3,
-    "tipo": "COSMÉTICO"
-  },
-  {
-    "id_producto": 83,
-    "id_juego": 36,
-    "tipo": "OTRO"
-  },
-  {
-    "id_producto": 78,
-    "id_juego": 30,
+    "id_juego": 17,
     "tipo": "DLC"
   },
   {
-    "id_producto": 99,
-    "id_juego": 30,
+    "id_producto": 37,
+    "id_juego": 17,
+    "tipo": "COSMÉTICO"
+  },
+  {
+    "id_producto": 41,
+    "id_juego": 14,
     "tipo": "OTRO"
   },
   {
-    "id_producto": 47,
-    "id_juego": 44,
+    "id_producto": 25,
+    "id_juego": 49,
+    "tipo": "DLC"
+  },
+  {
+    "id_producto": 85,
+    "id_juego": 11,
+    "tipo": "COSMÉTICO"
+  },
+  {
+    "id_producto": 54,
+    "id_juego": 2,
     "tipo": "OTRO"
   },
   {
-    "id_producto": 80,
-    "id_juego": 40,
-    "tipo": "OTRO"
-  },
-  {
-    "id_producto": 47,
-    "id_juego": 48,
-    "tipo": "OTRO"
-  },
-  {
-    "id_producto": 27,
+    "id_producto": 45,
     "id_juego": 7,
     "tipo": "OTRO"
   },
   {
-    "id_producto": 77,
-    "id_juego": 32,
+    "id_producto": 16,
+    "id_juego": 42,
+    "tipo": "DLC"
+  },
+  {
+    "id_producto": 31,
+    "id_juego": 42,
     "tipo": "OTRO"
+  },
+  {
+    "id_producto": 43,
+    "id_juego": 1,
+    "tipo": "COSMÉTICO"
+  },
+  {
+    "id_producto": 39,
+    "id_juego": 25,
+    "tipo": "COSMÉTICO"
+  },
+  {
+    "id_producto": 79,
+    "id_juego": 9,
+    "tipo": "DLC"
+  },
+  {
+    "id_producto": 24,
+    "id_juego": 50,
+    "tipo": "DLC"
+  },
+  {
+    "id_producto": 20,
+    "id_juego": 15,
+    "tipo": "COSMÉTICO"
+  },
+  {
+    "id_producto": 18,
+    "id_juego": 29,
+    "tipo": "OTRO"
+  },
+  {
+    "id_producto": 8,
+    "id_juego": 29,
+    "tipo": "DLC"
+  },
+  {
+    "id_producto": 7,
+    "id_juego": 39,
+    "tipo": "OTRO"
+  },
+  {
+    "id_producto": 74,
+    "id_juego": 3,
+    "tipo": "COSMÉTICO"
+  },
+  {
+    "id_producto": 46,
+    "id_juego": 42,
+    "tipo": "OST"
+  },
+  {
+    "id_producto": 53,
+    "id_juego": 15,
+    "tipo": "COSMÉTICO"
+  },
+  {
+    "id_producto": 4,
+    "id_juego": 10,
+    "tipo": "OTRO"
+  },
+  {
+    "id_producto": 41,
+    "id_juego": 21,
+    "tipo": "COSMÉTICO"
+  },
+  {
+    "id_producto": 41,
+    "id_juego": 34,
+    "tipo": "COSMÉTICO"
+  },
+  {
+    "id_producto": 99,
+    "id_juego": 22,
+    "tipo": "DLC"
+  },
+  {
+    "id_producto": 96,
+    "id_juego": 36,
+    "tipo": "OST"
+  },
+  {
+    "id_producto": 17,
+    "id_juego": 44,
+    "tipo": "OTRO"
+  },
+  {
+    "id_producto": 15,
+    "id_juego": 39,
+    "tipo": "DLC"
+  },
+  {
+    "id_producto": 16,
+    "id_juego": 39,
+    "tipo": "COSMÉTICO"
+  },
+  {
+    "id_producto": 28,
+    "id_juego": 19,
+    "tipo": "COSMÉTICO"
   }
 ]
