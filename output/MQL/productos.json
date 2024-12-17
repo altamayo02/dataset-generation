@@ -1,602 +1,602 @@
 [
   {
-    "vendedor": "Low",
-    "nombre": "Austerlitz",
-    "valor": 10302,
-    "descuento": 11
-  },
-  {
-    "vendedor": "Harbour Lights",
-    "nombre": "Stories of Anton Chekhov",
-    "valor": 30143,
-    "descuento": 0
-  },
-  {
-    "vendedor": "Mercy Mercy Me (The Ecology)",
-    "nombre": "The Count of Monte Cristo",
-    "valor": 23115,
-    "descuento": 23
-  },
-  {
-    "vendedor": "Under the Boardwalk",
-    "nombre": "The Trial",
-    "valor": 39507,
-    "descuento": 35
-  },
-  {
-    "vendedor": "Don't Let the Sun Go Down On Me",
-    "nombre": "As I Lay Dying",
-    "valor": 9704,
-    "descuento": 28
-  },
-  {
-    "vendedor": "Shop Around",
-    "nombre": "Tess of the d'Urbervilles",
-    "valor": 3565,
-    "descuento": 28
-  },
-  {
-    "vendedor": "The Streak",
-    "nombre": "Nostromo",
-    "valor": 38764,
-    "descuento": 0
-  },
-  {
-    "vendedor": "The Rose",
-    "nombre": "The Plague",
-    "valor": 15472,
-    "descuento": 34
-  },
-  {
-    "vendedor": "Cat's in the Cradle",
-    "nombre": "All Quiet on the Western Front",
-    "valor": 21529,
-    "descuento": 3
-  },
-  {
-    "vendedor": "The Joker",
-    "nombre": "Brave New World",
-    "valor": 29794,
-    "descuento": 35
-  },
-  {
-    "vendedor": "Uncle Albert (Admiral Halsey)",
-    "nombre": "Portnoy's Complaint",
-    "valor": 16294,
-    "descuento": 11
-  },
-  {
-    "vendedor": "St George & the Dragonette",
-    "nombre": "The Diary of a Nobody",
-    "valor": 19757,
-    "descuento": 12
-  },
-  {
-    "vendedor": "California Girls",
-    "nombre": "Neuromancer",
-    "valor": 8647,
-    "descuento": 36
-  },
-  {
-    "vendedor": "My Girl",
-    "nombre": "Emma",
-    "valor": 25562,
-    "descuento": 26
-  },
-  {
-    "vendedor": "Crying",
-    "nombre": "David Copperfield",
-    "valor": 5685,
-    "descuento": 9
-  },
-  {
-    "vendedor": "Knock On Wood",
-    "nombre": "Gone with the Wind",
-    "valor": 31870,
-    "descuento": 9
-  },
-  {
-    "vendedor": "Love In This Club",
-    "nombre": "The Master and Margarita",
-    "valor": 24140,
-    "descuento": 1
-  },
-  {
-    "vendedor": "Ruby Tuesday",
-    "nombre": "Nightmare Abbey",
-    "valor": 31593,
-    "descuento": 33
-  },
-  {
-    "vendedor": "Billie Jean",
-    "nombre": "For Whom the Bell Tolls",
-    "valor": 33263,
-    "descuento": 19
-  },
-  {
-    "vendedor": "(I Can't Get No) Satisfaction",
-    "nombre": "Romeo and Juliet",
-    "valor": 15047,
-    "descuento": 3
-  },
-  {
-    "vendedor": "I'm Sorry",
-    "nombre": "The Aeneid",
-    "valor": 14088,
-    "descuento": 33
-  },
-  {
-    "vendedor": "Dreams",
-    "nombre": "Beyond Good and Evil",
-    "valor": 13263,
-    "descuento": 21
-  },
-  {
-    "vendedor": "A Thousand Miles",
-    "nombre": "The Alchemist",
-    "valor": 6509,
-    "descuento": 6
-  },
-  {
-    "vendedor": "(It's No) Sin",
-    "nombre": "A Clockwork Orange",
-    "valor": 11670,
-    "descuento": 0
-  },
-  {
-    "vendedor": "The Thing",
-    "nombre": "Pride and Prejudice",
-    "valor": 21984,
-    "descuento": 15
-  },
-  {
-    "vendedor": "Ac-cent-tchu-ate the Positive",
-    "nombre": "Anna Karenina",
-    "valor": 5935,
-    "descuento": 1
-  },
-  {
-    "vendedor": "Hang On Sloopy",
-    "nombre": "The Moviegoer",
-    "valor": 5767,
-    "descuento": 10
-  },
-  {
-    "vendedor": "Please Mr Postman",
-    "nombre": "The Blue Castle",
-    "valor": 34168,
-    "descuento": 18
-  },
-  {
-    "vendedor": "Gonna Make You Sweat (Everybody Dance Now)",
-    "nombre": "The Golden Bowl",
-    "valor": 36650,
-    "descuento": 13
-  },
-  {
-    "vendedor": "It's All in the Game",
-    "nombre": "Don Quixote",
-    "valor": 13920,
-    "descuento": 39
-  },
-  {
-    "vendedor": "Freebird",
-    "nombre": "Lucky Jim",
-    "valor": 33432,
-    "descuento": 17
-  },
-  {
-    "vendedor": "Do Wah Diddy Diddy",
-    "nombre": "Heart of Darkness",
-    "valor": 29244,
-    "descuento": 11
-  },
-  {
-    "vendedor": "Let Me Love You",
-    "nombre": "The Master and Margarita",
-    "valor": 13690,
-    "descuento": 22
-  },
-  {
-    "vendedor": "Iris",
-    "nombre": "The Good Soldier",
-    "valor": 2300,
-    "descuento": 23
-  },
-  {
-    "vendedor": "Tequila",
-    "nombre": "Life of Pi",
-    "valor": 28561,
-    "descuento": 10
-  },
-  {
-    "vendedor": "Stardust",
-    "nombre": "A Bend in the River",
-    "valor": 31064,
-    "descuento": 5
-  },
-  {
-    "vendedor": "Stayin' Alive",
-    "nombre": "Animal Farm",
-    "valor": 20635,
-    "descuento": 27
-  },
-  {
-    "vendedor": "I Can Dream",
-    "nombre": "The Heart of the Matter",
-    "valor": 14596,
-    "descuento": 35
-  },
-  {
-    "vendedor": "Jack & Diane",
-    "nombre": "The Sound and the Fury",
-    "valor": 29968,
-    "descuento": 25
-  },
-  {
-    "vendedor": "Till I Waltz Again With You",
-    "nombre": "A Doll's House",
-    "valor": 1241,
-    "descuento": 18
-  },
-  {
-    "vendedor": "Do Ya Think I'm Sexy?",
-    "nombre": "The Big Sleep",
-    "valor": 18962,
-    "descuento": 24
-  },
-  {
-    "vendedor": "Stay (I Missed You)",
-    "nombre": "The Kite Runner",
-    "valor": 9113,
-    "descuento": 16
-  },
-  {
-    "vendedor": "Disco Lady",
-    "nombre": "The Master and Margarita",
-    "valor": 38100,
-    "descuento": 34
-  },
-  {
-    "vendedor": "Breaking Up is Hard to Do",
-    "nombre": "Are You There God? It's Me, Margaret",
-    "valor": 35691,
-    "descuento": 26
-  },
-  {
-    "vendedor": "Save the Best For Last",
-    "nombre": "Go Tell It on the Mountain",
-    "valor": 16636,
-    "descuento": 10
-  },
-  {
-    "vendedor": "Ray of Light",
-    "nombre": "Lucky Jim",
-    "valor": 37847,
-    "descuento": 40
-  },
-  {
-    "vendedor": "Bye Bye",
-    "nombre": "The Pickwick Papers",
-    "valor": 29398,
-    "descuento": 20
-  },
-  {
-    "vendedor": "Red Red Wine",
-    "nombre": "American Pastoral",
-    "valor": 550,
-    "descuento": 23
-  },
-  {
-    "vendedor": "People Got to Be Free",
-    "nombre": "Freakonomics",
-    "valor": 11654,
-    "descuento": 33
-  },
-  {
-    "vendedor": "Ain't No Mountain High Enough",
-    "nombre": "Of Mice and Men",
-    "valor": 32414,
-    "descuento": 4
-  },
-  {
-    "vendedor": "The Christmas Song (Chestnuts Roasting On An Open Fire)",
-    "nombre": "The Kite Runner",
-    "valor": 36417,
-    "descuento": 35
-  },
-  {
-    "vendedor": "My Sharona",
-    "nombre": "Meditations",
-    "valor": 14273,
-    "descuento": 16
-  },
-  {
-    "vendedor": "Eight Days a Week",
-    "nombre": "Gulliver's Travels",
-    "valor": 27369,
-    "descuento": 15
-  },
-  {
-    "vendedor": "We Are Family",
-    "nombre": "The Ambassadors",
-    "valor": 12561,
-    "descuento": 23
-  },
-  {
-    "vendedor": "Thriller",
-    "nombre": "The Remains of the Day",
-    "valor": 30605,
-    "descuento": 3
-  },
-  {
-    "vendedor": "I Wanna Love You",
-    "nombre": "Ruth Fielding in Alaska",
-    "valor": 11073,
-    "descuento": 3
-  },
-  {
-    "vendedor": "Memories Are Made of This",
-    "nombre": "The Little Prince",
-    "valor": 3814,
-    "descuento": 30
-  },
-  {
-    "vendedor": "The Glow-Worm",
-    "nombre": "Things Fall Apart",
-    "valor": 16978,
-    "descuento": 26
-  },
-  {
-    "vendedor": "War",
-    "nombre": "The Iliad",
-    "valor": 21663,
-    "descuento": 6
-  },
-  {
-    "vendedor": "My Guy",
-    "nombre": "Atlas Shrugged",
-    "valor": 36112,
-    "descuento": 13
-  },
-  {
-    "vendedor": "One of Us",
-    "nombre": "The Black Sheep",
-    "valor": 18296,
-    "descuento": 34
-  },
-  {
-    "vendedor": "At the Hop",
-    "nombre": "The Way We Live Now",
-    "valor": 28530,
-    "descuento": 18
-  },
-  {
-    "vendedor": "(I've Got a Gal In) Kalamazoo",
-    "nombre": "The Art of War",
-    "valor": 21635,
-    "descuento": 20
-  },
-  {
-    "vendedor": "50 Ways to Leave Your Lover",
-    "nombre": "Bible",
-    "valor": 31493,
-    "descuento": 11
-  },
-  {
-    "vendedor": "Go Your Own Way",
-    "nombre": "The Woman in White",
-    "valor": 20275,
-    "descuento": 22
-  },
-  {
-    "vendedor": "Superstar",
-    "nombre": "The Golden Bowl",
-    "valor": 11177,
-    "descuento": 40
-  },
-  {
-    "vendedor": "Bye Bye Love",
-    "nombre": "Harry Potter and the Sorcerer's Stone",
-    "valor": 38818,
-    "descuento": 40
-  },
-  {
-    "vendedor": "Whispering",
-    "nombre": "Tinker, Tailor, Soldier, Spy",
-    "valor": 33853,
-    "descuento": 19
-  },
-  {
-    "vendedor": "Do That to Me One More Time",
-    "nombre": "Long Walk to Freedom",
-    "valor": 9441,
-    "descuento": 7
-  },
-  {
-    "vendedor": "Roses Are Red",
-    "nombre": "Hitting the line",
-    "valor": 20615,
-    "descuento": 12
-  },
-  {
-    "vendedor": "Turn! Turn! Turn! (To Everything There is a Season)",
-    "nombre": "Freakonomics",
-    "valor": 35584,
-    "descuento": 19
-  },
-  {
-    "vendedor": "School's Out",
-    "nombre": "The Scarlet Letter",
-    "valor": 8555,
-    "descuento": 25
-  },
-  {
-    "vendedor": "Heart of Gold",
-    "nombre": "The Wind in the Willows",
-    "valor": 8158,
-    "descuento": 36
-  },
-  {
-    "vendedor": "Tighten Up",
-    "nombre": "Long Walk to Freedom",
-    "valor": 24854,
-    "descuento": 26
-  },
-  {
-    "vendedor": "Stagger Lee",
-    "nombre": "On the Road",
-    "valor": 28380,
-    "descuento": 29
-  },
-  {
-    "vendedor": "It's All in the Game",
-    "nombre": "Tropic of Cancer",
-    "valor": 3932,
-    "descuento": 22
-  },
-  {
-    "vendedor": "Till The End of Time",
-    "nombre": "Uncle Tom's Cabin",
-    "valor": 72,
-    "descuento": 9
-  },
-  {
-    "vendedor": "(Ghost) Riders in the Sky",
-    "nombre": "His Dark Materials",
-    "valor": 37321,
-    "descuento": 30
-  },
-  {
-    "vendedor": "The Power of Love",
-    "nombre": "Atonement",
-    "valor": 20420,
-    "descuento": 15
-  },
-  {
-    "vendedor": "You Ain't Seen Nothin' Yet",
-    "nombre": "Romeo and Juliet",
-    "valor": 24339,
-    "descuento": 5
-  },
-  {
-    "vendedor": "Walk On the Wild Side",
-    "nombre": "Anna Karenina",
-    "valor": 11158,
-    "descuento": 35
-  },
-  {
-    "vendedor": "Call Me",
-    "nombre": "Nineteen Eighty Four",
-    "valor": 36697,
-    "descuento": 9
-  },
-  {
-    "vendedor": "Jailhouse Rock",
-    "nombre": "Money",
-    "valor": 5789,
-    "descuento": 32
-  },
-  {
-    "vendedor": "Whispering",
-    "nombre": "The Diary of a Nobody",
-    "valor": 13775,
-    "descuento": 1
-  },
-  {
-    "vendedor": "Stairway to Heaven",
-    "nombre": "The Heart is a Lonely Hunter",
-    "valor": 4640,
-    "descuento": 6
-  },
-  {
-    "vendedor": "(Sexual) Healing",
-    "nombre": "The Pickwick Papers",
-    "valor": 254,
-    "descuento": 9
-  },
-  {
-    "vendedor": "I'm Your Boogie Man",
-    "nombre": "Rabbit, Run",
-    "valor": 9839,
-    "descuento": 21
-  },
-  {
-    "vendedor": "Rudolph",
-    "nombre": "The Brothers Karamazov",
-    "valor": 21484,
-    "descuento": 23
-  },
-  {
-    "vendedor": "Love Hangover",
-    "nombre": "Ulysses",
-    "valor": 3940,
-    "descuento": 3
-  },
-  {
-    "vendedor": "Little Things Mean a Lot",
-    "nombre": "Madame Bovary",
-    "valor": 15727,
-    "descuento": 34
-  },
-  {
-    "vendedor": "This Ole House",
-    "nombre": "Hamlet",
-    "valor": 3954,
-    "descuento": 3
-  },
-  {
-    "vendedor": "50 Ways to Leave Your Lover",
-    "nombre": "The Aeneid",
-    "valor": 2806,
-    "descuento": 19
-  },
-  {
-    "vendedor": "Play That Funky Music",
-    "nombre": "Dora",
-    "valor": 20706,
-    "descuento": 36
-  },
-  {
-    "vendedor": "Wild Wild West",
-    "nombre": "A Passage to India",
-    "valor": 31411,
-    "descuento": 15
-  },
-  {
-    "vendedor": "Bad Romance",
-    "nombre": "The Color Purple",
-    "valor": 6983,
-    "descuento": 27
-  },
-  {
-    "vendedor": "Wipe Out",
-    "nombre": "The Rainbow",
-    "valor": 8661,
-    "descuento": 17
-  },
-  {
-    "vendedor": "12th Street Rag",
-    "nombre": "1984",
-    "valor": 34361,
-    "descuento": 40
-  },
-  {
-    "vendedor": "I Heard it Through the Grapevine",
-    "nombre": "My Life",
-    "valor": 35317,
-    "descuento": 0
-  },
-  {
-    "vendedor": "Thank You (Falettinme be Mice Elf Again)",
-    "nombre": "A Portrait of the Artist as a Young Man",
-    "valor": 16353,
+    "vendedor": "If I Didn't Care",
+    "nombre": "The Sleepwalkers",
+    "valor": 18574,
+    "descuento": 2
+  },
+  {
+    "vendedor": "Against All Odds (Take a Look At Me Now)",
+    "nombre": "Oliver Twist",
+    "valor": 7845,
     "descuento": 31
   },
   {
-    "vendedor": "Red Red Wine",
-    "nombre": "One Thousand and One Nights",
-    "valor": 19588,
+    "vendedor": "Under the Bridge",
+    "nombre": "Lucky Jim",
+    "valor": 26485,
     "descuento": 23
+  },
+  {
+    "vendedor": "Peggy Sue",
+    "nombre": "The Big Sleep",
+    "valor": 12176,
+    "descuento": 0
+  },
+  {
+    "vendedor": "She Loves You",
+    "nombre": "Meditations",
+    "valor": 2879,
+    "descuento": 33
+  },
+  {
+    "vendedor": "One of These Nights",
+    "nombre": "Grimms' Fairy Tales",
+    "valor": 10748,
+    "descuento": 7
+  },
+  {
+    "vendedor": "In the End",
+    "nombre": "One Hundred Years of Solitude",
+    "valor": 16752,
+    "descuento": 38
+  },
+  {
+    "vendedor": "Don't Go Breaking My Heart",
+    "nombre": "If on a Winter's Night a Traveler",
+    "valor": 4523,
+    "descuento": 0
+  },
+  {
+    "vendedor": "What a Fool Believes",
+    "nombre": "Republic",
+    "valor": 23321,
+    "descuento": 35
+  },
+  {
+    "vendedor": "I Got You Babe",
+    "nombre": "Charlie and the Chocolate Factory",
+    "valor": 33105,
+    "descuento": 4
+  },
+  {
+    "vendedor": "The Hustle",
+    "nombre": "Tinker, Tailor, Soldier, Spy",
+    "valor": 36231,
+    "descuento": 27
+  },
+  {
+    "vendedor": "The Power of Love",
+    "nombre": "The Stranger",
+    "valor": 15903,
+    "descuento": 12
+  },
+  {
+    "vendedor": "Say It Right",
+    "nombre": "Bible",
+    "valor": 19636,
+    "descuento": 12
+  },
+  {
+    "vendedor": "Don't You Want Me",
+    "nombre": "Deliverance",
+    "valor": 13405,
+    "descuento": 7
+  },
+  {
+    "vendedor": "(They Long to Be) Close to You",
+    "nombre": "The Adventures of Tom Sawyer",
+    "valor": 22816,
+    "descuento": 27
+  },
+  {
+    "vendedor": "Wooly Bully",
+    "nombre": "Slaughterhouse Five",
+    "valor": 2337,
+    "descuento": 33
+  },
+  {
+    "vendedor": "Runaway",
+    "nombre": "Go Tell It on the Mountain",
+    "valor": 11658,
+    "descuento": 23
+  },
+  {
+    "vendedor": "Twist & Shout",
+    "nombre": "The Wonderful Wizard of Oz",
+    "valor": 33874,
+    "descuento": 21
+  },
+  {
+    "vendedor": "December 1963 (Oh What a Night)",
+    "nombre": "The Tin Drum",
+    "valor": 9851,
+    "descuento": 38
+  },
+  {
+    "vendedor": "Slow Poke",
+    "nombre": "The Picture of Dorian Gray",
+    "valor": 12823,
+    "descuento": 7
+  },
+  {
+    "vendedor": "Papa Don't Preach",
+    "nombre": "The Problems of Philosophy",
+    "valor": 33880,
+    "descuento": 1
+  },
+  {
+    "vendedor": "Beat It",
+    "nombre": "Ulysses",
+    "valor": 16946,
+    "descuento": 34
+  },
+  {
+    "vendedor": "Georgia On My Mind",
+    "nombre": "The Little Prince",
+    "valor": 7974,
+    "descuento": 17
+  },
+  {
+    "vendedor": "Thriller",
+    "nombre": "The Little Prince",
+    "valor": 38079,
+    "descuento": 19
+  },
+  {
+    "vendedor": "Stop! in the Name of Love",
+    "nombre": "Animal Farm",
+    "valor": 31679,
+    "descuento": 34
+  },
+  {
+    "vendedor": "Where Did Our Love Go",
+    "nombre": "Oscar and Lucinda",
+    "valor": 1417,
+    "descuento": 1
+  },
+  {
+    "vendedor": "Goodnight",
+    "nombre": "Dao De Jing: A Minimalist Translation",
+    "valor": 33806,
+    "descuento": 8
+  },
+  {
+    "vendedor": "The Power of Love",
+    "nombre": "The Odyssey",
+    "valor": 24075,
+    "descuento": 21
+  },
+  {
+    "vendedor": "Rock With You",
+    "nombre": "The Grapes of Wrath",
+    "valor": 37186,
+    "descuento": 39
+  },
+  {
+    "vendedor": "Peg o' My Heart",
+    "nombre": "An American Tragedy",
+    "valor": 22834,
+    "descuento": 18
+  },
+  {
+    "vendedor": "You'll Never Know",
+    "nombre": "The Heart of the Matter",
+    "valor": 31963,
+    "descuento": 25
+  },
+  {
+    "vendedor": "I Want to Know What Love Is",
+    "nombre": "Great Expectations",
+    "valor": 4530,
+    "descuento": 14
+  },
+  {
+    "vendedor": "He'll Have to Go",
+    "nombre": "The Moviegoer",
+    "valor": 39188,
+    "descuento": 35
+  },
+  {
+    "vendedor": "Suspicious Minds",
+    "nombre": "U.S.A. Trilogy",
+    "valor": 39792,
+    "descuento": 31
+  },
+  {
+    "vendedor": "The Streak",
+    "nombre": "The Old Man and the Sea",
+    "valor": 21119,
+    "descuento": 34
+  },
+  {
+    "vendedor": "Another One Bites the Dust",
+    "nombre": "Middlemarch",
+    "valor": 27622,
+    "descuento": 10
+  },
+  {
+    "vendedor": "Ballerina",
+    "nombre": "Winnie-the-Pooh",
+    "valor": 17326,
+    "descuento": 25
+  },
+  {
+    "vendedor": "Colors of the Wind",
+    "nombre": "20,000 Leagues Under the Sea",
+    "valor": 30453,
+    "descuento": 19
+  },
+  {
+    "vendedor": "(Put Another Nickel In) Music! Music! Music!",
+    "nombre": "The Plague",
+    "valor": 20476,
+    "descuento": 35
+  },
+  {
+    "vendedor": "A Woman in Love",
+    "nombre": "Native Son",
+    "valor": 18317,
+    "descuento": 16
+  },
+  {
+    "vendedor": "At Last",
+    "nombre": "Stories of Anton Chekhov",
+    "valor": 1246,
+    "descuento": 20
+  },
+  {
+    "vendedor": "(You're My) Soul & Inspiration",
+    "nombre": "Dracula",
+    "valor": 12639,
+    "descuento": 38
+  },
+  {
+    "vendedor": "Total Eclipse of the Heart",
+    "nombre": "Heart of Darkness",
+    "valor": 10379,
+    "descuento": 2
+  },
+  {
+    "vendedor": "Are You Lonesome Tonight?",
+    "nombre": "Housekeeping",
+    "valor": 17940,
+    "descuento": 33
+  },
+  {
+    "vendedor": "Papa Was a Rolling Stone",
+    "nombre": "Money",
+    "valor": 9637,
+    "descuento": 11
+  },
+  {
+    "vendedor": "It's All in the Game",
+    "nombre": "Winnie-the-Pooh",
+    "valor": 33490,
+    "descuento": 6
+  },
+  {
+    "vendedor": "Love Will Keep Us Together",
+    "nombre": "Great Expectations",
+    "valor": 35166,
+    "descuento": 36
+  },
+  {
+    "vendedor": "Nights in White Satin",
+    "nombre": "Slaughterhouse Five",
+    "valor": 6572,
+    "descuento": 38
+  },
+  {
+    "vendedor": "Ballad of the Green Berets",
+    "nombre": "The Yellow Wallpaper",
+    "valor": 15901,
+    "descuento": 11
+  },
+  {
+    "vendedor": "I Can Dream",
+    "nombre": "Vanity Fair",
+    "valor": 964,
+    "descuento": 38
+  },
+  {
+    "vendedor": "Horse With No Name",
+    "nombre": "The King in Yellow",
+    "valor": 24792,
+    "descuento": 11
+  },
+  {
+    "vendedor": "A Whole New World (Aladdin's Theme)",
+    "nombre": "Alice's Adventures in Wonderland",
+    "valor": 11501,
+    "descuento": 39
+  },
+  {
+    "vendedor": "Kokomo",
+    "nombre": "David Copperfield",
+    "valor": 6886,
+    "descuento": 17
+  },
+  {
+    "vendedor": "Lose Yourself",
+    "nombre": "The Wonderful Wizard of Oz",
+    "valor": 39245,
+    "descuento": 23
+  },
+  {
+    "vendedor": "When You Wish Upon a Star",
+    "nombre": "The War of the Worlds",
+    "valor": 2900,
+    "descuento": 15
+  },
+  {
+    "vendedor": "Rich Girl",
+    "nombre": "The King in Yellow",
+    "valor": 12332,
+    "descuento": 30
+  },
+  {
+    "vendedor": "Besame Mucho",
+    "nombre": "The Big Sleep",
+    "valor": 30254,
+    "descuento": 5
+  },
+  {
+    "vendedor": "Me & Bobby McGee",
+    "nombre": "Hitting the line",
+    "valor": 39299,
+    "descuento": 3
+  },
+  {
+    "vendedor": "Hotel California",
+    "nombre": "Metamorphosis",
+    "valor": 36083,
+    "descuento": 26
+  },
+  {
+    "vendedor": "Time of the Season",
+    "nombre": "Brideshead Revisited",
+    "valor": 33352,
+    "descuento": 0
+  },
+  {
+    "vendedor": "Hound Dog",
+    "nombre": "Little Women",
+    "valor": 18261,
+    "descuento": 4
+  },
+  {
+    "vendedor": "(Everything I Do) I Do it For You",
+    "nombre": "The Corrections",
+    "valor": 18204,
+    "descuento": 34
+  },
+  {
+    "vendedor": "Bridge Over Troubled Water",
+    "nombre": "Bible",
+    "valor": 1090,
+    "descuento": 7
+  },
+  {
+    "vendedor": "Love Letters in the Sand",
+    "nombre": "A Portrait of the Artist as a Young Man",
+    "valor": 21385,
+    "descuento": 17
+  },
+  {
+    "vendedor": "Will You Love Me Tomorrow",
+    "nombre": "The Problems of Philosophy",
+    "valor": 14569,
+    "descuento": 23
+  },
+  {
+    "vendedor": "You've Lost That Lovin' Feelin'",
+    "nombre": "Vanity Fair",
+    "valor": 10040,
+    "descuento": 16
+  },
+  {
+    "vendedor": "Against All Odds (Take a Look At Me Now)",
+    "nombre": "One Hundred Years of Solitude",
+    "valor": 14955,
+    "descuento": 33
+  },
+  {
+    "vendedor": "Papa's Got a Brand New Bag",
+    "nombre": "Winnie-the-Pooh",
+    "valor": 38347,
+    "descuento": 19
+  },
+  {
+    "vendedor": "A Tree in the Meadow",
+    "nombre": "One Flew Over the Cuckoo's Nest",
+    "valor": 12698,
+    "descuento": 27
+  },
+  {
+    "vendedor": "Baby Come Back",
+    "nombre": "Second Treatise of Government",
+    "valor": 15191,
+    "descuento": 10
+  },
+  {
+    "vendedor": "Abracadabra",
+    "nombre": "A Confederacy of Dunces",
+    "valor": 2785,
+    "descuento": 29
+  },
+  {
+    "vendedor": "The Way We Were",
+    "nombre": "A Portrait of the Artist as a Young Man",
+    "valor": 25330,
+    "descuento": 32
+  },
+  {
+    "vendedor": "Wishing Well",
+    "nombre": "Brideshead Revisited",
+    "valor": 10382,
+    "descuento": 35
+  },
+  {
+    "vendedor": "Behind Closed Doors",
+    "nombre": "On the Duty of Civil Disobedience",
+    "valor": 18188,
+    "descuento": 15
+  },
+  {
+    "vendedor": "Superstar",
+    "nombre": "The Way We Live Now",
+    "valor": 14759,
+    "descuento": 6
+  },
+  {
+    "vendedor": "9 to 5",
+    "nombre": "Dr. Zhivago",
+    "valor": 18885,
+    "descuento": 37
+  },
+  {
+    "vendedor": "Walk Don't Run",
+    "nombre": "The Trial",
+    "valor": 21183,
+    "descuento": 15
+  },
+  {
+    "vendedor": "Afternoon Delight",
+    "nombre": "The Day of the Locust",
+    "valor": 19658,
+    "descuento": 11
+  },
+  {
+    "vendedor": "Too Young",
+    "nombre": "Uncle Tom's Cabin",
+    "valor": 32274,
+    "descuento": 23
+  },
+  {
+    "vendedor": "Gonna Make You Sweat (Everybody Dance Now)",
+    "nombre": "The Art of War",
+    "valor": 35489,
+    "descuento": 27
+  },
+  {
+    "vendedor": "Right Back Where We Started From",
+    "nombre": "The Handmaid's Tale",
+    "valor": 31690,
+    "descuento": 10
+  },
+  {
+    "vendedor": "Rag Mop",
+    "nombre": "Adventures of Huckleberry Finn",
+    "valor": 8025,
+    "descuento": 10
+  },
+  {
+    "vendedor": "Abracadabra",
+    "nombre": "Blood Meridian",
+    "valor": 25109,
+    "descuento": 13
+  },
+  {
+    "vendedor": "Chattanooga Choo Choo",
+    "nombre": "The Remains of the Day",
+    "valor": 30184,
+    "descuento": 16
+  },
+  {
+    "vendedor": "Oh My Papa (O Mein Papa)",
+    "nombre": "In Search of Lost Time",
+    "valor": 34684,
+    "descuento": 20
+  },
+  {
+    "vendedor": "Karma Chameleon",
+    "nombre": "Lolita",
+    "valor": 20539,
+    "descuento": 33
+  },
+  {
+    "vendedor": "What'd I Say",
+    "nombre": "Herzog",
+    "valor": 13014,
+    "descuento": 14
+  },
+  {
+    "vendedor": "Just Dance",
+    "nombre": "Beyond Good and Evil",
+    "valor": 32179,
+    "descuento": 33
+  },
+  {
+    "vendedor": "Sunday",
+    "nombre": "The Sleepwalkers",
+    "valor": 18766,
+    "descuento": 16
+  },
+  {
+    "vendedor": "Fast Car",
+    "nombre": "The Count of Monte Cristo",
+    "valor": 21783,
+    "descuento": 7
+  },
+  {
+    "vendedor": "Everybody Loves Somebody",
+    "nombre": "The Republic",
+    "valor": 16291,
+    "descuento": 4
+  },
+  {
+    "vendedor": "Paper Planes",
+    "nombre": "Cranford",
+    "valor": 25951,
+    "descuento": 20
+  },
+  {
+    "vendedor": "Another Day in Paradise",
+    "nombre": "The Golden Bowl",
+    "valor": 4675,
+    "descuento": 19
+  },
+  {
+    "vendedor": "Respect",
+    "nombre": "The Canterbury Tales",
+    "valor": 23041,
+    "descuento": 5
+  },
+  {
+    "vendedor": "Un-Break My Heart",
+    "nombre": "The Adventures of Tom Sawyer",
+    "valor": 6686,
+    "descuento": 14
+  },
+  {
+    "vendedor": "Gonna Make You Sweat (Everybody Dance Now)",
+    "nombre": "Alice's Adventures in Wonderland",
+    "valor": 10010,
+    "descuento": 39
+  },
+  {
+    "vendedor": "One of Us",
+    "nombre": "The Wind in the Willows",
+    "valor": 14099,
+    "descuento": 26
+  },
+  {
+    "vendedor": "Yakety Yak",
+    "nombre": "Pale Fire",
+    "valor": 38882,
+    "descuento": 18
+  },
+  {
+    "vendedor": "Cherry Pink & Apple Blossom White",
+    "nombre": "Charlie and the Chocolate Factory",
+    "valor": 12247,
+    "descuento": 28
+  },
+  {
+    "vendedor": "Livin' La Vida Loca",
+    "nombre": "Lord of the Flies",
+    "valor": 32615,
+    "descuento": 11
   }
 ]

@@ -1,3002 +1,3002 @@
 [
   {
-    "id_usr_emisor": 13,
-    "id_usr_receptor": 28,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-04-14T08:28:37.816Z"
-  },
-  {
-    "id_usr_emisor": 57,
-    "id_usr_receptor": 87,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-06-09T00:40:19.470Z"
-  },
-  {
-    "id_usr_emisor": 22,
-    "id_usr_receptor": 4,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-01-03T10:52:56.127Z"
-  },
-  {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 51,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-12-23T11:42:52.313Z"
-  },
-  {
-    "id_usr_emisor": 88,
-    "id_usr_receptor": 89,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-06-18T23:41:51.680Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 55,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-09-02T17:54:42.127Z"
-  },
-  {
-    "id_usr_emisor": 80,
-    "id_usr_receptor": 61,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-01-22T18:29:36.581Z"
-  },
-  {
-    "id_usr_emisor": 77,
-    "id_usr_receptor": 33,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-10-12T14:34:33.336Z"
-  },
-  {
-    "id_usr_emisor": 97,
-    "id_usr_receptor": 51,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-06-16T01:39:53.666Z"
-  },
-  {
     "id_usr_emisor": 79,
-    "id_usr_receptor": 31,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-02-15T20:49:19.473Z"
-  },
-  {
-    "id_usr_emisor": 81,
-    "id_usr_receptor": 71,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-10-16T20:16:59.247Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 58,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-02-17T05:33:30.745Z"
-  },
-  {
-    "id_usr_emisor": 33,
-    "id_usr_receptor": 85,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-06-19T21:31:26.904Z"
-  },
-  {
-    "id_usr_emisor": 20,
-    "id_usr_receptor": 39,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-05-29T04:54:13.113Z"
-  },
-  {
-    "id_usr_emisor": 85,
-    "id_usr_receptor": 99,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-03-20T08:38:24.703Z"
-  },
-  {
-    "id_usr_emisor": 7,
-    "id_usr_receptor": 21,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-04-07T16:00:14.349Z"
-  },
-  {
-    "id_usr_emisor": 13,
-    "id_usr_receptor": 74,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-06-11T02:32:04.637Z"
-  },
-  {
-    "id_usr_emisor": 87,
-    "id_usr_receptor": 33,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-07-24T11:41:03.764Z"
-  },
-  {
-    "id_usr_emisor": 8,
-    "id_usr_receptor": 53,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-01-28T06:45:00.463Z"
-  },
-  {
-    "id_usr_emisor": 46,
-    "id_usr_receptor": 69,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-07-10T00:22:27.078Z"
-  },
-  {
-    "id_usr_emisor": 49,
-    "id_usr_receptor": 14,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-01-29T10:10:09.424Z"
-  },
-  {
-    "id_usr_emisor": 82,
-    "id_usr_receptor": 26,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-11-11T18:06:58.022Z"
-  },
-  {
-    "id_usr_emisor": 8,
-    "id_usr_receptor": 25,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-07-21T22:13:32.759Z"
-  },
-  {
-    "id_usr_emisor": 73,
     "id_usr_receptor": 13,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-07-20T23:49:41.057Z"
-  },
-  {
-    "id_usr_emisor": 82,
-    "id_usr_receptor": 6,
     "tipo": "ACEPTADA",
-    "fecha": "2024-06-09T09:59:12.727Z"
-  },
-  {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 80,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-04-11T14:31:06.534Z"
-  },
-  {
-    "id_usr_emisor": 64,
-    "id_usr_receptor": 11,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-10-18T08:36:40.843Z"
-  },
-  {
-    "id_usr_emisor": 14,
-    "id_usr_receptor": 79,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-10-15T12:13:30.743Z"
-  },
-  {
-    "id_usr_emisor": 29,
-    "id_usr_receptor": 79,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-06-05T00:08:22.560Z"
-  },
-  {
-    "id_usr_emisor": 56,
-    "id_usr_receptor": 34,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-03-31T18:43:18.790Z"
-  },
-  {
-    "id_usr_emisor": 26,
-    "id_usr_receptor": 11,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-07-24T03:02:46.249Z"
-  },
-  {
-    "id_usr_emisor": 53,
-    "id_usr_receptor": 8,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-01-13T16:58:14.148Z"
-  },
-  {
-    "id_usr_emisor": 69,
-    "id_usr_receptor": 27,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-10-09T08:07:36.305Z"
-  },
-  {
-    "id_usr_emisor": 5,
-    "id_usr_receptor": 70,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-07-26T04:33:03.792Z"
-  },
-  {
-    "id_usr_emisor": 95,
-    "id_usr_receptor": 72,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-09-05T17:30:09.058Z"
-  },
-  {
-    "id_usr_emisor": 4,
-    "id_usr_receptor": 57,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-02-02T10:27:20.547Z"
-  },
-  {
-    "id_usr_emisor": 100,
-    "id_usr_receptor": 71,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-10-23T23:31:16.081Z"
-  },
-  {
-    "id_usr_emisor": 2,
-    "id_usr_receptor": 7,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-06-08T15:31:42.766Z"
-  },
-  {
-    "id_usr_emisor": 67,
-    "id_usr_receptor": 69,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-12-12T19:32:27.650Z"
-  },
-  {
-    "id_usr_emisor": 59,
-    "id_usr_receptor": 17,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-10-19T11:19:42.922Z"
-  },
-  {
-    "id_usr_emisor": 31,
-    "id_usr_receptor": 28,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-01-23T04:14:29.586Z"
-  },
-  {
-    "id_usr_emisor": 38,
-    "id_usr_receptor": 67,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-01-01T23:54:19.233Z"
-  },
-  {
-    "id_usr_emisor": 8,
-    "id_usr_receptor": 60,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-03-17T22:47:16.339Z"
+    "fecha": "2021-06-04T15:14:02.342Z"
   },
   {
     "id_usr_emisor": 41,
-    "id_usr_receptor": 98,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-01-25T13:00:30.663Z"
-  },
-  {
-    "id_usr_emisor": 20,
-    "id_usr_receptor": 76,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-11-08T21:20:36.888Z"
-  },
-  {
-    "id_usr_emisor": 60,
-    "id_usr_receptor": 69,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-07-21T23:08:59.286Z"
-  },
-  {
-    "id_usr_emisor": 8,
-    "id_usr_receptor": 44,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-04-17T04:42:05.359Z"
-  },
-  {
-    "id_usr_emisor": 77,
-    "id_usr_receptor": 55,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-12-29T21:52:53.549Z"
-  },
-  {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 36,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-02-16T02:55:40.028Z"
-  },
-  {
-    "id_usr_emisor": 26,
-    "id_usr_receptor": 8,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-09-28T11:51:00.164Z"
-  },
-  {
-    "id_usr_emisor": 78,
-    "id_usr_receptor": 71,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-01-15T19:27:49.479Z"
-  },
-  {
-    "id_usr_emisor": 41,
-    "id_usr_receptor": 47,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-06-11T06:14:15.146Z"
-  },
-  {
-    "id_usr_emisor": 5,
-    "id_usr_receptor": 50,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-02-03T00:59:01.090Z"
-  },
-  {
-    "id_usr_emisor": 44,
-    "id_usr_receptor": 83,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-05-19T05:01:11.343Z"
-  },
-  {
-    "id_usr_emisor": 86,
-    "id_usr_receptor": 18,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-11-08T18:42:37.836Z"
-  },
-  {
-    "id_usr_emisor": 57,
-    "id_usr_receptor": 49,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-05-25T13:33:57.937Z"
-  },
-  {
-    "id_usr_emisor": 91,
-    "id_usr_receptor": 53,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-08-11T04:02:45.472Z"
-  },
-  {
-    "id_usr_emisor": 89,
-    "id_usr_receptor": 29,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-10-02T12:50:27.572Z"
-  },
-  {
-    "id_usr_emisor": 6,
-    "id_usr_receptor": 38,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-01-01T05:21:31.087Z"
-  },
-  {
-    "id_usr_emisor": 10,
-    "id_usr_receptor": 72,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-05-05T01:00:03.423Z"
-  },
-  {
-    "id_usr_emisor": 1,
-    "id_usr_receptor": 34,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-04-20T12:40:56.850Z"
-  },
-  {
-    "id_usr_emisor": 98,
-    "id_usr_receptor": 50,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-08-19T04:39:37.506Z"
-  },
-  {
-    "id_usr_emisor": 64,
-    "id_usr_receptor": 71,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-08-05T23:47:05.371Z"
-  },
-  {
-    "id_usr_emisor": 22,
     "id_usr_receptor": 31,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-01-22T00:47:32.381Z"
-  },
-  {
-    "id_usr_emisor": 92,
-    "id_usr_receptor": 63,
     "tipo": "RECHAZADA",
-    "fecha": "2023-01-05T18:06:32.356Z"
-  },
-  {
-    "id_usr_emisor": 69,
-    "id_usr_receptor": 55,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-03-19T05:59:06.963Z"
-  },
-  {
-    "id_usr_emisor": 64,
-    "id_usr_receptor": 24,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-04-18T00:24:47.445Z"
-  },
-  {
-    "id_usr_emisor": 23,
-    "id_usr_receptor": 4,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-01-25T12:23:45.182Z"
-  },
-  {
-    "id_usr_emisor": 31,
-    "id_usr_receptor": 83,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-06-09T03:33:03.585Z"
-  },
-  {
-    "id_usr_emisor": 96,
-    "id_usr_receptor": 9,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-05-27T18:54:23.773Z"
-  },
-  {
-    "id_usr_emisor": 53,
-    "id_usr_receptor": 6,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-11-28T16:34:41.220Z"
-  },
-  {
-    "id_usr_emisor": 57,
-    "id_usr_receptor": 42,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-10-22T07:58:55.119Z"
-  },
-  {
-    "id_usr_emisor": 89,
-    "id_usr_receptor": 21,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-10-11T16:59:31.888Z"
-  },
-  {
-    "id_usr_emisor": 67,
-    "id_usr_receptor": 90,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-03-14T17:51:03.794Z"
-  },
-  {
-    "id_usr_emisor": 5,
-    "id_usr_receptor": 16,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-01-26T12:18:42.151Z"
-  },
-  {
-    "id_usr_emisor": 81,
-    "id_usr_receptor": 19,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-04-12T13:39:40.035Z"
-  },
-  {
-    "id_usr_emisor": 83,
-    "id_usr_receptor": 11,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-06-04T18:58:22.098Z"
-  },
-  {
-    "id_usr_emisor": 26,
-    "id_usr_receptor": 53,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-10-18T00:35:01.245Z"
-  },
-  {
-    "id_usr_emisor": 31,
-    "id_usr_receptor": 63,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-11-02T04:11:03.347Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 94,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-04-28T11:40:20.515Z"
-  },
-  {
-    "id_usr_emisor": 36,
-    "id_usr_receptor": 57,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-03-03T04:05:24.167Z"
-  },
-  {
-    "id_usr_emisor": 17,
-    "id_usr_receptor": 81,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-12-21T23:23:48.973Z"
-  },
-  {
-    "id_usr_emisor": 97,
-    "id_usr_receptor": 98,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-02-24T13:39:58.833Z"
-  },
-  {
-    "id_usr_emisor": 46,
-    "id_usr_receptor": 80,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-03-24T11:35:41.456Z"
-  },
-  {
-    "id_usr_emisor": 70,
-    "id_usr_receptor": 40,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-09-13T01:34:36.601Z"
-  },
-  {
-    "id_usr_emisor": 37,
-    "id_usr_receptor": 97,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-06-05T22:59:51.755Z"
-  },
-  {
-    "id_usr_emisor": 31,
-    "id_usr_receptor": 48,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-06-21T00:20:25.580Z"
-  },
-  {
-    "id_usr_emisor": 26,
-    "id_usr_receptor": 100,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-10-28T03:44:47.787Z"
-  },
-  {
-    "id_usr_emisor": 29,
-    "id_usr_receptor": 71,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-06-28T13:48:12.276Z"
-  },
-  {
-    "id_usr_emisor": 50,
-    "id_usr_receptor": 5,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-11-26T12:16:18.577Z"
-  },
-  {
-    "id_usr_emisor": 30,
-    "id_usr_receptor": 55,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-12-22T19:11:04.028Z"
-  },
-  {
-    "id_usr_emisor": 63,
-    "id_usr_receptor": 96,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-09-06T00:04:17.205Z"
-  },
-  {
-    "id_usr_emisor": 68,
-    "id_usr_receptor": 50,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-10-01T09:19:22.677Z"
-  },
-  {
-    "id_usr_emisor": 63,
-    "id_usr_receptor": 22,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-12-23T10:20:13.448Z"
-  },
-  {
-    "id_usr_emisor": 37,
-    "id_usr_receptor": 73,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-10-28T17:10:56.193Z"
-  },
-  {
-    "id_usr_emisor": 97,
-    "id_usr_receptor": 75,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-10-12T21:31:03.900Z"
-  },
-  {
-    "id_usr_emisor": 25,
-    "id_usr_receptor": 3,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-06-13T04:37:58.788Z"
-  },
-  {
-    "id_usr_emisor": 52,
-    "id_usr_receptor": 99,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-09-14T07:00:51.680Z"
-  },
-  {
-    "id_usr_emisor": 61,
-    "id_usr_receptor": 84,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-01-10T14:45:40.335Z"
-  },
-  {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 81,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-04-01T23:12:43.459Z"
-  },
-  {
-    "id_usr_emisor": 13,
-    "id_usr_receptor": 48,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-12-17T08:08:43.835Z"
-  },
-  {
-    "id_usr_emisor": 30,
-    "id_usr_receptor": 61,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-01-10T17:25:44.368Z"
-  },
-  {
-    "id_usr_emisor": 47,
-    "id_usr_receptor": 92,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-11-10T02:09:32.239Z"
-  },
-  {
-    "id_usr_emisor": 20,
-    "id_usr_receptor": 6,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-12-30T07:43:21.970Z"
-  },
-  {
-    "id_usr_emisor": 60,
-    "id_usr_receptor": 99,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-10-28T16:06:03.271Z"
-  },
-  {
-    "id_usr_emisor": 32,
-    "id_usr_receptor": 8,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-02-01T15:33:58.268Z"
-  },
-  {
-    "id_usr_emisor": 42,
-    "id_usr_receptor": 47,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-09-14T07:17:49.182Z"
-  },
-  {
-    "id_usr_emisor": 88,
-    "id_usr_receptor": 79,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-10-28T14:41:39.364Z"
-  },
-  {
-    "id_usr_emisor": 98,
-    "id_usr_receptor": 7,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-09-18T14:16:01.514Z"
-  },
-  {
-    "id_usr_emisor": 6,
-    "id_usr_receptor": 11,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-02-26T01:56:33.240Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 89,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-05-27T01:43:43.001Z"
-  },
-  {
-    "id_usr_emisor": 62,
-    "id_usr_receptor": 53,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-11-08T22:42:42.359Z"
-  },
-  {
-    "id_usr_emisor": 72,
-    "id_usr_receptor": 20,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-07-04T18:05:45.810Z"
-  },
-  {
-    "id_usr_emisor": 51,
-    "id_usr_receptor": 75,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-12-22T17:21:35.753Z"
-  },
-  {
-    "id_usr_emisor": 90,
-    "id_usr_receptor": 53,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-11-12T09:48:55.353Z"
-  },
-  {
-    "id_usr_emisor": 81,
-    "id_usr_receptor": 55,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-02-08T23:28:21.871Z"
-  },
-  {
-    "id_usr_emisor": 47,
-    "id_usr_receptor": 92,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-12-25T15:22:25.477Z"
-  },
-  {
-    "id_usr_emisor": 30,
-    "id_usr_receptor": 14,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-05-12T10:26:30.894Z"
-  },
-  {
-    "id_usr_emisor": 80,
-    "id_usr_receptor": 94,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-10-18T10:03:54.312Z"
-  },
-  {
-    "id_usr_emisor": 31,
-    "id_usr_receptor": 53,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-05-20T21:37:41.661Z"
-  },
-  {
-    "id_usr_emisor": 53,
-    "id_usr_receptor": 36,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-06-03T07:28:47.720Z"
-  },
-  {
-    "id_usr_emisor": 73,
-    "id_usr_receptor": 84,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-12-10T22:19:23.626Z"
-  },
-  {
-    "id_usr_emisor": 22,
-    "id_usr_receptor": 87,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-03-02T11:08:14.102Z"
-  },
-  {
-    "id_usr_emisor": 79,
-    "id_usr_receptor": 50,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-10-14T17:09:07.846Z"
-  },
-  {
-    "id_usr_emisor": 43,
-    "id_usr_receptor": 44,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-05-20T07:41:09.088Z"
-  },
-  {
-    "id_usr_emisor": 47,
-    "id_usr_receptor": 16,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-08-23T05:04:38.947Z"
-  },
-  {
-    "id_usr_emisor": 83,
-    "id_usr_receptor": 99,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-09-13T06:55:39.122Z"
-  },
-  {
-    "id_usr_emisor": 70,
-    "id_usr_receptor": 49,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-11-26T17:36:16.807Z"
-  },
-  {
-    "id_usr_emisor": 4,
-    "id_usr_receptor": 22,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-04-05T11:26:29.682Z"
-  },
-  {
-    "id_usr_emisor": 75,
-    "id_usr_receptor": 61,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-03-27T10:53:01.442Z"
-  },
-  {
-    "id_usr_emisor": 37,
-    "id_usr_receptor": 65,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-10-11T00:27:15.067Z"
-  },
-  {
-    "id_usr_emisor": 84,
-    "id_usr_receptor": 46,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-05-02T07:12:43.138Z"
-  },
-  {
-    "id_usr_emisor": 51,
-    "id_usr_receptor": 16,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-03-01T16:37:08.299Z"
-  },
-  {
-    "id_usr_emisor": 100,
-    "id_usr_receptor": 48,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-08-06T04:00:12.034Z"
-  },
-  {
-    "id_usr_emisor": 69,
-    "id_usr_receptor": 49,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-07-05T04:20:48.723Z"
-  },
-  {
-    "id_usr_emisor": 82,
-    "id_usr_receptor": 38,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-07-13T14:37:21.567Z"
-  },
-  {
-    "id_usr_emisor": 48,
-    "id_usr_receptor": 23,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-02-23T19:59:00.026Z"
-  },
-  {
-    "id_usr_emisor": 55,
-    "id_usr_receptor": 5,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-03-24T13:31:21.894Z"
-  },
-  {
-    "id_usr_emisor": 35,
-    "id_usr_receptor": 4,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-08-21T19:57:34.121Z"
-  },
-  {
-    "id_usr_emisor": 91,
-    "id_usr_receptor": 33,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-02-17T08:15:48.626Z"
-  },
-  {
-    "id_usr_emisor": 94,
-    "id_usr_receptor": 62,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-04-29T09:15:23.824Z"
-  },
-  {
-    "id_usr_emisor": 62,
-    "id_usr_receptor": 26,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-09-07T21:06:36.768Z"
-  },
-  {
-    "id_usr_emisor": 75,
-    "id_usr_receptor": 85,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-07-30T22:52:50.119Z"
-  },
-  {
-    "id_usr_emisor": 50,
-    "id_usr_receptor": 93,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-02-06T02:20:13.958Z"
-  },
-  {
-    "id_usr_emisor": 21,
-    "id_usr_receptor": 95,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-01-24T17:41:03.095Z"
-  },
-  {
-    "id_usr_emisor": 78,
-    "id_usr_receptor": 88,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-12-26T20:19:06.530Z"
-  },
-  {
-    "id_usr_emisor": 35,
-    "id_usr_receptor": 98,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-03-03T15:47:48.809Z"
-  },
-  {
-    "id_usr_emisor": 42,
-    "id_usr_receptor": 79,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-10-12T11:44:06.587Z"
-  },
-  {
-    "id_usr_emisor": 63,
-    "id_usr_receptor": 79,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-05-03T11:19:13.042Z"
-  },
-  {
-    "id_usr_emisor": 14,
-    "id_usr_receptor": 88,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-04-14T17:00:22.247Z"
-  },
-  {
-    "id_usr_emisor": 75,
-    "id_usr_receptor": 34,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-08-26T15:44:53.509Z"
-  },
-  {
-    "id_usr_emisor": 1,
-    "id_usr_receptor": 94,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-04-13T23:41:30.729Z"
-  },
-  {
-    "id_usr_emisor": 58,
-    "id_usr_receptor": 26,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-11-19T22:24:04.903Z"
-  },
-  {
-    "id_usr_emisor": 61,
-    "id_usr_receptor": 66,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-07-14T23:06:39.954Z"
-  },
-  {
-    "id_usr_emisor": 26,
-    "id_usr_receptor": 90,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-07-26T17:17:27.438Z"
-  },
-  {
-    "id_usr_emisor": 94,
-    "id_usr_receptor": 11,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-05-07T19:53:14.529Z"
-  },
-  {
-    "id_usr_emisor": 74,
-    "id_usr_receptor": 7,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-02-20T13:21:35.844Z"
-  },
-  {
-    "id_usr_emisor": 60,
-    "id_usr_receptor": 1,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-03-08T02:02:08.728Z"
-  },
-  {
-    "id_usr_emisor": 85,
-    "id_usr_receptor": 90,
-    "tipo": "RECHAZADA",
-    "fecha": "2019-12-21T02:52:48.857Z"
-  },
-  {
-    "id_usr_emisor": 72,
-    "id_usr_receptor": 77,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-04-05T02:44:23.054Z"
-  },
-  {
-    "id_usr_emisor": 8,
-    "id_usr_receptor": 60,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-02-05T18:42:24.548Z"
-  },
-  {
-    "id_usr_emisor": 20,
-    "id_usr_receptor": 19,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-11-12T16:44:36.902Z"
-  },
-  {
-    "id_usr_emisor": 34,
-    "id_usr_receptor": 59,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-06-25T04:11:02.801Z"
-  },
-  {
-    "id_usr_emisor": 32,
-    "id_usr_receptor": 88,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-05-26T02:32:51.415Z"
-  },
-  {
-    "id_usr_emisor": 73,
-    "id_usr_receptor": 85,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-07-14T21:23:27.380Z"
-  },
-  {
-    "id_usr_emisor": 53,
-    "id_usr_receptor": 92,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-03-31T17:35:18.299Z"
-  },
-  {
-    "id_usr_emisor": 84,
-    "id_usr_receptor": 4,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-01-16T14:01:31.334Z"
+    "fecha": "2023-11-19T11:52:07.310Z"
   },
   {
     "id_usr_emisor": 45,
-    "id_usr_receptor": 43,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-11-10T08:30:49.250Z"
-  },
-  {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 58,
+    "id_usr_receptor": 20,
     "tipo": "ACEPTADA",
-    "fecha": "2021-09-29T20:03:53.170Z"
-  },
-  {
-    "id_usr_emisor": 95,
-    "id_usr_receptor": 73,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-05-13T00:24:02.876Z"
-  },
-  {
-    "id_usr_emisor": 77,
-    "id_usr_receptor": 53,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-03-09T13:11:13.634Z"
-  },
-  {
-    "id_usr_emisor": 97,
-    "id_usr_receptor": 45,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-09-11T13:31:31.315Z"
-  },
-  {
-    "id_usr_emisor": 64,
-    "id_usr_receptor": 86,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-02-14T21:28:35.088Z"
-  },
-  {
-    "id_usr_emisor": 75,
-    "id_usr_receptor": 72,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-06-20T01:26:08.892Z"
-  },
-  {
-    "id_usr_emisor": 43,
-    "id_usr_receptor": 12,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-06-24T23:07:00.784Z"
-  },
-  {
-    "id_usr_emisor": 34,
-    "id_usr_receptor": 23,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-04-07T15:41:49.836Z"
-  },
-  {
-    "id_usr_emisor": 29,
-    "id_usr_receptor": 93,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-08-07T09:36:34.147Z"
-  },
-  {
-    "id_usr_emisor": 38,
-    "id_usr_receptor": 28,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-08-26T04:11:29.277Z"
-  },
-  {
-    "id_usr_emisor": 76,
-    "id_usr_receptor": 4,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-07-21T19:54:49.701Z"
-  },
-  {
-    "id_usr_emisor": 7,
-    "id_usr_receptor": 48,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-08-16T23:37:36.662Z"
-  },
-  {
-    "id_usr_emisor": 85,
-    "id_usr_receptor": 11,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-04-05T17:10:40.582Z"
-  },
-  {
-    "id_usr_emisor": 33,
-    "id_usr_receptor": 57,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-01-19T08:38:04.009Z"
-  },
-  {
-    "id_usr_emisor": 34,
-    "id_usr_receptor": 77,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-02-14T06:52:58.201Z"
-  },
-  {
-    "id_usr_emisor": 22,
-    "id_usr_receptor": 18,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-12-30T14:54:49.216Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 60,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-12-20T03:09:32.839Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 57,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-11-09T19:24:05.193Z"
-  },
-  {
-    "id_usr_emisor": 8,
-    "id_usr_receptor": 59,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-08-18T22:03:48.383Z"
-  },
-  {
-    "id_usr_emisor": 18,
-    "id_usr_receptor": 40,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-09-26T18:40:35.402Z"
-  },
-  {
-    "id_usr_emisor": 8,
-    "id_usr_receptor": 100,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-07-05T18:00:04.568Z"
-  },
-  {
-    "id_usr_emisor": 49,
-    "id_usr_receptor": 1,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-02-27T22:59:43.688Z"
-  },
-  {
-    "id_usr_emisor": 20,
-    "id_usr_receptor": 58,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-08-04T13:48:13.866Z"
+    "fecha": "2023-02-26T19:12:01.565Z"
   },
   {
     "id_usr_emisor": 99,
-    "id_usr_receptor": 37,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-01-15T16:46:32.567Z"
-  },
-  {
-    "id_usr_emisor": 100,
-    "id_usr_receptor": 63,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-05-29T15:03:32.955Z"
-  },
-  {
-    "id_usr_emisor": 56,
-    "id_usr_receptor": 64,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-01-01T18:55:41.962Z"
-  },
-  {
-    "id_usr_emisor": 28,
-    "id_usr_receptor": 5,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-12-23T04:14:49.034Z"
-  },
-  {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 86,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-11-12T05:58:26.311Z"
-  },
-  {
-    "id_usr_emisor": 60,
-    "id_usr_receptor": 29,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-09-01T00:58:52.923Z"
-  },
-  {
-    "id_usr_emisor": 84,
-    "id_usr_receptor": 93,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-11-03T20:19:41.526Z"
-  },
-  {
-    "id_usr_emisor": 16,
-    "id_usr_receptor": 49,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-02-18T16:48:40.953Z"
-  },
-  {
-    "id_usr_emisor": 94,
-    "id_usr_receptor": 10,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-11-20T00:32:39.648Z"
-  },
-  {
-    "id_usr_emisor": 98,
-    "id_usr_receptor": 28,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-06-02T07:18:07.814Z"
-  },
-  {
-    "id_usr_emisor": 16,
-    "id_usr_receptor": 2,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-09-30T04:26:51.225Z"
-  },
-  {
-    "id_usr_emisor": 35,
-    "id_usr_receptor": 30,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-08-17T17:25:09.828Z"
-  },
-  {
-    "id_usr_emisor": 88,
-    "id_usr_receptor": 94,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-10-22T11:38:01.453Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 82,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-10-29T16:15:01.707Z"
-  },
-  {
-    "id_usr_emisor": 88,
-    "id_usr_receptor": 2,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-10-04T09:47:29.776Z"
-  },
-  {
-    "id_usr_emisor": 75,
-    "id_usr_receptor": 4,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-07-23T00:25:49.871Z"
-  },
-  {
-    "id_usr_emisor": 78,
-    "id_usr_receptor": 45,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-06-01T01:02:14.635Z"
-  },
-  {
-    "id_usr_emisor": 58,
-    "id_usr_receptor": 80,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-04-20T22:28:28.806Z"
-  },
-  {
-    "id_usr_emisor": 35,
-    "id_usr_receptor": 39,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-09-16T21:49:56.509Z"
-  },
-  {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 7,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-02-26T03:15:18.838Z"
-  },
-  {
-    "id_usr_emisor": 95,
-    "id_usr_receptor": 33,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-08-18T04:10:05.765Z"
-  },
-  {
-    "id_usr_emisor": 10,
-    "id_usr_receptor": 66,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-08-10T20:55:10.550Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 50,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-01-31T11:45:59.245Z"
-  },
-  {
-    "id_usr_emisor": 80,
-    "id_usr_receptor": 45,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-09-11T10:43:21.973Z"
-  },
-  {
-    "id_usr_emisor": 59,
-    "id_usr_receptor": 63,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-11-07T06:46:02.230Z"
-  },
-  {
-    "id_usr_emisor": 77,
-    "id_usr_receptor": 17,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-06-05T20:00:40.937Z"
-  },
-  {
-    "id_usr_emisor": 67,
-    "id_usr_receptor": 10,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-08-17T16:28:25.396Z"
-  },
-  {
-    "id_usr_emisor": 4,
-    "id_usr_receptor": 29,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-06-17T21:41:31.708Z"
-  },
-  {
-    "id_usr_emisor": 72,
-    "id_usr_receptor": 24,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-10-27T06:41:19.871Z"
-  },
-  {
-    "id_usr_emisor": 16,
-    "id_usr_receptor": 80,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-09-03T16:47:48.896Z"
-  },
-  {
-    "id_usr_emisor": 10,
-    "id_usr_receptor": 27,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-11-10T09:18:49.961Z"
-  },
-  {
-    "id_usr_emisor": 34,
-    "id_usr_receptor": 95,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-03-26T17:29:25.869Z"
-  },
-  {
-    "id_usr_emisor": 86,
-    "id_usr_receptor": 30,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-02-15T02:57:38.686Z"
-  },
-  {
-    "id_usr_emisor": 2,
-    "id_usr_receptor": 91,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-06-14T02:00:23.787Z"
-  },
-  {
-    "id_usr_emisor": 9,
-    "id_usr_receptor": 48,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-07-28T16:40:32.250Z"
-  },
-  {
-    "id_usr_emisor": 44,
-    "id_usr_receptor": 18,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-06-06T01:17:04.440Z"
-  },
-  {
-    "id_usr_emisor": 5,
-    "id_usr_receptor": 52,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-11-05T17:59:20.767Z"
-  },
-  {
-    "id_usr_emisor": 94,
-    "id_usr_receptor": 4,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-12-11T08:32:40.444Z"
-  },
-  {
-    "id_usr_emisor": 97,
-    "id_usr_receptor": 50,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-03-01T00:53:13.637Z"
-  },
-  {
-    "id_usr_emisor": 59,
-    "id_usr_receptor": 46,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-12-19T17:43:35.019Z"
-  },
-  {
-    "id_usr_emisor": 49,
-    "id_usr_receptor": 64,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-07-06T02:11:51.112Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 74,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-09-02T01:44:52.001Z"
-  },
-  {
-    "id_usr_emisor": 36,
-    "id_usr_receptor": 66,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-09-08T15:32:05.485Z"
-  },
-  {
-    "id_usr_emisor": 14,
-    "id_usr_receptor": 13,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-02-05T16:57:10.904Z"
-  },
-  {
-    "id_usr_emisor": 91,
-    "id_usr_receptor": 28,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-01-28T11:17:17.171Z"
-  },
-  {
-    "id_usr_emisor": 38,
-    "id_usr_receptor": 20,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-01-21T03:27:46.560Z"
-  },
-  {
-    "id_usr_emisor": 59,
-    "id_usr_receptor": 35,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-09-27T07:37:06.230Z"
-  },
-  {
-    "id_usr_emisor": 19,
-    "id_usr_receptor": 15,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-09-23T16:51:59.076Z"
-  },
-  {
-    "id_usr_emisor": 75,
-    "id_usr_receptor": 77,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-05-20T12:42:33.768Z"
-  },
-  {
-    "id_usr_emisor": 60,
-    "id_usr_receptor": 43,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-12-23T00:44:42.412Z"
-  },
-  {
-    "id_usr_emisor": 79,
-    "id_usr_receptor": 19,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-08-18T04:53:48.701Z"
-  },
-  {
-    "id_usr_emisor": 1,
     "id_usr_receptor": 97,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-02-11T22:10:24.271Z"
-  },
-  {
-    "id_usr_emisor": 62,
-    "id_usr_receptor": 52,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-03-14T12:04:59.718Z"
-  },
-  {
-    "id_usr_emisor": 68,
-    "id_usr_receptor": 47,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-03-14T07:39:02.379Z"
-  },
-  {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 60,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-08-31T13:30:11.994Z"
-  },
-  {
-    "id_usr_emisor": 16,
-    "id_usr_receptor": 12,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-09-06T05:08:41.080Z"
-  },
-  {
-    "id_usr_emisor": 47,
-    "id_usr_receptor": 15,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-05-28T06:43:20.716Z"
-  },
-  {
-    "id_usr_emisor": 98,
-    "id_usr_receptor": 50,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-09-25T05:48:08.434Z"
-  },
-  {
-    "id_usr_emisor": 70,
-    "id_usr_receptor": 59,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-11-19T18:26:43.238Z"
-  },
-  {
-    "id_usr_emisor": 36,
-    "id_usr_receptor": 47,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-03-25T16:51:02.967Z"
-  },
-  {
-    "id_usr_emisor": 87,
-    "id_usr_receptor": 4,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-06-01T17:48:31.309Z"
-  },
-  {
-    "id_usr_emisor": 35,
-    "id_usr_receptor": 78,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-12-31T05:53:47.426Z"
-  },
-  {
-    "id_usr_emisor": 78,
-    "id_usr_receptor": 1,
     "tipo": "ACEPTADA",
-    "fecha": "2020-07-01T22:20:23.466Z"
-  },
-  {
-    "id_usr_emisor": 91,
-    "id_usr_receptor": 39,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-04-27T13:06:02.327Z"
-  },
-  {
-    "id_usr_emisor": 72,
-    "id_usr_receptor": 18,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-11-09T22:48:57.291Z"
-  },
-  {
-    "id_usr_emisor": 52,
-    "id_usr_receptor": 87,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-12-16T10:14:26.954Z"
-  },
-  {
-    "id_usr_emisor": 100,
-    "id_usr_receptor": 9,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-03-04T02:47:06.465Z"
-  },
-  {
-    "id_usr_emisor": 34,
-    "id_usr_receptor": 22,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-11-19T20:52:47.780Z"
-  },
-  {
-    "id_usr_emisor": 57,
-    "id_usr_receptor": 42,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-07-02T00:48:09.304Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 58,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-12-22T17:57:56.783Z"
-  },
-  {
-    "id_usr_emisor": 52,
-    "id_usr_receptor": 30,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-06-05T00:45:02.076Z"
-  },
-  {
-    "id_usr_emisor": 46,
-    "id_usr_receptor": 54,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-01-07T15:25:02.375Z"
-  },
-  {
-    "id_usr_emisor": 2,
-    "id_usr_receptor": 73,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-09-17T13:53:46.801Z"
-  },
-  {
-    "id_usr_emisor": 22,
-    "id_usr_receptor": 89,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-10-26T17:31:06.538Z"
-  },
-  {
-    "id_usr_emisor": 59,
-    "id_usr_receptor": 60,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-05-10T03:26:43.301Z"
-  },
-  {
-    "id_usr_emisor": 22,
-    "id_usr_receptor": 57,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-05-15T08:16:38.678Z"
-  },
-  {
-    "id_usr_emisor": 31,
-    "id_usr_receptor": 76,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-08-05T22:06:01.781Z"
-  },
-  {
-    "id_usr_emisor": 52,
-    "id_usr_receptor": 67,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-03-27T18:11:00.089Z"
-  },
-  {
-    "id_usr_emisor": 55,
-    "id_usr_receptor": 34,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-12-08T03:32:38.608Z"
-  },
-  {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 51,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-08-07T18:24:41.989Z"
-  },
-  {
-    "id_usr_emisor": 70,
-    "id_usr_receptor": 26,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-09-18T22:15:34.165Z"
-  },
-  {
-    "id_usr_emisor": 48,
-    "id_usr_receptor": 55,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-12-01T23:04:27.916Z"
-  },
-  {
-    "id_usr_emisor": 47,
-    "id_usr_receptor": 32,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-10-08T23:18:36.784Z"
-  },
-  {
-    "id_usr_emisor": 35,
-    "id_usr_receptor": 48,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-04-26T20:10:22.590Z"
-  },
-  {
-    "id_usr_emisor": 38,
-    "id_usr_receptor": 82,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-09-16T07:07:45.983Z"
-  },
-  {
-    "id_usr_emisor": 10,
-    "id_usr_receptor": 61,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-02-10T22:15:12.016Z"
-  },
-  {
-    "id_usr_emisor": 98,
-    "id_usr_receptor": 49,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-01-06T07:23:42.809Z"
-  },
-  {
-    "id_usr_emisor": 59,
-    "id_usr_receptor": 98,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-07-07T11:20:32.286Z"
-  },
-  {
-    "id_usr_emisor": 75,
-    "id_usr_receptor": 99,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-06-06T19:30:34.581Z"
-  },
-  {
-    "id_usr_emisor": 34,
-    "id_usr_receptor": 28,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-11-28T22:38:55.573Z"
-  },
-  {
-    "id_usr_emisor": 84,
-    "id_usr_receptor": 5,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-02-10T19:38:31.503Z"
-  },
-  {
-    "id_usr_emisor": 65,
-    "id_usr_receptor": 35,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-03-01T12:40:35.854Z"
-  },
-  {
-    "id_usr_emisor": 24,
-    "id_usr_receptor": 48,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-02-21T16:21:24.481Z"
-  },
-  {
-    "id_usr_emisor": 34,
-    "id_usr_receptor": 19,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-03-12T05:38:54.549Z"
-  },
-  {
-    "id_usr_emisor": 51,
-    "id_usr_receptor": 51,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-09-07T22:17:54.994Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 34,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-04-02T17:46:45.703Z"
-  },
-  {
-    "id_usr_emisor": 65,
-    "id_usr_receptor": 36,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-11-04T20:20:33.174Z"
-  },
-  {
-    "id_usr_emisor": 50,
-    "id_usr_receptor": 79,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-12-04T01:19:52.752Z"
-  },
-  {
-    "id_usr_emisor": 22,
-    "id_usr_receptor": 94,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-10-22T10:19:55.455Z"
-  },
-  {
-    "id_usr_emisor": 57,
-    "id_usr_receptor": 55,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-05-17T07:25:34.746Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 23,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-05-24T16:14:43.475Z"
-  },
-  {
-    "id_usr_emisor": 27,
-    "id_usr_receptor": 44,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-06-09T10:57:49.441Z"
-  },
-  {
-    "id_usr_emisor": 5,
-    "id_usr_receptor": 77,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-04-09T17:01:41.557Z"
-  },
-  {
-    "id_usr_emisor": 46,
-    "id_usr_receptor": 23,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-04-28T11:05:27.269Z"
-  },
-  {
-    "id_usr_emisor": 100,
-    "id_usr_receptor": 65,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-07-17T16:26:49.584Z"
-  },
-  {
-    "id_usr_emisor": 74,
-    "id_usr_receptor": 31,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-09-15T18:19:49.843Z"
-  },
-  {
-    "id_usr_emisor": 82,
-    "id_usr_receptor": 95,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-11-09T00:15:54.772Z"
-  },
-  {
-    "id_usr_emisor": 6,
-    "id_usr_receptor": 30,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-01-23T04:08:45.583Z"
-  },
-  {
-    "id_usr_emisor": 90,
-    "id_usr_receptor": 39,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-01-28T22:01:28.019Z"
-  },
-  {
-    "id_usr_emisor": 34,
-    "id_usr_receptor": 92,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-02-14T04:34:11.778Z"
-  },
-  {
-    "id_usr_emisor": 78,
-    "id_usr_receptor": 9,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-06-03T16:35:22.354Z"
-  },
-  {
-    "id_usr_emisor": 48,
-    "id_usr_receptor": 20,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-04-19T21:32:53.702Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 31,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-04-21T17:50:36.424Z"
-  },
-  {
-    "id_usr_emisor": 47,
-    "id_usr_receptor": 13,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-06-20T18:57:34.136Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 54,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-05-07T02:00:44.983Z"
-  },
-  {
-    "id_usr_emisor": 43,
-    "id_usr_receptor": 57,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-06-25T06:15:13.937Z"
-  },
-  {
-    "id_usr_emisor": 69,
-    "id_usr_receptor": 2,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-10-17T23:56:36.568Z"
-  },
-  {
-    "id_usr_emisor": 6,
-    "id_usr_receptor": 57,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-05-26T14:16:19.873Z"
-  },
-  {
-    "id_usr_emisor": 67,
-    "id_usr_receptor": 87,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-02-19T10:00:47.791Z"
-  },
-  {
-    "id_usr_emisor": 16,
-    "id_usr_receptor": 2,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-12-12T09:49:10.018Z"
-  },
-  {
-    "id_usr_emisor": 58,
-    "id_usr_receptor": 81,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-07-09T19:32:58.864Z"
-  },
-  {
-    "id_usr_emisor": 99,
-    "id_usr_receptor": 54,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-09-04T08:49:17.483Z"
-  },
-  {
-    "id_usr_emisor": 96,
-    "id_usr_receptor": 34,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-10-09T15:22:43.882Z"
-  },
-  {
-    "id_usr_emisor": 41,
-    "id_usr_receptor": 75,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-07-22T12:47:27.225Z"
-  },
-  {
-    "id_usr_emisor": 99,
-    "id_usr_receptor": 71,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-06-09T16:54:10.212Z"
-  },
-  {
-    "id_usr_emisor": 28,
-    "id_usr_receptor": 98,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-11-21T09:04:50.796Z"
-  },
-  {
-    "id_usr_emisor": 24,
-    "id_usr_receptor": 90,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-09-16T11:04:43.149Z"
-  },
-  {
-    "id_usr_emisor": 72,
-    "id_usr_receptor": 21,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-09-06T05:31:00.402Z"
-  },
-  {
-    "id_usr_emisor": 95,
-    "id_usr_receptor": 9,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-09-20T06:23:19.716Z"
-  },
-  {
-    "id_usr_emisor": 38,
-    "id_usr_receptor": 34,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-07-13T00:41:07.896Z"
-  },
-  {
-    "id_usr_emisor": 68,
-    "id_usr_receptor": 98,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-08-16T02:45:01.941Z"
-  },
-  {
-    "id_usr_emisor": 23,
-    "id_usr_receptor": 62,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-08-09T22:36:27.407Z"
-  },
-  {
-    "id_usr_emisor": 23,
-    "id_usr_receptor": 10,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-05-13T00:57:52.046Z"
-  },
-  {
-    "id_usr_emisor": 28,
-    "id_usr_receptor": 18,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-08-05T18:47:51.088Z"
+    "fecha": "2023-07-28T10:04:04.259Z"
   },
   {
     "id_usr_emisor": 89,
-    "id_usr_receptor": 18,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-09-18T18:49:03.333Z"
+    "id_usr_receptor": 8,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-08-18T19:09:13.201Z"
   },
   {
     "id_usr_emisor": 28,
-    "id_usr_receptor": 60,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-01-22T10:22:46.786Z"
-  },
-  {
-    "id_usr_emisor": 43,
-    "id_usr_receptor": 50,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-12-09T02:11:47.253Z"
-  },
-  {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 59,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-05-13T09:21:09.928Z"
-  },
-  {
-    "id_usr_emisor": 20,
-    "id_usr_receptor": 33,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-02-08T19:01:12.216Z"
-  },
-  {
-    "id_usr_emisor": 14,
-    "id_usr_receptor": 20,
+    "id_usr_receptor": 48,
     "tipo": "ACEPTADA",
-    "fecha": "2020-02-22T22:55:49.267Z"
+    "fecha": "2021-02-09T03:08:20.676Z"
   },
   {
-    "id_usr_emisor": 15,
-    "id_usr_receptor": 65,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-02-10T17:59:16.105Z"
+    "id_usr_emisor": 28,
+    "id_usr_receptor": 80,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-11-09T21:16:03.887Z"
   },
   {
-    "id_usr_emisor": 49,
-    "id_usr_receptor": 49,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-06-11T03:57:37.472Z"
+    "id_usr_emisor": 47,
+    "id_usr_receptor": 55,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-08-17T19:34:30.119Z"
   },
   {
     "id_usr_emisor": 93,
-    "id_usr_receptor": 36,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-04-01T09:22:35.909Z"
-  },
-  {
-    "id_usr_emisor": 46,
-    "id_usr_receptor": 75,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-05-04T00:25:35.448Z"
-  },
-  {
-    "id_usr_emisor": 17,
-    "id_usr_receptor": 30,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-08-10T10:59:24.722Z"
-  },
-  {
-    "id_usr_emisor": 21,
-    "id_usr_receptor": 33,
+    "id_usr_receptor": 31,
     "tipo": "DESAGREGADA",
-    "fecha": "2022-11-09T14:44:04.369Z"
+    "fecha": "2022-03-02T17:20:10.705Z"
   },
   {
-    "id_usr_emisor": 67,
-    "id_usr_receptor": 68,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-05-20T11:47:57.453Z"
-  },
-  {
-    "id_usr_emisor": 48,
-    "id_usr_receptor": 92,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-03-01T20:05:15.920Z"
-  },
-  {
-    "id_usr_emisor": 59,
-    "id_usr_receptor": 37,
+    "id_usr_emisor": 82,
+    "id_usr_receptor": 57,
     "tipo": "RECHAZADA",
-    "fecha": "2024-03-09T14:19:35.572Z"
+    "fecha": "2021-06-04T19:49:27.739Z"
+  },
+  {
+    "id_usr_emisor": 60,
+    "id_usr_receptor": 4,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-05-23T18:35:11.994Z"
   },
   {
     "id_usr_emisor": 29,
-    "id_usr_receptor": 39,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-02-14T05:56:46.282Z"
+    "id_usr_receptor": 2,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-02-03T17:48:13.108Z"
   },
   {
-    "id_usr_emisor": 57,
-    "id_usr_receptor": 47,
+    "id_usr_emisor": 33,
+    "id_usr_receptor": 23,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-04-05T01:43:13.526Z"
+  },
+  {
+    "id_usr_emisor": 35,
+    "id_usr_receptor": 51,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-02-25T21:23:26.630Z"
+  },
+  {
+    "id_usr_emisor": 9,
+    "id_usr_receptor": 14,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-12-12T20:22:51.236Z"
+  },
+  {
+    "id_usr_emisor": 83,
+    "id_usr_receptor": 60,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-05-04T08:56:59.868Z"
+  },
+  {
+    "id_usr_emisor": 15,
+    "id_usr_receptor": 54,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-04-29T10:31:48.523Z"
+  },
+  {
+    "id_usr_emisor": 56,
+    "id_usr_receptor": 91,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-08-11T03:32:59.035Z"
+  },
+  {
+    "id_usr_emisor": 27,
+    "id_usr_receptor": 36,
     "tipo": "RECHAZADA",
-    "fecha": "2022-08-07T05:18:55.883Z"
+    "fecha": "2023-06-24T07:41:12.346Z"
+  },
+  {
+    "id_usr_emisor": 85,
+    "id_usr_receptor": 25,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-12-16T14:07:12.773Z"
+  },
+  {
+    "id_usr_emisor": 70,
+    "id_usr_receptor": 22,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-08-21T14:33:06.061Z"
+  },
+  {
+    "id_usr_emisor": 9,
+    "id_usr_receptor": 76,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-08-01T08:36:48.972Z"
+  },
+  {
+    "id_usr_emisor": 49,
+    "id_usr_receptor": 39,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-06-28T14:59:39.985Z"
+  },
+  {
+    "id_usr_emisor": 41,
+    "id_usr_receptor": 16,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-04-06T00:11:21.724Z"
+  },
+  {
+    "id_usr_emisor": 98,
+    "id_usr_receptor": 69,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-11-27T09:44:39.228Z"
+  },
+  {
+    "id_usr_emisor": 75,
+    "id_usr_receptor": 29,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-07-11T22:30:45.349Z"
+  },
+  {
+    "id_usr_emisor": 29,
+    "id_usr_receptor": 88,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-02-03T21:35:46.050Z"
+  },
+  {
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 39,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-12-07T05:08:14.854Z"
+  },
+  {
+    "id_usr_emisor": 65,
+    "id_usr_receptor": 94,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-03-24T15:45:23.575Z"
+  },
+  {
+    "id_usr_emisor": 96,
+    "id_usr_receptor": 23,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-10-17T05:42:43.816Z"
+  },
+  {
+    "id_usr_emisor": 38,
+    "id_usr_receptor": 26,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-12-24T19:41:07.589Z"
+  },
+  {
+    "id_usr_emisor": 54,
+    "id_usr_receptor": 96,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-11-11T04:43:06.091Z"
+  },
+  {
+    "id_usr_emisor": 77,
+    "id_usr_receptor": 88,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-11-21T17:13:05.973Z"
+  },
+  {
+    "id_usr_emisor": 28,
+    "id_usr_receptor": 13,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-08-09T01:07:57.203Z"
+  },
+  {
+    "id_usr_emisor": 95,
+    "id_usr_receptor": 32,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-10-16T07:23:30.264Z"
+  },
+  {
+    "id_usr_emisor": 41,
+    "id_usr_receptor": 24,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-03-10T23:49:11.621Z"
   },
   {
     "id_usr_emisor": 23,
-    "id_usr_receptor": 1,
+    "id_usr_receptor": 8,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-09-16T13:07:18.106Z"
+  },
+  {
+    "id_usr_emisor": 74,
+    "id_usr_receptor": 3,
     "tipo": "SOLICITADA",
-    "fecha": "2021-02-15T03:22:47.948Z"
+    "fecha": "2023-08-04T22:27:10.033Z"
+  },
+  {
+    "id_usr_emisor": 36,
+    "id_usr_receptor": 63,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-07-29T06:19:05.733Z"
+  },
+  {
+    "id_usr_emisor": 53,
+    "id_usr_receptor": 5,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-07-11T14:07:24.492Z"
+  },
+  {
+    "id_usr_emisor": 5,
+    "id_usr_receptor": 71,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-02-20T18:12:00.272Z"
+  },
+  {
+    "id_usr_emisor": 28,
+    "id_usr_receptor": 77,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-01-22T04:43:53.737Z"
+  },
+  {
+    "id_usr_emisor": 80,
+    "id_usr_receptor": 89,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-05-09T23:08:56.887Z"
+  },
+  {
+    "id_usr_emisor": 97,
+    "id_usr_receptor": 81,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-07-05T02:36:59.597Z"
+  },
+  {
+    "id_usr_emisor": 21,
+    "id_usr_receptor": 81,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-04-12T05:58:36.991Z"
+  },
+  {
+    "id_usr_emisor": 6,
+    "id_usr_receptor": 43,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-11-08T19:55:36.698Z"
+  },
+  {
+    "id_usr_emisor": 20,
+    "id_usr_receptor": 6,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-10-20T03:28:35.944Z"
+  },
+  {
+    "id_usr_emisor": 61,
+    "id_usr_receptor": 21,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-03-06T18:07:08.482Z"
+  },
+  {
+    "id_usr_emisor": 14,
+    "id_usr_receptor": 10,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-08-17T17:26:59.274Z"
+  },
+  {
+    "id_usr_emisor": 81,
+    "id_usr_receptor": 85,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-12-21T01:02:47.736Z"
+  },
+  {
+    "id_usr_emisor": 20,
+    "id_usr_receptor": 90,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-10-01T03:35:05.288Z"
+  },
+  {
+    "id_usr_emisor": 13,
+    "id_usr_receptor": 2,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-12-12T01:48:55.848Z"
+  },
+  {
+    "id_usr_emisor": 58,
+    "id_usr_receptor": 33,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-10-18T04:56:37.751Z"
+  },
+  {
+    "id_usr_emisor": 99,
+    "id_usr_receptor": 80,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-02-09T18:10:12.795Z"
+  },
+  {
+    "id_usr_emisor": 91,
+    "id_usr_receptor": 63,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-09-09T20:11:31.606Z"
+  },
+  {
+    "id_usr_emisor": 41,
+    "id_usr_receptor": 29,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-12-07T12:35:31.132Z"
+  },
+  {
+    "id_usr_emisor": 68,
+    "id_usr_receptor": 80,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-08-10T17:20:08.535Z"
+  },
+  {
+    "id_usr_emisor": 66,
+    "id_usr_receptor": 61,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-05-08T19:57:04.198Z"
+  },
+  {
+    "id_usr_emisor": 73,
+    "id_usr_receptor": 53,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-02-10T10:43:59.966Z"
+  },
+  {
+    "id_usr_emisor": 60,
+    "id_usr_receptor": 11,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-03-07T09:00:46.993Z"
+  },
+  {
+    "id_usr_emisor": 41,
+    "id_usr_receptor": 26,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-07-12T05:51:30.650Z"
+  },
+  {
+    "id_usr_emisor": 88,
+    "id_usr_receptor": 58,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-08-21T13:07:33.960Z"
+  },
+  {
+    "id_usr_emisor": 57,
+    "id_usr_receptor": 94,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-12-06T07:09:56.797Z"
+  },
+  {
+    "id_usr_emisor": 15,
+    "id_usr_receptor": 75,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-01-05T13:34:06.985Z"
+  },
+  {
+    "id_usr_emisor": 26,
+    "id_usr_receptor": 50,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-06-24T15:16:36.409Z"
+  },
+  {
+    "id_usr_emisor": 72,
+    "id_usr_receptor": 75,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-02-09T09:50:58.116Z"
+  },
+  {
+    "id_usr_emisor": 25,
+    "id_usr_receptor": 70,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-08-30T07:47:16.112Z"
+  },
+  {
+    "id_usr_emisor": 32,
+    "id_usr_receptor": 58,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-05-09T16:22:17.478Z"
   },
   {
     "id_usr_emisor": 22,
-    "id_usr_receptor": 33,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-11-29T10:39:11.689Z"
+    "id_usr_receptor": 20,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-08-12T16:12:08.652Z"
   },
   {
-    "id_usr_emisor": 48,
-    "id_usr_receptor": 27,
+    "id_usr_emisor": 69,
+    "id_usr_receptor": 63,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-03-19T10:49:57.446Z"
+  },
+  {
+    "id_usr_emisor": 11,
+    "id_usr_receptor": 5,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-07-28T00:46:29.721Z"
+  },
+  {
+    "id_usr_emisor": 81,
+    "id_usr_receptor": 21,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-11-09T23:09:02.871Z"
+  },
+  {
+    "id_usr_emisor": 78,
+    "id_usr_receptor": 59,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-02-21T17:50:53.696Z"
+  },
+  {
+    "id_usr_emisor": 92,
+    "id_usr_receptor": 61,
     "tipo": "ACEPTADA",
-    "fecha": "2022-01-08T22:29:11.800Z"
+    "fecha": "2022-09-22T07:28:06.651Z"
+  },
+  {
+    "id_usr_emisor": 24,
+    "id_usr_receptor": 18,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-09-18T06:26:10.683Z"
+  },
+  {
+    "id_usr_emisor": 59,
+    "id_usr_receptor": 22,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-02-08T06:00:26.747Z"
+  },
+  {
+    "id_usr_emisor": 49,
+    "id_usr_receptor": 59,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-01-15T21:42:53.726Z"
+  },
+  {
+    "id_usr_emisor": 57,
+    "id_usr_receptor": 49,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-05-05T16:29:09.802Z"
+  },
+  {
+    "id_usr_emisor": 37,
+    "id_usr_receptor": 49,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-01-23T15:49:27.047Z"
+  },
+  {
+    "id_usr_emisor": 86,
+    "id_usr_receptor": 26,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-08-20T13:38:33.693Z"
+  },
+  {
+    "id_usr_emisor": 81,
+    "id_usr_receptor": 97,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-01-13T10:49:51.791Z"
+  },
+  {
+    "id_usr_emisor": 80,
+    "id_usr_receptor": 73,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-04-13T06:46:54.048Z"
+  },
+  {
+    "id_usr_emisor": 47,
+    "id_usr_receptor": 56,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-03-13T01:28:15.621Z"
+  },
+  {
+    "id_usr_emisor": 69,
+    "id_usr_receptor": 45,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-01-12T10:51:34.012Z"
+  },
+  {
+    "id_usr_emisor": 40,
+    "id_usr_receptor": 11,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-07-30T23:50:20.452Z"
+  },
+  {
+    "id_usr_emisor": 85,
+    "id_usr_receptor": 58,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-08-22T09:03:18.111Z"
+  },
+  {
+    "id_usr_emisor": 43,
+    "id_usr_receptor": 25,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-11-26T23:08:42.774Z"
+  },
+  {
+    "id_usr_emisor": 95,
+    "id_usr_receptor": 64,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-11-05T23:42:29.130Z"
+  },
+  {
+    "id_usr_emisor": 10,
+    "id_usr_receptor": 77,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-01-22T23:59:25.027Z"
+  },
+  {
+    "id_usr_emisor": 94,
+    "id_usr_receptor": 91,
+    "tipo": "DESAGREGADA",
+    "fecha": "2019-12-25T16:19:32.232Z"
+  },
+  {
+    "id_usr_emisor": 70,
+    "id_usr_receptor": 74,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-03-19T01:08:06.030Z"
+  },
+  {
+    "id_usr_emisor": 73,
+    "id_usr_receptor": 86,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-02-15T12:12:06.651Z"
+  },
+  {
+    "id_usr_emisor": 29,
+    "id_usr_receptor": 74,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-08-20T16:56:16.629Z"
+  },
+  {
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 7,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-02-03T03:56:05.162Z"
+  },
+  {
+    "id_usr_emisor": 1,
+    "id_usr_receptor": 47,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-01-30T06:19:17.821Z"
+  },
+  {
+    "id_usr_emisor": 38,
+    "id_usr_receptor": 95,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-11-17T22:57:16.631Z"
+  },
+  {
+    "id_usr_emisor": 20,
+    "id_usr_receptor": 13,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-12-14T02:27:40.317Z"
+  },
+  {
+    "id_usr_emisor": 73,
+    "id_usr_receptor": 15,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-11-17T19:29:38.564Z"
+  },
+  {
+    "id_usr_emisor": 42,
+    "id_usr_receptor": 70,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-08-09T02:18:19.547Z"
+  },
+  {
+    "id_usr_emisor": 13,
+    "id_usr_receptor": 91,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-05-14T16:50:59.156Z"
+  },
+  {
+    "id_usr_emisor": 65,
+    "id_usr_receptor": 79,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-07-31T05:09:33.646Z"
+  },
+  {
+    "id_usr_emisor": 39,
+    "id_usr_receptor": 31,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-11-08T22:07:05.207Z"
   },
   {
     "id_usr_emisor": 42,
     "id_usr_receptor": 40,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-12-06T21:05:44.884Z"
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-06-10T07:34:18.497Z"
   },
   {
-    "id_usr_emisor": 53,
-    "id_usr_receptor": 71,
+    "id_usr_emisor": 34,
+    "id_usr_receptor": 38,
     "tipo": "ACEPTADA",
-    "fecha": "2021-03-25T10:36:01.639Z"
+    "fecha": "2024-04-19T02:50:56.246Z"
   },
   {
-    "id_usr_emisor": 8,
-    "id_usr_receptor": 95,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-01-23T06:37:17.578Z"
+    "id_usr_emisor": 77,
+    "id_usr_receptor": 36,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-06-22T14:14:42.272Z"
   },
   {
-    "id_usr_emisor": 28,
-    "id_usr_receptor": 25,
+    "id_usr_emisor": 13,
+    "id_usr_receptor": 98,
     "tipo": "RECHAZADA",
-    "fecha": "2023-08-16T05:42:01.494Z"
+    "fecha": "2023-01-07T06:53:48.456Z"
   },
   {
-    "id_usr_emisor": 44,
-    "id_usr_receptor": 68,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-05-03T09:25:21.447Z"
-  },
-  {
-    "id_usr_emisor": 6,
-    "id_usr_receptor": 89,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-02-22T05:24:47.056Z"
-  },
-  {
-    "id_usr_emisor": 42,
-    "id_usr_receptor": 60,
-    "tipo": "SOLICITADA",
-    "fecha": "2019-12-29T16:46:03.583Z"
-  },
-  {
-    "id_usr_emisor": 48,
-    "id_usr_receptor": 37,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-10-28T19:08:37.517Z"
-  },
-  {
-    "id_usr_emisor": 56,
-    "id_usr_receptor": 27,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-03-14T02:30:41.654Z"
-  },
-  {
-    "id_usr_emisor": 24,
-    "id_usr_receptor": 2,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-05-09T19:22:20.979Z"
-  },
-  {
-    "id_usr_emisor": 48,
-    "id_usr_receptor": 87,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-04-17T21:49:48.967Z"
-  },
-  {
-    "id_usr_emisor": 78,
-    "id_usr_receptor": 81,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-10-01T21:54:32.739Z"
+    "id_usr_emisor": 90,
+    "id_usr_receptor": 26,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-09-19T19:33:47.927Z"
   },
   {
     "id_usr_emisor": 85,
-    "id_usr_receptor": 4,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-09-10T06:44:05.009Z"
+    "id_usr_receptor": 40,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-09-15T22:18:28.530Z"
   },
   {
-    "id_usr_emisor": 18,
+    "id_usr_emisor": 12,
     "id_usr_receptor": 9,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-02-05T05:53:00.031Z"
-  },
-  {
-    "id_usr_emisor": 17,
-    "id_usr_receptor": 56,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-09-01T02:03:41.736Z"
-  },
-  {
-    "id_usr_emisor": 5,
-    "id_usr_receptor": 90,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-07-15T14:25:56.326Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 97,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-02-17T13:46:18.181Z"
-  },
-  {
-    "id_usr_emisor": 24,
-    "id_usr_receptor": 84,
-    "tipo": "RECHAZADA",
-    "fecha": "2019-12-26T06:33:12.915Z"
-  },
-  {
-    "id_usr_emisor": 63,
-    "id_usr_receptor": 64,
     "tipo": "ACEPTADA",
-    "fecha": "2020-09-06T22:37:07.062Z"
+    "fecha": "2024-11-18T23:35:02.686Z"
+  },
+  {
+    "id_usr_emisor": 21,
+    "id_usr_receptor": 56,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-06-27T18:45:16.989Z"
+  },
+  {
+    "id_usr_emisor": 94,
+    "id_usr_receptor": 95,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-07-06T18:44:16.746Z"
+  },
+  {
+    "id_usr_emisor": 48,
+    "id_usr_receptor": 19,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-08-14T00:57:02.945Z"
+  },
+  {
+    "id_usr_emisor": 87,
+    "id_usr_receptor": 85,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-11-06T21:40:16.869Z"
+  },
+  {
+    "id_usr_emisor": 58,
+    "id_usr_receptor": 34,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-03-09T17:41:20.918Z"
+  },
+  {
+    "id_usr_emisor": 19,
+    "id_usr_receptor": 54,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-02-08T22:56:27.553Z"
+  },
+  {
+    "id_usr_emisor": 45,
+    "id_usr_receptor": 72,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-04-27T00:50:57.979Z"
+  },
+  {
+    "id_usr_emisor": 21,
+    "id_usr_receptor": 42,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-05-28T06:49:11.975Z"
   },
   {
     "id_usr_emisor": 26,
     "id_usr_receptor": 3,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-05-06T21:39:41.236Z"
-  },
-  {
-    "id_usr_emisor": 18,
-    "id_usr_receptor": 43,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-07-25T00:48:43.167Z"
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-06-08T21:57:47.745Z"
   },
   {
     "id_usr_emisor": 40,
-    "id_usr_receptor": 94,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-02-13T20:00:41.344Z"
-  },
-  {
-    "id_usr_emisor": 33,
-    "id_usr_receptor": 70,
+    "id_usr_receptor": 55,
     "tipo": "SOLICITADA",
-    "fecha": "2022-05-17T07:37:54.589Z"
+    "fecha": "2021-09-27T08:03:30.278Z"
   },
   {
-    "id_usr_emisor": 54,
-    "id_usr_receptor": 45,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-11-15T04:37:52.437Z"
-  },
-  {
-    "id_usr_emisor": 7,
-    "id_usr_receptor": 69,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-04-08T11:06:04.267Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 88,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-03-30T16:26:01.251Z"
-  },
-  {
-    "id_usr_emisor": 97,
-    "id_usr_receptor": 28,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-05-13T09:36:54.512Z"
-  },
-  {
-    "id_usr_emisor": 89,
-    "id_usr_receptor": 75,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-11-26T18:35:09.531Z"
-  },
-  {
-    "id_usr_emisor": 92,
-    "id_usr_receptor": 7,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-10-06T16:57:58.912Z"
-  },
-  {
-    "id_usr_emisor": 82,
-    "id_usr_receptor": 4,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-08-25T03:13:37.990Z"
-  },
-  {
-    "id_usr_emisor": 95,
-    "id_usr_receptor": 9,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-04-24T03:16:00.154Z"
-  },
-  {
-    "id_usr_emisor": 63,
-    "id_usr_receptor": 95,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-11-23T18:32:10.252Z"
-  },
-  {
-    "id_usr_emisor": 88,
+    "id_usr_emisor": 57,
     "id_usr_receptor": 61,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-01-07T15:19:46.630Z"
-  },
-  {
-    "id_usr_emisor": 26,
-    "id_usr_receptor": 25,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-08-27T12:50:16.368Z"
-  },
-  {
-    "id_usr_emisor": 76,
-    "id_usr_receptor": 91,
     "tipo": "ACEPTADA",
-    "fecha": "2023-01-12T01:43:18.616Z"
-  },
-  {
-    "id_usr_emisor": 13,
-    "id_usr_receptor": 76,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-10-31T03:52:03.103Z"
+    "fecha": "2024-05-22T19:53:36.219Z"
   },
   {
     "id_usr_emisor": 21,
-    "id_usr_receptor": 50,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-04-06T23:28:12.929Z"
-  },
-  {
-    "id_usr_emisor": 48,
-    "id_usr_receptor": 42,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-01-05T16:47:42.635Z"
-  },
-  {
-    "id_usr_emisor": 35,
-    "id_usr_receptor": 25,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-04-08T16:35:16.205Z"
-  },
-  {
-    "id_usr_emisor": 17,
-    "id_usr_receptor": 11,
+    "id_usr_receptor": 6,
     "tipo": "RECHAZADA",
-    "fecha": "2022-01-29T21:14:40.579Z"
+    "fecha": "2020-02-18T06:18:50.961Z"
   },
   {
-    "id_usr_emisor": 77,
-    "id_usr_receptor": 28,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-10-13T13:27:45.530Z"
-  },
-  {
-    "id_usr_emisor": 99,
-    "id_usr_receptor": 10,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-02-13T00:20:37.988Z"
-  },
-  {
-    "id_usr_emisor": 83,
+    "id_usr_emisor": 40,
     "id_usr_receptor": 41,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-09-19T00:17:44.242Z"
-  },
-  {
-    "id_usr_emisor": 34,
-    "id_usr_receptor": 2,
     "tipo": "RECHAZADA",
-    "fecha": "2024-01-20T17:32:48.977Z"
+    "fecha": "2021-08-19T13:23:30.101Z"
   },
   {
-    "id_usr_emisor": 85,
-    "id_usr_receptor": 65,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-04-03T10:42:00.093Z"
+    "id_usr_emisor": 8,
+    "id_usr_receptor": 79,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-04-06T19:37:02.349Z"
+  },
+  {
+    "id_usr_emisor": 56,
+    "id_usr_receptor": 6,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-04-08T06:22:19.747Z"
+  },
+  {
+    "id_usr_emisor": 7,
+    "id_usr_receptor": 12,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-04-13T04:46:15.030Z"
   },
   {
     "id_usr_emisor": 16,
-    "id_usr_receptor": 28,
+    "id_usr_receptor": 83,
     "tipo": "ACEPTADA",
-    "fecha": "2021-04-22T17:32:35.318Z"
-  },
-  {
-    "id_usr_emisor": 18,
-    "id_usr_receptor": 61,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-08-29T20:31:32.929Z"
-  },
-  {
-    "id_usr_emisor": 85,
-    "id_usr_receptor": 45,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-03-28T17:44:45.116Z"
-  },
-  {
-    "id_usr_emisor": 68,
-    "id_usr_receptor": 73,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-04-16T17:53:18.099Z"
+    "fecha": "2022-08-03T06:24:22.098Z"
   },
   {
     "id_usr_emisor": 51,
-    "id_usr_receptor": 19,
+    "id_usr_receptor": 58,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-01-10T04:32:22.740Z"
+  },
+  {
+    "id_usr_emisor": 53,
+    "id_usr_receptor": 87,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-01-02T05:28:08.323Z"
+  },
+  {
+    "id_usr_emisor": 50,
+    "id_usr_receptor": 4,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-05-19T16:40:02.579Z"
+  },
+  {
+    "id_usr_emisor": 77,
+    "id_usr_receptor": 99,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-08-10T00:59:42.573Z"
+  },
+  {
+    "id_usr_emisor": 70,
+    "id_usr_receptor": 84,
     "tipo": "SOLICITADA",
-    "fecha": "2021-12-09T06:38:42.537Z"
+    "fecha": "2022-07-10T10:46:57.643Z"
+  },
+  {
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 52,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-10-15T16:49:55.703Z"
+  },
+  {
+    "id_usr_emisor": 15,
+    "id_usr_receptor": 71,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-05-16T17:59:59.261Z"
+  },
+  {
+    "id_usr_emisor": 53,
+    "id_usr_receptor": 59,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-03-08T03:00:29.586Z"
+  },
+  {
+    "id_usr_emisor": 32,
+    "id_usr_receptor": 62,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-12-03T11:30:11.318Z"
+  },
+  {
+    "id_usr_emisor": 79,
+    "id_usr_receptor": 96,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-09-07T05:43:58.493Z"
+  },
+  {
+    "id_usr_emisor": 57,
+    "id_usr_receptor": 57,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-08-27T03:05:44.602Z"
+  },
+  {
+    "id_usr_emisor": 98,
+    "id_usr_receptor": 96,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-10-22T00:46:45.034Z"
+  },
+  {
+    "id_usr_emisor": 44,
+    "id_usr_receptor": 74,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-02-21T17:23:38.108Z"
+  },
+  {
+    "id_usr_emisor": 93,
+    "id_usr_receptor": 86,
+    "tipo": "SOLICITADA",
+    "fecha": "2019-12-28T07:35:27.179Z"
+  },
+  {
+    "id_usr_emisor": 83,
+    "id_usr_receptor": 36,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-05-06T16:50:59.290Z"
+  },
+  {
+    "id_usr_emisor": 72,
+    "id_usr_receptor": 55,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-08-16T21:47:00.846Z"
+  },
+  {
+    "id_usr_emisor": 15,
+    "id_usr_receptor": 19,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-11-10T22:39:33.845Z"
+  },
+  {
+    "id_usr_emisor": 42,
+    "id_usr_receptor": 73,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-04-08T16:06:31.481Z"
+  },
+  {
+    "id_usr_emisor": 74,
+    "id_usr_receptor": 76,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-10-02T12:57:47.517Z"
+  },
+  {
+    "id_usr_emisor": 73,
+    "id_usr_receptor": 80,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-10-18T05:02:45.289Z"
+  },
+  {
+    "id_usr_emisor": 68,
+    "id_usr_receptor": 41,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-07-17T21:50:44.533Z"
+  },
+  {
+    "id_usr_emisor": 63,
+    "id_usr_receptor": 46,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-09-21T08:08:49.769Z"
+  },
+  {
+    "id_usr_emisor": 38,
+    "id_usr_receptor": 49,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-09-25T06:01:56.346Z"
+  },
+  {
+    "id_usr_emisor": 45,
+    "id_usr_receptor": 59,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-10-10T12:21:57.258Z"
+  },
+  {
+    "id_usr_emisor": 90,
+    "id_usr_receptor": 74,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-06-03T10:09:46.288Z"
+  },
+  {
+    "id_usr_emisor": 59,
+    "id_usr_receptor": 5,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-08-12T09:53:58.234Z"
+  },
+  {
+    "id_usr_emisor": 45,
+    "id_usr_receptor": 79,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-04-17T22:47:31.190Z"
+  },
+  {
+    "id_usr_emisor": 31,
+    "id_usr_receptor": 64,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-02-05T00:42:48.130Z"
+  },
+  {
+    "id_usr_emisor": 10,
+    "id_usr_receptor": 15,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-07-07T17:08:10.483Z"
+  },
+  {
+    "id_usr_emisor": 16,
+    "id_usr_receptor": 70,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-06-16T05:38:10.871Z"
+  },
+  {
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 100,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-01-20T01:15:10.347Z"
+  },
+  {
+    "id_usr_emisor": 52,
+    "id_usr_receptor": 44,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-12-02T02:03:56.257Z"
+  },
+  {
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 49,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-03-23T13:45:36.409Z"
+  },
+  {
+    "id_usr_emisor": 56,
+    "id_usr_receptor": 97,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-12-21T04:48:28.718Z"
+  },
+  {
+    "id_usr_emisor": 73,
+    "id_usr_receptor": 48,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-05-21T12:30:11.295Z"
+  },
+  {
+    "id_usr_emisor": 30,
+    "id_usr_receptor": 43,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-01-29T01:16:38.503Z"
+  },
+  {
+    "id_usr_emisor": 15,
+    "id_usr_receptor": 37,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-02-16T05:57:41.333Z"
+  },
+  {
+    "id_usr_emisor": 46,
+    "id_usr_receptor": 91,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-07-04T14:33:23.463Z"
+  },
+  {
+    "id_usr_emisor": 78,
+    "id_usr_receptor": 86,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-05-03T09:50:44.611Z"
+  },
+  {
+    "id_usr_emisor": 26,
+    "id_usr_receptor": 34,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-11-10T14:41:37.957Z"
+  },
+  {
+    "id_usr_emisor": 79,
+    "id_usr_receptor": 6,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-01-16T05:37:35.035Z"
+  },
+  {
+    "id_usr_emisor": 7,
+    "id_usr_receptor": 7,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-03-30T16:40:22.546Z"
+  },
+  {
+    "id_usr_emisor": 86,
+    "id_usr_receptor": 85,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-01-15T15:41:59.838Z"
+  },
+  {
+    "id_usr_emisor": 51,
+    "id_usr_receptor": 54,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-04-20T03:29:47.507Z"
+  },
+  {
+    "id_usr_emisor": 82,
+    "id_usr_receptor": 42,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-08-15T23:36:08.160Z"
+  },
+  {
+    "id_usr_emisor": 28,
+    "id_usr_receptor": 53,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-11-19T03:02:31.667Z"
+  },
+  {
+    "id_usr_emisor": 49,
+    "id_usr_receptor": 7,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-03-26T18:04:56.035Z"
+  },
+  {
+    "id_usr_emisor": 16,
+    "id_usr_receptor": 92,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-09-24T22:18:18.451Z"
+  },
+  {
+    "id_usr_emisor": 73,
+    "id_usr_receptor": 4,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-03-11T01:06:52.204Z"
+  },
+  {
+    "id_usr_emisor": 90,
+    "id_usr_receptor": 92,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-05-02T03:30:36.824Z"
+  },
+  {
+    "id_usr_emisor": 91,
+    "id_usr_receptor": 49,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-04-20T10:22:10.998Z"
+  },
+  {
+    "id_usr_emisor": 69,
+    "id_usr_receptor": 40,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-12-30T22:30:50.142Z"
+  },
+  {
+    "id_usr_emisor": 67,
+    "id_usr_receptor": 36,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-05-05T19:30:18.347Z"
+  },
+  {
+    "id_usr_emisor": 100,
+    "id_usr_receptor": 36,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-04-19T22:49:36.667Z"
+  },
+  {
+    "id_usr_emisor": 19,
+    "id_usr_receptor": 8,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-03-25T05:47:42.646Z"
+  },
+  {
+    "id_usr_emisor": 52,
+    "id_usr_receptor": 42,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-10-20T19:15:55.446Z"
+  },
+  {
+    "id_usr_emisor": 68,
+    "id_usr_receptor": 49,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-04-19T04:48:05.124Z"
+  },
+  {
+    "id_usr_emisor": 82,
+    "id_usr_receptor": 63,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-01-05T18:22:49.649Z"
+  },
+  {
+    "id_usr_emisor": 33,
+    "id_usr_receptor": 40,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-10-01T14:16:30.300Z"
+  },
+  {
+    "id_usr_emisor": 78,
+    "id_usr_receptor": 87,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-12-22T23:39:49.102Z"
+  },
+  {
+    "id_usr_emisor": 2,
+    "id_usr_receptor": 86,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-12-25T07:37:57.559Z"
+  },
+  {
+    "id_usr_emisor": 26,
+    "id_usr_receptor": 22,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-07-07T00:43:46.773Z"
+  },
+  {
+    "id_usr_emisor": 56,
+    "id_usr_receptor": 22,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-07-14T01:44:33.184Z"
+  },
+  {
+    "id_usr_emisor": 35,
+    "id_usr_receptor": 54,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-05-30T01:17:03.197Z"
+  },
+  {
+    "id_usr_emisor": 93,
+    "id_usr_receptor": 20,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-02-28T21:59:24.682Z"
+  },
+  {
+    "id_usr_emisor": 59,
+    "id_usr_receptor": 61,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-08-18T23:37:36.411Z"
+  },
+  {
+    "id_usr_emisor": 37,
+    "id_usr_receptor": 1,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-05-30T00:21:43.056Z"
+  },
+  {
+    "id_usr_emisor": 1,
+    "id_usr_receptor": 69,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-01-10T07:22:45.069Z"
+  },
+  {
+    "id_usr_emisor": 38,
+    "id_usr_receptor": 40,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-05-17T00:11:01.121Z"
+  },
+  {
+    "id_usr_emisor": 31,
+    "id_usr_receptor": 74,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-08-16T13:54:07.328Z"
+  },
+  {
+    "id_usr_emisor": 69,
+    "id_usr_receptor": 28,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-07-11T20:07:29.954Z"
+  },
+  {
+    "id_usr_emisor": 7,
+    "id_usr_receptor": 30,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-11-17T11:48:53.058Z"
+  },
+  {
+    "id_usr_emisor": 81,
+    "id_usr_receptor": 68,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-04-11T16:58:44.149Z"
+  },
+  {
+    "id_usr_emisor": 28,
+    "id_usr_receptor": 31,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-11-08T16:31:12.902Z"
+  },
+  {
+    "id_usr_emisor": 9,
+    "id_usr_receptor": 6,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-05-11T02:50:56.572Z"
+  },
+  {
+    "id_usr_emisor": 42,
+    "id_usr_receptor": 53,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-10-04T10:50:55.362Z"
+  },
+  {
+    "id_usr_emisor": 95,
+    "id_usr_receptor": 31,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-04-16T16:58:30.084Z"
+  },
+  {
+    "id_usr_emisor": 5,
+    "id_usr_receptor": 85,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-12-20T03:29:19.716Z"
+  },
+  {
+    "id_usr_emisor": 43,
+    "id_usr_receptor": 95,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-11-06T02:45:39.289Z"
+  },
+  {
+    "id_usr_emisor": 24,
+    "id_usr_receptor": 42,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-01-14T00:49:28.923Z"
+  },
+  {
+    "id_usr_emisor": 7,
+    "id_usr_receptor": 71,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-09-24T22:34:22.952Z"
+  },
+  {
+    "id_usr_emisor": 30,
+    "id_usr_receptor": 94,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-03-10T08:34:01.598Z"
+  },
+  {
+    "id_usr_emisor": 20,
+    "id_usr_receptor": 5,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-08-15T22:55:06.161Z"
+  },
+  {
+    "id_usr_emisor": 19,
+    "id_usr_receptor": 99,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-06-08T14:00:21.046Z"
+  },
+  {
+    "id_usr_emisor": 42,
+    "id_usr_receptor": 61,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-09-22T04:07:11.844Z"
+  },
+  {
+    "id_usr_emisor": 90,
+    "id_usr_receptor": 59,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-07-24T09:58:02.134Z"
+  },
+  {
+    "id_usr_emisor": 15,
+    "id_usr_receptor": 74,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-04-27T17:07:13.722Z"
+  },
+  {
+    "id_usr_emisor": 26,
+    "id_usr_receptor": 9,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-03-16T17:16:01.886Z"
+  },
+  {
+    "id_usr_emisor": 40,
+    "id_usr_receptor": 89,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-02-28T07:44:06.698Z"
+  },
+  {
+    "id_usr_emisor": 44,
+    "id_usr_receptor": 50,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-12-18T10:30:30.484Z"
+  },
+  {
+    "id_usr_emisor": 63,
+    "id_usr_receptor": 25,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-10-04T02:20:55.416Z"
+  },
+  {
+    "id_usr_emisor": 86,
+    "id_usr_receptor": 75,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-09-14T11:13:47.287Z"
+  },
+  {
+    "id_usr_emisor": 8,
+    "id_usr_receptor": 38,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-06-05T05:23:53.895Z"
+  },
+  {
+    "id_usr_emisor": 94,
+    "id_usr_receptor": 67,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-10-31T23:58:56.053Z"
+  },
+  {
+    "id_usr_emisor": 63,
+    "id_usr_receptor": 63,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-02-01T05:08:40.791Z"
+  },
+  {
+    "id_usr_emisor": 38,
+    "id_usr_receptor": 53,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-09-10T15:42:19.792Z"
+  },
+  {
+    "id_usr_emisor": 68,
+    "id_usr_receptor": 14,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-06-10T15:02:35.919Z"
+  },
+  {
+    "id_usr_emisor": 94,
+    "id_usr_receptor": 64,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-10-10T19:03:43.101Z"
+  },
+  {
+    "id_usr_emisor": 36,
+    "id_usr_receptor": 76,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-06-29T10:09:53.222Z"
+  },
+  {
+    "id_usr_emisor": 62,
+    "id_usr_receptor": 23,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-06-08T03:39:42.918Z"
+  },
+  {
+    "id_usr_emisor": 16,
+    "id_usr_receptor": 11,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-03-03T01:31:03.477Z"
+  },
+  {
+    "id_usr_emisor": 88,
+    "id_usr_receptor": 55,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-03-07T06:24:11.616Z"
+  },
+  {
+    "id_usr_emisor": 18,
+    "id_usr_receptor": 41,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-04-01T07:21:44.675Z"
+  },
+  {
+    "id_usr_emisor": 15,
+    "id_usr_receptor": 39,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-01-04T05:21:04.966Z"
+  },
+  {
+    "id_usr_emisor": 73,
+    "id_usr_receptor": 65,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-11-16T15:56:50.859Z"
+  },
+  {
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 42,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-09-01T10:27:18.213Z"
+  },
+  {
+    "id_usr_emisor": 29,
+    "id_usr_receptor": 89,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-09-29T20:57:43.097Z"
+  },
+  {
+    "id_usr_emisor": 79,
+    "id_usr_receptor": 39,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-07-16T17:13:51.305Z"
+  },
+  {
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 43,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-01-31T17:49:41.029Z"
+  },
+  {
+    "id_usr_emisor": 28,
+    "id_usr_receptor": 22,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-09-24T14:28:15.693Z"
+  },
+  {
+    "id_usr_emisor": 65,
+    "id_usr_receptor": 47,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-03-03T11:08:04.710Z"
+  },
+  {
+    "id_usr_emisor": 28,
+    "id_usr_receptor": 44,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-05-18T09:28:12.443Z"
+  },
+  {
+    "id_usr_emisor": 82,
+    "id_usr_receptor": 91,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-10-22T17:35:23.134Z"
+  },
+  {
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 43,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-09-01T23:36:04.236Z"
+  },
+  {
+    "id_usr_emisor": 38,
+    "id_usr_receptor": 95,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-04-08T01:54:17.611Z"
+  },
+  {
+    "id_usr_emisor": 16,
+    "id_usr_receptor": 42,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-11-29T19:28:25.434Z"
+  },
+  {
+    "id_usr_emisor": 56,
+    "id_usr_receptor": 19,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-10-04T21:38:47.757Z"
+  },
+  {
+    "id_usr_emisor": 95,
+    "id_usr_receptor": 56,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-01-21T21:14:31.033Z"
+  },
+  {
+    "id_usr_emisor": 22,
+    "id_usr_receptor": 85,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-01-26T03:08:47.229Z"
+  },
+  {
+    "id_usr_emisor": 34,
+    "id_usr_receptor": 77,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-02-05T13:13:44.410Z"
+  },
+  {
+    "id_usr_emisor": 69,
+    "id_usr_receptor": 52,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-04-09T23:22:18.815Z"
+  },
+  {
+    "id_usr_emisor": 52,
+    "id_usr_receptor": 70,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-07-08T14:59:33.834Z"
+  },
+  {
+    "id_usr_emisor": 9,
+    "id_usr_receptor": 61,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-10-13T13:25:45.244Z"
+  },
+  {
+    "id_usr_emisor": 3,
+    "id_usr_receptor": 26,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-05-27T12:54:44.015Z"
+  },
+  {
+    "id_usr_emisor": 30,
+    "id_usr_receptor": 16,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-03-27T13:38:53.985Z"
+  },
+  {
+    "id_usr_emisor": 45,
+    "id_usr_receptor": 86,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-07-10T06:08:19.562Z"
+  },
+  {
+    "id_usr_emisor": 76,
+    "id_usr_receptor": 18,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-09-04T01:38:57.484Z"
+  },
+  {
+    "id_usr_emisor": 52,
+    "id_usr_receptor": 84,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-04-15T05:47:00.009Z"
+  },
+  {
+    "id_usr_emisor": 93,
+    "id_usr_receptor": 35,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-03-14T02:01:21.491Z"
+  },
+  {
+    "id_usr_emisor": 34,
+    "id_usr_receptor": 87,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-11-24T07:18:15.528Z"
+  },
+  {
+    "id_usr_emisor": 25,
+    "id_usr_receptor": 86,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-08-22T16:16:09.165Z"
+  },
+  {
+    "id_usr_emisor": 5,
+    "id_usr_receptor": 17,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-06-21T21:38:00.583Z"
+  },
+  {
+    "id_usr_emisor": 63,
+    "id_usr_receptor": 57,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-09-19T20:54:00.486Z"
+  },
+  {
+    "id_usr_emisor": 68,
+    "id_usr_receptor": 49,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-02-06T20:53:46.994Z"
+  },
+  {
+    "id_usr_emisor": 30,
+    "id_usr_receptor": 65,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-10-07T03:20:30.795Z"
+  },
+  {
+    "id_usr_emisor": 71,
+    "id_usr_receptor": 56,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-10-21T10:23:07.170Z"
+  },
+  {
+    "id_usr_emisor": 46,
+    "id_usr_receptor": 39,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-03-03T13:37:41.099Z"
+  },
+  {
+    "id_usr_emisor": 51,
+    "id_usr_receptor": 82,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-01-22T07:04:32.495Z"
+  },
+  {
+    "id_usr_emisor": 48,
+    "id_usr_receptor": 21,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-11-23T04:22:55.029Z"
+  },
+  {
+    "id_usr_emisor": 26,
+    "id_usr_receptor": 67,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-11-02T22:23:02.643Z"
+  },
+  {
+    "id_usr_emisor": 96,
+    "id_usr_receptor": 9,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-09-18T13:30:16.048Z"
   },
   {
     "id_usr_emisor": 81,
     "id_usr_receptor": 6,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-01-09T16:35:09.503Z"
-  },
-  {
-    "id_usr_emisor": 39,
-    "id_usr_receptor": 45,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-08-05T14:30:20.270Z"
-  },
-  {
-    "id_usr_emisor": 78,
-    "id_usr_receptor": 32,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-09-21T14:54:33.964Z"
-  },
-  {
-    "id_usr_emisor": 36,
-    "id_usr_receptor": 56,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-05-13T09:15:42.821Z"
-  },
-  {
-    "id_usr_emisor": 25,
-    "id_usr_receptor": 89,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-12-14T15:40:26.647Z"
-  },
-  {
-    "id_usr_emisor": 20,
-    "id_usr_receptor": 63,
     "tipo": "RECHAZADA",
-    "fecha": "2020-04-11T08:20:10.955Z"
+    "fecha": "2020-10-05T11:48:59.800Z"
   },
   {
-    "id_usr_emisor": 73,
-    "id_usr_receptor": 8,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-12-14T02:36:42.533Z"
-  },
-  {
-    "id_usr_emisor": 38,
-    "id_usr_receptor": 15,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-11-06T21:53:41.873Z"
-  },
-  {
-    "id_usr_emisor": 88,
-    "id_usr_receptor": 99,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-07-11T06:36:12.349Z"
-  },
-  {
-    "id_usr_emisor": 81,
-    "id_usr_receptor": 81,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-03-17T02:42:17.051Z"
-  },
-  {
-    "id_usr_emisor": 92,
-    "id_usr_receptor": 67,
+    "id_usr_emisor": 15,
+    "id_usr_receptor": 58,
     "tipo": "RECHAZADA",
-    "fecha": "2023-08-25T18:18:23.879Z"
-  },
-  {
-    "id_usr_emisor": 73,
-    "id_usr_receptor": 2,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-04-29T22:17:31.212Z"
-  },
-  {
-    "id_usr_emisor": 72,
-    "id_usr_receptor": 84,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-08-23T16:57:44.870Z"
-  },
-  {
-    "id_usr_emisor": 70,
-    "id_usr_receptor": 54,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-10-22T05:39:19.415Z"
-  },
-  {
-    "id_usr_emisor": 35,
-    "id_usr_receptor": 50,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-04-18T23:29:30.059Z"
-  },
-  {
-    "id_usr_emisor": 86,
-    "id_usr_receptor": 81,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-05-01T00:54:01.749Z"
-  },
-  {
-    "id_usr_emisor": 28,
-    "id_usr_receptor": 17,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-05-20T23:41:26.021Z"
-  },
-  {
-    "id_usr_emisor": 95,
-    "id_usr_receptor": 9,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-07-17T13:36:16.721Z"
-  },
-  {
-    "id_usr_emisor": 58,
-    "id_usr_receptor": 77,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-12-06T11:35:50.675Z"
-  },
-  {
-    "id_usr_emisor": 70,
-    "id_usr_receptor": 13,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-02-08T19:37:06.723Z"
-  },
-  {
-    "id_usr_emisor": 72,
-    "id_usr_receptor": 90,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-10-22T02:45:51.681Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 33,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-07-05T18:16:10.698Z"
-  },
-  {
-    "id_usr_emisor": 6,
-    "id_usr_receptor": 31,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-12-02T03:34:35.977Z"
-  },
-  {
-    "id_usr_emisor": 94,
-    "id_usr_receptor": 3,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-06-29T02:08:59.794Z"
-  },
-  {
-    "id_usr_emisor": 22,
-    "id_usr_receptor": 67,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-11-29T11:21:56.820Z"
-  },
-  {
-    "id_usr_emisor": 25,
-    "id_usr_receptor": 28,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-01-31T17:02:22.909Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 18,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-01-11T07:46:01.707Z"
-  },
-  {
-    "id_usr_emisor": 10,
-    "id_usr_receptor": 11,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-03-11T03:19:25.224Z"
-  },
-  {
-    "id_usr_emisor": 92,
-    "id_usr_receptor": 51,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-05-19T03:44:39.050Z"
-  },
-  {
-    "id_usr_emisor": 30,
-    "id_usr_receptor": 36,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-12-24T04:45:59.843Z"
-  },
-  {
-    "id_usr_emisor": 61,
-    "id_usr_receptor": 62,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-12-11T09:08:45.701Z"
-  },
-  {
-    "id_usr_emisor": 24,
-    "id_usr_receptor": 85,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-08-01T21:54:03.117Z"
-  },
-  {
-    "id_usr_emisor": 24,
-    "id_usr_receptor": 91,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-03-24T19:02:34.935Z"
-  },
-  {
-    "id_usr_emisor": 73,
-    "id_usr_receptor": 80,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-04-04T11:53:33.531Z"
-  },
-  {
-    "id_usr_emisor": 26,
-    "id_usr_receptor": 25,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-04-18T03:34:56.769Z"
-  },
-  {
-    "id_usr_emisor": 60,
-    "id_usr_receptor": 94,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-03-11T21:41:48.999Z"
-  },
-  {
-    "id_usr_emisor": 26,
-    "id_usr_receptor": 25,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-11-17T06:28:30.883Z"
-  },
-  {
-    "id_usr_emisor": 21,
-    "id_usr_receptor": 73,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-04-13T13:53:27.176Z"
-  },
-  {
-    "id_usr_emisor": 72,
-    "id_usr_receptor": 70,
-    "tipo": "DESAGREGADA",
-    "fecha": "2023-06-16T22:58:26.945Z"
-  },
-  {
-    "id_usr_emisor": 18,
-    "id_usr_receptor": 56,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-10-26T17:15:43.083Z"
-  },
-  {
-    "id_usr_emisor": 58,
-    "id_usr_receptor": 18,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-11-01T23:30:56.319Z"
-  },
-  {
-    "id_usr_emisor": 74,
-    "id_usr_receptor": 67,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-10-03T17:33:23.711Z"
-  },
-  {
-    "id_usr_emisor": 19,
-    "id_usr_receptor": 24,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-03-29T06:33:34.875Z"
-  },
-  {
-    "id_usr_emisor": 50,
-    "id_usr_receptor": 15,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-09-24T08:48:40.451Z"
-  },
-  {
-    "id_usr_emisor": 89,
-    "id_usr_receptor": 73,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-02-08T06:30:50.237Z"
-  },
-  {
-    "id_usr_emisor": 19,
-    "id_usr_receptor": 25,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-02-13T03:59:57.298Z"
-  },
-  {
-    "id_usr_emisor": 42,
-    "id_usr_receptor": 10,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-03-13T21:43:26.445Z"
-  },
-  {
-    "id_usr_emisor": 38,
-    "id_usr_receptor": 94,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-07-26T06:30:12.563Z"
-  },
-  {
-    "id_usr_emisor": 97,
-    "id_usr_receptor": 51,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-01-11T07:40:06.676Z"
-  },
-  {
-    "id_usr_emisor": 14,
-    "id_usr_receptor": 92,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-09-17T22:59:09.614Z"
-  },
-  {
-    "id_usr_emisor": 64,
-    "id_usr_receptor": 43,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-03-15T04:53:57.221Z"
-  },
-  {
-    "id_usr_emisor": 60,
-    "id_usr_receptor": 38,
-    "tipo": "SOLICITADA",
-    "fecha": "2022-02-16T02:55:01.531Z"
-  },
-  {
-    "id_usr_emisor": 96,
-    "id_usr_receptor": 33,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-06-27T10:38:08.052Z"
-  },
-  {
-    "id_usr_emisor": 30,
-    "id_usr_receptor": 48,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-10-12T01:50:44.230Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 74,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-07-02T05:53:07.883Z"
-  },
-  {
-    "id_usr_emisor": 20,
-    "id_usr_receptor": 60,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-12-14T17:54:22.809Z"
-  },
-  {
-    "id_usr_emisor": 33,
-    "id_usr_receptor": 85,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-12-19T06:17:27.214Z"
-  },
-  {
-    "id_usr_emisor": 7,
-    "id_usr_receptor": 63,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-06-20T04:41:30.107Z"
-  },
-  {
-    "id_usr_emisor": 44,
-    "id_usr_receptor": 11,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-09-07T04:30:20.873Z"
-  },
-  {
-    "id_usr_emisor": 92,
-    "id_usr_receptor": 21,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-06-01T18:24:45.638Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 77,
-    "tipo": "SOLICITADA",
-    "fecha": "2021-09-20T17:30:33.974Z"
-  },
-  {
-    "id_usr_emisor": 25,
-    "id_usr_receptor": 47,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-01-06T21:25:36.445Z"
-  },
-  {
-    "id_usr_emisor": 65,
-    "id_usr_receptor": 84,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-12-28T00:41:25.799Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 99,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-07-19T15:31:54.962Z"
-  },
-  {
-    "id_usr_emisor": 93,
-    "id_usr_receptor": 32,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-07-13T05:22:51.174Z"
-  },
-  {
-    "id_usr_emisor": 13,
-    "id_usr_receptor": 31,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-12-09T19:30:31.616Z"
-  },
-  {
-    "id_usr_emisor": 47,
-    "id_usr_receptor": 35,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-05-20T19:08:28.414Z"
-  },
-  {
-    "id_usr_emisor": 69,
-    "id_usr_receptor": 13,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-11-30T03:21:51.744Z"
-  },
-  {
-    "id_usr_emisor": 77,
-    "id_usr_receptor": 34,
-    "tipo": "ACEPTADA",
-    "fecha": "2021-08-09T03:43:03.810Z"
-  },
-  {
-    "id_usr_emisor": 70,
-    "id_usr_receptor": 8,
-    "tipo": "ACEPTADA",
-    "fecha": "2023-06-19T20:23:01.521Z"
-  },
-  {
-    "id_usr_emisor": 25,
-    "id_usr_receptor": 36,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-09-30T02:51:53.233Z"
-  },
-  {
-    "id_usr_emisor": 96,
-    "id_usr_receptor": 17,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-11-23T00:49:18.645Z"
-  },
-  {
-    "id_usr_emisor": 89,
-    "id_usr_receptor": 44,
-    "tipo": "DESAGREGADA",
-    "fecha": "2020-03-22T15:57:57.496Z"
-  },
-  {
-    "id_usr_emisor": 66,
-    "id_usr_receptor": 60,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-02-27T02:42:36.254Z"
-  },
-  {
-    "id_usr_emisor": 47,
-    "id_usr_receptor": 59,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-01-02T19:22:19.975Z"
-  },
-  {
-    "id_usr_emisor": 4,
-    "id_usr_receptor": 96,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-11-09T20:44:08.128Z"
-  },
-  {
-    "id_usr_emisor": 4,
-    "id_usr_receptor": 31,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-02-02T23:20:28.596Z"
-  },
-  {
-    "id_usr_emisor": 14,
-    "id_usr_receptor": 75,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-05-23T18:18:44.121Z"
-  },
-  {
-    "id_usr_emisor": 48,
-    "id_usr_receptor": 3,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-07-27T16:39:21.203Z"
-  },
-  {
-    "id_usr_emisor": 87,
-    "id_usr_receptor": 86,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-12-27T16:33:01.642Z"
-  },
-  {
-    "id_usr_emisor": 98,
-    "id_usr_receptor": 29,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-11-21T04:02:26.007Z"
-  },
-  {
-    "id_usr_emisor": 30,
-    "id_usr_receptor": 86,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-07-21T21:01:12.260Z"
-  },
-  {
-    "id_usr_emisor": 61,
-    "id_usr_receptor": 69,
-    "tipo": "SOLICITADA",
-    "fecha": "2024-08-18T21:28:51.059Z"
-  },
-  {
-    "id_usr_emisor": 81,
-    "id_usr_receptor": 20,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-09-09T15:17:42.024Z"
-  },
-  {
-    "id_usr_emisor": 35,
-    "id_usr_receptor": 93,
-    "tipo": "ACEPTADA",
-    "fecha": "2020-05-08T23:38:44.130Z"
-  },
-  {
-    "id_usr_emisor": 3,
-    "id_usr_receptor": 73,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-08-23T15:00:48.414Z"
+    "fecha": "2023-02-27T20:37:34.278Z"
   },
   {
     "id_usr_emisor": 90,
-    "id_usr_receptor": 26,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-09-22T11:52:20.651Z"
-  },
-  {
-    "id_usr_emisor": 5,
-    "id_usr_receptor": 58,
+    "id_usr_receptor": 31,
     "tipo": "RECHAZADA",
-    "fecha": "2024-04-27T07:40:59.107Z"
+    "fecha": "2022-05-30T08:58:25.744Z"
   },
   {
-    "id_usr_emisor": 23,
-    "id_usr_receptor": 79,
-    "tipo": "RECHAZADA",
-    "fecha": "2022-03-18T02:23:35.099Z"
-  },
-  {
-    "id_usr_emisor": 63,
-    "id_usr_receptor": 68,
-    "tipo": "RECHAZADA",
-    "fecha": "2021-01-03T00:41:29.257Z"
-  },
-  {
-    "id_usr_emisor": 47,
-    "id_usr_receptor": 91,
-    "tipo": "RECHAZADA",
-    "fecha": "2020-01-03T05:24:05.934Z"
-  },
-  {
-    "id_usr_emisor": 23,
-    "id_usr_receptor": 67,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-05-28T07:22:20.373Z"
-  },
-  {
-    "id_usr_emisor": 78,
-    "id_usr_receptor": 24,
-    "tipo": "SOLICITADA",
-    "fecha": "2023-04-17T04:28:24.864Z"
-  },
-  {
-    "id_usr_emisor": 46,
-    "id_usr_receptor": 50,
-    "tipo": "RECHAZADA",
-    "fecha": "2023-03-30T11:02:19.006Z"
-  },
-  {
-    "id_usr_emisor": 99,
-    "id_usr_receptor": 14,
+    "id_usr_emisor": 18,
+    "id_usr_receptor": 9,
     "tipo": "ACEPTADA",
-    "fecha": "2020-05-08T03:58:23.794Z"
+    "fecha": "2022-11-20T18:45:14.979Z"
   },
   {
-    "id_usr_emisor": 11,
-    "id_usr_receptor": 19,
-    "tipo": "DESAGREGADA",
-    "fecha": "2021-12-18T11:29:58.524Z"
-  },
-  {
-    "id_usr_emisor": 79,
-    "id_usr_receptor": 19,
-    "tipo": "SOLICITADA",
-    "fecha": "2020-11-02T02:23:57.049Z"
-  },
-  {
-    "id_usr_emisor": 4,
-    "id_usr_receptor": 30,
-    "tipo": "DESAGREGADA",
-    "fecha": "2022-05-24T00:17:39.436Z"
-  },
-  {
-    "id_usr_emisor": 81,
-    "id_usr_receptor": 38,
-    "tipo": "ACEPTADA",
-    "fecha": "2022-03-30T14:27:12.517Z"
-  },
-  {
-    "id_usr_emisor": 35,
-    "id_usr_receptor": 81,
+    "id_usr_emisor": 80,
+    "id_usr_receptor": 37,
     "tipo": "RECHAZADA",
-    "fecha": "2023-03-30T08:36:58.876Z"
+    "fecha": "2020-03-26T16:21:16.696Z"
   },
   {
-    "id_usr_emisor": 57,
-    "id_usr_receptor": 90,
-    "tipo": "DESAGREGADA",
-    "fecha": "2024-03-14T02:28:11.097Z"
+    "id_usr_emisor": 8,
+    "id_usr_receptor": 66,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-01-02T11:26:59.349Z"
+  },
+  {
+    "id_usr_emisor": 51,
+    "id_usr_receptor": 73,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-01-21T14:22:00.164Z"
   },
   {
     "id_usr_emisor": 12,
-    "id_usr_receptor": 40,
-    "tipo": "ACEPTADA",
-    "fecha": "2024-11-10T03:34:52.281Z"
+    "id_usr_receptor": 95,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-04-03T09:07:26.743Z"
   },
   {
-    "id_usr_emisor": 59,
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 7,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-03-11T04:58:13.073Z"
+  },
+  {
+    "id_usr_emisor": 38,
+    "id_usr_receptor": 95,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-06-13T21:48:30.969Z"
+  },
+  {
+    "id_usr_emisor": 28,
+    "id_usr_receptor": 7,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-11-05T19:11:13.673Z"
+  },
+  {
+    "id_usr_emisor": 76,
+    "id_usr_receptor": 4,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-05-10T17:46:18.459Z"
+  },
+  {
+    "id_usr_emisor": 1,
+    "id_usr_receptor": 10,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-11-12T09:32:09.193Z"
+  },
+  {
+    "id_usr_emisor": 31,
+    "id_usr_receptor": 81,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-04-25T10:49:57.389Z"
+  },
+  {
+    "id_usr_emisor": 37,
+    "id_usr_receptor": 27,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-03-27T11:46:31.890Z"
+  },
+  {
+    "id_usr_emisor": 79,
+    "id_usr_receptor": 5,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-12-13T02:59:30.671Z"
+  },
+  {
+    "id_usr_emisor": 21,
+    "id_usr_receptor": 3,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-04-26T04:56:26.874Z"
+  },
+  {
+    "id_usr_emisor": 74,
+    "id_usr_receptor": 13,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-07-25T09:41:43.497Z"
+  },
+  {
+    "id_usr_emisor": 44,
+    "id_usr_receptor": 34,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-05-11T20:01:40.689Z"
+  },
+  {
+    "id_usr_emisor": 28,
+    "id_usr_receptor": 50,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-07-19T20:06:47.746Z"
+  },
+  {
+    "id_usr_emisor": 89,
+    "id_usr_receptor": 77,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-03-20T16:36:41.056Z"
+  },
+  {
+    "id_usr_emisor": 81,
+    "id_usr_receptor": 28,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-05-05T19:57:49.475Z"
+  },
+  {
+    "id_usr_emisor": 98,
+    "id_usr_receptor": 99,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-10-25T11:24:35.245Z"
+  },
+  {
+    "id_usr_emisor": 63,
+    "id_usr_receptor": 20,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-09-22T22:24:22.638Z"
+  },
+  {
+    "id_usr_emisor": 89,
+    "id_usr_receptor": 41,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-06-19T06:41:13.137Z"
+  },
+  {
+    "id_usr_emisor": 66,
+    "id_usr_receptor": 69,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-02-13T01:42:57.046Z"
+  },
+  {
+    "id_usr_emisor": 76,
+    "id_usr_receptor": 52,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-04-28T05:23:32.678Z"
+  },
+  {
+    "id_usr_emisor": 46,
+    "id_usr_receptor": 11,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-01-02T05:36:09.024Z"
+  },
+  {
+    "id_usr_emisor": 4,
+    "id_usr_receptor": 46,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-12-09T04:56:42.797Z"
+  },
+  {
+    "id_usr_emisor": 80,
+    "id_usr_receptor": 73,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-10-16T07:57:23.473Z"
+  },
+  {
+    "id_usr_emisor": 96,
+    "id_usr_receptor": 6,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-06-26T04:26:14.233Z"
+  },
+  {
+    "id_usr_emisor": 69,
+    "id_usr_receptor": 49,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-09-01T12:00:20.714Z"
+  },
+  {
+    "id_usr_emisor": 61,
+    "id_usr_receptor": 23,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-04-02T14:14:27.391Z"
+  },
+  {
+    "id_usr_emisor": 93,
+    "id_usr_receptor": 6,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-07-17T17:41:47.727Z"
+  },
+  {
+    "id_usr_emisor": 77,
+    "id_usr_receptor": 88,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-09-27T12:43:35.795Z"
+  },
+  {
+    "id_usr_emisor": 35,
+    "id_usr_receptor": 8,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-02-12T19:01:01.919Z"
+  },
+  {
+    "id_usr_emisor": 84,
+    "id_usr_receptor": 36,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-08-08T23:06:11.046Z"
+  },
+  {
+    "id_usr_emisor": 57,
+    "id_usr_receptor": 21,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-10-28T11:58:37.519Z"
+  },
+  {
+    "id_usr_emisor": 74,
+    "id_usr_receptor": 89,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-09-07T06:39:34.513Z"
+  },
+  {
+    "id_usr_emisor": 56,
+    "id_usr_receptor": 12,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-02-19T17:28:49.005Z"
+  },
+  {
+    "id_usr_emisor": 38,
+    "id_usr_receptor": 90,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-02-15T22:23:02.008Z"
+  },
+  {
+    "id_usr_emisor": 24,
+    "id_usr_receptor": 75,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-04-22T00:20:57.336Z"
+  },
+  {
+    "id_usr_emisor": 36,
+    "id_usr_receptor": 40,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-04-04T02:12:25.940Z"
+  },
+  {
+    "id_usr_emisor": 77,
+    "id_usr_receptor": 30,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-05-10T17:03:30.246Z"
+  },
+  {
+    "id_usr_emisor": 34,
+    "id_usr_receptor": 14,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-05-05T01:32:29.878Z"
+  },
+  {
+    "id_usr_emisor": 99,
+    "id_usr_receptor": 55,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-10-01T03:36:41.171Z"
+  },
+  {
+    "id_usr_emisor": 32,
+    "id_usr_receptor": 7,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-10-22T22:20:02.034Z"
+  },
+  {
+    "id_usr_emisor": 57,
+    "id_usr_receptor": 32,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-09-02T03:40:08.066Z"
+  },
+  {
+    "id_usr_emisor": 90,
+    "id_usr_receptor": 32,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-03-04T08:20:03.257Z"
+  },
+  {
+    "id_usr_emisor": 57,
+    "id_usr_receptor": 74,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-02-09T21:43:52.679Z"
+  },
+  {
+    "id_usr_emisor": 16,
+    "id_usr_receptor": 15,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-02-07T11:46:21.904Z"
+  },
+  {
+    "id_usr_emisor": 41,
+    "id_usr_receptor": 26,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-06-22T19:00:26.119Z"
+  },
+  {
+    "id_usr_emisor": 40,
+    "id_usr_receptor": 88,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-09-14T06:23:24.206Z"
+  },
+  {
+    "id_usr_emisor": 77,
+    "id_usr_receptor": 70,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-12-01T16:12:59.237Z"
+  },
+  {
+    "id_usr_emisor": 5,
+    "id_usr_receptor": 29,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-07-03T16:56:37.757Z"
+  },
+  {
+    "id_usr_emisor": 70,
+    "id_usr_receptor": 67,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-04-03T19:20:57.029Z"
+  },
+  {
+    "id_usr_emisor": 93,
+    "id_usr_receptor": 40,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-03-30T16:20:25.703Z"
+  },
+  {
+    "id_usr_emisor": 18,
+    "id_usr_receptor": 13,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-06-05T12:53:26.780Z"
+  },
+  {
+    "id_usr_emisor": 32,
+    "id_usr_receptor": 2,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-02-20T19:17:04.258Z"
+  },
+  {
+    "id_usr_emisor": 10,
+    "id_usr_receptor": 73,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-07-14T02:32:14.196Z"
+  },
+  {
+    "id_usr_emisor": 26,
+    "id_usr_receptor": 20,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-01-26T04:55:23.425Z"
+  },
+  {
+    "id_usr_emisor": 53,
+    "id_usr_receptor": 43,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-10-03T13:05:25.340Z"
+  },
+  {
+    "id_usr_emisor": 30,
+    "id_usr_receptor": 9,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-06-04T20:41:36.182Z"
+  },
+  {
+    "id_usr_emisor": 8,
+    "id_usr_receptor": 86,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-10-01T10:44:07.867Z"
+  },
+  {
+    "id_usr_emisor": 45,
+    "id_usr_receptor": 9,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-10-30T01:41:07.505Z"
+  },
+  {
+    "id_usr_emisor": 3,
+    "id_usr_receptor": 25,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-03-03T15:45:09.240Z"
+  },
+  {
+    "id_usr_emisor": 58,
+    "id_usr_receptor": 39,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-03-02T21:11:12.376Z"
+  },
+  {
+    "id_usr_emisor": 52,
+    "id_usr_receptor": 96,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-01-06T15:03:01.253Z"
+  },
+  {
+    "id_usr_emisor": 51,
+    "id_usr_receptor": 73,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-07-12T00:34:09.857Z"
+  },
+  {
+    "id_usr_emisor": 84,
+    "id_usr_receptor": 36,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-05-20T10:06:00.530Z"
+  },
+  {
+    "id_usr_emisor": 9,
+    "id_usr_receptor": 95,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-07-24T00:13:40.933Z"
+  },
+  {
+    "id_usr_emisor": 8,
+    "id_usr_receptor": 47,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-04-29T06:34:36.883Z"
+  },
+  {
+    "id_usr_emisor": 7,
+    "id_usr_receptor": 87,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-04-11T22:39:46.643Z"
+  },
+  {
+    "id_usr_emisor": 79,
+    "id_usr_receptor": 74,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-09-30T20:58:58.101Z"
+  },
+  {
+    "id_usr_emisor": 48,
+    "id_usr_receptor": 47,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-12-22T20:42:42.950Z"
+  },
+  {
+    "id_usr_emisor": 60,
+    "id_usr_receptor": 96,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-04-01T06:42:31.481Z"
+  },
+  {
+    "id_usr_emisor": 98,
+    "id_usr_receptor": 18,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-07-15T22:33:59.349Z"
+  },
+  {
+    "id_usr_emisor": 55,
+    "id_usr_receptor": 87,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-05-04T03:23:22.559Z"
+  },
+  {
+    "id_usr_emisor": 90,
+    "id_usr_receptor": 39,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-06-11T01:18:16.485Z"
+  },
+  {
+    "id_usr_emisor": 19,
+    "id_usr_receptor": 40,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-08-22T23:14:58.425Z"
+  },
+  {
+    "id_usr_emisor": 98,
+    "id_usr_receptor": 96,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-11-26T04:07:06.659Z"
+  },
+  {
+    "id_usr_emisor": 38,
+    "id_usr_receptor": 39,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-07-31T21:24:40.037Z"
+  },
+  {
+    "id_usr_emisor": 56,
+    "id_usr_receptor": 22,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-11-15T12:35:53.742Z"
+  },
+  {
+    "id_usr_emisor": 70,
+    "id_usr_receptor": 36,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-05-25T14:28:32.712Z"
+  },
+  {
+    "id_usr_emisor": 28,
+    "id_usr_receptor": 93,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-07-18T11:59:20.707Z"
+  },
+  {
+    "id_usr_emisor": 65,
+    "id_usr_receptor": 60,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-08-08T21:15:45.464Z"
+  },
+  {
+    "id_usr_emisor": 84,
+    "id_usr_receptor": 10,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-03-28T12:16:20.127Z"
+  },
+  {
+    "id_usr_emisor": 92,
+    "id_usr_receptor": 16,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-06-15T06:52:55.254Z"
+  },
+  {
+    "id_usr_emisor": 86,
+    "id_usr_receptor": 73,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-09-08T07:39:47.420Z"
+  },
+  {
+    "id_usr_emisor": 22,
+    "id_usr_receptor": 55,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-06-05T18:15:30.945Z"
+  },
+  {
+    "id_usr_emisor": 56,
+    "id_usr_receptor": 34,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-07-07T13:58:31.771Z"
+  },
+  {
+    "id_usr_emisor": 22,
+    "id_usr_receptor": 34,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-01-31T16:55:26.044Z"
+  },
+  {
+    "id_usr_emisor": 97,
+    "id_usr_receptor": 44,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-02-01T18:34:38.860Z"
+  },
+  {
+    "id_usr_emisor": 19,
+    "id_usr_receptor": 9,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-02-03T00:21:36.775Z"
+  },
+  {
+    "id_usr_emisor": 83,
+    "id_usr_receptor": 38,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-07-09T09:47:01.523Z"
+  },
+  {
+    "id_usr_emisor": 51,
+    "id_usr_receptor": 6,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-03-04T09:41:17.055Z"
+  },
+  {
+    "id_usr_emisor": 100,
+    "id_usr_receptor": 24,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-06-08T23:30:36.705Z"
+  },
+  {
+    "id_usr_emisor": 96,
+    "id_usr_receptor": 45,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-11-26T09:03:17.779Z"
+  },
+  {
+    "id_usr_emisor": 93,
+    "id_usr_receptor": 88,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-11-10T16:14:02.761Z"
+  },
+  {
+    "id_usr_emisor": 15,
+    "id_usr_receptor": 86,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-03-12T12:07:38.057Z"
+  },
+  {
+    "id_usr_emisor": 81,
+    "id_usr_receptor": 93,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-03-17T04:29:51.093Z"
+  },
+  {
+    "id_usr_emisor": 8,
+    "id_usr_receptor": 37,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-07-24T17:12:36.405Z"
+  },
+  {
+    "id_usr_emisor": 55,
+    "id_usr_receptor": 76,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-04-05T18:41:04.795Z"
+  },
+  {
+    "id_usr_emisor": 22,
+    "id_usr_receptor": 2,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-09-12T01:42:37.282Z"
+  },
+  {
+    "id_usr_emisor": 74,
+    "id_usr_receptor": 43,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-07-27T12:15:51.557Z"
+  },
+  {
+    "id_usr_emisor": 46,
+    "id_usr_receptor": 22,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-03-05T01:07:24.505Z"
+  },
+  {
+    "id_usr_emisor": 88,
+    "id_usr_receptor": 69,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-01-02T22:53:02.920Z"
+  },
+  {
+    "id_usr_emisor": 78,
+    "id_usr_receptor": 45,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-08-04T16:08:10.222Z"
+  },
+  {
+    "id_usr_emisor": 17,
+    "id_usr_receptor": 35,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-09-28T00:15:13.624Z"
+  },
+  {
+    "id_usr_emisor": 16,
+    "id_usr_receptor": 80,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-11-27T19:22:53.084Z"
+  },
+  {
+    "id_usr_emisor": 63,
+    "id_usr_receptor": 91,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-04-01T20:20:09.495Z"
+  },
+  {
+    "id_usr_emisor": 88,
+    "id_usr_receptor": 3,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-10-11T17:28:04.333Z"
+  },
+  {
+    "id_usr_emisor": 91,
+    "id_usr_receptor": 86,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-05-24T17:53:40.876Z"
+  },
+  {
+    "id_usr_emisor": 78,
+    "id_usr_receptor": 53,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-04-28T19:40:39.554Z"
+  },
+  {
+    "id_usr_emisor": 43,
+    "id_usr_receptor": 6,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-12-02T07:26:29.613Z"
+  },
+  {
+    "id_usr_emisor": 31,
+    "id_usr_receptor": 84,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-11-24T08:13:57.637Z"
+  },
+  {
+    "id_usr_emisor": 49,
+    "id_usr_receptor": 89,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-12-25T16:31:52.151Z"
+  },
+  {
+    "id_usr_emisor": 37,
+    "id_usr_receptor": 21,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-01-18T11:13:51.086Z"
+  },
+  {
+    "id_usr_emisor": 8,
+    "id_usr_receptor": 33,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-12-11T02:43:20.639Z"
+  },
+  {
+    "id_usr_emisor": 42,
+    "id_usr_receptor": 32,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-05-20T16:50:15.941Z"
+  },
+  {
+    "id_usr_emisor": 60,
+    "id_usr_receptor": 92,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-11-30T21:26:17.181Z"
+  },
+  {
+    "id_usr_emisor": 3,
+    "id_usr_receptor": 2,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-05-11T06:02:32.729Z"
+  },
+  {
+    "id_usr_emisor": 24,
+    "id_usr_receptor": 10,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-12-28T14:24:19.624Z"
+  },
+  {
+    "id_usr_emisor": 12,
+    "id_usr_receptor": 8,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-10-22T11:51:28.784Z"
+  },
+  {
+    "id_usr_emisor": 69,
+    "id_usr_receptor": 41,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-03-13T07:56:54.548Z"
+  },
+  {
+    "id_usr_emisor": 86,
+    "id_usr_receptor": 2,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-11-22T15:11:39.592Z"
+  },
+  {
+    "id_usr_emisor": 30,
+    "id_usr_receptor": 31,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-01-07T11:08:02.113Z"
+  },
+  {
+    "id_usr_emisor": 29,
+    "id_usr_receptor": 50,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-04-30T21:06:34.830Z"
+  },
+  {
+    "id_usr_emisor": 92,
+    "id_usr_receptor": 62,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-07-18T06:37:09.038Z"
+  },
+  {
+    "id_usr_emisor": 67,
+    "id_usr_receptor": 12,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-06-23T23:57:10.845Z"
+  },
+  {
+    "id_usr_emisor": 45,
+    "id_usr_receptor": 69,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-09-11T22:39:31.998Z"
+  },
+  {
+    "id_usr_emisor": 87,
+    "id_usr_receptor": 66,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-10-21T21:44:11.247Z"
+  },
+  {
+    "id_usr_emisor": 24,
+    "id_usr_receptor": 23,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-03-22T18:42:26.073Z"
+  },
+  {
+    "id_usr_emisor": 11,
+    "id_usr_receptor": 22,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-06-18T07:19:47.129Z"
+  },
+  {
+    "id_usr_emisor": 39,
+    "id_usr_receptor": 78,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-11-21T00:27:55.598Z"
+  },
+  {
+    "id_usr_emisor": 88,
+    "id_usr_receptor": 35,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-10-07T11:42:15.634Z"
+  },
+  {
+    "id_usr_emisor": 65,
+    "id_usr_receptor": 88,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-09-02T23:28:12.731Z"
+  },
+  {
+    "id_usr_emisor": 31,
+    "id_usr_receptor": 87,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-05-09T02:12:32.922Z"
+  },
+  {
+    "id_usr_emisor": 84,
+    "id_usr_receptor": 1,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-08-17T14:48:41.848Z"
+  },
+  {
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 30,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-12-24T11:48:34.168Z"
+  },
+  {
+    "id_usr_emisor": 87,
+    "id_usr_receptor": 95,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-04-13T03:55:34.038Z"
+  },
+  {
+    "id_usr_emisor": 99,
+    "id_usr_receptor": 100,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-11-22T02:22:22.598Z"
+  },
+  {
+    "id_usr_emisor": 62,
+    "id_usr_receptor": 10,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-01-20T03:52:48.132Z"
+  },
+  {
+    "id_usr_emisor": 90,
+    "id_usr_receptor": 46,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-03-24T06:23:21.562Z"
+  },
+  {
+    "id_usr_emisor": 82,
+    "id_usr_receptor": 22,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-01-31T08:19:37.065Z"
+  },
+  {
+    "id_usr_emisor": 39,
+    "id_usr_receptor": 24,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-12-09T10:46:17.901Z"
+  },
+  {
+    "id_usr_emisor": 3,
+    "id_usr_receptor": 13,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-09-16T13:37:41.951Z"
+  },
+  {
+    "id_usr_emisor": 55,
+    "id_usr_receptor": 80,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-06-18T04:57:50.657Z"
+  },
+  {
+    "id_usr_emisor": 86,
+    "id_usr_receptor": 100,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-10-12T20:26:04.677Z"
+  },
+  {
+    "id_usr_emisor": 55,
+    "id_usr_receptor": 11,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-05-05T12:56:15.242Z"
+  },
+  {
+    "id_usr_emisor": 67,
+    "id_usr_receptor": 84,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-10-21T03:11:53.609Z"
+  },
+  {
+    "id_usr_emisor": 88,
+    "id_usr_receptor": 30,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-10-29T05:22:20.527Z"
+  },
+  {
+    "id_usr_emisor": 84,
+    "id_usr_receptor": 80,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-04-03T16:31:14.376Z"
+  },
+  {
+    "id_usr_emisor": 72,
+    "id_usr_receptor": 50,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-07-09T08:28:04.660Z"
+  },
+  {
+    "id_usr_emisor": 63,
     "id_usr_receptor": 56,
     "tipo": "ACEPTADA",
-    "fecha": "2022-07-24T01:33:41.590Z"
+    "fecha": "2020-09-11T07:14:08.900Z"
+  },
+  {
+    "id_usr_emisor": 39,
+    "id_usr_receptor": 97,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-11-01T05:48:08.490Z"
+  },
+  {
+    "id_usr_emisor": 49,
+    "id_usr_receptor": 80,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-10-16T08:09:47.444Z"
+  },
+  {
+    "id_usr_emisor": 3,
+    "id_usr_receptor": 9,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-06-06T14:41:47.131Z"
+  },
+  {
+    "id_usr_emisor": 58,
+    "id_usr_receptor": 64,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-10-01T19:44:31.920Z"
+  },
+  {
+    "id_usr_emisor": 8,
+    "id_usr_receptor": 79,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-04-11T16:12:02.379Z"
+  },
+  {
+    "id_usr_emisor": 29,
+    "id_usr_receptor": 83,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-07-11T11:55:53.512Z"
+  },
+  {
+    "id_usr_emisor": 86,
+    "id_usr_receptor": 21,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-09-23T00:35:19.559Z"
+  },
+  {
+    "id_usr_emisor": 99,
+    "id_usr_receptor": 41,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-07-06T05:36:48.518Z"
+  },
+  {
+    "id_usr_emisor": 43,
+    "id_usr_receptor": 73,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-08-09T14:13:12.835Z"
+  },
+  {
+    "id_usr_emisor": 12,
+    "id_usr_receptor": 90,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-03-19T08:19:00.667Z"
+  },
+  {
+    "id_usr_emisor": 87,
+    "id_usr_receptor": 83,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-04-26T17:23:50.760Z"
+  },
+  {
+    "id_usr_emisor": 68,
+    "id_usr_receptor": 3,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-10-02T01:22:21.810Z"
+  },
+  {
+    "id_usr_emisor": 100,
+    "id_usr_receptor": 41,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-05-14T10:10:48.014Z"
+  },
+  {
+    "id_usr_emisor": 67,
+    "id_usr_receptor": 18,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-07-30T05:33:13.608Z"
+  },
+  {
+    "id_usr_emisor": 4,
+    "id_usr_receptor": 26,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-09-01T08:31:03.200Z"
+  },
+  {
+    "id_usr_emisor": 7,
+    "id_usr_receptor": 97,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-02-24T07:29:37.243Z"
+  },
+  {
+    "id_usr_emisor": 67,
+    "id_usr_receptor": 16,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-10-25T13:53:57.376Z"
+  },
+  {
+    "id_usr_emisor": 18,
+    "id_usr_receptor": 15,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-02-04T06:19:46.312Z"
+  },
+  {
+    "id_usr_emisor": 40,
+    "id_usr_receptor": 13,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-07-05T23:28:35.691Z"
+  },
+  {
+    "id_usr_emisor": 98,
+    "id_usr_receptor": 33,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-04-30T13:47:49.900Z"
+  },
+  {
+    "id_usr_emisor": 69,
+    "id_usr_receptor": 28,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-12-30T11:51:54.550Z"
+  },
+  {
+    "id_usr_emisor": 1,
+    "id_usr_receptor": 88,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-01-14T22:37:57.938Z"
+  },
+  {
+    "id_usr_emisor": 39,
+    "id_usr_receptor": 91,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-02-07T21:02:08.335Z"
+  },
+  {
+    "id_usr_emisor": 26,
+    "id_usr_receptor": 79,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-10-12T23:48:17.435Z"
+  },
+  {
+    "id_usr_emisor": 54,
+    "id_usr_receptor": 23,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-12-14T06:33:52.361Z"
+  },
+  {
+    "id_usr_emisor": 93,
+    "id_usr_receptor": 62,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-12-13T14:18:01.257Z"
+  },
+  {
+    "id_usr_emisor": 34,
+    "id_usr_receptor": 92,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-04-06T20:06:20.245Z"
+  },
+  {
+    "id_usr_emisor": 8,
+    "id_usr_receptor": 15,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-08-25T22:49:27.161Z"
+  },
+  {
+    "id_usr_emisor": 11,
+    "id_usr_receptor": 97,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-05-10T10:54:59.752Z"
+  },
+  {
+    "id_usr_emisor": 94,
+    "id_usr_receptor": 94,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-05-19T17:12:00.769Z"
+  },
+  {
+    "id_usr_emisor": 2,
+    "id_usr_receptor": 21,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-03-11T20:11:12.155Z"
+  },
+  {
+    "id_usr_emisor": 58,
+    "id_usr_receptor": 15,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-12-19T16:32:43.128Z"
+  },
+  {
+    "id_usr_emisor": 58,
+    "id_usr_receptor": 52,
+    "tipo": "DESAGREGADA",
+    "fecha": "2024-07-27T16:27:34.425Z"
+  },
+  {
+    "id_usr_emisor": 15,
+    "id_usr_receptor": 44,
+    "tipo": "RECHAZADA",
+    "fecha": "2023-08-29T19:52:54.619Z"
+  },
+  {
+    "id_usr_emisor": 29,
+    "id_usr_receptor": 18,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-07-29T22:06:58.079Z"
+  },
+  {
+    "id_usr_emisor": 30,
+    "id_usr_receptor": 86,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-06-28T22:56:38.482Z"
+  },
+  {
+    "id_usr_emisor": 70,
+    "id_usr_receptor": 74,
+    "tipo": "SOLICITADA",
+    "fecha": "2022-02-20T15:10:36.768Z"
+  },
+  {
+    "id_usr_emisor": 70,
+    "id_usr_receptor": 68,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-04-08T01:13:25.821Z"
+  },
+  {
+    "id_usr_emisor": 55,
+    "id_usr_receptor": 51,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-01-18T20:23:56.872Z"
+  },
+  {
+    "id_usr_emisor": 48,
+    "id_usr_receptor": 52,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-06-25T11:52:06.877Z"
+  },
+  {
+    "id_usr_emisor": 84,
+    "id_usr_receptor": 24,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-03-19T13:19:18.429Z"
+  },
+  {
+    "id_usr_emisor": 72,
+    "id_usr_receptor": 17,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-09-26T19:46:18.871Z"
+  },
+  {
+    "id_usr_emisor": 61,
+    "id_usr_receptor": 49,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-04-03T01:59:32.251Z"
+  },
+  {
+    "id_usr_emisor": 1,
+    "id_usr_receptor": 4,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-11-04T00:27:09.655Z"
+  },
+  {
+    "id_usr_emisor": 90,
+    "id_usr_receptor": 19,
+    "tipo": "ACEPTADA",
+    "fecha": "2020-07-29T01:16:50.677Z"
+  },
+  {
+    "id_usr_emisor": 66,
+    "id_usr_receptor": 78,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-08-09T08:48:37.111Z"
+  },
+  {
+    "id_usr_emisor": 6,
+    "id_usr_receptor": 33,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-12-08T04:24:11.370Z"
+  },
+  {
+    "id_usr_emisor": 24,
+    "id_usr_receptor": 49,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-05-07T18:43:58.756Z"
+  },
+  {
+    "id_usr_emisor": 40,
+    "id_usr_receptor": 28,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-03-17T13:18:44.631Z"
+  },
+  {
+    "id_usr_emisor": 50,
+    "id_usr_receptor": 17,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-05-30T12:15:05.547Z"
+  },
+  {
+    "id_usr_emisor": 83,
+    "id_usr_receptor": 67,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-12-15T14:53:58.361Z"
+  },
+  {
+    "id_usr_emisor": 48,
+    "id_usr_receptor": 37,
+    "tipo": "RECHAZADA",
+    "fecha": "2021-11-30T20:36:52.147Z"
+  },
+  {
+    "id_usr_emisor": 2,
+    "id_usr_receptor": 65,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-09-27T07:28:57.035Z"
+  },
+  {
+    "id_usr_emisor": 25,
+    "id_usr_receptor": 98,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-12-25T00:26:41.210Z"
+  },
+  {
+    "id_usr_emisor": 91,
+    "id_usr_receptor": 65,
+    "tipo": "SOLICITADA",
+    "fecha": "2020-03-11T13:22:41.467Z"
+  },
+  {
+    "id_usr_emisor": 51,
+    "id_usr_receptor": 49,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-03-25T18:28:11.718Z"
+  },
+  {
+    "id_usr_emisor": 77,
+    "id_usr_receptor": 45,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-02-11T03:31:29.885Z"
+  },
+  {
+    "id_usr_emisor": 44,
+    "id_usr_receptor": 80,
+    "tipo": "RECHAZADA",
+    "fecha": "2022-12-18T16:46:25.769Z"
+  },
+  {
+    "id_usr_emisor": 10,
+    "id_usr_receptor": 32,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-05-08T17:16:31.678Z"
+  },
+  {
+    "id_usr_emisor": 45,
+    "id_usr_receptor": 45,
+    "tipo": "DESAGREGADA",
+    "fecha": "2022-07-17T11:48:40.940Z"
+  },
+  {
+    "id_usr_emisor": 82,
+    "id_usr_receptor": 99,
+    "tipo": "ACEPTADA",
+    "fecha": "2022-03-10T16:25:34.319Z"
+  },
+  {
+    "id_usr_emisor": 17,
+    "id_usr_receptor": 97,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-12-10T19:43:50.704Z"
+  },
+  {
+    "id_usr_emisor": 45,
+    "id_usr_receptor": 70,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-11-06T05:24:27.326Z"
+  },
+  {
+    "id_usr_emisor": 48,
+    "id_usr_receptor": 2,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-09-22T09:35:09.113Z"
+  },
+  {
+    "id_usr_emisor": 92,
+    "id_usr_receptor": 91,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-12-10T01:18:28.114Z"
+  },
+  {
+    "id_usr_emisor": 100,
+    "id_usr_receptor": 43,
+    "tipo": "SOLICITADA",
+    "fecha": "2021-03-08T06:40:39.316Z"
+  },
+  {
+    "id_usr_emisor": 64,
+    "id_usr_receptor": 28,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-04-11T18:06:29.268Z"
+  },
+  {
+    "id_usr_emisor": 12,
+    "id_usr_receptor": 34,
+    "tipo": "DESAGREGADA",
+    "fecha": "2021-09-14T06:36:03.984Z"
+  },
+  {
+    "id_usr_emisor": 49,
+    "id_usr_receptor": 2,
+    "tipo": "RECHAZADA",
+    "fecha": "2024-12-08T00:59:26.937Z"
+  },
+  {
+    "id_usr_emisor": 44,
+    "id_usr_receptor": 73,
+    "tipo": "RECHAZADA",
+    "fecha": "2020-11-23T01:35:10.278Z"
+  },
+  {
+    "id_usr_emisor": 50,
+    "id_usr_receptor": 90,
+    "tipo": "SOLICITADA",
+    "fecha": "2023-01-20T20:39:51.486Z"
+  },
+  {
+    "id_usr_emisor": 37,
+    "id_usr_receptor": 37,
+    "tipo": "ACEPTADA",
+    "fecha": "2023-11-03T01:53:21.798Z"
+  },
+  {
+    "id_usr_emisor": 90,
+    "id_usr_receptor": 85,
+    "tipo": "DESAGREGADA",
+    "fecha": "2020-09-30T03:14:04.547Z"
+  },
+  {
+    "id_usr_emisor": 7,
+    "id_usr_receptor": 73,
+    "tipo": "ACEPTADA",
+    "fecha": "2021-02-17T00:37:39.393Z"
+  },
+  {
+    "id_usr_emisor": 16,
+    "id_usr_receptor": 6,
+    "tipo": "SOLICITADA",
+    "fecha": "2024-12-16T01:30:04.219Z"
+  },
+  {
+    "id_usr_emisor": 55,
+    "id_usr_receptor": 91,
+    "tipo": "ACEPTADA",
+    "fecha": "2024-06-28T00:05:15.277Z"
+  },
+  {
+    "id_usr_emisor": 14,
+    "id_usr_receptor": 85,
+    "tipo": "DESAGREGADA",
+    "fecha": "2023-01-03T09:27:55.273Z"
   },
   {
     "id_usr_emisor": 23,
-    "id_usr_receptor": 79,
+    "id_usr_receptor": 57,
     "tipo": "SOLICITADA",
-    "fecha": "2021-07-14T02:59:03.779Z"
-  },
-  {
-    "id_usr_emisor": 20,
-    "id_usr_receptor": 54,
-    "tipo": "RECHAZADA",
-    "fecha": "2024-09-02T07:36:49.615Z"
+    "fecha": "2024-06-20T09:10:05.980Z"
   }
 ]

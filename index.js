@@ -724,7 +724,9 @@ for (const collName in models[3]) {
 	for (const entry of entries) {
 		let numCols = Object.keys(entry).length;
 
-		sql += `INSERT INTO ${collName.toUpperCase()} VALUES (`
+		sql += `INSERT INTO ${collName.toUpperCase()} (${
+			Object.keys(entry).join(', ')
+		}) VALUES (`;
 		for (const key in entry) {
 			numCols--;
 			if (entry[key] !== null) {

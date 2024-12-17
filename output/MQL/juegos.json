@@ -1,208 +1,78 @@
 [
   {
-    "id_producto": 7,
-    "genero": "Detective",
+    "id_producto": 23,
+    "genero": "Memoir",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 58,
+    "genero": "Mystery",
     "esrb": "M17+"
   },
   {
-    "id_producto": 64,
-    "genero": "Biography",
-    "esrb": "E"
-  },
-  {
-    "id_producto": 34,
-    "genero": "Horror",
-    "esrb": "E"
-  },
-  {
-    "id_producto": 82,
-    "genero": "Drama",
-    "esrb": "T"
-  },
-  {
-    "id_producto": 75,
-    "genero": "Romance",
+    "id_producto": 33,
+    "genero": "Psychology",
     "esrb": "T"
   },
   {
     "id_producto": 69,
-    "genero": "Comic",
-    "esrb": "T"
-  },
-  {
-    "id_producto": 7,
-    "genero": "Detective",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 86,
-    "genero": "Comedy",
-    "esrb": "E"
-  },
-  {
-    "id_producto": 81,
-    "genero": "Poetry",
-    "esrb": "E10+"
-  },
-  {
-    "id_producto": 30,
-    "genero": "Historical Fiction",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 97,
-    "genero": "Psychology",
-    "esrb": "AO18+"
-  },
-  {
-    "id_producto": 26,
-    "genero": "Romance",
-    "esrb": "E"
-  },
-  {
-    "id_producto": 4,
-    "genero": "Romance",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 74,
-    "genero": "Fantasy",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 55,
-    "genero": "Western",
-    "esrb": "E10+"
-  },
-  {
-    "id_producto": 97,
-    "genero": "Biography",
-    "esrb": "E10+"
-  },
-  {
-    "id_producto": 16,
-    "genero": "Classic",
-    "esrb": "AO18+"
-  },
-  {
-    "id_producto": 24,
-    "genero": "Poetry",
-    "esrb": "AO18+"
-  },
-  {
-    "id_producto": 45,
-    "genero": "Romance",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 66,
-    "genero": "Religion",
-    "esrb": "AO18+"
-  },
-  {
-    "id_producto": 70,
-    "genero": "Detective",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 53,
-    "genero": "Business",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 76,
-    "genero": "Thriller",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 77,
-    "genero": "Business",
-    "esrb": "AO18+"
-  },
-  {
-    "id_producto": 66,
-    "genero": "Memoir",
+    "genero": "Mystery",
     "esrb": "AO18+"
   },
   {
     "id_producto": 46,
-    "genero": "Children's Literature",
-    "esrb": "AO18+"
+    "genero": "Religion",
+    "esrb": "T"
   },
   {
-    "id_producto": 2,
-    "genero": "Romance",
-    "esrb": "AO18+"
+    "id_producto": 41,
+    "genero": "Mystery",
+    "esrb": "E10+"
   },
   {
-    "id_producto": 49,
+    "id_producto": 58,
     "genero": "Thriller",
     "esrb": "E"
   },
   {
-    "id_producto": 30,
-    "genero": "Science Fiction",
+    "id_producto": 76,
+    "genero": "Memoir",
     "esrb": "M17+"
   },
   {
-    "id_producto": 27,
-    "genero": "Detective",
+    "id_producto": 48,
+    "genero": "Young Adult",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 48,
+    "genero": "Mythology",
     "esrb": "T"
   },
   {
-    "id_producto": 54,
-    "genero": "Science Fiction",
-    "esrb": "AO18+"
-  },
-  {
-    "id_producto": 6,
-    "genero": "Mythology",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 62,
-    "genero": "Comedy",
-    "esrb": "AO18+"
-  },
-  {
-    "id_producto": 60,
-    "genero": "Romance",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 82,
-    "genero": "Business",
+    "id_producto": 74,
+    "genero": "Poetry",
     "esrb": "E10+"
   },
   {
-    "id_producto": 87,
-    "genero": "Fantasy",
-    "esrb": "AO18+"
-  },
-  {
-    "id_producto": 51,
-    "genero": "Religion",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 22,
-    "genero": "Fantasy",
-    "esrb": "M17+"
-  },
-  {
-    "id_producto": 58,
+    "id_producto": 71,
     "genero": "Mythology",
-    "esrb": "E"
-  },
-  {
-    "id_producto": 53,
-    "genero": "Fantasy",
-    "esrb": "T"
-  },
-  {
-    "id_producto": 60,
-    "genero": "Poetry",
     "esrb": "AO18+"
+  },
+  {
+    "id_producto": 17,
+    "genero": "Western",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 56,
+    "genero": "Comic",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 46,
+    "genero": "Adventure",
+    "esrb": "M17+"
   },
   {
     "id_producto": 22,
@@ -210,43 +80,173 @@
     "esrb": "M17+"
   },
   {
-    "id_producto": 30,
-    "genero": "Horror",
-    "esrb": "E"
+    "id_producto": 96,
+    "genero": "Classic",
+    "esrb": "T"
   },
   {
-    "id_producto": 25,
+    "id_producto": 13,
+    "genero": "Comic",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 69,
     "genero": "Western",
     "esrb": "E"
   },
   {
-    "id_producto": 72,
+    "id_producto": 23,
+    "genero": "Drama",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 39,
+    "genero": "Biography",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 67,
+    "genero": "Psychology",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 13,
+    "genero": "Psychology",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 62,
+    "genero": "Children's Literature",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 45,
+    "genero": "Children's Literature",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 21,
+    "genero": "Comic",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 14,
+    "genero": "Children's Literature",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 17,
+    "genero": "Romance",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 65,
     "genero": "Young Adult",
     "esrb": "E10+"
   },
   {
-    "id_producto": 8,
-    "genero": "Comic",
+    "id_producto": 89,
+    "genero": "Religion",
     "esrb": "E"
   },
   {
-    "id_producto": 35,
-    "genero": "Thriller",
+    "id_producto": 82,
+    "genero": "Western",
     "esrb": "T"
   },
   {
-    "id_producto": 48,
+    "id_producto": 74,
+    "genero": "Children's Literature",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 73,
+    "genero": "Historical Fiction",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 84,
+    "genero": "Religion",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 90,
+    "genero": "Philosophy",
+    "esrb": "M17+"
+  },
+  {
+    "id_producto": 12,
+    "genero": "Graphic Novel",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 68,
+    "genero": "Drama",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 49,
+    "genero": "Adventure",
+    "esrb": "T"
+  },
+  {
+    "id_producto": 96,
+    "genero": "Mystery",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 5,
+    "genero": "Mystery",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 57,
+    "genero": "Comedy",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 77,
+    "genero": "Poetry",
+    "esrb": "E"
+  },
+  {
+    "id_producto": 74,
     "genero": "Children's Literature",
     "esrb": "E"
   },
   {
-    "id_producto": 84,
-    "genero": "Western",
+    "id_producto": 57,
+    "genero": "Business",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 61,
+    "genero": "Comic",
     "esrb": "E"
   },
   {
-    "id_producto": 66,
+    "id_producto": 56,
+    "genero": "Graphic Novel",
+    "esrb": "AO18+"
+  },
+  {
+    "id_producto": 50,
+    "genero": "Philosophy",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 27,
     "genero": "Romance",
-    "esrb": "E"
+    "esrb": "T"
+  },
+  {
+    "id_producto": 50,
+    "genero": "Psychology",
+    "esrb": "E10+"
+  },
+  {
+    "id_producto": 48,
+    "genero": "Thriller",
+    "esrb": "AO18+"
   }
 ]

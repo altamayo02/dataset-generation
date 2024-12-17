@@ -1,502 +1,502 @@
 [
   {
-    "id_torneo": 8,
-    "id_producto": 91,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 50,
-    "id_producto": 11,
-    "cantidad": 10
-  },
-  {
-    "id_torneo": 27,
-    "id_producto": 54,
-    "cantidad": 9
-  },
-  {
-    "id_torneo": 13,
-    "id_producto": 38,
-    "cantidad": 6
-  },
-  {
-    "id_torneo": 36,
-    "id_producto": 39,
-    "cantidad": 3
-  },
-  {
-    "id_torneo": 21,
-    "id_producto": 70,
-    "cantidad": 4
-  },
-  {
-    "id_torneo": 12,
-    "id_producto": 38,
-    "cantidad": 5
-  },
-  {
-    "id_torneo": 24,
-    "id_producto": 58,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 43,
-    "id_producto": 53,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 25,
-    "id_producto": 5,
-    "cantidad": 1
-  },
-  {
-    "id_torneo": 10,
-    "id_producto": 6,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 26,
-    "id_producto": 63,
-    "cantidad": 9
-  },
-  {
-    "id_torneo": 26,
-    "id_producto": 2,
-    "cantidad": 6
-  },
-  {
-    "id_torneo": 29,
-    "id_producto": 70,
-    "cantidad": 3
-  },
-  {
-    "id_torneo": 5,
-    "id_producto": 53,
-    "cantidad": 4
-  },
-  {
-    "id_torneo": 6,
-    "id_producto": 64,
-    "cantidad": 10
-  },
-  {
-    "id_torneo": 28,
-    "id_producto": 28,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 45,
-    "id_producto": 92,
-    "cantidad": 9
-  },
-  {
-    "id_torneo": 43,
-    "id_producto": 30,
-    "cantidad": 9
-  },
-  {
-    "id_torneo": 13,
-    "id_producto": 58,
-    "cantidad": 2
-  },
-  {
-    "id_torneo": 19,
-    "id_producto": 31,
-    "cantidad": 10
-  },
-  {
-    "id_torneo": 50,
-    "id_producto": 49,
-    "cantidad": 9
-  },
-  {
-    "id_torneo": 45,
-    "id_producto": 100,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 45,
-    "id_producto": 71,
-    "cantidad": 8
-  },
-  {
     "id_torneo": 40,
-    "id_producto": 63,
-    "cantidad": 4
-  },
-  {
-    "id_torneo": 35,
-    "id_producto": 41,
-    "cantidad": 5
-  },
-  {
-    "id_torneo": 20,
-    "id_producto": 16,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 21,
-    "id_producto": 16,
-    "cantidad": 4
-  },
-  {
-    "id_torneo": 8,
-    "id_producto": 14,
-    "cantidad": 4
-  },
-  {
-    "id_torneo": 28,
-    "id_producto": 41,
-    "cantidad": 10
-  },
-  {
-    "id_torneo": 2,
-    "id_producto": 68,
-    "cantidad": 2
-  },
-  {
-    "id_torneo": 38,
-    "id_producto": 96,
-    "cantidad": 2
-  },
-  {
-    "id_torneo": 37,
-    "id_producto": 85,
-    "cantidad": 6
-  },
-  {
-    "id_torneo": 20,
-    "id_producto": 92,
-    "cantidad": 3
-  },
-  {
-    "id_torneo": 15,
-    "id_producto": 61,
-    "cantidad": 3
-  },
-  {
-    "id_torneo": 20,
-    "id_producto": 99,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 7,
-    "id_producto": 90,
-    "cantidad": 1
-  },
-  {
-    "id_torneo": 12,
-    "id_producto": 58,
-    "cantidad": 1
-  },
-  {
-    "id_torneo": 32,
-    "id_producto": 49,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 6,
-    "id_producto": 10,
-    "cantidad": 5
-  },
-  {
-    "id_torneo": 21,
-    "id_producto": 68,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 3,
-    "id_producto": 89,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 21,
-    "id_producto": 43,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 1,
-    "id_producto": 29,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 46,
-    "id_producto": 24,
-    "cantidad": 9
-  },
-  {
-    "id_torneo": 25,
-    "id_producto": 34,
-    "cantidad": 10
-  },
-  {
-    "id_torneo": 34,
-    "id_producto": 51,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 38,
-    "id_producto": 9,
-    "cantidad": 3
-  },
-  {
-    "id_torneo": 47,
-    "id_producto": 87,
-    "cantidad": 9
-  },
-  {
-    "id_torneo": 29,
-    "id_producto": 53,
-    "cantidad": 3
-  },
-  {
-    "id_torneo": 45,
-    "id_producto": 16,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 11,
-    "id_producto": 30,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 18,
-    "id_producto": 72,
-    "cantidad": 6
-  },
-  {
-    "id_torneo": 17,
-    "id_producto": 84,
-    "cantidad": 10
-  },
-  {
-    "id_torneo": 4,
-    "id_producto": 10,
-    "cantidad": 4
-  },
-  {
-    "id_torneo": 46,
-    "id_producto": 1,
-    "cantidad": 1
-  },
-  {
-    "id_torneo": 2,
-    "id_producto": 62,
-    "cantidad": 9
-  },
-  {
-    "id_torneo": 33,
-    "id_producto": 52,
-    "cantidad": 4
-  },
-  {
-    "id_torneo": 8,
-    "id_producto": 43,
-    "cantidad": 5
-  },
-  {
-    "id_torneo": 15,
-    "id_producto": 26,
-    "cantidad": 2
-  },
-  {
-    "id_torneo": 49,
-    "id_producto": 37,
-    "cantidad": 2
-  },
-  {
-    "id_torneo": 3,
-    "id_producto": 50,
-    "cantidad": 2
-  },
-  {
-    "id_torneo": 34,
-    "id_producto": 55,
-    "cantidad": 4
-  },
-  {
-    "id_torneo": 16,
-    "id_producto": 23,
-    "cantidad": 3
-  },
-  {
-    "id_torneo": 22,
-    "id_producto": 1,
-    "cantidad": 1
-  },
-  {
-    "id_torneo": 15,
-    "id_producto": 6,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 44,
-    "id_producto": 11,
-    "cantidad": 6
-  },
-  {
-    "id_torneo": 5,
-    "id_producto": 44,
-    "cantidad": 6
-  },
-  {
-    "id_torneo": 38,
-    "id_producto": 34,
-    "cantidad": 4
-  },
-  {
-    "id_torneo": 5,
-    "id_producto": 46,
-    "cantidad": 3
-  },
-  {
-    "id_torneo": 13,
-    "id_producto": 99,
-    "cantidad": 6
-  },
-  {
-    "id_torneo": 11,
-    "id_producto": 95,
-    "cantidad": 5
-  },
-  {
-    "id_torneo": 43,
-    "id_producto": 14,
-    "cantidad": 10
-  },
-  {
-    "id_torneo": 49,
-    "id_producto": 17,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 13,
     "id_producto": 69,
-    "cantidad": 5
-  },
-  {
-    "id_torneo": 48,
-    "id_producto": 58,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 13,
-    "id_producto": 33,
-    "cantidad": 1
-  },
-  {
-    "id_torneo": 23,
-    "id_producto": 17,
-    "cantidad": 1
-  },
-  {
-    "id_torneo": 17,
-    "id_producto": 32,
-    "cantidad": 1
-  },
-  {
-    "id_torneo": 34,
-    "id_producto": 64,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 21,
-    "id_producto": 22,
-    "cantidad": 3
-  },
-  {
-    "id_torneo": 50,
-    "id_producto": 32,
     "cantidad": 6
   },
   {
     "id_torneo": 41,
-    "id_producto": 15,
-    "cantidad": 6
+    "id_producto": 77,
+    "cantidad": 7
   },
   {
-    "id_torneo": 5,
-    "id_producto": 30,
-    "cantidad": 6
+    "id_torneo": 28,
+    "id_producto": 52,
+    "cantidad": 1
   },
   {
     "id_torneo": 30,
-    "id_producto": 46,
+    "id_producto": 6,
+    "cantidad": 6
+  },
+  {
+    "id_torneo": 20,
+    "id_producto": 33,
+    "cantidad": 4
+  },
+  {
+    "id_torneo": 36,
+    "id_producto": 13,
+    "cantidad": 3
+  },
+  {
+    "id_torneo": 11,
+    "id_producto": 1,
+    "cantidad": 8
+  },
+  {
+    "id_torneo": 7,
+    "id_producto": 21,
     "cantidad": 7
   },
   {
     "id_torneo": 35,
-    "id_producto": 83,
+    "id_producto": 94,
+    "cantidad": 5
+  },
+  {
+    "id_torneo": 29,
+    "id_producto": 75,
     "cantidad": 4
   },
   {
-    "id_torneo": 37,
-    "id_producto": 19,
-    "cantidad": 10
-  },
-  {
-    "id_torneo": 7,
-    "id_producto": 4,
-    "cantidad": 10
-  },
-  {
-    "id_torneo": 12,
-    "id_producto": 70,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 23,
-    "id_producto": 5,
-    "cantidad": 1
-  },
-  {
-    "id_torneo": 2,
-    "id_producto": 63,
-    "cantidad": 9
-  },
-  {
-    "id_torneo": 1,
-    "id_producto": 64,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 24,
-    "id_producto": 7,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 42,
-    "id_producto": 37,
-    "cantidad": 7
-  },
-  {
-    "id_torneo": 27,
-    "id_producto": 81,
-    "cantidad": 8
-  },
-  {
-    "id_torneo": 45,
-    "id_producto": 98,
-    "cantidad": 2
-  },
-  {
-    "id_torneo": 32,
-    "id_producto": 54,
+    "id_torneo": 47,
+    "id_producto": 23,
     "cantidad": 10
   },
   {
     "id_torneo": 10,
-    "id_producto": 8,
+    "id_producto": 97,
+    "cantidad": 4
+  },
+  {
+    "id_torneo": 1,
+    "id_producto": 19,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 1,
+    "id_producto": 4,
+    "cantidad": 4
+  },
+  {
+    "id_torneo": 4,
+    "id_producto": 20,
+    "cantidad": 9
+  },
+  {
+    "id_torneo": 4,
+    "id_producto": 80,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 35,
+    "id_producto": 57,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 30,
+    "id_producto": 100,
+    "cantidad": 1
+  },
+  {
+    "id_torneo": 8,
+    "id_producto": 89,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 45,
+    "id_producto": 89,
+    "cantidad": 4
+  },
+  {
+    "id_torneo": 3,
+    "id_producto": 85,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 17,
+    "id_producto": 13,
+    "cantidad": 8
+  },
+  {
+    "id_torneo": 8,
+    "id_producto": 77,
+    "cantidad": 5
+  },
+  {
+    "id_torneo": 49,
+    "id_producto": 70,
+    "cantidad": 4
+  },
+  {
+    "id_torneo": 14,
+    "id_producto": 68,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 49,
+    "id_producto": 78,
+    "cantidad": 5
+  },
+  {
+    "id_torneo": 43,
+    "id_producto": 64,
+    "cantidad": 6
+  },
+  {
+    "id_torneo": 41,
+    "id_producto": 97,
+    "cantidad": 9
+  },
+  {
+    "id_torneo": 41,
+    "id_producto": 54,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 9,
+    "id_producto": 15,
+    "cantidad": 4
+  },
+  {
+    "id_torneo": 30,
+    "id_producto": 66,
+    "cantidad": 9
+  },
+  {
+    "id_torneo": 50,
+    "id_producto": 52,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 4,
+    "id_producto": 66,
+    "cantidad": 5
+  },
+  {
+    "id_torneo": 26,
+    "id_producto": 63,
     "cantidad": 10
   },
   {
-    "id_torneo": 11,
-    "id_producto": 48,
+    "id_torneo": 43,
+    "id_producto": 38,
     "cantidad": 6
   },
   {
-    "id_torneo": 6,
-    "id_producto": 50,
+    "id_torneo": 17,
+    "id_producto": 36,
+    "cantidad": 10
+  },
+  {
+    "id_torneo": 21,
+    "id_producto": 47,
+    "cantidad": 3
+  },
+  {
+    "id_torneo": 28,
+    "id_producto": 66,
+    "cantidad": 10
+  },
+  {
+    "id_torneo": 5,
+    "id_producto": 24,
+    "cantidad": 5
+  },
+  {
+    "id_torneo": 48,
+    "id_producto": 33,
     "cantidad": 6
+  },
+  {
+    "id_torneo": 48,
+    "id_producto": 40,
+    "cantidad": 1
+  },
+  {
+    "id_torneo": 24,
+    "id_producto": 29,
+    "cantidad": 1
+  },
+  {
+    "id_torneo": 3,
+    "id_producto": 92,
+    "cantidad": 6
+  },
+  {
+    "id_torneo": 29,
+    "id_producto": 44,
+    "cantidad": 1
+  },
+  {
+    "id_torneo": 13,
+    "id_producto": 66,
+    "cantidad": 6
+  },
+  {
+    "id_torneo": 15,
+    "id_producto": 79,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 33,
+    "id_producto": 38,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 25,
+    "id_producto": 92,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 46,
+    "id_producto": 73,
+    "cantidad": 9
+  },
+  {
+    "id_torneo": 6,
+    "id_producto": 19,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 43,
+    "id_producto": 20,
+    "cantidad": 3
+  },
+  {
+    "id_torneo": 26,
+    "id_producto": 1,
+    "cantidad": 8
+  },
+  {
+    "id_torneo": 9,
+    "id_producto": 35,
+    "cantidad": 9
+  },
+  {
+    "id_torneo": 19,
+    "id_producto": 66,
+    "cantidad": 5
+  },
+  {
+    "id_torneo": 27,
+    "id_producto": 44,
+    "cantidad": 1
+  },
+  {
+    "id_torneo": 39,
+    "id_producto": 74,
+    "cantidad": 5
+  },
+  {
+    "id_torneo": 10,
+    "id_producto": 6,
+    "cantidad": 9
+  },
+  {
+    "id_torneo": 18,
+    "id_producto": 96,
+    "cantidad": 8
+  },
+  {
+    "id_torneo": 4,
+    "id_producto": 50,
+    "cantidad": 10
+  },
+  {
+    "id_torneo": 49,
+    "id_producto": 45,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 50,
+    "id_producto": 50,
+    "cantidad": 10
+  },
+  {
+    "id_torneo": 39,
+    "id_producto": 57,
+    "cantidad": 10
+  },
+  {
+    "id_torneo": 6,
+    "id_producto": 52,
+    "cantidad": 10
+  },
+  {
+    "id_torneo": 27,
+    "id_producto": 56,
+    "cantidad": 6
+  },
+  {
+    "id_torneo": 49,
+    "id_producto": 20,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 36,
+    "id_producto": 98,
+    "cantidad": 6
+  },
+  {
+    "id_torneo": 8,
+    "id_producto": 42,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 17,
+    "id_producto": 81,
+    "cantidad": 4
+  },
+  {
+    "id_torneo": 19,
+    "id_producto": 36,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 26,
+    "id_producto": 80,
+    "cantidad": 5
+  },
+  {
+    "id_torneo": 49,
+    "id_producto": 20,
+    "cantidad": 8
+  },
+  {
+    "id_torneo": 39,
+    "id_producto": 12,
+    "cantidad": 10
+  },
+  {
+    "id_torneo": 48,
+    "id_producto": 49,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 25,
+    "id_producto": 76,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 47,
+    "id_producto": 100,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 22,
+    "id_producto": 56,
+    "cantidad": 1
+  },
+  {
+    "id_torneo": 5,
+    "id_producto": 65,
+    "cantidad": 4
+  },
+  {
+    "id_torneo": 36,
+    "id_producto": 75,
+    "cantidad": 9
+  },
+  {
+    "id_torneo": 1,
+    "id_producto": 14,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 30,
+    "id_producto": 55,
+    "cantidad": 1
+  },
+  {
+    "id_torneo": 11,
+    "id_producto": 1,
+    "cantidad": 4
+  },
+  {
+    "id_torneo": 24,
+    "id_producto": 2,
+    "cantidad": 4
+  },
+  {
+    "id_torneo": 13,
+    "id_producto": 25,
+    "cantidad": 8
+  },
+  {
+    "id_torneo": 33,
+    "id_producto": 92,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 18,
+    "id_producto": 30,
+    "cantidad": 5
+  },
+  {
+    "id_torneo": 23,
+    "id_producto": 5,
+    "cantidad": 6
+  },
+  {
+    "id_torneo": 25,
+    "id_producto": 17,
+    "cantidad": 3
+  },
+  {
+    "id_torneo": 18,
+    "id_producto": 70,
+    "cantidad": 2
+  },
+  {
+    "id_torneo": 10,
+    "id_producto": 17,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 9,
+    "id_producto": 36,
+    "cantidad": 8
+  },
+  {
+    "id_torneo": 41,
+    "id_producto": 64,
+    "cantidad": 3
+  },
+  {
+    "id_torneo": 11,
+    "id_producto": 85,
+    "cantidad": 5
+  },
+  {
+    "id_torneo": 6,
+    "id_producto": 57,
+    "cantidad": 1
+  },
+  {
+    "id_torneo": 41,
+    "id_producto": 49,
+    "cantidad": 1
+  },
+  {
+    "id_torneo": 22,
+    "id_producto": 76,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 27,
+    "id_producto": 67,
+    "cantidad": 10
+  },
+  {
+    "id_torneo": 21,
+    "id_producto": 69,
+    "cantidad": 1
+  },
+  {
+    "id_torneo": 34,
+    "id_producto": 17,
+    "cantidad": 7
+  },
+  {
+    "id_torneo": 25,
+    "id_producto": 42,
+    "cantidad": 3
+  },
+  {
+    "id_torneo": 26,
+    "id_producto": 71,
+    "cantidad": 4
   }
 ]

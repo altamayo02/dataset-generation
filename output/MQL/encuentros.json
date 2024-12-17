@@ -1,4002 +1,4002 @@
 [
   {
-    "id_torneo": 8,
-    "id_particip1": 117,
-    "id_particip2": 107,
-    "puntos1": 4,
-    "puntos2": 7,
-    "fecha": "2022-11-12T22:12:45.741Z"
-  },
-  {
-    "id_torneo": 18,
-    "id_particip1": 38,
-    "id_particip2": 103,
-    "puntos1": 4,
-    "puntos2": 7,
-    "fecha": "2023-02-19T17:55:16.710Z"
-  },
-  {
-    "id_torneo": 11,
-    "id_particip1": 137,
-    "id_particip2": 136,
-    "puntos1": 9,
+    "id_torneo": 13,
+    "id_particip1": 94,
+    "id_particip2": 88,
+    "puntos1": 10,
     "puntos2": 0,
-    "fecha": "2020-07-30T06:22:10.383Z"
-  },
-  {
-    "id_torneo": 5,
-    "id_particip1": 154,
-    "id_particip2": 167,
-    "puntos1": 2,
-    "puntos2": 9,
-    "fecha": "2024-07-16T06:09:49.149Z"
-  },
-  {
-    "id_torneo": 8,
-    "id_particip1": 72,
-    "id_particip2": 20,
-    "puntos1": 3,
-    "puntos2": 0,
-    "fecha": "2023-09-30T10:04:10.948Z"
-  },
-  {
-    "id_torneo": 12,
-    "id_particip1": 177,
-    "id_particip2": 52,
-    "puntos1": 8,
-    "puntos2": 10,
-    "fecha": "2023-05-03T05:38:22.855Z"
-  },
-  {
-    "id_torneo": 8,
-    "id_particip1": 14,
-    "id_particip2": 172,
-    "puntos1": 9,
-    "puntos2": 7,
-    "fecha": "2021-06-08T19:18:42.954Z"
-  },
-  {
-    "id_torneo": 27,
-    "id_particip1": 135,
-    "id_particip2": 95,
-    "puntos1": 5,
-    "puntos2": 6,
-    "fecha": "2020-10-18T06:38:16.704Z"
+    "fecha": "2022-10-09T19:15:53.791Z"
   },
   {
     "id_torneo": 29,
-    "id_particip1": 173,
-    "id_particip2": 138,
-    "puntos1": 9,
-    "puntos2": 8,
-    "fecha": "2021-01-06T00:36:33.232Z"
+    "id_particip1": 111,
+    "id_particip2": 160,
+    "puntos1": 4,
+    "puntos2": 4,
+    "fecha": "2020-10-27T08:37:03.800Z"
   },
   {
-    "id_torneo": 17,
-    "id_particip1": 127,
-    "id_particip2": 105,
-    "puntos1": 8,
-    "puntos2": 9,
-    "fecha": "2023-10-30T08:03:21.735Z"
+    "id_torneo": 9,
+    "id_particip1": 13,
+    "id_particip2": 169,
+    "puntos1": 6,
+    "puntos2": 4,
+    "fecha": "2022-05-31T01:05:10.266Z"
   },
   {
-    "id_torneo": 19,
-    "id_particip1": 100,
-    "id_particip2": 46,
-    "puntos1": 10,
-    "puntos2": 5,
-    "fecha": "2021-05-04T12:44:14.760Z"
+    "id_torneo": 28,
+    "id_particip1": 141,
+    "id_particip2": 69,
+    "puntos1": 1,
+    "puntos2": 1,
+    "fecha": "2023-03-09T13:30:11.335Z"
   },
   {
     "id_torneo": 1,
-    "id_particip1": 104,
-    "id_particip2": 15,
-    "puntos1": 0,
+    "id_particip1": 73,
+    "id_particip2": 187,
+    "puntos1": 2,
     "puntos2": 7,
-    "fecha": "2021-01-29T11:40:17.355Z"
+    "fecha": "2020-04-03T05:17:55.787Z"
   },
   {
-    "id_torneo": 34,
-    "id_particip1": 2,
-    "id_particip2": 70,
-    "puntos1": 4,
-    "puntos2": 10,
-    "fecha": "2022-06-15T03:22:07.991Z"
-  },
-  {
-    "id_torneo": 29,
-    "id_particip1": 152,
-    "id_particip2": 126,
-    "puntos1": 8,
-    "puntos2": 7,
-    "fecha": "2024-01-24T21:34:05.137Z"
-  },
-  {
-    "id_torneo": 20,
-    "id_particip1": 116,
-    "id_particip2": 83,
-    "puntos1": 0,
-    "puntos2": 10,
-    "fecha": "2021-04-03T17:41:52.356Z"
-  },
-  {
-    "id_torneo": 47,
-    "id_particip1": 114,
-    "id_particip2": 154,
-    "puntos1": 10,
-    "puntos2": 9,
-    "fecha": "2024-03-03T00:33:14.099Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 181,
-    "id_particip2": 106,
-    "puntos1": 3,
-    "puntos2": 1,
-    "fecha": "2024-04-16T04:11:54.879Z"
-  },
-  {
-    "id_torneo": 5,
-    "id_particip1": 88,
-    "id_particip2": 67,
-    "puntos1": 9,
-    "puntos2": 6,
-    "fecha": "2022-02-03T03:57:17.768Z"
-  },
-  {
-    "id_torneo": 22,
-    "id_particip1": 86,
-    "id_particip2": 78,
-    "puntos1": 10,
-    "puntos2": 0,
-    "fecha": "2020-03-20T19:50:27.503Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 96,
-    "id_particip2": 6,
-    "puntos1": 0,
-    "puntos2": 5,
-    "fecha": "2022-09-21T02:19:39.295Z"
-  },
-  {
-    "id_torneo": 37,
-    "id_particip1": 46,
-    "id_particip2": 80,
-    "puntos1": 7,
-    "puntos2": 8,
-    "fecha": "2024-03-16T05:45:17.240Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 198,
-    "id_particip2": 1,
-    "puntos1": 4,
-    "puntos2": 10,
-    "fecha": "2020-02-24T01:13:16.322Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 81,
-    "id_particip2": 146,
-    "puntos1": 7,
-    "puntos2": 5,
-    "fecha": "2024-07-07T16:38:38.006Z"
-  },
-  {
-    "id_torneo": 41,
+    "id_torneo": 38,
     "id_particip1": 4,
-    "id_particip2": 40,
-    "puntos1": 8,
-    "puntos2": 8,
-    "fecha": "2024-06-03T14:43:34.201Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 106,
-    "id_particip2": 104,
-    "puntos1": 7,
-    "puntos2": 9,
-    "fecha": "2022-02-09T12:26:19.674Z"
-  },
-  {
-    "id_torneo": 2,
-    "id_particip1": 47,
-    "id_particip2": 7,
-    "puntos1": 9,
-    "puntos2": 1,
-    "fecha": "2020-03-14T19:55:53.567Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 121,
-    "id_particip2": 59,
-    "puntos1": 3,
-    "puntos2": 4,
-    "fecha": "2021-12-16T04:32:51.109Z"
-  },
-  {
-    "id_torneo": 10,
-    "id_particip1": 36,
-    "id_particip2": 142,
+    "id_particip2": 170,
     "puntos1": 10,
-    "puntos2": 10,
-    "fecha": "2022-03-06T12:02:11.316Z"
+    "puntos2": 3,
+    "fecha": "2021-03-12T14:33:08.548Z"
   },
   {
-    "id_torneo": 24,
-    "id_particip1": 191,
-    "id_particip2": 152,
-    "puntos1": 1,
-    "puntos2": 4,
-    "fecha": "2019-12-27T14:01:48.547Z"
-  },
-  {
-    "id_torneo": 16,
-    "id_particip1": 124,
-    "id_particip2": 20,
-    "puntos1": 0,
-    "puntos2": 7,
-    "fecha": "2022-08-24T01:19:55.168Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 178,
-    "id_particip2": 90,
-    "puntos1": 6,
-    "puntos2": 5,
-    "fecha": "2024-12-09T01:34:54.798Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 139,
-    "id_particip2": 98,
-    "puntos1": 7,
-    "puntos2": 4,
-    "fecha": "2020-06-28T07:33:16.643Z"
-  },
-  {
-    "id_torneo": 17,
-    "id_particip1": 2,
-    "id_particip2": 1,
-    "puntos1": 8,
-    "puntos2": 8,
-    "fecha": "2020-04-09T21:02:32.484Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 2,
-    "id_particip2": 130,
-    "puntos1": 0,
-    "puntos2": 1,
-    "fecha": "2024-06-05T05:23:13.041Z"
-  },
-  {
-    "id_torneo": 30,
-    "id_particip1": 185,
-    "id_particip2": 181,
-    "puntos1": 2,
-    "puntos2": 4,
-    "fecha": "2021-04-24T10:41:36.846Z"
-  },
-  {
-    "id_torneo": 30,
-    "id_particip1": 135,
-    "id_particip2": 7,
-    "puntos1": 3,
-    "puntos2": 2,
-    "fecha": "2021-01-31T22:13:40.048Z"
-  },
-  {
-    "id_torneo": 44,
-    "id_particip1": 124,
-    "id_particip2": 156,
-    "puntos1": 3,
-    "puntos2": 7,
-    "fecha": "2024-10-31T15:14:32.538Z"
-  },
-  {
-    "id_torneo": 20,
-    "id_particip1": 38,
-    "id_particip2": 104,
-    "puntos1": 2,
-    "puntos2": 9,
-    "fecha": "2024-11-08T00:29:54.313Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 13,
-    "id_particip2": 96,
-    "puntos1": 10,
-    "puntos2": 0,
-    "fecha": "2024-09-25T18:34:27.099Z"
-  },
-  {
-    "id_torneo": 46,
+    "id_torneo": 27,
     "id_particip1": 31,
-    "id_particip2": 97,
-    "puntos1": 1,
-    "puntos2": 0,
-    "fecha": "2022-01-03T11:33:04.250Z"
+    "id_particip2": 29,
+    "puntos1": 0,
+    "puntos2": 1,
+    "fecha": "2022-07-13T04:55:57.989Z"
   },
   {
-    "id_torneo": 40,
-    "id_particip1": 32,
-    "id_particip2": 113,
+    "id_torneo": 11,
+    "id_particip1": 17,
+    "id_particip2": 33,
     "puntos1": 6,
-    "puntos2": 6,
-    "fecha": "2024-02-03T10:37:08.477Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 75,
-    "id_particip2": 117,
-    "puntos1": 10,
-    "puntos2": 6,
-    "fecha": "2023-03-19T02:53:34.642Z"
-  },
-  {
-    "id_torneo": 41,
-    "id_particip1": 39,
-    "id_particip2": 122,
-    "puntos1": 8,
     "puntos2": 7,
-    "fecha": "2024-11-02T18:42:12.145Z"
+    "fecha": "2020-02-03T17:54:49.352Z"
   },
   {
     "id_torneo": 13,
-    "id_particip1": 95,
-    "id_particip2": 10,
-    "puntos1": 4,
-    "puntos2": 4,
-    "fecha": "2020-10-23T15:39:42.672Z"
+    "id_particip1": 14,
+    "id_particip2": 153,
+    "puntos1": 9,
+    "puntos2": 10,
+    "fecha": "2022-06-25T08:26:04.394Z"
   },
   {
     "id_torneo": 20,
-    "id_particip1": 168,
-    "id_particip2": 65,
-    "puntos1": 1,
-    "puntos2": 4,
-    "fecha": "2021-09-29T05:17:49.213Z"
-  },
-  {
-    "id_torneo": 21,
-    "id_particip1": 176,
-    "id_particip2": 177,
-    "puntos1": 9,
-    "puntos2": 10,
-    "fecha": "2021-03-31T08:06:20.516Z"
-  },
-  {
-    "id_torneo": 6,
-    "id_particip1": 124,
-    "id_particip2": 26,
+    "id_particip1": 52,
+    "id_particip2": 103,
     "puntos1": 5,
+    "puntos2": 4,
+    "fecha": "2023-04-22T07:44:43.195Z"
+  },
+  {
+    "id_torneo": 48,
+    "id_particip1": 6,
+    "id_particip2": 34,
+    "puntos1": 4,
     "puntos2": 3,
-    "fecha": "2020-09-21T03:20:47.581Z"
+    "fecha": "2021-07-01T20:31:41.757Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 2,
+    "id_particip2": 129,
+    "puntos1": 10,
+    "puntos2": 10,
+    "fecha": "2020-11-09T15:15:45.539Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 51,
+    "id_particip2": 84,
+    "puntos1": 1,
+    "puntos2": 3,
+    "fecha": "2020-07-03T19:23:19.989Z"
   },
   {
     "id_torneo": 47,
-    "id_particip1": 104,
+    "id_particip1": 131,
+    "id_particip2": 198,
+    "puntos1": 9,
+    "puntos2": 4,
+    "fecha": "2020-09-18T15:44:54.828Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 144,
+    "id_particip2": 142,
+    "puntos1": 2,
+    "puntos2": 2,
+    "fecha": "2023-01-14T22:57:30.895Z"
+  },
+  {
+    "id_torneo": 24,
+    "id_particip1": 34,
+    "id_particip2": 164,
+    "puntos1": 4,
+    "puntos2": 3,
+    "fecha": "2021-09-13T19:50:41.420Z"
+  },
+  {
+    "id_torneo": 8,
+    "id_particip1": 138,
+    "id_particip2": 9,
+    "puntos1": 6,
+    "puntos2": 1,
+    "fecha": "2024-03-15T23:12:41.903Z"
+  },
+  {
+    "id_torneo": 41,
+    "id_particip1": 186,
+    "id_particip2": 67,
+    "puntos1": 6,
+    "puntos2": 6,
+    "fecha": "2021-09-20T18:00:03.032Z"
+  },
+  {
+    "id_torneo": 18,
+    "id_particip1": 90,
+    "id_particip2": 166,
+    "puntos1": 8,
+    "puntos2": 2,
+    "fecha": "2024-05-03T15:22:43.828Z"
+  },
+  {
+    "id_torneo": 16,
+    "id_particip1": 119,
+    "id_particip2": 3,
+    "puntos1": 8,
+    "puntos2": 3,
+    "fecha": "2020-06-23T21:20:55.843Z"
+  },
+  {
+    "id_torneo": 46,
+    "id_particip1": 136,
+    "id_particip2": 44,
+    "puntos1": 6,
+    "puntos2": 9,
+    "fecha": "2023-08-28T05:30:14.515Z"
+  },
+  {
+    "id_torneo": 30,
+    "id_particip1": 38,
+    "id_particip2": 14,
+    "puntos1": 9,
+    "puntos2": 4,
+    "fecha": "2021-10-25T21:01:43.859Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 164,
+    "id_particip2": 38,
+    "puntos1": 0,
+    "puntos2": 6,
+    "fecha": "2023-02-03T08:37:27.136Z"
+  },
+  {
+    "id_torneo": 21,
+    "id_particip1": 101,
+    "id_particip2": 185,
+    "puntos1": 2,
+    "puntos2": 1,
+    "fecha": "2022-08-30T13:47:22.563Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 6,
+    "id_particip2": 181,
+    "puntos1": 1,
+    "puntos2": 3,
+    "fecha": "2023-07-20T14:16:04.874Z"
+  },
+  {
+    "id_torneo": 31,
+    "id_particip1": 94,
+    "id_particip2": 117,
+    "puntos1": 8,
+    "puntos2": 7,
+    "fecha": "2022-11-13T17:44:35.315Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 189,
+    "id_particip2": 151,
+    "puntos1": 0,
+    "puntos2": 10,
+    "fecha": "2021-05-09T04:25:26.566Z"
+  },
+  {
+    "id_torneo": 25,
+    "id_particip1": 35,
+    "id_particip2": 49,
+    "puntos1": 7,
+    "puntos2": 10,
+    "fecha": "2024-04-14T07:38:05.579Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 21,
+    "id_particip2": 76,
+    "puntos1": 9,
+    "puntos2": 7,
+    "fecha": "2021-12-19T01:21:38.208Z"
+  },
+  {
+    "id_torneo": 1,
+    "id_particip1": 21,
+    "id_particip2": 100,
+    "puntos1": 3,
+    "puntos2": 5,
+    "fecha": "2023-12-27T22:08:42.328Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 65,
+    "id_particip2": 53,
+    "puntos1": 0,
+    "puntos2": 9,
+    "fecha": "2022-09-17T22:04:17.589Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 167,
+    "id_particip2": 11,
+    "puntos1": 5,
+    "puntos2": 0,
+    "fecha": "2021-08-01T08:41:33.467Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 185,
+    "id_particip2": 148,
+    "puntos1": 2,
+    "puntos2": 6,
+    "fecha": "2021-07-31T07:10:20.817Z"
+  },
+  {
+    "id_torneo": 25,
+    "id_particip1": 53,
+    "id_particip2": 27,
+    "puntos1": 9,
+    "puntos2": 10,
+    "fecha": "2023-08-29T07:04:56.184Z"
+  },
+  {
+    "id_torneo": 44,
+    "id_particip1": 105,
+    "id_particip2": 66,
+    "puntos1": 7,
+    "puntos2": 5,
+    "fecha": "2022-06-14T14:50:01.982Z"
+  },
+  {
+    "id_torneo": 16,
+    "id_particip1": 132,
+    "id_particip2": 184,
+    "puntos1": 1,
+    "puntos2": 5,
+    "fecha": "2021-04-18T16:58:27.814Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 23,
     "id_particip2": 182,
+    "puntos1": 9,
+    "puntos2": 8,
+    "fecha": "2023-03-24T22:50:04.091Z"
+  },
+  {
+    "id_torneo": 8,
+    "id_particip1": 97,
+    "id_particip2": 93,
+    "puntos1": 1,
+    "puntos2": 8,
+    "fecha": "2021-02-27T12:10:34.909Z"
+  },
+  {
+    "id_torneo": 29,
+    "id_particip1": 151,
+    "id_particip2": 172,
+    "puntos1": 7,
+    "puntos2": 7,
+    "fecha": "2023-01-05T12:50:21.222Z"
+  },
+  {
+    "id_torneo": 8,
+    "id_particip1": 178,
+    "id_particip2": 166,
+    "puntos1": 1,
+    "puntos2": 5,
+    "fecha": "2024-04-03T15:06:42.319Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 16,
+    "id_particip2": 142,
+    "puntos1": 5,
+    "puntos2": 5,
+    "fecha": "2024-09-10T08:34:07.596Z"
+  },
+  {
+    "id_torneo": 23,
+    "id_particip1": 90,
+    "id_particip2": 72,
+    "puntos1": 1,
+    "puntos2": 5,
+    "fecha": "2024-12-15T02:47:29.375Z"
+  },
+  {
+    "id_torneo": 23,
+    "id_particip1": 182,
+    "id_particip2": 142,
     "puntos1": 2,
     "puntos2": 5,
-    "fecha": "2024-05-13T22:02:06.652Z"
+    "fecha": "2020-09-23T00:46:56.364Z"
+  },
+  {
+    "id_torneo": 36,
+    "id_particip1": 6,
+    "id_particip2": 86,
+    "puntos1": 10,
+    "puntos2": 10,
+    "fecha": "2020-04-09T05:17:21.827Z"
+  },
+  {
+    "id_torneo": 17,
+    "id_particip1": 1,
+    "id_particip2": 91,
+    "puntos1": 0,
+    "puntos2": 0,
+    "fecha": "2021-02-08T21:32:54.382Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 15,
+    "id_particip2": 163,
+    "puntos1": 6,
+    "puntos2": 7,
+    "fecha": "2020-12-09T17:47:56.180Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 120,
+    "id_particip2": 190,
+    "puntos1": 10,
+    "puntos2": 1,
+    "fecha": "2021-03-08T05:37:13.962Z"
+  },
+  {
+    "id_torneo": 40,
+    "id_particip1": 18,
+    "id_particip2": 184,
+    "puntos1": 4,
+    "puntos2": 8,
+    "fecha": "2020-03-21T22:19:01.740Z"
+  },
+  {
+    "id_torneo": 5,
+    "id_particip1": 30,
+    "id_particip2": 15,
+    "puntos1": 3,
+    "puntos2": 9,
+    "fecha": "2022-03-04T14:24:28.875Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 99,
+    "id_particip2": 124,
+    "puntos1": 6,
+    "puntos2": 4,
+    "fecha": "2021-05-10T19:08:00.202Z"
+  },
+  {
+    "id_torneo": 27,
+    "id_particip1": 159,
+    "id_particip2": 146,
+    "puntos1": 7,
+    "puntos2": 9,
+    "fecha": "2024-08-10T20:57:29.081Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 7,
+    "id_particip2": 154,
+    "puntos1": 10,
+    "puntos2": 6,
+    "fecha": "2020-04-04T20:13:41.804Z"
+  },
+  {
+    "id_torneo": 20,
+    "id_particip1": 46,
+    "id_particip2": 52,
+    "puntos1": 5,
+    "puntos2": 1,
+    "fecha": "2020-02-09T23:22:23.311Z"
+  },
+  {
+    "id_torneo": 19,
+    "id_particip1": 46,
+    "id_particip2": 8,
+    "puntos1": 7,
+    "puntos2": 10,
+    "fecha": "2024-06-08T06:05:48.494Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 140,
+    "id_particip2": 145,
+    "puntos1": 0,
+    "puntos2": 9,
+    "fecha": "2023-04-23T17:20:48.150Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 148,
+    "id_particip2": 170,
+    "puntos1": 7,
+    "puntos2": 2,
+    "fecha": "2022-06-08T10:56:33.658Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 28,
+    "id_particip2": 141,
+    "puntos1": 2,
+    "puntos2": 9,
+    "fecha": "2020-04-06T14:38:44.127Z"
+  },
+  {
+    "id_torneo": 33,
+    "id_particip1": 5,
+    "id_particip2": 132,
+    "puntos1": 1,
+    "puntos2": 1,
+    "fecha": "2022-07-11T23:51:20.013Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 11,
+    "id_particip2": 200,
+    "puntos1": 3,
+    "puntos2": 2,
+    "fecha": "2022-02-27T11:28:27.772Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 110,
+    "id_particip2": 112,
+    "puntos1": 3,
+    "puntos2": 9,
+    "fecha": "2023-08-24T19:55:04.737Z"
+  },
+  {
+    "id_torneo": 20,
+    "id_particip1": 90,
+    "id_particip2": 114,
+    "puntos1": 7,
+    "puntos2": 4,
+    "fecha": "2021-06-27T19:44:18.959Z"
+  },
+  {
+    "id_torneo": 41,
+    "id_particip1": 7,
+    "id_particip2": 116,
+    "puntos1": 10,
+    "puntos2": 7,
+    "fecha": "2020-04-02T21:02:02.745Z"
+  },
+  {
+    "id_torneo": 23,
+    "id_particip1": 95,
+    "id_particip2": 58,
+    "puntos1": 9,
+    "puntos2": 0,
+    "fecha": "2022-12-29T02:18:34.483Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 70,
+    "id_particip2": 13,
+    "puntos1": 0,
+    "puntos2": 1,
+    "fecha": "2021-10-08T19:19:22.519Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 12,
+    "id_particip2": 133,
+    "puntos1": 10,
+    "puntos2": 2,
+    "fecha": "2021-02-01T16:23:20.589Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 137,
+    "id_particip2": 36,
+    "puntos1": 0,
+    "puntos2": 6,
+    "fecha": "2022-07-08T04:17:11.092Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 177,
+    "id_particip2": 42,
+    "puntos1": 8,
+    "puntos2": 5,
+    "fecha": "2023-03-27T15:22:16.339Z"
+  },
+  {
+    "id_torneo": 12,
+    "id_particip1": 93,
+    "id_particip2": 117,
+    "puntos1": 9,
+    "puntos2": 0,
+    "fecha": "2020-06-10T02:00:54.686Z"
+  },
+  {
+    "id_torneo": 19,
+    "id_particip1": 17,
+    "id_particip2": 110,
+    "puntos1": 9,
+    "puntos2": 4,
+    "fecha": "2022-12-31T22:17:48.091Z"
+  },
+  {
+    "id_torneo": 41,
+    "id_particip1": 192,
+    "id_particip2": 116,
+    "puntos1": 10,
+    "puntos2": 6,
+    "fecha": "2024-04-11T23:38:38.234Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 106,
+    "id_particip2": 88,
+    "puntos1": 8,
+    "puntos2": 1,
+    "fecha": "2021-04-08T08:10:10.718Z"
+  },
+  {
+    "id_torneo": 12,
+    "id_particip1": 135,
+    "id_particip2": 8,
+    "puntos1": 6,
+    "puntos2": 10,
+    "fecha": "2021-04-30T16:50:21.579Z"
+  },
+  {
+    "id_torneo": 22,
+    "id_particip1": 157,
+    "id_particip2": 12,
+    "puntos1": 3,
+    "puntos2": 9,
+    "fecha": "2024-07-19T04:39:05.617Z"
+  },
+  {
+    "id_torneo": 48,
+    "id_particip1": 171,
+    "id_particip2": 66,
+    "puntos1": 5,
+    "puntos2": 9,
+    "fecha": "2020-12-17T12:19:02.472Z"
+  },
+  {
+    "id_torneo": 23,
+    "id_particip1": 157,
+    "id_particip2": 79,
+    "puntos1": 1,
+    "puntos2": 6,
+    "fecha": "2021-06-27T00:17:49.839Z"
+  },
+  {
+    "id_torneo": 38,
+    "id_particip1": 132,
+    "id_particip2": 77,
+    "puntos1": 9,
+    "puntos2": 1,
+    "fecha": "2023-10-19T10:43:52.810Z"
+  },
+  {
+    "id_torneo": 32,
+    "id_particip1": 94,
+    "id_particip2": 139,
+    "puntos1": 2,
+    "puntos2": 5,
+    "fecha": "2021-05-03T01:39:11.450Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 63,
+    "id_particip2": 58,
+    "puntos1": 6,
+    "puntos2": 7,
+    "fecha": "2020-01-03T04:21:21.949Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 182,
+    "id_particip2": 194,
+    "puntos1": 5,
+    "puntos2": 7,
+    "fecha": "2023-06-17T00:24:44.455Z"
+  },
+  {
+    "id_torneo": 5,
+    "id_particip1": 102,
+    "id_particip2": 190,
+    "puntos1": 3,
+    "puntos2": 3,
+    "fecha": "2020-12-04T15:08:17.619Z"
+  },
+  {
+    "id_torneo": 25,
+    "id_particip1": 1,
+    "id_particip2": 175,
+    "puntos1": 4,
+    "puntos2": 9,
+    "fecha": "2021-12-16T01:09:46.230Z"
+  },
+  {
+    "id_torneo": 41,
+    "id_particip1": 187,
+    "id_particip2": 138,
+    "puntos1": 6,
+    "puntos2": 5,
+    "fecha": "2020-04-07T23:29:18.123Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 139,
+    "id_particip2": 199,
+    "puntos1": 4,
+    "puntos2": 3,
+    "fecha": "2024-10-09T19:56:18.724Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 55,
+    "id_particip2": 163,
+    "puntos1": 8,
+    "puntos2": 6,
+    "fecha": "2019-12-28T04:34:17.896Z"
+  },
+  {
+    "id_torneo": 23,
+    "id_particip1": 42,
+    "id_particip2": 159,
+    "puntos1": 3,
+    "puntos2": 4,
+    "fecha": "2023-07-10T10:05:51.770Z"
+  },
+  {
+    "id_torneo": 12,
+    "id_particip1": 89,
+    "id_particip2": 58,
+    "puntos1": 9,
+    "puntos2": 1,
+    "fecha": "2021-05-23T14:21:45.230Z"
+  },
+  {
+    "id_torneo": 30,
+    "id_particip1": 12,
+    "id_particip2": 8,
+    "puntos1": 2,
+    "puntos2": 9,
+    "fecha": "2024-08-04T12:29:56.817Z"
+  },
+  {
+    "id_torneo": 29,
+    "id_particip1": 167,
+    "id_particip2": 64,
+    "puntos1": 1,
+    "puntos2": 0,
+    "fecha": "2024-04-01T07:27:25.604Z"
+  },
+  {
+    "id_torneo": 1,
+    "id_particip1": 147,
+    "id_particip2": 104,
+    "puntos1": 0,
+    "puntos2": 1,
+    "fecha": "2023-06-12T18:02:29.317Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 146,
+    "id_particip2": 190,
+    "puntos1": 2,
+    "puntos2": 2,
+    "fecha": "2020-09-17T21:08:40.652Z"
+  },
+  {
+    "id_torneo": 18,
+    "id_particip1": 155,
+    "id_particip2": 109,
+    "puntos1": 8,
+    "puntos2": 9,
+    "fecha": "2022-04-13T13:14:36.704Z"
+  },
+  {
+    "id_torneo": 20,
+    "id_particip1": 53,
+    "id_particip2": 95,
+    "puntos1": 1,
+    "puntos2": 6,
+    "fecha": "2023-01-18T02:10:00.021Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 107,
+    "id_particip2": 183,
+    "puntos1": 4,
+    "puntos2": 0,
+    "fecha": "2020-09-20T05:23:37.225Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 38,
+    "id_particip2": 9,
+    "puntos1": 6,
+    "puntos2": 6,
+    "fecha": "2022-05-19T18:02:53.693Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 199,
+    "id_particip2": 148,
+    "puntos1": 9,
+    "puntos2": 8,
+    "fecha": "2024-03-17T09:01:47.178Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 25,
+    "id_particip2": 18,
+    "puntos1": 6,
+    "puntos2": 0,
+    "fecha": "2021-10-02T04:17:37.795Z"
+  },
+  {
+    "id_torneo": 21,
+    "id_particip1": 106,
+    "id_particip2": 75,
+    "puntos1": 0,
+    "puntos2": 6,
+    "fecha": "2021-04-04T01:39:05.033Z"
+  },
+  {
+    "id_torneo": 20,
+    "id_particip1": 64,
+    "id_particip2": 15,
+    "puntos1": 4,
+    "puntos2": 9,
+    "fecha": "2021-08-21T15:47:46.956Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 192,
+    "id_particip2": 157,
+    "puntos1": 8,
+    "puntos2": 8,
+    "fecha": "2021-05-29T02:36:42.962Z"
+  },
+  {
+    "id_torneo": 38,
+    "id_particip1": 140,
+    "id_particip2": 182,
+    "puntos1": 2,
+    "puntos2": 10,
+    "fecha": "2023-01-15T13:15:47.204Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 146,
+    "id_particip2": 137,
+    "puntos1": 4,
+    "puntos2": 3,
+    "fecha": "2020-06-15T10:16:42.574Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 82,
+    "id_particip2": 17,
+    "puntos1": 5,
+    "puntos2": 7,
+    "fecha": "2020-12-08T22:21:18.089Z"
+  },
+  {
+    "id_torneo": 14,
+    "id_particip1": 5,
+    "id_particip2": 103,
+    "puntos1": 9,
+    "puntos2": 9,
+    "fecha": "2024-04-06T16:18:31.850Z"
+  },
+  {
+    "id_torneo": 23,
+    "id_particip1": 173,
+    "id_particip2": 154,
+    "puntos1": 7,
+    "puntos2": 0,
+    "fecha": "2023-11-06T19:52:26.055Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 166,
+    "id_particip2": 68,
+    "puntos1": 5,
+    "puntos2": 9,
+    "fecha": "2021-10-24T20:38:06.408Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 24,
+    "id_particip2": 135,
+    "puntos1": 10,
+    "puntos2": 9,
+    "fecha": "2021-03-15T15:28:35.998Z"
+  },
+  {
+    "id_torneo": 46,
+    "id_particip1": 128,
+    "id_particip2": 193,
+    "puntos1": 8,
+    "puntos2": 7,
+    "fecha": "2021-08-13T13:57:59.272Z"
+  },
+  {
+    "id_torneo": 46,
+    "id_particip1": 54,
+    "id_particip2": 93,
+    "puntos1": 2,
+    "puntos2": 7,
+    "fecha": "2020-03-28T01:05:18.702Z"
+  },
+  {
+    "id_torneo": 43,
+    "id_particip1": 110,
+    "id_particip2": 158,
+    "puntos1": 6,
+    "puntos2": 3,
+    "fecha": "2021-05-09T02:53:58.493Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 107,
+    "id_particip2": 5,
+    "puntos1": 2,
+    "puntos2": 7,
+    "fecha": "2020-06-25T17:00:07.425Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 198,
+    "id_particip2": 58,
+    "puntos1": 5,
+    "puntos2": 10,
+    "fecha": "2023-03-13T19:33:15.407Z"
+  },
+  {
+    "id_torneo": 38,
+    "id_particip1": 139,
+    "id_particip2": 61,
+    "puntos1": 0,
+    "puntos2": 0,
+    "fecha": "2023-01-06T12:50:05.193Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 187,
+    "id_particip2": 99,
+    "puntos1": 7,
+    "puntos2": 5,
+    "fecha": "2020-12-16T03:47:21.631Z"
+  },
+  {
+    "id_torneo": 18,
+    "id_particip1": 78,
+    "id_particip2": 160,
+    "puntos1": 5,
+    "puntos2": 8,
+    "fecha": "2020-12-02T23:51:29.057Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 65,
+    "id_particip2": 139,
+    "puntos1": 2,
+    "puntos2": 1,
+    "fecha": "2021-11-09T12:52:09.120Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 46,
+    "id_particip2": 169,
+    "puntos1": 9,
+    "puntos2": 10,
+    "fecha": "2020-09-24T06:03:06.496Z"
+  },
+  {
+    "id_torneo": 19,
+    "id_particip1": 119,
+    "id_particip2": 48,
+    "puntos1": 5,
+    "puntos2": 8,
+    "fecha": "2020-07-12T12:57:21.816Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 31,
+    "id_particip2": 8,
+    "puntos1": 0,
+    "puntos2": 10,
+    "fecha": "2023-12-04T04:34:25.039Z"
+  },
+  {
+    "id_torneo": 26,
+    "id_particip1": 168,
+    "id_particip2": 35,
+    "puntos1": 3,
+    "puntos2": 4,
+    "fecha": "2022-08-03T13:16:05.012Z"
+  },
+  {
+    "id_torneo": 25,
+    "id_particip1": 112,
+    "id_particip2": 15,
+    "puntos1": 4,
+    "puntos2": 0,
+    "fecha": "2021-09-08T16:46:33.574Z"
+  },
+  {
+    "id_torneo": 5,
+    "id_particip1": 60,
+    "id_particip2": 60,
+    "puntos1": 8,
+    "puntos2": 1,
+    "fecha": "2021-08-01T10:12:24.423Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 195,
+    "id_particip2": 160,
+    "puntos1": 3,
+    "puntos2": 8,
+    "fecha": "2024-02-15T21:04:17.709Z"
+  },
+  {
+    "id_torneo": 9,
+    "id_particip1": 20,
+    "id_particip2": 2,
+    "puntos1": 4,
+    "puntos2": 9,
+    "fecha": "2023-10-06T04:37:54.460Z"
+  },
+  {
+    "id_torneo": 24,
+    "id_particip1": 100,
+    "id_particip2": 194,
+    "puntos1": 6,
+    "puntos2": 2,
+    "fecha": "2024-02-11T08:52:36.482Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 189,
+    "id_particip2": 187,
+    "puntos1": 3,
+    "puntos2": 7,
+    "fecha": "2024-04-01T16:14:16.058Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 199,
+    "id_particip2": 123,
+    "puntos1": 1,
+    "puntos2": 10,
+    "fecha": "2023-07-26T01:40:21.668Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 134,
+    "id_particip2": 107,
+    "puntos1": 1,
+    "puntos2": 5,
+    "fecha": "2024-07-01T19:46:57.597Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 180,
+    "id_particip2": 136,
+    "puntos1": 6,
+    "puntos2": 7,
+    "fecha": "2022-08-27T18:20:13.964Z"
+  },
+  {
+    "id_torneo": 29,
+    "id_particip1": 136,
+    "id_particip2": 140,
+    "puntos1": 8,
+    "puntos2": 4,
+    "fecha": "2020-07-14T22:11:19.787Z"
+  },
+  {
+    "id_torneo": 38,
+    "id_particip1": 124,
+    "id_particip2": 180,
+    "puntos1": 5,
+    "puntos2": 8,
+    "fecha": "2021-07-18T16:45:58.561Z"
+  },
+  {
+    "id_torneo": 32,
+    "id_particip1": 87,
+    "id_particip2": 42,
+    "puntos1": 4,
+    "puntos2": 7,
+    "fecha": "2024-01-14T04:36:57.673Z"
+  },
+  {
+    "id_torneo": 20,
+    "id_particip1": 197,
+    "id_particip2": 147,
+    "puntos1": 6,
+    "puntos2": 6,
+    "fecha": "2023-01-09T15:18:03.583Z"
+  },
+  {
+    "id_torneo": 38,
+    "id_particip1": 3,
+    "id_particip2": 185,
+    "puntos1": 1,
+    "puntos2": 5,
+    "fecha": "2023-06-12T22:12:52.741Z"
+  },
+  {
+    "id_torneo": 5,
+    "id_particip1": 33,
+    "id_particip2": 6,
+    "puntos1": 0,
+    "puntos2": 4,
+    "fecha": "2023-04-02T04:54:45.377Z"
+  },
+  {
+    "id_torneo": 9,
+    "id_particip1": 136,
+    "id_particip2": 118,
+    "puntos1": 4,
+    "puntos2": 9,
+    "fecha": "2022-02-17T15:13:09.615Z"
+  },
+  {
+    "id_torneo": 14,
+    "id_particip1": 108,
+    "id_particip2": 81,
+    "puntos1": 5,
+    "puntos2": 5,
+    "fecha": "2021-10-01T22:42:43.654Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 131,
+    "id_particip2": 52,
+    "puntos1": 0,
+    "puntos2": 2,
+    "fecha": "2023-09-07T18:57:01.664Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 90,
+    "id_particip2": 125,
+    "puntos1": 8,
+    "puntos2": 1,
+    "fecha": "2021-09-13T20:17:54.816Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 58,
+    "id_particip2": 110,
+    "puntos1": 7,
+    "puntos2": 9,
+    "fecha": "2024-11-09T09:09:26.017Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 82,
+    "id_particip2": 53,
+    "puntos1": 6,
+    "puntos2": 5,
+    "fecha": "2022-06-10T00:23:31.753Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 96,
+    "id_particip2": 151,
+    "puntos1": 6,
+    "puntos2": 3,
+    "fecha": "2021-03-09T04:43:05.037Z"
+  },
+  {
+    "id_torneo": 16,
+    "id_particip1": 93,
+    "id_particip2": 158,
+    "puntos1": 5,
+    "puntos2": 8,
+    "fecha": "2021-06-08T01:01:12.633Z"
+  },
+  {
+    "id_torneo": 8,
+    "id_particip1": 99,
+    "id_particip2": 2,
+    "puntos1": 3,
+    "puntos2": 8,
+    "fecha": "2024-07-02T01:28:29.482Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 121,
+    "id_particip2": 178,
+    "puntos1": 4,
+    "puntos2": 3,
+    "fecha": "2022-11-18T14:36:06.530Z"
+  },
+  {
+    "id_torneo": 37,
+    "id_particip1": 122,
+    "id_particip2": 109,
+    "puntos1": 7,
+    "puntos2": 8,
+    "fecha": "2020-02-01T13:57:16.784Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 6,
+    "id_particip2": 196,
+    "puntos1": 8,
+    "puntos2": 1,
+    "fecha": "2021-09-29T19:44:45.183Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 69,
+    "id_particip2": 108,
+    "puntos1": 6,
+    "puntos2": 2,
+    "fecha": "2022-12-17T02:15:41.835Z"
+  },
+  {
+    "id_torneo": 29,
+    "id_particip1": 131,
+    "id_particip2": 115,
+    "puntos1": 4,
+    "puntos2": 0,
+    "fecha": "2023-08-06T00:18:07.308Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 17,
+    "id_particip2": 165,
+    "puntos1": 2,
+    "puntos2": 9,
+    "fecha": "2023-02-26T18:13:09.097Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 186,
+    "id_particip2": 150,
+    "puntos1": 4,
+    "puntos2": 4,
+    "fecha": "2022-12-01T12:53:11.121Z"
+  },
+  {
+    "id_torneo": 36,
+    "id_particip1": 165,
+    "id_particip2": 91,
+    "puntos1": 7,
+    "puntos2": 0,
+    "fecha": "2022-10-04T13:47:09.623Z"
+  },
+  {
+    "id_torneo": 31,
+    "id_particip1": 26,
+    "id_particip2": 16,
+    "puntos1": 1,
+    "puntos2": 2,
+    "fecha": "2020-01-19T14:42:38.034Z"
+  },
+  {
+    "id_torneo": 43,
+    "id_particip1": 46,
+    "id_particip2": 188,
+    "puntos1": 0,
+    "puntos2": 0,
+    "fecha": "2022-07-31T23:47:17.636Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 14,
+    "id_particip2": 11,
+    "puntos1": 2,
+    "puntos2": 5,
+    "fecha": "2022-01-15T19:44:14.027Z"
+  },
+  {
+    "id_torneo": 26,
+    "id_particip1": 192,
+    "id_particip2": 48,
+    "puntos1": 0,
+    "puntos2": 0,
+    "fecha": "2022-02-23T05:02:50.693Z"
+  },
+  {
+    "id_torneo": 4,
+    "id_particip1": 57,
+    "id_particip2": 73,
+    "puntos1": 0,
+    "puntos2": 5,
+    "fecha": "2020-07-14T13:43:46.903Z"
+  },
+  {
+    "id_torneo": 7,
+    "id_particip1": 199,
+    "id_particip2": 106,
+    "puntos1": 5,
+    "puntos2": 0,
+    "fecha": "2024-02-14T06:19:22.837Z"
+  },
+  {
+    "id_torneo": 17,
+    "id_particip1": 186,
+    "id_particip2": 136,
+    "puntos1": 1,
+    "puntos2": 3,
+    "fecha": "2020-09-29T15:44:08.964Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 196,
+    "id_particip2": 150,
+    "puntos1": 10,
+    "puntos2": 1,
+    "fecha": "2020-05-24T21:08:38.446Z"
+  },
+  {
+    "id_torneo": 31,
+    "id_particip1": 94,
+    "id_particip2": 25,
+    "puntos1": 6,
+    "puntos2": 6,
+    "fecha": "2022-01-22T00:52:00.688Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 43,
+    "id_particip2": 195,
+    "puntos1": 8,
+    "puntos2": 10,
+    "fecha": "2024-01-15T17:12:26.994Z"
+  },
+  {
+    "id_torneo": 40,
+    "id_particip1": 67,
+    "id_particip2": 93,
+    "puntos1": 2,
+    "puntos2": 0,
+    "fecha": "2021-09-04T06:15:53.088Z"
+  },
+  {
+    "id_torneo": 29,
+    "id_particip1": 94,
+    "id_particip2": 159,
+    "puntos1": 4,
+    "puntos2": 8,
+    "fecha": "2022-04-25T13:27:58.139Z"
+  },
+  {
+    "id_torneo": 7,
+    "id_particip1": 49,
+    "id_particip2": 12,
+    "puntos1": 5,
+    "puntos2": 1,
+    "fecha": "2019-12-21T03:56:12.616Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 95,
+    "id_particip2": 69,
+    "puntos1": 10,
+    "puntos2": 10,
+    "fecha": "2022-11-06T20:16:24.262Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 65,
+    "id_particip2": 148,
+    "puntos1": 9,
+    "puntos2": 10,
+    "fecha": "2022-07-21T08:03:45.330Z"
+  },
+  {
+    "id_torneo": 36,
+    "id_particip1": 134,
+    "id_particip2": 39,
+    "puntos1": 0,
+    "puntos2": 7,
+    "fecha": "2023-02-18T00:01:54.016Z"
+  },
+  {
+    "id_torneo": 7,
+    "id_particip1": 54,
+    "id_particip2": 42,
+    "puntos1": 8,
+    "puntos2": 4,
+    "fecha": "2024-08-20T13:14:24.997Z"
+  },
+  {
+    "id_torneo": 37,
+    "id_particip1": 44,
+    "id_particip2": 101,
+    "puntos1": 7,
+    "puntos2": 3,
+    "fecha": "2023-07-04T15:47:42.042Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 59,
+    "id_particip2": 194,
+    "puntos1": 8,
+    "puntos2": 8,
+    "fecha": "2020-05-08T17:22:14.361Z"
+  },
+  {
+    "id_torneo": 5,
+    "id_particip1": 42,
+    "id_particip2": 172,
+    "puntos1": 7,
+    "puntos2": 9,
+    "fecha": "2022-09-01T20:41:04.503Z"
+  },
+  {
+    "id_torneo": 30,
+    "id_particip1": 190,
+    "id_particip2": 174,
+    "puntos1": 2,
+    "puntos2": 7,
+    "fecha": "2024-05-10T07:37:34.581Z"
+  },
+  {
+    "id_torneo": 48,
+    "id_particip1": 101,
+    "id_particip2": 54,
+    "puntos1": 8,
+    "puntos2": 0,
+    "fecha": "2021-05-23T01:41:14.897Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 184,
+    "id_particip2": 151,
+    "puntos1": 4,
+    "puntos2": 8,
+    "fecha": "2020-12-16T00:00:07.235Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 118,
+    "id_particip2": 82,
+    "puntos1": 2,
+    "puntos2": 2,
+    "fecha": "2020-11-10T09:52:59.272Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 10,
+    "id_particip2": 101,
+    "puntos1": 3,
+    "puntos2": 8,
+    "fecha": "2022-07-29T10:28:08.117Z"
+  },
+  {
+    "id_torneo": 48,
+    "id_particip1": 151,
+    "id_particip2": 123,
+    "puntos1": 4,
+    "puntos2": 10,
+    "fecha": "2021-02-28T02:14:39.630Z"
+  },
+  {
+    "id_torneo": 12,
+    "id_particip1": 123,
+    "id_particip2": 35,
+    "puntos1": 0,
+    "puntos2": 0,
+    "fecha": "2021-10-11T10:53:56.604Z"
+  },
+  {
+    "id_torneo": 27,
+    "id_particip1": 30,
+    "id_particip2": 112,
+    "puntos1": 4,
+    "puntos2": 0,
+    "fecha": "2020-10-01T04:24:27.779Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 173,
+    "id_particip2": 99,
+    "puntos1": 9,
+    "puntos2": 8,
+    "fecha": "2024-07-06T16:05:18.306Z"
+  },
+  {
+    "id_torneo": 43,
+    "id_particip1": 75,
+    "id_particip2": 67,
+    "puntos1": 5,
+    "puntos2": 3,
+    "fecha": "2024-10-11T08:52:57.606Z"
+  },
+  {
+    "id_torneo": 43,
+    "id_particip1": 195,
+    "id_particip2": 72,
+    "puntos1": 7,
+    "puntos2": 5,
+    "fecha": "2022-12-26T20:27:22.328Z"
+  },
+  {
+    "id_torneo": 30,
+    "id_particip1": 112,
+    "id_particip2": 176,
+    "puntos1": 7,
+    "puntos2": 5,
+    "fecha": "2023-03-08T19:05:45.910Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 28,
+    "id_particip2": 27,
+    "puntos1": 1,
+    "puntos2": 4,
+    "fecha": "2020-04-07T22:14:02.977Z"
+  },
+  {
+    "id_torneo": 7,
+    "id_particip1": 103,
+    "id_particip2": 66,
+    "puntos1": 5,
+    "puntos2": 10,
+    "fecha": "2022-05-25T13:08:06.904Z"
   },
   {
     "id_torneo": 43,
     "id_particip1": 115,
-    "id_particip2": 124,
-    "puntos1": 2,
-    "puntos2": 7,
-    "fecha": "2022-07-30T03:06:47.920Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 126,
-    "id_particip2": 143,
-    "puntos1": 3,
-    "puntos2": 8,
-    "fecha": "2020-09-03T07:14:14.177Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 52,
-    "id_particip2": 165,
-    "puntos1": 6,
-    "puntos2": 6,
-    "fecha": "2023-04-04T19:22:20.088Z"
-  },
-  {
-    "id_torneo": 10,
-    "id_particip1": 32,
-    "id_particip2": 30,
-    "puntos1": 9,
-    "puntos2": 10,
-    "fecha": "2020-03-03T00:43:49.386Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 16,
-    "id_particip2": 51,
-    "puntos1": 2,
-    "puntos2": 9,
-    "fecha": "2020-02-29T21:47:23.636Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 151,
-    "id_particip2": 31,
-    "puntos1": 1,
+    "id_particip2": 104,
+    "puntos1": 7,
     "puntos2": 5,
-    "fecha": "2021-03-15T04:27:07.947Z"
+    "fecha": "2020-01-25T02:43:01.129Z"
   },
   {
-    "id_torneo": 32,
-    "id_particip1": 133,
-    "id_particip2": 175,
-    "puntos1": 5,
-    "puntos2": 1,
-    "fecha": "2023-02-01T13:28:34.358Z"
-  },
-  {
-    "id_torneo": 32,
-    "id_particip1": 44,
-    "id_particip2": 131,
-    "puntos1": 1,
-    "puntos2": 8,
-    "fecha": "2020-10-10T09:43:09.507Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 16,
-    "id_particip2": 137,
-    "puntos1": 6,
-    "puntos2": 9,
-    "fecha": "2020-03-02T21:05:35.605Z"
+    "id_torneo": 13,
+    "id_particip1": 91,
+    "id_particip2": 192,
+    "puntos1": 7,
+    "puntos2": 6,
+    "fecha": "2019-12-28T18:16:40.810Z"
   },
   {
     "id_torneo": 20,
-    "id_particip1": 60,
-    "id_particip2": 89,
-    "puntos1": 10,
-    "puntos2": 4,
-    "fecha": "2020-04-16T22:31:45.862Z"
-  },
-  {
-    "id_torneo": 8,
-    "id_particip1": 110,
-    "id_particip2": 117,
-    "puntos1": 1,
-    "puntos2": 1,
-    "fecha": "2020-03-14T12:48:49.165Z"
-  },
-  {
-    "id_torneo": 36,
-    "id_particip1": 73,
-    "id_particip2": 180,
-    "puntos1": 10,
-    "puntos2": 10,
-    "fecha": "2022-05-05T08:26:01.068Z"
-  },
-  {
-    "id_torneo": 6,
-    "id_particip1": 155,
-    "id_particip2": 37,
-    "puntos1": 7,
-    "puntos2": 6,
-    "fecha": "2023-03-25T13:24:41.599Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 8,
-    "id_particip2": 142,
-    "puntos1": 7,
-    "puntos2": 6,
-    "fecha": "2022-04-30T18:43:25.736Z"
-  },
-  {
-    "id_torneo": 48,
-    "id_particip1": 59,
-    "id_particip2": 69,
-    "puntos1": 10,
-    "puntos2": 8,
-    "fecha": "2020-01-08T03:05:20.633Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 44,
-    "id_particip2": 1,
-    "puntos1": 1,
-    "puntos2": 5,
-    "fecha": "2020-10-17T03:37:24.563Z"
-  },
-  {
-    "id_torneo": 32,
-    "id_particip1": 153,
-    "id_particip2": 156,
+    "id_particip1": 89,
+    "id_particip2": 2,
     "puntos1": 8,
-    "puntos2": 7,
-    "fecha": "2021-03-19T00:02:33.040Z"
+    "puntos2": 1,
+    "fecha": "2020-04-03T22:19:46.621Z"
   },
   {
-    "id_torneo": 6,
-    "id_particip1": 34,
-    "id_particip2": 75,
-    "puntos1": 1,
-    "puntos2": 5,
-    "fecha": "2022-08-23T17:44:04.985Z"
+    "id_torneo": 42,
+    "id_particip1": 89,
+    "id_particip2": 117,
+    "puntos1": 9,
+    "puntos2": 7,
+    "fecha": "2020-03-14T23:35:01.118Z"
   },
   {
     "id_torneo": 23,
-    "id_particip1": 1,
-    "id_particip2": 22,
+    "id_particip1": 160,
+    "id_particip2": 181,
+    "puntos1": 8,
+    "puntos2": 0,
+    "fecha": "2023-12-15T06:16:08.670Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 152,
+    "id_particip2": 66,
+    "puntos1": 7,
+    "puntos2": 0,
+    "fecha": "2024-04-01T07:44:15.737Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 132,
+    "id_particip2": 200,
+    "puntos1": 2,
+    "puntos2": 8,
+    "fecha": "2023-07-05T11:44:46.110Z"
+  },
+  {
+    "id_torneo": 44,
+    "id_particip1": 176,
+    "id_particip2": 89,
+    "puntos1": 9,
+    "puntos2": 7,
+    "fecha": "2024-12-04T04:10:50.996Z"
+  },
+  {
+    "id_torneo": 18,
+    "id_particip1": 115,
+    "id_particip2": 114,
+    "puntos1": 3,
+    "puntos2": 6,
+    "fecha": "2021-01-17T15:24:46.312Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 96,
+    "id_particip2": 191,
+    "puntos1": 7,
+    "puntos2": 0,
+    "fecha": "2021-05-06T22:09:42.843Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 151,
+    "id_particip2": 98,
+    "puntos1": 6,
+    "puntos2": 10,
+    "fecha": "2021-04-30T11:45:17.969Z"
+  },
+  {
+    "id_torneo": 8,
+    "id_particip1": 32,
+    "id_particip2": 106,
+    "puntos1": 1,
+    "puntos2": 8,
+    "fecha": "2022-04-24T22:41:43.635Z"
+  },
+  {
+    "id_torneo": 37,
+    "id_particip1": 25,
+    "id_particip2": 28,
+    "puntos1": 5,
+    "puntos2": 9,
+    "fecha": "2021-07-13T09:21:08.583Z"
+  },
+  {
+    "id_torneo": 27,
+    "id_particip1": 102,
+    "id_particip2": 175,
+    "puntos1": 2,
+    "puntos2": 6,
+    "fecha": "2021-12-04T02:55:14.985Z"
+  },
+  {
+    "id_torneo": 41,
+    "id_particip1": 176,
+    "id_particip2": 183,
+    "puntos1": 2,
+    "puntos2": 5,
+    "fecha": "2022-05-19T12:36:25.983Z"
+  },
+  {
+    "id_torneo": 14,
+    "id_particip1": 17,
+    "id_particip2": 185,
+    "puntos1": 8,
+    "puntos2": 10,
+    "fecha": "2023-03-12T23:45:33.501Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 106,
+    "id_particip2": 32,
+    "puntos1": 5,
+    "puntos2": 9,
+    "fecha": "2021-02-04T20:45:00.406Z"
+  },
+  {
+    "id_torneo": 36,
+    "id_particip1": 190,
+    "id_particip2": 27,
+    "puntos1": 10,
+    "puntos2": 10,
+    "fecha": "2024-04-26T00:22:28.182Z"
+  },
+  {
+    "id_torneo": 24,
+    "id_particip1": 146,
+    "id_particip2": 70,
+    "puntos1": 3,
+    "puntos2": 10,
+    "fecha": "2021-12-21T12:04:45.265Z"
+  },
+  {
+    "id_torneo": 21,
+    "id_particip1": 97,
+    "id_particip2": 58,
+    "puntos1": 1,
+    "puntos2": 9,
+    "fecha": "2021-03-20T12:39:15.709Z"
+  },
+  {
+    "id_torneo": 12,
+    "id_particip1": 106,
+    "id_particip2": 7,
+    "puntos1": 10,
+    "puntos2": 9,
+    "fecha": "2021-11-04T19:02:47.003Z"
+  },
+  {
+    "id_torneo": 18,
+    "id_particip1": 79,
+    "id_particip2": 13,
+    "puntos1": 9,
+    "puntos2": 1,
+    "fecha": "2021-07-23T08:15:23.089Z"
+  },
+  {
+    "id_torneo": 27,
+    "id_particip1": 36,
+    "id_particip2": 141,
+    "puntos1": 7,
+    "puntos2": 3,
+    "fecha": "2022-11-20T16:16:54.508Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 109,
+    "id_particip2": 103,
+    "puntos1": 5,
+    "puntos2": 4,
+    "fecha": "2024-01-30T05:13:43.048Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 146,
+    "id_particip2": 64,
+    "puntos1": 3,
+    "puntos2": 4,
+    "fecha": "2020-12-12T02:26:12.410Z"
+  },
+  {
+    "id_torneo": 20,
+    "id_particip1": 174,
+    "id_particip2": 115,
+    "puntos1": 1,
+    "puntos2": 3,
+    "fecha": "2021-05-07T09:37:34.243Z"
+  },
+  {
+    "id_torneo": 40,
+    "id_particip1": 52,
+    "id_particip2": 7,
+    "puntos1": 7,
+    "puntos2": 2,
+    "fecha": "2021-08-15T08:37:33.887Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 166,
+    "id_particip2": 47,
+    "puntos1": 4,
+    "puntos2": 6,
+    "fecha": "2020-05-15T07:02:16.221Z"
+  },
+  {
+    "id_torneo": 18,
+    "id_particip1": 163,
+    "id_particip2": 20,
+    "puntos1": 10,
+    "puntos2": 9,
+    "fecha": "2020-11-26T23:20:53.730Z"
+  },
+  {
+    "id_torneo": 43,
+    "id_particip1": 93,
+    "id_particip2": 160,
+    "puntos1": 5,
+    "puntos2": 3,
+    "fecha": "2020-07-13T07:24:20.907Z"
+  },
+  {
+    "id_torneo": 21,
+    "id_particip1": 198,
+    "id_particip2": 171,
+    "puntos1": 9,
+    "puntos2": 5,
+    "fecha": "2023-10-14T02:45:40.095Z"
+  },
+  {
+    "id_torneo": 27,
+    "id_particip1": 158,
+    "id_particip2": 154,
+    "puntos1": 1,
+    "puntos2": 0,
+    "fecha": "2024-02-16T02:16:36.002Z"
+  },
+  {
+    "id_torneo": 14,
+    "id_particip1": 7,
+    "id_particip2": 123,
+    "puntos1": 9,
+    "puntos2": 1,
+    "fecha": "2024-06-24T18:58:37.339Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 18,
+    "id_particip2": 13,
+    "puntos1": 6,
+    "puntos2": 9,
+    "fecha": "2021-12-05T17:39:23.269Z"
+  },
+  {
+    "id_torneo": 19,
+    "id_particip1": 39,
+    "id_particip2": 95,
+    "puntos1": 2,
+    "puntos2": 7,
+    "fecha": "2020-10-26T13:13:33.605Z"
+  },
+  {
+    "id_torneo": 43,
+    "id_particip1": 67,
+    "id_particip2": 12,
+    "puntos1": 1,
+    "puntos2": 8,
+    "fecha": "2024-05-03T23:21:57.070Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 74,
+    "id_particip2": 79,
+    "puntos1": 4,
+    "puntos2": 8,
+    "fecha": "2023-12-09T06:30:28.914Z"
+  },
+  {
+    "id_torneo": 43,
+    "id_particip1": 172,
+    "id_particip2": 139,
+    "puntos1": 1,
+    "puntos2": 3,
+    "fecha": "2024-12-11T02:14:22.485Z"
+  },
+  {
+    "id_torneo": 32,
+    "id_particip1": 40,
+    "id_particip2": 173,
+    "puntos1": 10,
+    "puntos2": 9,
+    "fecha": "2021-06-23T22:39:13.088Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 42,
+    "id_particip2": 68,
+    "puntos1": 2,
+    "puntos2": 4,
+    "fecha": "2022-06-16T09:35:43.054Z"
+  },
+  {
+    "id_torneo": 14,
+    "id_particip1": 114,
+    "id_particip2": 45,
+    "puntos1": 8,
+    "puntos2": 1,
+    "fecha": "2021-06-24T18:08:23.807Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 51,
+    "id_particip2": 25,
+    "puntos1": 0,
+    "puntos2": 2,
+    "fecha": "2023-01-22T16:29:23.433Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 74,
+    "id_particip2": 104,
+    "puntos1": 10,
+    "puntos2": 0,
+    "fecha": "2021-04-18T23:19:20.727Z"
+  },
+  {
+    "id_torneo": 30,
+    "id_particip1": 67,
+    "id_particip2": 99,
+    "puntos1": 1,
+    "puntos2": 1,
+    "fecha": "2020-02-15T09:48:40.117Z"
+  },
+  {
+    "id_torneo": 22,
+    "id_particip1": 144,
+    "id_particip2": 126,
+    "puntos1": 10,
+    "puntos2": 1,
+    "fecha": "2021-09-09T22:56:53.668Z"
+  },
+  {
+    "id_torneo": 38,
+    "id_particip1": 112,
+    "id_particip2": 148,
+    "puntos1": 1,
+    "puntos2": 4,
+    "fecha": "2022-05-16T02:12:58.447Z"
+  },
+  {
+    "id_torneo": 12,
+    "id_particip1": 99,
+    "id_particip2": 131,
+    "puntos1": 8,
+    "puntos2": 4,
+    "fecha": "2020-05-20T00:21:43.575Z"
+  },
+  {
+    "id_torneo": 12,
+    "id_particip1": 66,
+    "id_particip2": 3,
+    "puntos1": 2,
+    "puntos2": 6,
+    "fecha": "2022-05-04T09:46:04.245Z"
+  },
+  {
+    "id_torneo": 4,
+    "id_particip1": 124,
+    "id_particip2": 94,
     "puntos1": 3,
     "puntos2": 2,
-    "fecha": "2024-02-22T08:30:02.264Z"
+    "fecha": "2023-07-06T22:44:00.922Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 105,
+    "id_particip2": 21,
+    "puntos1": 4,
+    "puntos2": 5,
+    "fecha": "2020-05-20T20:45:55.320Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 60,
+    "id_particip2": 146,
+    "puntos1": 4,
+    "puntos2": 0,
+    "fecha": "2023-10-30T06:22:42.160Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 165,
+    "id_particip2": 185,
+    "puntos1": 8,
+    "puntos2": 6,
+    "fecha": "2021-04-21T11:36:05.941Z"
+  },
+  {
+    "id_torneo": 37,
+    "id_particip1": 30,
+    "id_particip2": 115,
+    "puntos1": 8,
+    "puntos2": 6,
+    "fecha": "2021-07-28T06:23:09.995Z"
+  },
+  {
+    "id_torneo": 46,
+    "id_particip1": 53,
+    "id_particip2": 11,
+    "puntos1": 0,
+    "puntos2": 5,
+    "fecha": "2023-05-18T20:03:15.716Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 30,
+    "id_particip2": 98,
+    "puntos1": 7,
+    "puntos2": 7,
+    "fecha": "2023-05-16T09:50:41.863Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 31,
+    "id_particip2": 95,
+    "puntos1": 9,
+    "puntos2": 0,
+    "fecha": "2022-02-06T10:34:57.108Z"
+  },
+  {
+    "id_torneo": 4,
+    "id_particip1": 42,
+    "id_particip2": 153,
+    "puntos1": 0,
+    "puntos2": 9,
+    "fecha": "2022-03-22T16:10:04.976Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 28,
+    "id_particip2": 20,
+    "puntos1": 3,
+    "puntos2": 2,
+    "fecha": "2023-07-21T22:16:40.528Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 30,
+    "id_particip2": 50,
+    "puntos1": 2,
+    "puntos2": 9,
+    "fecha": "2024-04-11T05:02:30.200Z"
+  },
+  {
+    "id_torneo": 1,
+    "id_particip1": 33,
+    "id_particip2": 28,
+    "puntos1": 1,
+    "puntos2": 5,
+    "fecha": "2023-02-28T19:08:22.575Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 115,
+    "id_particip2": 128,
+    "puntos1": 0,
+    "puntos2": 1,
+    "fecha": "2022-11-01T22:51:32.375Z"
+  },
+  {
+    "id_torneo": 40,
+    "id_particip1": 50,
+    "id_particip2": 56,
+    "puntos1": 0,
+    "puntos2": 8,
+    "fecha": "2021-12-17T11:05:05.793Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 81,
+    "id_particip2": 109,
+    "puntos1": 2,
+    "puntos2": 6,
+    "fecha": "2022-12-27T01:37:42.992Z"
+  },
+  {
+    "id_torneo": 17,
+    "id_particip1": 71,
+    "id_particip2": 3,
+    "puntos1": 0,
+    "puntos2": 6,
+    "fecha": "2021-07-03T03:08:21.361Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 102,
+    "id_particip2": 86,
+    "puntos1": 7,
+    "puntos2": 2,
+    "fecha": "2020-08-22T02:59:38.577Z"
+  },
+  {
+    "id_torneo": 31,
+    "id_particip1": 43,
+    "id_particip2": 45,
+    "puntos1": 7,
+    "puntos2": 4,
+    "fecha": "2022-02-28T02:00:20.736Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 186,
+    "id_particip2": 188,
+    "puntos1": 9,
+    "puntos2": 2,
+    "fecha": "2021-04-22T21:13:27.418Z"
+  },
+  {
+    "id_torneo": 20,
+    "id_particip1": 113,
+    "id_particip2": 142,
+    "puntos1": 5,
+    "puntos2": 4,
+    "fecha": "2023-02-22T02:59:41.670Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 29,
+    "id_particip2": 145,
+    "puntos1": 5,
+    "puntos2": 2,
+    "fecha": "2024-07-09T11:59:23.980Z"
+  },
+  {
+    "id_torneo": 36,
+    "id_particip1": 10,
+    "id_particip2": 40,
+    "puntos1": 8,
+    "puntos2": 1,
+    "fecha": "2021-05-21T12:28:00.005Z"
+  },
+  {
+    "id_torneo": 8,
+    "id_particip1": 167,
+    "id_particip2": 146,
+    "puntos1": 2,
+    "puntos2": 5,
+    "fecha": "2021-09-29T15:23:17.575Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 41,
+    "id_particip2": 14,
+    "puntos1": 0,
+    "puntos2": 6,
+    "fecha": "2024-11-21T06:21:29.072Z"
+  },
+  {
+    "id_torneo": 9,
+    "id_particip1": 167,
+    "id_particip2": 118,
+    "puntos1": 8,
+    "puntos2": 2,
+    "fecha": "2021-08-13T22:41:18.808Z"
+  },
+  {
+    "id_torneo": 22,
+    "id_particip1": 30,
+    "id_particip2": 6,
+    "puntos1": 7,
+    "puntos2": 6,
+    "fecha": "2023-02-11T13:11:49.808Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 13,
+    "id_particip2": 4,
+    "puntos1": 0,
+    "puntos2": 3,
+    "fecha": "2022-07-04T11:33:40.537Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 91,
+    "id_particip2": 23,
+    "puntos1": 7,
+    "puntos2": 6,
+    "fecha": "2020-02-29T20:20:07.147Z"
+  },
+  {
+    "id_torneo": 37,
+    "id_particip1": 82,
+    "id_particip2": 13,
+    "puntos1": 9,
+    "puntos2": 3,
+    "fecha": "2021-01-18T07:33:20.720Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 99,
+    "id_particip2": 187,
+    "puntos1": 7,
+    "puntos2": 9,
+    "fecha": "2020-09-21T10:13:53.350Z"
+  },
+  {
+    "id_torneo": 27,
+    "id_particip1": 160,
+    "id_particip2": 185,
+    "puntos1": 5,
+    "puntos2": 0,
+    "fecha": "2022-07-19T12:49:49.641Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 155,
+    "id_particip2": 27,
+    "puntos1": 2,
+    "puntos2": 5,
+    "fecha": "2020-03-04T12:40:27.991Z"
+  },
+  {
+    "id_torneo": 18,
+    "id_particip1": 17,
+    "id_particip2": 45,
+    "puntos1": 5,
+    "puntos2": 1,
+    "fecha": "2020-11-27T16:59:55.431Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 26,
+    "id_particip2": 3,
+    "puntos1": 7,
+    "puntos2": 6,
+    "fecha": "2022-06-07T09:56:50.756Z"
+  },
+  {
+    "id_torneo": 26,
+    "id_particip1": 107,
+    "id_particip2": 20,
+    "puntos1": 0,
+    "puntos2": 3,
+    "fecha": "2024-01-26T15:13:41.462Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 148,
+    "id_particip2": 70,
+    "puntos1": 0,
+    "puntos2": 0,
+    "fecha": "2023-08-30T18:04:21.119Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 85,
+    "id_particip2": 82,
+    "puntos1": 7,
+    "puntos2": 8,
+    "fecha": "2020-04-08T08:30:04.647Z"
+  },
+  {
+    "id_torneo": 38,
+    "id_particip1": 101,
+    "id_particip2": 45,
+    "puntos1": 0,
+    "puntos2": 5,
+    "fecha": "2023-03-10T04:58:57.450Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 103,
+    "id_particip2": 105,
+    "puntos1": 6,
+    "puntos2": 4,
+    "fecha": "2023-12-15T16:49:59.173Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 99,
+    "id_particip2": 19,
+    "puntos1": 4,
+    "puntos2": 4,
+    "fecha": "2021-09-03T22:46:13.435Z"
+  },
+  {
+    "id_torneo": 5,
+    "id_particip1": 36,
+    "id_particip2": 62,
+    "puntos1": 4,
+    "puntos2": 1,
+    "fecha": "2020-02-17T03:46:16.686Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 190,
+    "id_particip2": 36,
+    "puntos1": 3,
+    "puntos2": 3,
+    "fecha": "2022-07-10T17:07:24.530Z"
+  },
+  {
+    "id_torneo": 1,
+    "id_particip1": 36,
+    "id_particip2": 111,
+    "puntos1": 6,
+    "puntos2": 9,
+    "fecha": "2024-09-04T02:47:54.081Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 95,
+    "id_particip2": 31,
+    "puntos1": 6,
+    "puntos2": 9,
+    "fecha": "2023-11-22T08:22:04.218Z"
+  },
+  {
+    "id_torneo": 36,
+    "id_particip1": 111,
+    "id_particip2": 188,
+    "puntos1": 3,
+    "puntos2": 0,
+    "fecha": "2023-03-27T20:16:30.753Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 84,
+    "id_particip2": 73,
+    "puntos1": 3,
+    "puntos2": 1,
+    "fecha": "2022-03-25T17:37:18.595Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 99,
+    "id_particip2": 139,
+    "puntos1": 2,
+    "puntos2": 4,
+    "fecha": "2020-03-26T07:01:05.742Z"
+  },
+  {
+    "id_torneo": 33,
+    "id_particip1": 66,
+    "id_particip2": 63,
+    "puntos1": 2,
+    "puntos2": 9,
+    "fecha": "2021-11-18T01:48:06.172Z"
+  },
+  {
+    "id_torneo": 22,
+    "id_particip1": 16,
+    "id_particip2": 191,
+    "puntos1": 6,
+    "puntos2": 3,
+    "fecha": "2023-06-08T19:56:49.271Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 126,
+    "id_particip2": 26,
+    "puntos1": 4,
+    "puntos2": 7,
+    "fecha": "2021-08-26T15:52:08.867Z"
+  },
+  {
+    "id_torneo": 17,
+    "id_particip1": 123,
+    "id_particip2": 155,
+    "puntos1": 0,
+    "puntos2": 8,
+    "fecha": "2024-09-25T12:54:12.773Z"
+  },
+  {
+    "id_torneo": 43,
+    "id_particip1": 173,
+    "id_particip2": 23,
+    "puntos1": 10,
+    "puntos2": 6,
+    "fecha": "2020-02-20T04:20:57.155Z"
+  },
+  {
+    "id_torneo": 25,
+    "id_particip1": 140,
+    "id_particip2": 86,
+    "puntos1": 7,
+    "puntos2": 10,
+    "fecha": "2022-04-27T17:08:17.175Z"
+  },
+  {
+    "id_torneo": 24,
+    "id_particip1": 153,
+    "id_particip2": 33,
+    "puntos1": 1,
+    "puntos2": 2,
+    "fecha": "2023-10-05T16:44:16.637Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 176,
+    "id_particip2": 167,
+    "puntos1": 10,
+    "puntos2": 10,
+    "fecha": "2020-12-09T21:07:57.394Z"
+  },
+  {
+    "id_torneo": 31,
+    "id_particip1": 133,
+    "id_particip2": 13,
+    "puntos1": 5,
+    "puntos2": 1,
+    "fecha": "2024-08-03T09:40:16.384Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 36,
+    "id_particip2": 92,
+    "puntos1": 10,
+    "puntos2": 6,
+    "fecha": "2023-02-22T19:05:05.316Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 114,
+    "id_particip2": 40,
+    "puntos1": 1,
+    "puntos2": 9,
+    "fecha": "2024-01-25T09:10:07.097Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 12,
+    "id_particip2": 71,
+    "puntos1": 9,
+    "puntos2": 7,
+    "fecha": "2022-12-24T04:33:02.128Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 44,
+    "id_particip2": 145,
+    "puntos1": 3,
+    "puntos2": 7,
+    "fecha": "2024-11-14T09:50:45.341Z"
+  },
+  {
+    "id_torneo": 27,
+    "id_particip1": 195,
+    "id_particip2": 84,
+    "puntos1": 3,
+    "puntos2": 0,
+    "fecha": "2020-12-29T07:40:31.385Z"
+  },
+  {
+    "id_torneo": 41,
+    "id_particip1": 48,
+    "id_particip2": 38,
+    "puntos1": 2,
+    "puntos2": 0,
+    "fecha": "2020-06-07T19:54:45.732Z"
+  },
+  {
+    "id_torneo": 17,
+    "id_particip1": 2,
+    "id_particip2": 44,
+    "puntos1": 5,
+    "puntos2": 7,
+    "fecha": "2023-11-07T21:53:14.919Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 79,
+    "id_particip2": 109,
+    "puntos1": 8,
+    "puntos2": 5,
+    "fecha": "2023-10-24T23:54:29.731Z"
+  },
+  {
+    "id_torneo": 26,
+    "id_particip1": 98,
+    "id_particip2": 154,
+    "puntos1": 1,
+    "puntos2": 6,
+    "fecha": "2024-07-09T22:24:27.678Z"
+  },
+  {
+    "id_torneo": 48,
+    "id_particip1": 166,
+    "id_particip2": 94,
+    "puntos1": 8,
+    "puntos2": 10,
+    "fecha": "2024-11-22T07:23:09.074Z"
+  },
+  {
+    "id_torneo": 17,
+    "id_particip1": 122,
+    "id_particip2": 156,
+    "puntos1": 1,
+    "puntos2": 4,
+    "fecha": "2024-02-02T22:28:47.819Z"
+  },
+  {
+    "id_torneo": 14,
+    "id_particip1": 165,
+    "id_particip2": 184,
+    "puntos1": 7,
+    "puntos2": 5,
+    "fecha": "2023-12-09T21:42:46.600Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 101,
+    "id_particip2": 200,
+    "puntos1": 4,
+    "puntos2": 8,
+    "fecha": "2023-05-31T10:50:31.995Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 54,
+    "id_particip2": 49,
+    "puntos1": 5,
+    "puntos2": 7,
+    "fecha": "2020-10-16T17:35:48.546Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 18,
+    "id_particip2": 139,
+    "puntos1": 2,
+    "puntos2": 8,
+    "fecha": "2021-03-31T00:37:03.225Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 192,
+    "id_particip2": 147,
+    "puntos1": 10,
+    "puntos2": 9,
+    "fecha": "2024-02-17T12:49:30.209Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 193,
+    "id_particip2": 153,
+    "puntos1": 3,
+    "puntos2": 2,
+    "fecha": "2021-10-13T21:16:18.335Z"
+  },
+  {
+    "id_torneo": 48,
+    "id_particip1": 88,
+    "id_particip2": 100,
+    "puntos1": 4,
+    "puntos2": 1,
+    "fecha": "2020-07-24T07:05:17.003Z"
+  },
+  {
+    "id_torneo": 22,
+    "id_particip1": 159,
+    "id_particip2": 193,
+    "puntos1": 10,
+    "puntos2": 9,
+    "fecha": "2024-07-18T10:06:55.869Z"
+  },
+  {
+    "id_torneo": 31,
+    "id_particip1": 50,
+    "id_particip2": 186,
+    "puntos1": 2,
+    "puntos2": 3,
+    "fecha": "2022-08-31T21:45:52.455Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 70,
+    "id_particip2": 67,
+    "puntos1": 6,
+    "puntos2": 3,
+    "fecha": "2024-01-05T03:30:22.730Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 53,
+    "id_particip2": 195,
+    "puntos1": 8,
+    "puntos2": 10,
+    "fecha": "2023-12-26T19:52:51.929Z"
+  },
+  {
+    "id_torneo": 4,
+    "id_particip1": 179,
+    "id_particip2": 187,
+    "puntos1": 9,
+    "puntos2": 5,
+    "fecha": "2023-10-18T13:32:59.007Z"
+  },
+  {
+    "id_torneo": 7,
+    "id_particip1": 119,
+    "id_particip2": 81,
+    "puntos1": 0,
+    "puntos2": 9,
+    "fecha": "2022-03-23T07:52:43.316Z"
+  },
+  {
+    "id_torneo": 1,
+    "id_particip1": 28,
+    "id_particip2": 119,
+    "puntos1": 5,
+    "puntos2": 6,
+    "fecha": "2020-10-02T10:19:48.394Z"
+  },
+  {
+    "id_torneo": 19,
+    "id_particip1": 197,
+    "id_particip2": 91,
+    "puntos1": 0,
+    "puntos2": 0,
+    "fecha": "2021-10-28T03:21:48.116Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 93,
+    "id_particip2": 133,
+    "puntos1": 9,
+    "puntos2": 4,
+    "fecha": "2022-12-31T15:17:04.130Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 175,
+    "id_particip2": 77,
+    "puntos1": 8,
+    "puntos2": 4,
+    "fecha": "2023-05-14T17:24:25.431Z"
+  },
+  {
+    "id_torneo": 23,
+    "id_particip1": 51,
+    "id_particip2": 129,
+    "puntos1": 5,
+    "puntos2": 9,
+    "fecha": "2024-12-04T08:07:19.808Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 136,
+    "id_particip2": 94,
+    "puntos1": 8,
+    "puntos2": 6,
+    "fecha": "2024-01-22T05:30:13.672Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 124,
+    "id_particip2": 80,
+    "puntos1": 6,
+    "puntos2": 6,
+    "fecha": "2022-08-16T07:22:20.746Z"
+  },
+  {
+    "id_torneo": 5,
+    "id_particip1": 132,
+    "id_particip2": 150,
+    "puntos1": 7,
+    "puntos2": 3,
+    "fecha": "2024-03-14T05:05:33.636Z"
+  },
+  {
+    "id_torneo": 33,
+    "id_particip1": 24,
+    "id_particip2": 138,
+    "puntos1": 3,
+    "puntos2": 1,
+    "fecha": "2023-08-22T05:50:08.457Z"
+  },
+  {
+    "id_torneo": 46,
+    "id_particip1": 103,
+    "id_particip2": 172,
+    "puntos1": 3,
+    "puntos2": 10,
+    "fecha": "2021-04-10T12:16:55.634Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 117,
+    "id_particip2": 123,
+    "puntos1": 6,
+    "puntos2": 2,
+    "fecha": "2023-08-07T15:37:06.496Z"
+  },
+  {
+    "id_torneo": 5,
+    "id_particip1": 163,
+    "id_particip2": 189,
+    "puntos1": 9,
+    "puntos2": 8,
+    "fecha": "2020-10-10T16:08:34.255Z"
+  },
+  {
+    "id_torneo": 24,
+    "id_particip1": 177,
+    "id_particip2": 158,
+    "puntos1": 4,
+    "puntos2": 2,
+    "fecha": "2023-10-29T20:54:10.405Z"
+  },
+  {
+    "id_torneo": 30,
+    "id_particip1": 32,
+    "id_particip2": 131,
+    "puntos1": 10,
+    "puntos2": 3,
+    "fecha": "2023-06-24T01:49:28.895Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 67,
+    "id_particip2": 163,
+    "puntos1": 10,
+    "puntos2": 8,
+    "fecha": "2023-11-16T20:57:29.039Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 162,
+    "id_particip2": 49,
+    "puntos1": 0,
+    "puntos2": 2,
+    "fecha": "2024-02-24T11:49:15.116Z"
+  },
+  {
+    "id_torneo": 19,
+    "id_particip1": 173,
+    "id_particip2": 149,
+    "puntos1": 0,
+    "puntos2": 9,
+    "fecha": "2023-10-23T11:51:51.660Z"
+  },
+  {
+    "id_torneo": 24,
+    "id_particip1": 192,
+    "id_particip2": 180,
+    "puntos1": 9,
+    "puntos2": 8,
+    "fecha": "2022-08-02T09:21:54.352Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 50,
+    "id_particip2": 141,
+    "puntos1": 0,
+    "puntos2": 4,
+    "fecha": "2024-09-19T19:45:17.644Z"
+  },
+  {
+    "id_torneo": 44,
+    "id_particip1": 73,
+    "id_particip2": 165,
+    "puntos1": 5,
+    "puntos2": 6,
+    "fecha": "2022-08-22T02:56:44.514Z"
+  },
+  {
+    "id_torneo": 27,
+    "id_particip1": 94,
+    "id_particip2": 130,
+    "puntos1": 0,
+    "puntos2": 9,
+    "fecha": "2021-04-12T06:44:48.541Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 199,
+    "id_particip2": 40,
+    "puntos1": 8,
+    "puntos2": 10,
+    "fecha": "2020-12-24T08:37:03.854Z"
+  },
+  {
+    "id_torneo": 41,
+    "id_particip1": 39,
+    "id_particip2": 114,
+    "puntos1": 6,
+    "puntos2": 10,
+    "fecha": "2020-01-18T04:39:45.479Z"
+  },
+  {
+    "id_torneo": 37,
+    "id_particip1": 29,
+    "id_particip2": 100,
+    "puntos1": 5,
+    "puntos2": 5,
+    "fecha": "2021-07-24T04:39:13.055Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 159,
+    "id_particip2": 115,
+    "puntos1": 0,
+    "puntos2": 9,
+    "fecha": "2020-05-16T07:30:55.112Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 135,
+    "id_particip2": 122,
+    "puntos1": 3,
+    "puntos2": 6,
+    "fecha": "2023-10-16T02:29:51.900Z"
+  },
+  {
+    "id_torneo": 44,
+    "id_particip1": 37,
+    "id_particip2": 132,
+    "puntos1": 10,
+    "puntos2": 10,
+    "fecha": "2020-11-08T18:17:13.702Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 88,
+    "id_particip2": 127,
+    "puntos1": 10,
+    "puntos2": 5,
+    "fecha": "2021-06-09T07:53:03.484Z"
+  },
+  {
+    "id_torneo": 20,
+    "id_particip1": 24,
+    "id_particip2": 90,
+    "puntos1": 5,
+    "puntos2": 1,
+    "fecha": "2024-03-21T22:29:31.145Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 117,
+    "id_particip2": 95,
+    "puntos1": 8,
+    "puntos2": 5,
+    "fecha": "2023-02-12T09:50:41.011Z"
+  },
+  {
+    "id_torneo": 38,
+    "id_particip1": 128,
+    "id_particip2": 168,
+    "puntos1": 0,
+    "puntos2": 8,
+    "fecha": "2021-04-20T00:29:21.999Z"
+  },
+  {
+    "id_torneo": 44,
+    "id_particip1": 46,
+    "id_particip2": 95,
+    "puntos1": 5,
+    "puntos2": 9,
+    "fecha": "2024-05-27T18:21:47.052Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 68,
+    "id_particip2": 64,
+    "puntos1": 9,
+    "puntos2": 0,
+    "fecha": "2022-08-11T06:12:38.713Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 10,
+    "id_particip2": 75,
+    "puntos1": 9,
+    "puntos2": 1,
+    "fecha": "2021-06-23T10:19:15.115Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 121,
+    "id_particip2": 4,
+    "puntos1": 8,
+    "puntos2": 9,
+    "fecha": "2020-03-26T21:01:52.744Z"
+  },
+  {
+    "id_torneo": 36,
+    "id_particip1": 51,
+    "id_particip2": 18,
+    "puntos1": 7,
+    "puntos2": 1,
+    "fecha": "2020-01-14T10:55:13.275Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 187,
+    "id_particip2": 107,
+    "puntos1": 8,
+    "puntos2": 10,
+    "fecha": "2021-01-02T08:39:48.141Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 123,
+    "id_particip2": 33,
+    "puntos1": 3,
+    "puntos2": 8,
+    "fecha": "2021-01-13T22:06:37.376Z"
+  },
+  {
+    "id_torneo": 12,
+    "id_particip1": 183,
+    "id_particip2": 19,
+    "puntos1": 4,
+    "puntos2": 5,
+    "fecha": "2022-07-25T17:23:42.311Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 17,
+    "id_particip2": 170,
+    "puntos1": 2,
+    "puntos2": 4,
+    "fecha": "2024-07-08T10:46:31.160Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 60,
+    "id_particip2": 56,
+    "puntos1": 7,
+    "puntos2": 1,
+    "fecha": "2022-01-02T21:09:52.962Z"
+  },
+  {
+    "id_torneo": 7,
+    "id_particip1": 103,
+    "id_particip2": 86,
+    "puntos1": 9,
+    "puntos2": 3,
+    "fecha": "2024-06-02T23:05:36.240Z"
+  },
+  {
+    "id_torneo": 9,
+    "id_particip1": 80,
+    "id_particip2": 31,
+    "puntos1": 6,
+    "puntos2": 9,
+    "fecha": "2023-12-27T03:23:58.292Z"
+  },
+  {
+    "id_torneo": 31,
+    "id_particip1": 198,
+    "id_particip2": 71,
+    "puntos1": 1,
+    "puntos2": 6,
+    "fecha": "2021-06-06T09:33:53.184Z"
+  },
+  {
+    "id_torneo": 17,
+    "id_particip1": 96,
+    "id_particip2": 2,
+    "puntos1": 9,
+    "puntos2": 7,
+    "fecha": "2023-01-06T15:10:37.591Z"
+  },
+  {
+    "id_torneo": 22,
+    "id_particip1": 106,
+    "id_particip2": 178,
+    "puntos1": 3,
+    "puntos2": 6,
+    "fecha": "2022-01-16T19:00:08.481Z"
+  },
+  {
+    "id_torneo": 12,
+    "id_particip1": 195,
+    "id_particip2": 7,
+    "puntos1": 4,
+    "puntos2": 4,
+    "fecha": "2023-08-07T00:38:19.980Z"
+  },
+  {
+    "id_torneo": 27,
+    "id_particip1": 162,
+    "id_particip2": 112,
+    "puntos1": 7,
+    "puntos2": 1,
+    "fecha": "2020-04-27T22:28:46.679Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 196,
+    "id_particip2": 1,
+    "puntos1": 2,
+    "puntos2": 2,
+    "fecha": "2020-06-26T05:17:30.279Z"
+  },
+  {
+    "id_torneo": 9,
+    "id_particip1": 65,
+    "id_particip2": 92,
+    "puntos1": 3,
+    "puntos2": 6,
+    "fecha": "2022-12-13T03:08:55.287Z"
+  },
+  {
+    "id_torneo": 36,
+    "id_particip1": 86,
+    "id_particip2": 12,
+    "puntos1": 5,
+    "puntos2": 5,
+    "fecha": "2023-07-27T04:21:45.463Z"
+  },
+  {
+    "id_torneo": 32,
+    "id_particip1": 86,
+    "id_particip2": 96,
+    "puntos1": 3,
+    "puntos2": 3,
+    "fecha": "2022-05-29T09:48:27.778Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 146,
+    "id_particip2": 54,
+    "puntos1": 5,
+    "puntos2": 5,
+    "fecha": "2024-04-21T15:25:40.317Z"
+  },
+  {
+    "id_torneo": 15,
+    "id_particip1": 138,
+    "id_particip2": 136,
+    "puntos1": 4,
+    "puntos2": 9,
+    "fecha": "2023-04-01T07:52:57.973Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 92,
+    "id_particip2": 38,
+    "puntos1": 2,
+    "puntos2": 10,
+    "fecha": "2023-11-15T19:22:32.685Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 140,
+    "id_particip2": 153,
+    "puntos1": 1,
+    "puntos2": 1,
+    "fecha": "2022-07-03T11:27:09.995Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 12,
+    "id_particip2": 133,
+    "puntos1": 10,
+    "puntos2": 4,
+    "fecha": "2021-07-25T10:59:18.131Z"
+  },
+  {
+    "id_torneo": 5,
+    "id_particip1": 46,
+    "id_particip2": 61,
+    "puntos1": 3,
+    "puntos2": 4,
+    "fecha": "2023-08-20T00:36:39.858Z"
+  },
+  {
+    "id_torneo": 48,
+    "id_particip1": 135,
+    "id_particip2": 133,
+    "puntos1": 7,
+    "puntos2": 3,
+    "fecha": "2023-11-09T11:29:26.493Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 4,
+    "id_particip2": 44,
+    "puntos1": 10,
+    "puntos2": 2,
+    "fecha": "2023-11-10T13:21:50.546Z"
+  },
+  {
+    "id_torneo": 1,
+    "id_particip1": 191,
+    "id_particip2": 50,
+    "puntos1": 9,
+    "puntos2": 9,
+    "fecha": "2021-06-25T06:23:23.338Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 58,
+    "id_particip2": 87,
+    "puntos1": 6,
+    "puntos2": 2,
+    "fecha": "2020-01-03T02:24:28.083Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 114,
+    "id_particip2": 26,
+    "puntos1": 2,
+    "puntos2": 6,
+    "fecha": "2024-11-05T07:48:16.557Z"
+  },
+  {
+    "id_torneo": 14,
+    "id_particip1": 198,
+    "id_particip2": 41,
+    "puntos1": 3,
+    "puntos2": 4,
+    "fecha": "2021-09-10T14:53:40.901Z"
+  },
+  {
+    "id_torneo": 9,
+    "id_particip1": 118,
+    "id_particip2": 47,
+    "puntos1": 2,
+    "puntos2": 3,
+    "fecha": "2024-06-08T02:30:44.605Z"
+  },
+  {
+    "id_torneo": 36,
+    "id_particip1": 14,
+    "id_particip2": 36,
+    "puntos1": 7,
+    "puntos2": 7,
+    "fecha": "2021-12-23T03:21:57.618Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 133,
+    "id_particip2": 181,
+    "puntos1": 3,
+    "puntos2": 9,
+    "fecha": "2020-09-17T07:24:51.819Z"
+  },
+  {
+    "id_torneo": 40,
+    "id_particip1": 58,
+    "id_particip2": 146,
+    "puntos1": 5,
+    "puntos2": 9,
+    "fecha": "2023-08-30T09:12:57.092Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 117,
+    "id_particip2": 99,
+    "puntos1": 4,
+    "puntos2": 4,
+    "fecha": "2021-05-16T19:40:34.526Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 55,
+    "id_particip2": 103,
+    "puntos1": 10,
+    "puntos2": 6,
+    "fecha": "2024-11-23T09:57:14.251Z"
+  },
+  {
+    "id_torneo": 16,
+    "id_particip1": 167,
+    "id_particip2": 33,
+    "puntos1": 5,
+    "puntos2": 0,
+    "fecha": "2023-08-17T02:27:25.553Z"
+  },
+  {
+    "id_torneo": 8,
+    "id_particip1": 41,
+    "id_particip2": 180,
+    "puntos1": 9,
+    "puntos2": 4,
+    "fecha": "2023-11-11T02:00:07.803Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 143,
+    "id_particip2": 62,
+    "puntos1": 2,
+    "puntos2": 2,
+    "fecha": "2024-01-08T03:33:56.913Z"
+  },
+  {
+    "id_torneo": 16,
+    "id_particip1": 82,
+    "id_particip2": 100,
+    "puntos1": 6,
+    "puntos2": 8,
+    "fecha": "2021-01-19T10:48:19.866Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 151,
+    "id_particip2": 48,
+    "puntos1": 1,
+    "puntos2": 1,
+    "fecha": "2023-08-13T14:43:10.935Z"
+  },
+  {
+    "id_torneo": 26,
+    "id_particip1": 35,
+    "id_particip2": 192,
+    "puntos1": 1,
+    "puntos2": 8,
+    "fecha": "2024-02-05T04:25:15.267Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 117,
+    "id_particip2": 7,
+    "puntos1": 2,
+    "puntos2": 9,
+    "fecha": "2023-01-03T11:23:51.851Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 11,
+    "id_particip2": 30,
+    "puntos1": 6,
+    "puntos2": 5,
+    "fecha": "2023-03-01T01:59:41.632Z"
+  },
+  {
+    "id_torneo": 16,
+    "id_particip1": 115,
+    "id_particip2": 160,
+    "puntos1": 8,
+    "puntos2": 2,
+    "fecha": "2024-03-06T09:51:41.777Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 148,
+    "id_particip2": 169,
+    "puntos1": 0,
+    "puntos2": 10,
+    "fecha": "2023-01-10T02:25:02.768Z"
+  },
+  {
+    "id_torneo": 25,
+    "id_particip1": 144,
+    "id_particip2": 151,
+    "puntos1": 10,
+    "puntos2": 5,
+    "fecha": "2020-07-17T07:43:28.616Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 102,
+    "id_particip2": 119,
+    "puntos1": 5,
+    "puntos2": 9,
+    "fecha": "2020-05-17T14:37:06.656Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 68,
+    "id_particip2": 66,
+    "puntos1": 3,
+    "puntos2": 3,
+    "fecha": "2021-11-21T06:10:02.675Z"
+  },
+  {
+    "id_torneo": 23,
+    "id_particip1": 20,
+    "id_particip2": 57,
+    "puntos1": 5,
+    "puntos2": 2,
+    "fecha": "2020-11-10T03:36:06.298Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 184,
+    "id_particip2": 170,
+    "puntos1": 10,
+    "puntos2": 2,
+    "fecha": "2024-11-23T10:23:53.740Z"
+  },
+  {
+    "id_torneo": 22,
+    "id_particip1": 107,
+    "id_particip2": 48,
+    "puntos1": 0,
+    "puntos2": 10,
+    "fecha": "2024-02-14T16:04:41.568Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 135,
+    "id_particip2": 62,
+    "puntos1": 9,
+    "puntos2": 1,
+    "fecha": "2022-07-31T03:00:00.026Z"
+  },
+  {
+    "id_torneo": 35,
+    "id_particip1": 186,
+    "id_particip2": 38,
+    "puntos1": 1,
+    "puntos2": 9,
+    "fecha": "2022-07-24T10:22:34.444Z"
+  },
+  {
+    "id_torneo": 13,
+    "id_particip1": 152,
+    "id_particip2": 170,
+    "puntos1": 4,
+    "puntos2": 8,
+    "fecha": "2023-10-06T21:25:39.758Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 9,
+    "id_particip2": 32,
+    "puntos1": 5,
+    "puntos2": 10,
+    "fecha": "2020-09-20T21:19:21.414Z"
+  },
+  {
+    "id_torneo": 9,
+    "id_particip1": 185,
+    "id_particip2": 34,
+    "puntos1": 8,
+    "puntos2": 4,
+    "fecha": "2022-05-10T23:55:03.517Z"
+  },
+  {
+    "id_torneo": 16,
+    "id_particip1": 70,
+    "id_particip2": 51,
+    "puntos1": 4,
+    "puntos2": 6,
+    "fecha": "2024-06-01T18:14:02.647Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 100,
+    "id_particip2": 21,
+    "puntos1": 9,
+    "puntos2": 7,
+    "fecha": "2020-11-01T04:27:11.294Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 75,
+    "id_particip2": 90,
+    "puntos1": 1,
+    "puntos2": 5,
+    "fecha": "2023-11-12T19:14:47.997Z"
+  },
+  {
+    "id_torneo": 40,
+    "id_particip1": 114,
+    "id_particip2": 107,
+    "puntos1": 7,
+    "puntos2": 2,
+    "fecha": "2022-10-30T14:45:37.876Z"
+  },
+  {
+    "id_torneo": 4,
+    "id_particip1": 115,
+    "id_particip2": 179,
+    "puntos1": 3,
+    "puntos2": 2,
+    "fecha": "2023-09-12T02:52:59.175Z"
+  },
+  {
+    "id_torneo": 48,
+    "id_particip1": 93,
+    "id_particip2": 87,
+    "puntos1": 6,
+    "puntos2": 5,
+    "fecha": "2024-05-21T01:44:47.250Z"
+  },
+  {
+    "id_torneo": 18,
+    "id_particip1": 121,
+    "id_particip2": 137,
+    "puntos1": 0,
+    "puntos2": 1,
+    "fecha": "2021-05-06T15:44:18.561Z"
+  },
+  {
+    "id_torneo": 29,
+    "id_particip1": 65,
+    "id_particip2": 15,
+    "puntos1": 5,
+    "puntos2": 0,
+    "fecha": "2020-05-12T19:32:44.891Z"
   },
   {
     "id_torneo": 29,
     "id_particip1": 179,
-    "id_particip2": 153,
-    "puntos1": 7,
-    "puntos2": 8,
-    "fecha": "2022-08-12T01:49:05.352Z"
-  },
-  {
-    "id_torneo": 47,
-    "id_particip1": 92,
-    "id_particip2": 20,
-    "puntos1": 10,
-    "puntos2": 3,
-    "fecha": "2023-05-15T09:26:03.556Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 21,
-    "id_particip2": 20,
-    "puntos1": 2,
-    "puntos2": 0,
-    "fecha": "2021-07-25T13:15:39.118Z"
-  },
-  {
-    "id_torneo": 18,
-    "id_particip1": 1,
-    "id_particip2": 53,
-    "puntos1": 1,
-    "puntos2": 5,
-    "fecha": "2022-03-29T11:14:30.782Z"
-  },
-  {
-    "id_torneo": 16,
-    "id_particip1": 108,
-    "id_particip2": 35,
-    "puntos1": 3,
-    "puntos2": 4,
-    "fecha": "2022-11-06T08:33:18.349Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 31,
-    "id_particip2": 113,
-    "puntos1": 3,
-    "puntos2": 2,
-    "fecha": "2020-01-15T03:19:04.160Z"
-  },
-  {
-    "id_torneo": 16,
-    "id_particip1": 96,
-    "id_particip2": 17,
-    "puntos1": 1,
-    "puntos2": 2,
-    "fecha": "2024-11-24T04:30:47.436Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 121,
-    "id_particip2": 63,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2022-01-02T06:23:02.266Z"
-  },
-  {
-    "id_torneo": 12,
-    "id_particip1": 189,
-    "id_particip2": 59,
-    "puntos1": 5,
-    "puntos2": 3,
-    "fecha": "2021-09-27T20:28:30.154Z"
-  },
-  {
-    "id_torneo": 27,
-    "id_particip1": 53,
-    "id_particip2": 38,
-    "puntos1": 0,
-    "puntos2": 9,
-    "fecha": "2024-11-19T02:38:06.532Z"
-  },
-  {
-    "id_torneo": 37,
-    "id_particip1": 153,
-    "id_particip2": 42,
-    "puntos1": 9,
-    "puntos2": 4,
-    "fecha": "2022-01-24T15:30:18.123Z"
-  },
-  {
-    "id_torneo": 18,
-    "id_particip1": 128,
-    "id_particip2": 156,
-    "puntos1": 7,
-    "puntos2": 9,
-    "fecha": "2022-12-07T22:51:20.267Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 9,
-    "id_particip2": 186,
-    "puntos1": 0,
-    "puntos2": 0,
-    "fecha": "2024-07-20T05:04:14.504Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 170,
-    "id_particip2": 193,
-    "puntos1": 1,
-    "puntos2": 8,
-    "fecha": "2021-10-02T09:32:23.798Z"
-  },
-  {
-    "id_torneo": 48,
-    "id_particip1": 172,
-    "id_particip2": 81,
-    "puntos1": 8,
-    "puntos2": 7,
-    "fecha": "2021-03-31T07:46:20.537Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 159,
-    "id_particip2": 155,
-    "puntos1": 4,
-    "puntos2": 0,
-    "fecha": "2024-03-19T16:22:34.857Z"
-  },
-  {
-    "id_torneo": 47,
-    "id_particip1": 51,
-    "id_particip2": 36,
-    "puntos1": 8,
-    "puntos2": 5,
-    "fecha": "2022-04-21T04:19:06.676Z"
-  },
-  {
-    "id_torneo": 47,
-    "id_particip1": 182,
-    "id_particip2": 50,
-    "puntos1": 7,
-    "puntos2": 10,
-    "fecha": "2021-09-27T10:05:46.441Z"
-  },
-  {
-    "id_torneo": 33,
-    "id_particip1": 155,
-    "id_particip2": 112,
-    "puntos1": 3,
-    "puntos2": 7,
-    "fecha": "2024-03-07T01:09:44.321Z"
-  },
-  {
-    "id_torneo": 41,
-    "id_particip1": 46,
-    "id_particip2": 38,
-    "puntos1": 5,
-    "puntos2": 9,
-    "fecha": "2024-07-04T16:50:09.137Z"
-  },
-  {
-    "id_torneo": 11,
-    "id_particip1": 34,
-    "id_particip2": 133,
-    "puntos1": 3,
-    "puntos2": 7,
-    "fecha": "2021-01-28T16:26:12.497Z"
-  },
-  {
-    "id_torneo": 21,
-    "id_particip1": 74,
-    "id_particip2": 200,
-    "puntos1": 4,
-    "puntos2": 7,
-    "fecha": "2021-01-28T08:09:08.943Z"
-  },
-  {
-    "id_torneo": 29,
-    "id_particip1": 2,
-    "id_particip2": 52,
-    "puntos1": 10,
-    "puntos2": 7,
-    "fecha": "2023-01-27T21:17:08.769Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 52,
-    "id_particip2": 126,
-    "puntos1": 0,
-    "puntos2": 6,
-    "fecha": "2024-03-06T17:00:39.369Z"
-  },
-  {
-    "id_torneo": 27,
-    "id_particip1": 114,
-    "id_particip2": 127,
-    "puntos1": 10,
-    "puntos2": 3,
-    "fecha": "2024-11-07T08:38:58.096Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 49,
-    "id_particip2": 82,
-    "puntos1": 5,
-    "puntos2": 10,
-    "fecha": "2022-06-05T18:48:04.630Z"
-  },
-  {
-    "id_torneo": 48,
-    "id_particip1": 123,
-    "id_particip2": 123,
-    "puntos1": 3,
-    "puntos2": 8,
-    "fecha": "2023-08-04T12:34:31.733Z"
-  },
-  {
-    "id_torneo": 11,
-    "id_particip1": 59,
-    "id_particip2": 192,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2021-02-19T16:36:14.291Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 10,
-    "id_particip2": 195,
-    "puntos1": 10,
-    "puntos2": 0,
-    "fecha": "2024-01-03T13:22:32.316Z"
-  },
-  {
-    "id_torneo": 41,
-    "id_particip1": 98,
-    "id_particip2": 73,
-    "puntos1": 3,
-    "puntos2": 8,
-    "fecha": "2021-04-29T05:14:53.683Z"
-  },
-  {
-    "id_torneo": 8,
-    "id_particip1": 82,
-    "id_particip2": 146,
-    "puntos1": 8,
-    "puntos2": 0,
-    "fecha": "2023-08-27T23:31:58.565Z"
-  },
-  {
-    "id_torneo": 23,
-    "id_particip1": 58,
-    "id_particip2": 76,
-    "puntos1": 8,
-    "puntos2": 4,
-    "fecha": "2023-04-22T14:59:41.920Z"
-  },
-  {
-    "id_torneo": 32,
-    "id_particip1": 73,
-    "id_particip2": 57,
-    "puntos1": 0,
-    "puntos2": 6,
-    "fecha": "2023-09-13T22:35:02.039Z"
-  },
-  {
-    "id_torneo": 43,
-    "id_particip1": 44,
-    "id_particip2": 153,
-    "puntos1": 9,
-    "puntos2": 8,
-    "fecha": "2020-07-13T07:38:16.779Z"
-  },
-  {
-    "id_torneo": 6,
-    "id_particip1": 73,
-    "id_particip2": 117,
-    "puntos1": 10,
-    "puntos2": 5,
-    "fecha": "2021-01-05T09:33:49.008Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 16,
-    "id_particip2": 102,
-    "puntos1": 2,
-    "puntos2": 1,
-    "fecha": "2022-10-08T07:16:35.556Z"
-  },
-  {
-    "id_torneo": 16,
-    "id_particip1": 69,
-    "id_particip2": 33,
-    "puntos1": 10,
-    "puntos2": 6,
-    "fecha": "2020-05-01T00:13:04.927Z"
-  },
-  {
-    "id_torneo": 50,
-    "id_particip1": 121,
-    "id_particip2": 32,
-    "puntos1": 8,
-    "puntos2": 10,
-    "fecha": "2023-08-31T19:30:35.987Z"
-  },
-  {
-    "id_torneo": 40,
-    "id_particip1": 100,
-    "id_particip2": 182,
-    "puntos1": 5,
-    "puntos2": 7,
-    "fecha": "2024-05-05T13:34:31.418Z"
-  },
-  {
-    "id_torneo": 21,
-    "id_particip1": 92,
-    "id_particip2": 112,
-    "puntos1": 10,
-    "puntos2": 3,
-    "fecha": "2022-08-17T03:46:52.796Z"
-  },
-  {
-    "id_torneo": 43,
-    "id_particip1": 121,
-    "id_particip2": 42,
-    "puntos1": 10,
-    "puntos2": 9,
-    "fecha": "2020-09-01T10:19:09.229Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 4,
-    "id_particip2": 182,
-    "puntos1": 2,
-    "puntos2": 6,
-    "fecha": "2020-08-20T01:04:34.025Z"
-  },
-  {
-    "id_torneo": 18,
-    "id_particip1": 182,
-    "id_particip2": 147,
-    "puntos1": 9,
-    "puntos2": 8,
-    "fecha": "2020-06-14T23:12:11.177Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 16,
-    "id_particip2": 117,
-    "puntos1": 2,
-    "puntos2": 5,
-    "fecha": "2023-10-28T13:25:39.459Z"
-  },
-  {
-    "id_torneo": 37,
-    "id_particip1": 176,
-    "id_particip2": 94,
-    "puntos1": 1,
-    "puntos2": 8,
-    "fecha": "2023-10-31T08:56:55.821Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 176,
-    "id_particip2": 42,
-    "puntos1": 1,
-    "puntos2": 10,
-    "fecha": "2023-02-12T03:11:21.334Z"
-  },
-  {
-    "id_torneo": 2,
-    "id_particip1": 147,
-    "id_particip2": 69,
-    "puntos1": 7,
-    "puntos2": 9,
-    "fecha": "2020-12-21T12:28:35.277Z"
-  },
-  {
-    "id_torneo": 40,
-    "id_particip1": 18,
-    "id_particip2": 80,
-    "puntos1": 9,
-    "puntos2": 10,
-    "fecha": "2021-08-06T08:10:14.091Z"
-  },
-  {
-    "id_torneo": 33,
-    "id_particip1": 22,
-    "id_particip2": 200,
-    "puntos1": 3,
-    "puntos2": 8,
-    "fecha": "2022-11-07T08:15:21.283Z"
-  },
-  {
-    "id_torneo": 13,
-    "id_particip1": 119,
-    "id_particip2": 94,
-    "puntos1": 2,
-    "puntos2": 8,
-    "fecha": "2024-06-13T02:46:06.315Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 127,
-    "id_particip2": 126,
-    "puntos1": 0,
-    "puntos2": 9,
-    "fecha": "2021-12-27T07:47:49.754Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 126,
-    "id_particip2": 96,
-    "puntos1": 0,
-    "puntos2": 2,
-    "fecha": "2023-07-05T06:55:27.445Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 161,
-    "id_particip2": 30,
-    "puntos1": 0,
-    "puntos2": 10,
-    "fecha": "2024-10-27T06:33:16.583Z"
-  },
-  {
-    "id_torneo": 50,
-    "id_particip1": 197,
-    "id_particip2": 170,
-    "puntos1": 0,
-    "puntos2": 10,
-    "fecha": "2023-05-22T14:24:58.030Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 200,
-    "id_particip2": 4,
-    "puntos1": 1,
-    "puntos2": 7,
-    "fecha": "2023-11-18T09:46:05.756Z"
-  },
-  {
-    "id_torneo": 18,
-    "id_particip1": 44,
-    "id_particip2": 88,
-    "puntos1": 4,
-    "puntos2": 8,
-    "fecha": "2020-09-29T18:41:53.029Z"
-  },
-  {
-    "id_torneo": 1,
-    "id_particip1": 160,
-    "id_particip2": 13,
-    "puntos1": 1,
-    "puntos2": 0,
-    "fecha": "2022-03-17T05:05:07.829Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 125,
-    "id_particip2": 129,
-    "puntos1": 1,
-    "puntos2": 9,
-    "fecha": "2023-02-07T06:26:12.122Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 81,
-    "id_particip2": 60,
-    "puntos1": 4,
-    "puntos2": 1,
-    "fecha": "2021-08-05T09:53:31.662Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 183,
-    "id_particip2": 99,
-    "puntos1": 1,
-    "puntos2": 5,
-    "fecha": "2021-10-23T11:38:56.181Z"
-  },
-  {
-    "id_torneo": 37,
-    "id_particip1": 3,
-    "id_particip2": 71,
+    "id_particip2": 77,
     "puntos1": 6,
     "puntos2": 1,
-    "fecha": "2021-08-07T23:46:35.579Z"
+    "fecha": "2023-01-24T16:58:13.636Z"
   },
   {
-    "id_torneo": 6,
-    "id_particip1": 194,
-    "id_particip2": 27,
-    "puntos1": 9,
-    "puntos2": 6,
-    "fecha": "2023-07-10T05:09:31.902Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 156,
-    "id_particip2": 159,
-    "puntos1": 2,
-    "puntos2": 6,
-    "fecha": "2021-11-29T10:48:08.066Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 166,
-    "id_particip2": 4,
+    "id_torneo": 39,
+    "id_particip1": 80,
+    "id_particip2": 84,
     "puntos1": 8,
-    "puntos2": 8,
-    "fecha": "2023-12-09T12:09:57.303Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 125,
-    "id_particip2": 70,
-    "puntos1": 1,
-    "puntos2": 3,
-    "fecha": "2024-06-02T02:45:26.354Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 158,
-    "id_particip2": 69,
-    "puntos1": 3,
-    "puntos2": 10,
-    "fecha": "2023-08-16T12:31:35.937Z"
+    "puntos2": 7,
+    "fecha": "2021-11-30T20:25:05.441Z"
   },
   {
     "id_torneo": 30,
-    "id_particip1": 10,
-    "id_particip2": 44,
-    "puntos1": 5,
-    "puntos2": 10,
-    "fecha": "2023-08-06T11:55:16.811Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 24,
-    "id_particip2": 64,
+    "id_particip1": 65,
+    "id_particip2": 37,
     "puntos1": 7,
-    "puntos2": 10,
-    "fecha": "2024-06-23T11:31:01.561Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 111,
-    "id_particip2": 94,
-    "puntos1": 4,
-    "puntos2": 7,
-    "fecha": "2020-09-18T20:42:28.503Z"
-  },
-  {
-    "id_torneo": 3,
-    "id_particip1": 188,
-    "id_particip2": 199,
-    "puntos1": 7,
-    "puntos2": 10,
-    "fecha": "2021-04-28T18:33:55.771Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 123,
-    "id_particip2": 75,
-    "puntos1": 2,
-    "puntos2": 2,
-    "fecha": "2020-07-11T11:03:54.268Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 78,
-    "id_particip2": 188,
-    "puntos1": 9,
-    "puntos2": 2,
-    "fecha": "2021-08-23T00:36:06.547Z"
-  },
-  {
-    "id_torneo": 23,
-    "id_particip1": 96,
-    "id_particip2": 83,
-    "puntos1": 6,
-    "puntos2": 2,
-    "fecha": "2022-12-31T03:07:05.804Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 60,
-    "id_particip2": 146,
-    "puntos1": 0,
-    "puntos2": 10,
-    "fecha": "2023-09-23T09:39:55.357Z"
-  },
-  {
-    "id_torneo": 48,
-    "id_particip1": 195,
-    "id_particip2": 130,
-    "puntos1": 9,
-    "puntos2": 1,
-    "fecha": "2020-04-04T12:58:02.398Z"
-  },
-  {
-    "id_torneo": 22,
-    "id_particip1": 68,
-    "id_particip2": 170,
-    "puntos1": 4,
-    "puntos2": 6,
-    "fecha": "2022-09-23T04:09:24.411Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 192,
-    "id_particip2": 171,
-    "puntos1": 7,
-    "puntos2": 4,
-    "fecha": "2024-04-05T13:13:28.546Z"
-  },
-  {
-    "id_torneo": 7,
-    "id_particip1": 91,
-    "id_particip2": 75,
-    "puntos1": 1,
-    "puntos2": 0,
-    "fecha": "2024-09-08T02:36:52.233Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 117,
-    "id_particip2": 169,
-    "puntos1": 5,
-    "puntos2": 7,
-    "fecha": "2024-02-26T22:16:36.144Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 71,
-    "id_particip2": 175,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2024-02-11T11:56:16.878Z"
-  },
-  {
-    "id_torneo": 48,
-    "id_particip1": 149,
-    "id_particip2": 63,
-    "puntos1": 3,
-    "puntos2": 7,
-    "fecha": "2022-11-18T01:13:38.511Z"
-  },
-  {
-    "id_torneo": 20,
-    "id_particip1": 191,
-    "id_particip2": 88,
-    "puntos1": 8,
-    "puntos2": 6,
-    "fecha": "2023-02-18T21:06:32.694Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 169,
-    "id_particip2": 96,
-    "puntos1": 8,
-    "puntos2": 6,
-    "fecha": "2024-02-24T21:34:41.141Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 10,
-    "id_particip2": 166,
-    "puntos1": 8,
-    "puntos2": 7,
-    "fecha": "2020-12-28T15:05:21.081Z"
-  },
-  {
-    "id_torneo": 6,
-    "id_particip1": 46,
-    "id_particip2": 17,
-    "puntos1": 2,
-    "puntos2": 2,
-    "fecha": "2023-07-04T05:29:24.536Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 137,
-    "id_particip2": 194,
-    "puntos1": 5,
-    "puntos2": 1,
-    "fecha": "2020-04-22T08:20:14.006Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 66,
-    "id_particip2": 58,
-    "puntos1": 3,
-    "puntos2": 1,
-    "fecha": "2023-09-16T23:16:51.750Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 140,
-    "id_particip2": 144,
-    "puntos1": 10,
-    "puntos2": 2,
-    "fecha": "2023-03-05T06:58:53.955Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 32,
-    "id_particip2": 4,
-    "puntos1": 0,
     "puntos2": 5,
-    "fecha": "2023-01-22T11:22:04.643Z"
+    "fecha": "2024-10-15T16:59:33.543Z"
   },
   {
-    "id_torneo": 46,
-    "id_particip1": 59,
-    "id_particip2": 27,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2022-08-10T12:07:26.514Z"
+    "id_torneo": 24,
+    "id_particip1": 12,
+    "id_particip2": 118,
+    "puntos1": 8,
+    "puntos2": 4,
+    "fecha": "2023-08-25T03:38:42.777Z"
+  },
+  {
+    "id_torneo": 48,
+    "id_particip1": 151,
+    "id_particip2": 3,
+    "puntos1": 9,
+    "puntos2": 7,
+    "fecha": "2021-05-28T22:35:06.802Z"
   },
   {
     "id_torneo": 32,
-    "id_particip1": 161,
-    "id_particip2": 2,
-    "puntos1": 5,
-    "puntos2": 5,
-    "fecha": "2020-08-15T03:21:59.022Z"
-  },
-  {
-    "id_torneo": 23,
-    "id_particip1": 79,
-    "id_particip2": 66,
-    "puntos1": 1,
-    "puntos2": 8,
-    "fecha": "2019-12-19T08:59:11.969Z"
-  },
-  {
-    "id_torneo": 42,
-    "id_particip1": 20,
-    "id_particip2": 155,
-    "puntos1": 1,
-    "puntos2": 0,
-    "fecha": "2023-04-02T02:39:10.874Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 14,
-    "id_particip2": 114,
-    "puntos1": 4,
-    "puntos2": 2,
-    "fecha": "2023-07-03T22:42:17.034Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 161,
-    "id_particip2": 29,
-    "puntos1": 1,
-    "puntos2": 4,
-    "fecha": "2023-08-30T22:41:03.778Z"
-  },
-  {
-    "id_torneo": 23,
-    "id_particip1": 198,
-    "id_particip2": 181,
-    "puntos1": 10,
-    "puntos2": 0,
-    "fecha": "2021-12-14T03:06:01.400Z"
-  },
-  {
-    "id_torneo": 13,
-    "id_particip1": 168,
-    "id_particip2": 121,
-    "puntos1": 10,
-    "puntos2": 1,
-    "fecha": "2020-08-25T16:14:11.598Z"
-  },
-  {
-    "id_torneo": 7,
-    "id_particip1": 66,
-    "id_particip2": 114,
+    "id_particip1": 103,
+    "id_particip2": 141,
     "puntos1": 6,
-    "puntos2": 0,
-    "fecha": "2020-05-09T01:50:12.150Z"
-  },
-  {
-    "id_torneo": 7,
-    "id_particip1": 104,
-    "id_particip2": 34,
-    "puntos1": 1,
-    "puntos2": 4,
-    "fecha": "2021-08-31T07:41:30.371Z"
-  },
-  {
-    "id_torneo": 18,
-    "id_particip1": 165,
-    "id_particip2": 92,
-    "puntos1": 3,
-    "puntos2": 0,
-    "fecha": "2021-12-29T03:48:53.181Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 64,
-    "id_particip2": 22,
-    "puntos1": 0,
-    "puntos2": 10,
-    "fecha": "2023-02-18T12:56:16.309Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 159,
-    "id_particip2": 4,
-    "puntos1": 9,
     "puntos2": 1,
-    "fecha": "2021-02-14T09:46:26.677Z"
-  },
-  {
-    "id_torneo": 40,
-    "id_particip1": 30,
-    "id_particip2": 126,
-    "puntos1": 9,
-    "puntos2": 2,
-    "fecha": "2022-10-14T16:51:05.300Z"
-  },
-  {
-    "id_torneo": 43,
-    "id_particip1": 59,
-    "id_particip2": 16,
-    "puntos1": 0,
-    "puntos2": 4,
-    "fecha": "2020-02-04T20:09:22.712Z"
-  },
-  {
-    "id_torneo": 15,
-    "id_particip1": 33,
-    "id_particip2": 29,
-    "puntos1": 8,
-    "puntos2": 2,
-    "fecha": "2020-12-21T19:34:35.635Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 65,
-    "id_particip2": 14,
-    "puntos1": 9,
-    "puntos2": 5,
-    "fecha": "2021-09-25T02:53:25.137Z"
-  },
-  {
-    "id_torneo": 17,
-    "id_particip1": 181,
-    "id_particip2": 196,
-    "puntos1": 3,
-    "puntos2": 10,
-    "fecha": "2020-09-25T03:40:20.177Z"
-  },
-  {
-    "id_torneo": 29,
-    "id_particip1": 33,
-    "id_particip2": 59,
-    "puntos1": 6,
-    "puntos2": 3,
-    "fecha": "2020-10-26T15:27:09.436Z"
-  },
-  {
-    "id_torneo": 12,
-    "id_particip1": 70,
-    "id_particip2": 19,
-    "puntos1": 5,
-    "puntos2": 6,
-    "fecha": "2021-05-18T10:15:24.275Z"
-  },
-  {
-    "id_torneo": 29,
-    "id_particip1": 31,
-    "id_particip2": 171,
-    "puntos1": 5,
-    "puntos2": 1,
-    "fecha": "2022-11-28T14:26:07.472Z"
+    "fecha": "2024-07-08T11:45:17.812Z"
   },
   {
     "id_torneo": 19,
-    "id_particip1": 146,
-    "id_particip2": 178,
-    "puntos1": 10,
+    "id_particip1": 149,
+    "id_particip2": 165,
+    "puntos1": 0,
     "puntos2": 3,
-    "fecha": "2020-01-11T19:45:58.249Z"
-  },
-  {
-    "id_torneo": 7,
-    "id_particip1": 199,
-    "id_particip2": 34,
-    "puntos1": 7,
-    "puntos2": 0,
-    "fecha": "2020-02-16T06:24:20.206Z"
-  },
-  {
-    "id_torneo": 3,
-    "id_particip1": 78,
-    "id_particip2": 58,
-    "puntos1": 1,
-    "puntos2": 5,
-    "fecha": "2022-10-20T14:40:44.813Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 12,
-    "id_particip2": 173,
-    "puntos1": 2,
-    "puntos2": 5,
-    "fecha": "2021-10-25T01:26:09.381Z"
+    "fecha": "2023-08-30T06:31:06.583Z"
   },
   {
     "id_torneo": 50,
-    "id_particip1": 135,
-    "id_particip2": 23,
-    "puntos1": 7,
-    "puntos2": 4,
-    "fecha": "2024-07-02T03:46:08.302Z"
+    "id_particip1": 73,
+    "id_particip2": 83,
+    "puntos1": 6,
+    "puntos2": 2,
+    "fecha": "2021-05-05T19:59:04.447Z"
   },
   {
-    "id_torneo": 5,
-    "id_particip1": 29,
-    "id_particip2": 88,
-    "puntos1": 9,
-    "puntos2": 10,
-    "fecha": "2023-04-25T19:24:38.935Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 109,
-    "id_particip2": 129,
-    "puntos1": 7,
-    "puntos2": 5,
-    "fecha": "2021-02-11T04:00:19.255Z"
+    "id_torneo": 17,
+    "id_particip1": 130,
+    "id_particip2": 179,
+    "puntos1": 0,
+    "puntos2": 9,
+    "fecha": "2023-06-26T04:18:00.090Z"
   },
   {
     "id_torneo": 35,
-    "id_particip1": 81,
-    "id_particip2": 169,
-    "puntos1": 5,
+    "id_particip1": 53,
+    "id_particip2": 200,
+    "puntos1": 0,
+    "puntos2": 5,
+    "fecha": "2022-08-11T09:22:57.355Z"
+  },
+  {
+    "id_torneo": 42,
+    "id_particip1": 41,
+    "id_particip2": 1,
+    "puntos1": 7,
+    "puntos2": 8,
+    "fecha": "2021-04-20T15:13:25.693Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 187,
+    "id_particip2": 182,
+    "puntos1": 6,
     "puntos2": 4,
-    "fecha": "2023-09-01T14:16:25.174Z"
+    "fecha": "2020-07-08T02:38:21.608Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 13,
+    "id_particip2": 77,
+    "puntos1": 7,
+    "puntos2": 1,
+    "fecha": "2020-08-04T07:08:24.146Z"
+  },
+  {
+    "id_torneo": 31,
+    "id_particip1": 91,
+    "id_particip2": 198,
+    "puntos1": 6,
+    "puntos2": 4,
+    "fecha": "2021-10-31T17:36:58.358Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 129,
+    "id_particip2": 158,
+    "puntos1": 9,
+    "puntos2": 6,
+    "fecha": "2020-05-30T17:56:34.134Z"
+  },
+  {
+    "id_torneo": 22,
+    "id_particip1": 107,
+    "id_particip2": 114,
+    "puntos1": 6,
+    "puntos2": 3,
+    "fecha": "2020-09-30T19:18:54.741Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 86,
+    "id_particip2": 44,
+    "puntos1": 3,
+    "puntos2": 3,
+    "fecha": "2024-01-16T21:43:56.648Z"
+  },
+  {
+    "id_torneo": 46,
+    "id_particip1": 99,
+    "id_particip2": 165,
+    "puntos1": 9,
+    "puntos2": 4,
+    "fecha": "2021-07-16T16:16:09.416Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 166,
+    "id_particip2": 163,
+    "puntos1": 0,
+    "puntos2": 7,
+    "fecha": "2023-04-20T06:28:22.250Z"
+  },
+  {
+    "id_torneo": 29,
+    "id_particip1": 42,
+    "id_particip2": 12,
+    "puntos1": 4,
+    "puntos2": 2,
+    "fecha": "2024-09-09T14:33:46.964Z"
+  },
+  {
+    "id_torneo": 12,
+    "id_particip1": 158,
+    "id_particip2": 52,
+    "puntos1": 3,
+    "puntos2": 2,
+    "fecha": "2024-09-26T20:11:50.730Z"
+  },
+  {
+    "id_torneo": 41,
+    "id_particip1": 31,
+    "id_particip2": 86,
+    "puntos1": 10,
+    "puntos2": 4,
+    "fecha": "2022-06-24T23:36:53.349Z"
+  },
+  {
+    "id_torneo": 30,
+    "id_particip1": 185,
+    "id_particip2": 82,
+    "puntos1": 5,
+    "puntos2": 0,
+    "fecha": "2021-11-06T21:16:47.035Z"
+  },
+  {
+    "id_torneo": 28,
+    "id_particip1": 146,
+    "id_particip2": 70,
+    "puntos1": 7,
+    "puntos2": 1,
+    "fecha": "2023-03-25T18:23:05.405Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 66,
+    "id_particip2": 12,
+    "puntos1": 10,
+    "puntos2": 0,
+    "fecha": "2021-03-22T15:45:37.517Z"
   },
   {
     "id_torneo": 24,
     "id_particip1": 184,
-    "id_particip2": 45,
-    "puntos1": 7,
-    "puntos2": 6,
-    "fecha": "2021-04-23T05:21:16.249Z"
-  },
-  {
-    "id_torneo": 2,
-    "id_particip1": 164,
-    "id_particip2": 56,
-    "puntos1": 7,
-    "puntos2": 5,
-    "fecha": "2020-09-16T23:22:14.625Z"
-  },
-  {
-    "id_torneo": 42,
-    "id_particip1": 92,
-    "id_particip2": 53,
-    "puntos1": 4,
-    "puntos2": 1,
-    "fecha": "2024-06-17T04:49:24.710Z"
-  },
-  {
-    "id_torneo": 1,
-    "id_particip1": 92,
-    "id_particip2": 61,
-    "puntos1": 8,
-    "puntos2": 8,
-    "fecha": "2024-06-21T20:38:49.427Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 197,
-    "id_particip2": 94,
-    "puntos1": 10,
-    "puntos2": 4,
-    "fecha": "2024-06-10T08:08:35.042Z"
-  },
-  {
-    "id_torneo": 44,
-    "id_particip1": 151,
-    "id_particip2": 63,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2024-04-14T01:15:36.695Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 61,
-    "id_particip2": 103,
-    "puntos1": 2,
-    "puntos2": 2,
-    "fecha": "2023-07-10T16:16:56.567Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 115,
-    "id_particip2": 131,
-    "puntos1": 2,
-    "puntos2": 4,
-    "fecha": "2020-12-05T08:20:21.719Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 23,
-    "id_particip2": 126,
-    "puntos1": 8,
-    "puntos2": 3,
-    "fecha": "2021-04-20T03:08:56.863Z"
-  },
-  {
-    "id_torneo": 11,
-    "id_particip1": 49,
-    "id_particip2": 179,
-    "puntos1": 1,
-    "puntos2": 0,
-    "fecha": "2024-11-26T04:03:17.819Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 94,
-    "id_particip2": 5,
-    "puntos1": 8,
-    "puntos2": 8,
-    "fecha": "2023-05-17T19:39:28.492Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 171,
-    "id_particip2": 178,
+    "id_particip2": 37,
     "puntos1": 0,
-    "puntos2": 9,
-    "fecha": "2020-04-27T22:32:10.663Z"
+    "puntos2": 1,
+    "fecha": "2023-12-26T03:28:46.382Z"
+  },
+  {
+    "id_torneo": 21,
+    "id_particip1": 7,
+    "id_particip2": 121,
+    "puntos1": 9,
+    "puntos2": 5,
+    "fecha": "2024-09-16T17:49:04.598Z"
   },
   {
     "id_torneo": 26,
-    "id_particip1": 131,
-    "id_particip2": 108,
-    "puntos1": 10,
-    "puntos2": 6,
-    "fecha": "2022-07-14T02:05:52.712Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 107,
-    "id_particip2": 116,
-    "puntos1": 7,
-    "puntos2": 6,
-    "fecha": "2021-07-30T23:08:15.545Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 123,
-    "id_particip2": 167,
-    "puntos1": 8,
+    "id_particip1": 110,
+    "id_particip2": 85,
+    "puntos1": 1,
     "puntos2": 8,
-    "fecha": "2020-11-17T12:38:15.048Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 148,
-    "id_particip2": 118,
-    "puntos1": 8,
-    "puntos2": 7,
-    "fecha": "2024-06-24T18:26:40.568Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 190,
-    "id_particip2": 89,
-    "puntos1": 7,
-    "puntos2": 6,
-    "fecha": "2020-08-08T21:52:50.464Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 199,
-    "id_particip2": 84,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2023-07-19T06:27:53.865Z"
-  },
-  {
-    "id_torneo": 12,
-    "id_particip1": 104,
-    "id_particip2": 163,
-    "puntos1": 9,
-    "puntos2": 1,
-    "fecha": "2024-02-25T04:30:57.495Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 108,
-    "id_particip2": 20,
-    "puntos1": 6,
-    "puntos2": 1,
-    "fecha": "2020-05-10T18:20:29.634Z"
-  },
-  {
-    "id_torneo": 23,
-    "id_particip1": 53,
-    "id_particip2": 103,
-    "puntos1": 3,
-    "puntos2": 5,
-    "fecha": "2021-11-02T21:05:38.624Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 90,
-    "id_particip2": 104,
-    "puntos1": 10,
-    "puntos2": 2,
-    "fecha": "2023-08-11T07:09:46.978Z"
-  },
-  {
-    "id_torneo": 27,
-    "id_particip1": 173,
-    "id_particip2": 117,
-    "puntos1": 5,
-    "puntos2": 3,
-    "fecha": "2020-09-16T05:55:57.193Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 51,
-    "id_particip2": 183,
-    "puntos1": 2,
-    "puntos2": 8,
-    "fecha": "2020-06-29T01:45:55.954Z"
-  },
-  {
-    "id_torneo": 22,
-    "id_particip1": 155,
-    "id_particip2": 11,
-    "puntos1": 10,
-    "puntos2": 8,
-    "fecha": "2023-03-15T14:29:10.503Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 103,
-    "id_particip2": 22,
-    "puntos1": 2,
-    "puntos2": 6,
-    "fecha": "2021-07-14T23:02:48.050Z"
-  },
-  {
-    "id_torneo": 43,
-    "id_particip1": 126,
-    "id_particip2": 117,
-    "puntos1": 3,
-    "puntos2": 8,
-    "fecha": "2020-01-08T01:39:51.237Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 115,
-    "id_particip2": 32,
-    "puntos1": 2,
-    "puntos2": 9,
-    "fecha": "2024-04-07T12:16:24.983Z"
-  },
-  {
-    "id_torneo": 37,
-    "id_particip1": 12,
-    "id_particip2": 116,
-    "puntos1": 10,
-    "puntos2": 4,
-    "fecha": "2023-05-30T10:34:36.186Z"
-  },
-  {
-    "id_torneo": 42,
-    "id_particip1": 1,
-    "id_particip2": 58,
-    "puntos1": 4,
-    "puntos2": 9,
-    "fecha": "2024-04-16T23:48:06.312Z"
-  },
-  {
-    "id_torneo": 10,
-    "id_particip1": 10,
-    "id_particip2": 13,
-    "puntos1": 10,
-    "puntos2": 9,
-    "fecha": "2020-01-10T07:38:15.268Z"
-  },
-  {
-    "id_torneo": 9,
-    "id_particip1": 45,
-    "id_particip2": 105,
-    "puntos1": 10,
-    "puntos2": 6,
-    "fecha": "2024-06-13T20:58:14.150Z"
+    "fecha": "2022-06-23T09:50:33.933Z"
   },
   {
     "id_torneo": 1,
-    "id_particip1": 123,
-    "id_particip2": 179,
-    "puntos1": 6,
-    "puntos2": 0,
-    "fecha": "2024-01-02T08:51:13.007Z"
+    "id_particip1": 56,
+    "id_particip2": 34,
+    "puntos1": 3,
+    "puntos2": 1,
+    "fecha": "2020-12-17T08:52:31.476Z"
   },
   {
-    "id_torneo": 29,
-    "id_particip1": 177,
-    "id_particip2": 93,
+    "id_torneo": 39,
+    "id_particip1": 8,
+    "id_particip2": 4,
+    "puntos1": 3,
+    "puntos2": 10,
+    "fecha": "2020-08-13T23:47:03.586Z"
+  },
+  {
+    "id_torneo": 17,
+    "id_particip1": 170,
+    "id_particip2": 60,
+    "puntos1": 5,
+    "puntos2": 8,
+    "fecha": "2023-12-15T15:36:31.625Z"
+  },
+  {
+    "id_torneo": 9,
+    "id_particip1": 185,
+    "id_particip2": 124,
+    "puntos1": 8,
+    "puntos2": 9,
+    "fecha": "2020-10-13T10:03:41.912Z"
+  },
+  {
+    "id_torneo": 34,
+    "id_particip1": 195,
+    "id_particip2": 167,
     "puntos1": 4,
     "puntos2": 4,
-    "fecha": "2023-08-26T22:18:42.395Z"
-  },
-  {
-    "id_torneo": 33,
-    "id_particip1": 190,
-    "id_particip2": 18,
-    "puntos1": 8,
-    "puntos2": 4,
-    "fecha": "2020-10-12T17:02:59.137Z"
+    "fecha": "2020-07-21T02:46:40.172Z"
   },
   {
     "id_torneo": 23,
-    "id_particip1": 2,
-    "id_particip2": 177,
-    "puntos1": 2,
-    "puntos2": 1,
-    "fecha": "2020-11-11T12:55:13.922Z"
-  },
-  {
-    "id_torneo": 13,
-    "id_particip1": 42,
-    "id_particip2": 84,
-    "puntos1": 10,
-    "puntos2": 10,
-    "fecha": "2020-08-28T09:32:57.608Z"
+    "id_particip1": 153,
+    "id_particip2": 30,
+    "puntos1": 8,
+    "puntos2": 4,
+    "fecha": "2021-08-30T16:30:47.678Z"
   },
   {
     "id_torneo": 24,
-    "id_particip1": 164,
-    "id_particip2": 122,
-    "puntos1": 6,
-    "puntos2": 8,
-    "fecha": "2024-04-09T16:06:39.152Z"
+    "id_particip1": 128,
+    "id_particip2": 159,
+    "puntos1": 5,
+    "puntos2": 0,
+    "fecha": "2021-03-12T16:51:24.556Z"
+  },
+  {
+    "id_torneo": 8,
+    "id_particip1": 57,
+    "id_particip2": 171,
+    "puntos1": 5,
+    "puntos2": 7,
+    "fecha": "2021-09-04T00:19:14.141Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 58,
+    "id_particip2": 148,
+    "puntos1": 2,
+    "puntos2": 1,
+    "fecha": "2023-09-18T22:50:21.127Z"
+  },
+  {
+    "id_torneo": 10,
+    "id_particip1": 136,
+    "id_particip2": 40,
+    "puntos1": 1,
+    "puntos2": 1,
+    "fecha": "2022-12-15T22:24:27.812Z"
+  },
+  {
+    "id_torneo": 46,
+    "id_particip1": 98,
+    "id_particip2": 63,
+    "puntos1": 0,
+    "puntos2": 10,
+    "fecha": "2020-06-01T22:01:22.622Z"
+  },
+  {
+    "id_torneo": 21,
+    "id_particip1": 62,
+    "id_particip2": 72,
+    "puntos1": 10,
+    "puntos2": 1,
+    "fecha": "2020-10-17T14:22:15.075Z"
+  },
+  {
+    "id_torneo": 21,
+    "id_particip1": 134,
+    "id_particip2": 14,
+    "puntos1": 1,
+    "puntos2": 4,
+    "fecha": "2021-10-30T11:08:47.378Z"
   },
   {
     "id_torneo": 50,
-    "id_particip1": 149,
-    "id_particip2": 93,
-    "puntos1": 9,
-    "puntos2": 8,
-    "fecha": "2024-08-26T07:20:01.939Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 121,
-    "id_particip2": 61,
-    "puntos1": 7,
-    "puntos2": 10,
-    "fecha": "2024-08-31T17:02:59.665Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 56,
-    "id_particip2": 33,
-    "puntos1": 1,
-    "puntos2": 10,
-    "fecha": "2022-09-25T23:00:42.425Z"
-  },
-  {
-    "id_torneo": 48,
-    "id_particip1": 157,
-    "id_particip2": 68,
-    "puntos1": 0,
-    "puntos2": 0,
-    "fecha": "2020-11-10T23:31:26.254Z"
-  },
-  {
-    "id_torneo": 48,
     "id_particip1": 138,
-    "id_particip2": 79,
-    "puntos1": 2,
-    "puntos2": 6,
-    "fecha": "2024-08-07T21:19:58.801Z"
-  },
-  {
-    "id_torneo": 22,
-    "id_particip1": 116,
-    "id_particip2": 53,
-    "puntos1": 4,
-    "puntos2": 1,
-    "fecha": "2024-04-19T03:14:19.339Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 16,
-    "id_particip2": 18,
-    "puntos1": 2,
-    "puntos2": 7,
-    "fecha": "2022-04-05T06:33:39.343Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 37,
-    "id_particip2": 107,
-    "puntos1": 4,
-    "puntos2": 9,
-    "fecha": "2021-02-11T02:08:38.214Z"
-  },
-  {
-    "id_torneo": 9,
-    "id_particip1": 51,
-    "id_particip2": 196,
-    "puntos1": 6,
-    "puntos2": 4,
-    "fecha": "2022-01-12T06:40:23.366Z"
-  },
-  {
-    "id_torneo": 27,
-    "id_particip1": 36,
-    "id_particip2": 85,
-    "puntos1": 7,
-    "puntos2": 1,
-    "fecha": "2023-08-03T19:47:15.907Z"
-  },
-  {
-    "id_torneo": 11,
-    "id_particip1": 22,
-    "id_particip2": 87,
-    "puntos1": 6,
-    "puntos2": 6,
-    "fecha": "2023-11-11T08:06:29.107Z"
-  },
-  {
-    "id_torneo": 10,
-    "id_particip1": 67,
-    "id_particip2": 59,
-    "puntos1": 6,
-    "puntos2": 10,
-    "fecha": "2024-07-18T03:49:49.809Z"
-  },
-  {
-    "id_torneo": 10,
-    "id_particip1": 5,
-    "id_particip2": 24,
-    "puntos1": 3,
-    "puntos2": 4,
-    "fecha": "2020-04-06T13:32:18.453Z"
-  },
-  {
-    "id_torneo": 40,
-    "id_particip1": 178,
-    "id_particip2": 192,
-    "puntos1": 6,
-    "puntos2": 10,
-    "fecha": "2024-04-17T06:19:58.838Z"
-  },
-  {
-    "id_torneo": 20,
-    "id_particip1": 60,
-    "id_particip2": 90,
-    "puntos1": 8,
+    "id_particip2": 156,
+    "puntos1": 1,
     "puntos2": 8,
-    "fecha": "2021-05-17T16:12:17.037Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 181,
-    "id_particip2": 115,
-    "puntos1": 6,
-    "puntos2": 6,
-    "fecha": "2023-08-28T11:28:20.547Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 200,
-    "id_particip2": 72,
-    "puntos1": 2,
-    "puntos2": 0,
-    "fecha": "2021-10-14T00:02:20.904Z"
+    "fecha": "2024-12-05T03:54:32.088Z"
   },
   {
     "id_torneo": 43,
-    "id_particip1": 59,
-    "id_particip2": 152,
-    "puntos1": 4,
+    "id_particip1": 114,
+    "id_particip2": 15,
+    "puntos1": 7,
     "puntos2": 8,
-    "fecha": "2022-08-15T17:31:33.194Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 43,
-    "id_particip2": 143,
-    "puntos1": 9,
-    "puntos2": 5,
-    "fecha": "2021-08-04T08:22:55.516Z"
+    "fecha": "2020-03-22T09:33:56.831Z"
   },
   {
     "id_torneo": 14,
-    "id_particip1": 124,
-    "id_particip2": 59,
-    "puntos1": 10,
-    "puntos2": 4,
-    "fecha": "2020-08-30T19:41:56.062Z"
-  },
-  {
-    "id_torneo": 9,
-    "id_particip1": 39,
-    "id_particip2": 192,
-    "puntos1": 2,
-    "puntos2": 8,
-    "fecha": "2020-12-19T12:50:27.994Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 26,
-    "id_particip2": 120,
+    "id_particip1": 100,
+    "id_particip2": 46,
     "puntos1": 5,
-    "puntos2": 1,
-    "fecha": "2021-07-30T02:43:34.531Z"
-  },
-  {
-    "id_torneo": 21,
-    "id_particip1": 71,
-    "id_particip2": 24,
-    "puntos1": 4,
     "puntos2": 4,
-    "fecha": "2022-04-23T04:59:12.088Z"
+    "fecha": "2021-05-18T14:55:25.836Z"
   },
   {
-    "id_torneo": 21,
-    "id_particip1": 187,
-    "id_particip2": 183,
-    "puntos1": 3,
-    "puntos2": 7,
-    "fecha": "2020-02-03T12:28:12.809Z"
+    "id_torneo": 11,
+    "id_particip1": 74,
+    "id_particip2": 31,
+    "puntos1": 0,
+    "puntos2": 3,
+    "fecha": "2023-06-23T18:36:40.134Z"
+  },
+  {
+    "id_torneo": 4,
+    "id_particip1": 186,
+    "id_particip2": 8,
+    "puntos1": 0,
+    "puntos2": 3,
+    "fecha": "2022-01-08T01:36:08.456Z"
+  },
+  {
+    "id_torneo": 27,
+    "id_particip1": 125,
+    "id_particip2": 48,
+    "puntos1": 10,
+    "puntos2": 1,
+    "fecha": "2021-01-04T08:55:06.111Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 28,
+    "id_particip2": 121,
+    "puntos1": 5,
+    "puntos2": 5,
+    "fecha": "2020-09-01T21:10:35.541Z"
+  },
+  {
+    "id_torneo": 7,
+    "id_particip1": 6,
+    "id_particip2": 157,
+    "puntos1": 6,
+    "puntos2": 10,
+    "fecha": "2020-06-11T13:14:25.021Z"
+  },
+  {
+    "id_torneo": 24,
+    "id_particip1": 11,
+    "id_particip2": 98,
+    "puntos1": 0,
+    "puntos2": 8,
+    "fecha": "2023-09-13T11:12:50.985Z"
   },
   {
     "id_torneo": 13,
-    "id_particip1": 42,
+    "id_particip1": 13,
+    "id_particip2": 63,
+    "puntos1": 3,
+    "puntos2": 10,
+    "fecha": "2020-05-03T11:19:28.495Z"
+  },
+  {
+    "id_torneo": 32,
+    "id_particip1": 136,
+    "id_particip2": 93,
+    "puntos1": 5,
+    "puntos2": 3,
+    "fecha": "2021-07-01T06:52:48.181Z"
+  },
+  {
+    "id_torneo": 39,
+    "id_particip1": 119,
+    "id_particip2": 75,
+    "puntos1": 10,
+    "puntos2": 1,
+    "fecha": "2022-03-01T07:54:01.964Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 92,
+    "id_particip2": 39,
+    "puntos1": 3,
+    "puntos2": 7,
+    "fecha": "2021-10-21T18:32:30.228Z"
+  },
+  {
+    "id_torneo": 18,
+    "id_particip1": 172,
+    "id_particip2": 28,
+    "puntos1": 5,
+    "puntos2": 5,
+    "fecha": "2021-12-20T06:40:19.048Z"
+  },
+  {
+    "id_torneo": 26,
+    "id_particip1": 180,
+    "id_particip2": 174,
+    "puntos1": 4,
+    "puntos2": 4,
+    "fecha": "2023-04-06T16:41:49.677Z"
+  },
+  {
+    "id_torneo": 8,
+    "id_particip1": 5,
+    "id_particip2": 66,
+    "puntos1": 2,
+    "puntos2": 5,
+    "fecha": "2022-03-19T03:25:49.853Z"
+  },
+  {
+    "id_torneo": 19,
+    "id_particip1": 18,
+    "id_particip2": 114,
+    "puntos1": 10,
+    "puntos2": 3,
+    "fecha": "2020-05-25T19:36:37.197Z"
+  },
+  {
+    "id_torneo": 50,
+    "id_particip1": 83,
+    "id_particip2": 102,
+    "puntos1": 4,
+    "puntos2": 1,
+    "fecha": "2020-06-17T10:14:59.298Z"
+  },
+  {
+    "id_torneo": 23,
+    "id_particip1": 78,
+    "id_particip2": 10,
+    "puntos1": 6,
+    "puntos2": 9,
+    "fecha": "2021-07-23T16:14:23.165Z"
+  },
+  {
+    "id_torneo": 22,
+    "id_particip1": 13,
+    "id_particip2": 102,
+    "puntos1": 3,
+    "puntos2": 0,
+    "fecha": "2022-09-27T16:28:41.891Z"
+  },
+  {
+    "id_torneo": 22,
+    "id_particip1": 85,
+    "id_particip2": 194,
+    "puntos1": 9,
+    "puntos2": 9,
+    "fecha": "2024-01-12T03:34:47.562Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 12,
+    "id_particip2": 35,
+    "puntos1": 6,
+    "puntos2": 5,
+    "fecha": "2022-09-09T17:33:37.564Z"
+  },
+  {
+    "id_torneo": 31,
+    "id_particip1": 91,
+    "id_particip2": 22,
+    "puntos1": 3,
+    "puntos2": 2,
+    "fecha": "2023-07-14T13:52:48.564Z"
+  },
+  {
+    "id_torneo": 14,
+    "id_particip1": 17,
+    "id_particip2": 192,
+    "puntos1": 4,
+    "puntos2": 7,
+    "fecha": "2024-04-24T03:53:05.223Z"
+  },
+  {
+    "id_torneo": 21,
+    "id_particip1": 188,
+    "id_particip2": 197,
+    "puntos1": 8,
+    "puntos2": 0,
+    "fecha": "2023-06-21T17:44:24.319Z"
+  },
+  {
+    "id_torneo": 44,
+    "id_particip1": 6,
+    "id_particip2": 72,
+    "puntos1": 9,
+    "puntos2": 2,
+    "fecha": "2023-09-27T13:12:11.097Z"
+  },
+  {
+    "id_torneo": 38,
+    "id_particip1": 131,
+    "id_particip2": 108,
+    "puntos1": 7,
+    "puntos2": 7,
+    "fecha": "2023-04-05T17:51:41.107Z"
+  },
+  {
+    "id_torneo": 47,
+    "id_particip1": 45,
+    "id_particip2": 29,
+    "puntos1": 5,
+    "puntos2": 7,
+    "fecha": "2022-08-04T16:43:26.615Z"
+  },
+  {
+    "id_torneo": 46,
+    "id_particip1": 71,
+    "id_particip2": 103,
+    "puntos1": 9,
+    "puntos2": 4,
+    "fecha": "2022-12-17T18:14:58.959Z"
+  },
+  {
+    "id_torneo": 11,
+    "id_particip1": 160,
+    "id_particip2": 173,
+    "puntos1": 1,
+    "puntos2": 1,
+    "fecha": "2023-10-22T14:42:47.158Z"
+  },
+  {
+    "id_torneo": 3,
+    "id_particip1": 1,
+    "id_particip2": 155,
+    "puntos1": 1,
+    "puntos2": 10,
+    "fecha": "2023-02-27T13:22:00.361Z"
+  },
+  {
+    "id_torneo": 19,
+    "id_particip1": 44,
+    "id_particip2": 42,
+    "puntos1": 5,
+    "puntos2": 4,
+    "fecha": "2021-04-19T11:59:06.378Z"
+  },
+  {
+    "id_torneo": 18,
+    "id_particip1": 147,
+    "id_particip2": 185,
+    "puntos1": 8,
+    "puntos2": 8,
+    "fecha": "2023-04-29T13:45:58.439Z"
+  },
+  {
+    "id_torneo": 19,
+    "id_particip1": 182,
+    "id_particip2": 114,
+    "puntos1": 9,
+    "puntos2": 4,
+    "fecha": "2023-01-13T23:44:59.183Z"
+  },
+  {
+    "id_torneo": 43,
+    "id_particip1": 135,
+    "id_particip2": 130,
+    "puntos1": 6,
+    "puntos2": 7,
+    "fecha": "2024-10-10T02:13:45.686Z"
+  },
+  {
+    "id_torneo": 6,
+    "id_particip1": 25,
+    "id_particip2": 155,
+    "puntos1": 4,
+    "puntos2": 0,
+    "fecha": "2023-04-30T04:18:11.088Z"
+  },
+  {
+    "id_torneo": 2,
+    "id_particip1": 158,
+    "id_particip2": 184,
+    "puntos1": 8,
+    "puntos2": 3,
+    "fecha": "2020-07-10T10:18:05.841Z"
+  },
+  {
+    "id_torneo": 9,
+    "id_particip1": 22,
+    "id_particip2": 192,
+    "puntos1": 6,
+    "puntos2": 6,
+    "fecha": "2022-05-30T00:49:09.808Z"
+  },
+  {
+    "id_torneo": 21,
+    "id_particip1": 99,
+    "id_particip2": 180,
+    "puntos1": 4,
+    "puntos2": 4,
+    "fecha": "2020-03-14T20:42:37.469Z"
+  },
+  {
+    "id_torneo": 49,
+    "id_particip1": 175,
+    "id_particip2": 152,
+    "puntos1": 6,
+    "puntos2": 8,
+    "fecha": "2024-01-13T23:45:02.523Z"
+  },
+  {
+    "id_torneo": 45,
+    "id_particip1": 185,
     "id_particip2": 197,
     "puntos1": 6,
-    "puntos2": 9,
-    "fecha": "2024-04-11T21:10:05.278Z"
-  },
-  {
-    "id_torneo": 36,
-    "id_particip1": 80,
-    "id_particip2": 91,
-    "puntos1": 2,
-    "puntos2": 7,
-    "fecha": "2024-12-07T22:20:46.599Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 193,
-    "id_particip2": 135,
-    "puntos1": 8,
-    "puntos2": 1,
-    "fecha": "2023-09-16T21:01:36.048Z"
-  },
-  {
-    "id_torneo": 29,
-    "id_particip1": 66,
-    "id_particip2": 24,
-    "puntos1": 9,
-    "puntos2": 5,
-    "fecha": "2024-10-27T22:21:02.775Z"
-  },
-  {
-    "id_torneo": 7,
-    "id_particip1": 124,
-    "id_particip2": 184,
-    "puntos1": 9,
-    "puntos2": 3,
-    "fecha": "2023-11-12T04:23:55.933Z"
-  },
-  {
-    "id_torneo": 17,
-    "id_particip1": 52,
-    "id_particip2": 9,
-    "puntos1": 0,
-    "puntos2": 2,
-    "fecha": "2021-01-05T14:55:06.355Z"
-  },
-  {
-    "id_torneo": 13,
-    "id_particip1": 164,
-    "id_particip2": 62,
-    "puntos1": 5,
-    "puntos2": 4,
-    "fecha": "2022-04-07T20:45:29.353Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 138,
-    "id_particip2": 82,
-    "puntos1": 10,
-    "puntos2": 1,
-    "fecha": "2023-07-31T21:34:44.009Z"
-  },
-  {
-    "id_torneo": 40,
-    "id_particip1": 15,
-    "id_particip2": 112,
-    "puntos1": 1,
     "puntos2": 6,
-    "fecha": "2024-12-15T10:21:28.741Z"
+    "fecha": "2021-07-05T14:26:13.912Z"
   },
   {
-    "id_torneo": 36,
-    "id_particip1": 122,
-    "id_particip2": 88,
-    "puntos1": 4,
-    "puntos2": 0,
-    "fecha": "2020-08-31T12:30:18.064Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 66,
-    "id_particip2": 115,
-    "puntos1": 7,
-    "puntos2": 4,
-    "fecha": "2023-12-08T17:28:28.947Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 33,
-    "id_particip2": 45,
-    "puntos1": 9,
-    "puntos2": 4,
-    "fecha": "2021-12-19T14:27:54.930Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 94,
-    "id_particip2": 145,
-    "puntos1": 1,
-    "puntos2": 5,
-    "fecha": "2022-04-18T19:10:31.811Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 147,
-    "id_particip2": 46,
-    "puntos1": 7,
-    "puntos2": 8,
-    "fecha": "2021-07-07T06:27:45.441Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 10,
-    "id_particip2": 105,
-    "puntos1": 10,
-    "puntos2": 8,
-    "fecha": "2020-09-14T17:42:48.917Z"
-  },
-  {
-    "id_torneo": 40,
-    "id_particip1": 21,
-    "id_particip2": 82,
+    "id_torneo": 30,
+    "id_particip1": 107,
+    "id_particip2": 158,
     "puntos1": 2,
-    "puntos2": 1,
-    "fecha": "2021-08-02T17:49:38.606Z"
-  },
-  {
-    "id_torneo": 48,
-    "id_particip1": 161,
-    "id_particip2": 3,
-    "puntos1": 10,
-    "puntos2": 10,
-    "fecha": "2022-06-20T11:13:41.321Z"
+    "puntos2": 2,
+    "fecha": "2022-12-19T09:31:46.475Z"
   },
   {
     "id_torneo": 9,
-    "id_particip1": 186,
-    "id_particip2": 167,
-    "puntos1": 4,
-    "puntos2": 10,
-    "fecha": "2024-05-26T15:48:02.230Z"
-  },
-  {
-    "id_torneo": 10,
-    "id_particip1": 165,
-    "id_particip2": 145,
-    "puntos1": 0,
-    "puntos2": 5,
-    "fecha": "2021-05-27T19:26:09.794Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 188,
-    "id_particip2": 110,
-    "puntos1": 9,
-    "puntos2": 7,
-    "fecha": "2021-11-22T01:46:21.877Z"
-  },
-  {
-    "id_torneo": 16,
-    "id_particip1": 65,
-    "id_particip2": 58,
-    "puntos1": 8,
-    "puntos2": 8,
-    "fecha": "2022-03-18T07:39:10.325Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 171,
-    "id_particip2": 148,
-    "puntos1": 1,
-    "puntos2": 2,
-    "fecha": "2021-06-27T13:19:05.716Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 188,
-    "id_particip2": 42,
-    "puntos1": 9,
-    "puntos2": 3,
-    "fecha": "2023-03-14T09:53:58.536Z"
-  },
-  {
-    "id_torneo": 26,
-    "id_particip1": 3,
-    "id_particip2": 143,
-    "puntos1": 6,
-    "puntos2": 5,
-    "fecha": "2023-01-10T12:39:35.648Z"
-  },
-  {
-    "id_torneo": 10,
-    "id_particip1": 44,
-    "id_particip2": 65,
-    "puntos1": 6,
-    "puntos2": 4,
-    "fecha": "2020-02-22T03:12:43.021Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 120,
+    "id_particip1": 16,
     "id_particip2": 169,
-    "puntos1": 3,
-    "puntos2": 10,
-    "fecha": "2023-06-05T23:04:06.043Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 19,
-    "id_particip2": 55,
-    "puntos1": 2,
-    "puntos2": 0,
-    "fecha": "2021-04-26T10:01:11.851Z"
-  },
-  {
-    "id_torneo": 16,
-    "id_particip1": 103,
-    "id_particip2": 80,
-    "puntos1": 3,
-    "puntos2": 0,
-    "fecha": "2024-04-02T22:22:36.837Z"
-  },
-  {
-    "id_torneo": 18,
-    "id_particip1": 22,
-    "id_particip2": 153,
-    "puntos1": 2,
-    "puntos2": 0,
-    "fecha": "2021-03-23T21:47:53.294Z"
-  },
-  {
-    "id_torneo": 43,
-    "id_particip1": 135,
-    "id_particip2": 21,
-    "puntos1": 2,
-    "puntos2": 4,
-    "fecha": "2021-03-04T06:36:29.535Z"
-  },
-  {
-    "id_torneo": 21,
-    "id_particip1": 170,
-    "id_particip2": 12,
-    "puntos1": 9,
-    "puntos2": 7,
-    "fecha": "2022-01-12T01:45:00.273Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 139,
-    "id_particip2": 122,
-    "puntos1": 0,
-    "puntos2": 7,
-    "fecha": "2024-06-30T21:04:30.712Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 43,
-    "id_particip2": 22,
-    "puntos1": 3,
-    "puntos2": 7,
-    "fecha": "2024-09-08T08:19:56.053Z"
-  },
-  {
-    "id_torneo": 10,
-    "id_particip1": 85,
-    "id_particip2": 54,
-    "puntos1": 2,
-    "puntos2": 3,
-    "fecha": "2022-09-14T09:49:07.563Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 54,
-    "id_particip2": 160,
-    "puntos1": 8,
-    "puntos2": 3,
-    "fecha": "2020-03-03T15:36:03.796Z"
-  },
-  {
-    "id_torneo": 47,
-    "id_particip1": 79,
-    "id_particip2": 24,
-    "puntos1": 10,
-    "puntos2": 1,
-    "fecha": "2024-11-15T15:52:26.801Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 87,
-    "id_particip2": 165,
-    "puntos1": 3,
-    "puntos2": 2,
-    "fecha": "2021-10-16T20:06:50.241Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 106,
-    "id_particip2": 46,
-    "puntos1": 8,
-    "puntos2": 3,
-    "fecha": "2020-04-08T22:14:35.536Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 93,
-    "id_particip2": 165,
-    "puntos1": 5,
-    "puntos2": 10,
-    "fecha": "2023-01-23T14:21:15.014Z"
-  },
-  {
-    "id_torneo": 16,
-    "id_particip1": 173,
-    "id_particip2": 34,
-    "puntos1": 0,
-    "puntos2": 9,
-    "fecha": "2023-07-02T08:32:45.785Z"
-  },
-  {
-    "id_torneo": 16,
-    "id_particip1": 165,
-    "id_particip2": 181,
-    "puntos1": 2,
-    "puntos2": 0,
-    "fecha": "2020-03-10T00:01:05.311Z"
-  },
-  {
-    "id_torneo": 6,
-    "id_particip1": 188,
-    "id_particip2": 126,
-    "puntos1": 0,
-    "puntos2": 10,
-    "fecha": "2022-09-16T03:39:21.904Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 175,
-    "id_particip2": 191,
-    "puntos1": 6,
-    "puntos2": 8,
-    "fecha": "2020-04-27T01:56:43.824Z"
-  },
-  {
-    "id_torneo": 21,
-    "id_particip1": 158,
-    "id_particip2": 36,
-    "puntos1": 3,
-    "puntos2": 2,
-    "fecha": "2020-06-20T12:29:29.621Z"
-  },
-  {
-    "id_torneo": 13,
-    "id_particip1": 46,
-    "id_particip2": 33,
-    "puntos1": 5,
-    "puntos2": 10,
-    "fecha": "2022-05-12T08:34:24.041Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 92,
-    "id_particip2": 73,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2020-07-17T13:11:00.257Z"
-  },
-  {
-    "id_torneo": 44,
-    "id_particip1": 65,
-    "id_particip2": 94,
-    "puntos1": 0,
-    "puntos2": 5,
-    "fecha": "2024-12-01T11:54:57.135Z"
-  },
-  {
-    "id_torneo": 42,
-    "id_particip1": 65,
-    "id_particip2": 64,
-    "puntos1": 6,
-    "puntos2": 8,
-    "fecha": "2023-02-08T22:49:44.090Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 117,
-    "id_particip2": 81,
-    "puntos1": 6,
-    "puntos2": 10,
-    "fecha": "2023-07-05T02:11:00.810Z"
-  },
-  {
-    "id_torneo": 7,
-    "id_particip1": 86,
-    "id_particip2": 97,
-    "puntos1": 3,
-    "puntos2": 9,
-    "fecha": "2020-04-25T16:16:25.338Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 176,
-    "id_particip2": 174,
-    "puntos1": 3,
-    "puntos2": 2,
-    "fecha": "2020-01-11T08:56:31.842Z"
-  },
-  {
-    "id_torneo": 2,
-    "id_particip1": 24,
-    "id_particip2": 34,
-    "puntos1": 4,
-    "puntos2": 10,
-    "fecha": "2020-08-20T09:46:41.320Z"
-  },
-  {
-    "id_torneo": 33,
-    "id_particip1": 75,
-    "id_particip2": 45,
-    "puntos1": 0,
-    "puntos2": 8,
-    "fecha": "2022-02-16T10:40:45.955Z"
-  },
-  {
-    "id_torneo": 44,
-    "id_particip1": 181,
-    "id_particip2": 102,
-    "puntos1": 9,
-    "puntos2": 10,
-    "fecha": "2020-04-01T09:55:20.587Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 110,
-    "id_particip2": 111,
-    "puntos1": 6,
-    "puntos2": 7,
-    "fecha": "2022-02-21T22:06:51.986Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 169,
-    "id_particip2": 129,
-    "puntos1": 8,
-    "puntos2": 5,
-    "fecha": "2020-10-13T17:40:11.157Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 109,
-    "id_particip2": 187,
-    "puntos1": 9,
-    "puntos2": 0,
-    "fecha": "2020-06-16T09:26:55.657Z"
-  },
-  {
-    "id_torneo": 36,
-    "id_particip1": 157,
-    "id_particip2": 91,
-    "puntos1": 6,
-    "puntos2": 7,
-    "fecha": "2023-04-29T20:30:07.505Z"
-  },
-  {
-    "id_torneo": 48,
-    "id_particip1": 177,
-    "id_particip2": 48,
-    "puntos1": 7,
-    "puntos2": 10,
-    "fecha": "2022-04-30T23:48:20.249Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 170,
-    "id_particip2": 89,
-    "puntos1": 6,
-    "puntos2": 7,
-    "fecha": "2024-08-22T20:00:12.085Z"
-  },
-  {
-    "id_torneo": 1,
-    "id_particip1": 10,
-    "id_particip2": 6,
-    "puntos1": 10,
-    "puntos2": 0,
-    "fecha": "2020-06-11T18:29:36.046Z"
-  },
-  {
-    "id_torneo": 32,
-    "id_particip1": 193,
-    "id_particip2": 196,
-    "puntos1": 7,
-    "puntos2": 6,
-    "fecha": "2022-09-15T02:45:02.568Z"
-  },
-  {
-    "id_torneo": 17,
-    "id_particip1": 134,
-    "id_particip2": 109,
-    "puntos1": 7,
-    "puntos2": 6,
-    "fecha": "2023-04-30T04:15:39.307Z"
-  },
-  {
-    "id_torneo": 23,
-    "id_particip1": 151,
-    "id_particip2": 13,
-    "puntos1": 9,
-    "puntos2": 5,
-    "fecha": "2021-02-17T06:42:40.815Z"
-  },
-  {
-    "id_torneo": 9,
-    "id_particip1": 80,
-    "id_particip2": 80,
-    "puntos1": 5,
-    "puntos2": 6,
-    "fecha": "2024-06-19T11:48:13.955Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 155,
-    "id_particip2": 48,
-    "puntos1": 9,
-    "puntos2": 10,
-    "fecha": "2020-12-29T20:42:28.977Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 72,
-    "id_particip2": 127,
-    "puntos1": 5,
-    "puntos2": 8,
-    "fecha": "2021-01-20T03:47:51.603Z"
-  },
-  {
-    "id_torneo": 43,
-    "id_particip1": 114,
-    "id_particip2": 184,
-    "puntos1": 1,
-    "puntos2": 0,
-    "fecha": "2023-11-07T22:16:12.891Z"
-  },
-  {
-    "id_torneo": 9,
-    "id_particip1": 38,
-    "id_particip2": 17,
-    "puntos1": 7,
-    "puntos2": 10,
-    "fecha": "2020-03-14T04:30:03.554Z"
-  },
-  {
-    "id_torneo": 11,
-    "id_particip1": 156,
-    "id_particip2": 125,
-    "puntos1": 1,
-    "puntos2": 7,
-    "fecha": "2024-01-23T18:56:12.881Z"
-  },
-  {
-    "id_torneo": 29,
-    "id_particip1": 122,
-    "id_particip2": 5,
-    "puntos1": 7,
-    "puntos2": 7,
-    "fecha": "2024-11-14T16:36:48.732Z"
-  },
-  {
-    "id_torneo": 22,
-    "id_particip1": 63,
-    "id_particip2": 52,
-    "puntos1": 0,
-    "puntos2": 3,
-    "fecha": "2020-11-05T00:49:16.903Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 5,
-    "id_particip2": 14,
-    "puntos1": 10,
-    "puntos2": 7,
-    "fecha": "2022-04-17T13:41:37.593Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 153,
-    "id_particip2": 5,
-    "puntos1": 4,
-    "puntos2": 1,
-    "fecha": "2020-08-21T15:37:24.450Z"
-  },
-  {
-    "id_torneo": 23,
-    "id_particip1": 183,
-    "id_particip2": 23,
-    "puntos1": 9,
-    "puntos2": 1,
-    "fecha": "2020-05-06T16:46:28.601Z"
-  },
-  {
-    "id_torneo": 16,
-    "id_particip1": 15,
-    "id_particip2": 181,
-    "puntos1": 9,
-    "puntos2": 1,
-    "fecha": "2023-04-08T02:34:10.200Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 91,
-    "id_particip2": 109,
-    "puntos1": 10,
-    "puntos2": 5,
-    "fecha": "2024-08-14T08:39:08.360Z"
-  },
-  {
-    "id_torneo": 44,
-    "id_particip1": 89,
-    "id_particip2": 155,
-    "puntos1": 9,
-    "puntos2": 4,
-    "fecha": "2021-11-19T23:58:40.704Z"
-  },
-  {
-    "id_torneo": 1,
-    "id_particip1": 23,
-    "id_particip2": 127,
-    "puntos1": 6,
-    "puntos2": 2,
-    "fecha": "2023-07-10T04:33:49.997Z"
-  },
-  {
-    "id_torneo": 44,
-    "id_particip1": 124,
-    "id_particip2": 135,
-    "puntos1": 2,
-    "puntos2": 2,
-    "fecha": "2024-12-15T23:54:56.418Z"
-  },
-  {
-    "id_torneo": 30,
-    "id_particip1": 81,
-    "id_particip2": 181,
-    "puntos1": 6,
-    "puntos2": 2,
-    "fecha": "2024-04-08T02:37:56.090Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 49,
-    "id_particip2": 113,
-    "puntos1": 8,
-    "puntos2": 0,
-    "fecha": "2024-01-27T22:10:11.537Z"
-  },
-  {
-    "id_torneo": 11,
-    "id_particip1": 121,
-    "id_particip2": 9,
-    "puntos1": 8,
-    "puntos2": 7,
-    "fecha": "2020-04-21T12:02:59.036Z"
-  },
-  {
-    "id_torneo": 41,
-    "id_particip1": 105,
-    "id_particip2": 58,
-    "puntos1": 10,
-    "puntos2": 8,
-    "fecha": "2023-01-07T03:09:40.825Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 45,
-    "id_particip2": 85,
-    "puntos1": 0,
-    "puntos2": 0,
-    "fecha": "2021-08-24T04:51:09.802Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 20,
-    "id_particip2": 161,
-    "puntos1": 2,
-    "puntos2": 3,
-    "fecha": "2023-06-11T17:00:30.635Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 4,
-    "id_particip2": 12,
-    "puntos1": 1,
-    "puntos2": 5,
-    "fecha": "2022-10-23T04:04:48.379Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 103,
-    "id_particip2": 191,
-    "puntos1": 3,
-    "puntos2": 6,
-    "fecha": "2022-08-24T09:32:18.734Z"
-  },
-  {
-    "id_torneo": 36,
-    "id_particip1": 45,
-    "id_particip2": 83,
-    "puntos1": 2,
-    "puntos2": 0,
-    "fecha": "2021-01-04T17:59:54.084Z"
-  },
-  {
-    "id_torneo": 1,
-    "id_particip1": 103,
-    "id_particip2": 97,
-    "puntos1": 2,
-    "puntos2": 2,
-    "fecha": "2023-03-22T14:02:06.986Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 164,
-    "id_particip2": 28,
-    "puntos1": 10,
-    "puntos2": 10,
-    "fecha": "2021-05-29T07:48:11.004Z"
-  },
-  {
-    "id_torneo": 48,
-    "id_particip1": 140,
-    "id_particip2": 65,
-    "puntos1": 1,
-    "puntos2": 10,
-    "fecha": "2022-02-14T12:44:26.180Z"
-  },
-  {
-    "id_torneo": 23,
-    "id_particip1": 193,
-    "id_particip2": 184,
-    "puntos1": 6,
-    "puntos2": 8,
-    "fecha": "2022-10-10T19:06:23.184Z"
-  },
-  {
-    "id_torneo": 22,
-    "id_particip1": 105,
-    "id_particip2": 13,
-    "puntos1": 2,
-    "puntos2": 6,
-    "fecha": "2022-06-12T11:20:18.752Z"
-  },
-  {
-    "id_torneo": 9,
-    "id_particip1": 6,
-    "id_particip2": 28,
-    "puntos1": 10,
-    "puntos2": 7,
-    "fecha": "2022-07-04T20:30:31.115Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 33,
-    "id_particip2": 33,
-    "puntos1": 9,
-    "puntos2": 6,
-    "fecha": "2024-06-09T00:52:24.927Z"
-  },
-  {
-    "id_torneo": 44,
-    "id_particip1": 87,
-    "id_particip2": 149,
-    "puntos1": 10,
-    "puntos2": 9,
-    "fecha": "2024-01-29T11:27:08.785Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 108,
-    "id_particip2": 43,
-    "puntos1": 10,
-    "puntos2": 9,
-    "fecha": "2022-03-26T19:52:24.057Z"
-  },
-  {
-    "id_torneo": 6,
-    "id_particip1": 105,
-    "id_particip2": 153,
-    "puntos1": 7,
-    "puntos2": 3,
-    "fecha": "2021-06-04T23:37:12.732Z"
-  },
-  {
-    "id_torneo": 36,
-    "id_particip1": 34,
-    "id_particip2": 190,
-    "puntos1": 6,
-    "puntos2": 9,
-    "fecha": "2024-07-16T12:34:21.489Z"
-  },
-  {
-    "id_torneo": 7,
-    "id_particip1": 127,
-    "id_particip2": 118,
-    "puntos1": 8,
-    "puntos2": 6,
-    "fecha": "2024-02-05T19:33:53.772Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 73,
-    "id_particip2": 96,
-    "puntos1": 3,
-    "puntos2": 10,
-    "fecha": "2020-07-02T22:44:39.225Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 7,
-    "id_particip2": 191,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2024-05-07T12:34:09.767Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 38,
-    "id_particip2": 54,
-    "puntos1": 0,
-    "puntos2": 5,
-    "fecha": "2022-10-16T17:33:26.012Z"
-  },
-  {
-    "id_torneo": 22,
-    "id_particip1": 74,
-    "id_particip2": 152,
-    "puntos1": 2,
-    "puntos2": 2,
-    "fecha": "2023-01-13T21:50:42.246Z"
-  },
-  {
-    "id_torneo": 40,
-    "id_particip1": 76,
-    "id_particip2": 44,
-    "puntos1": 6,
-    "puntos2": 6,
-    "fecha": "2022-04-11T13:59:23.152Z"
-  },
-  {
-    "id_torneo": 40,
-    "id_particip1": 182,
-    "id_particip2": 86,
-    "puntos1": 5,
-    "puntos2": 3,
-    "fecha": "2024-02-26T02:53:26.206Z"
-  },
-  {
-    "id_torneo": 44,
-    "id_particip1": 146,
-    "id_particip2": 99,
-    "puntos1": 8,
-    "puntos2": 2,
-    "fecha": "2021-09-25T09:41:04.523Z"
-  },
-  {
-    "id_torneo": 7,
-    "id_particip1": 110,
-    "id_particip2": 98,
-    "puntos1": 3,
-    "puntos2": 6,
-    "fecha": "2021-08-09T16:34:15.136Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 55,
-    "id_particip2": 138,
-    "puntos1": 7,
-    "puntos2": 0,
-    "fecha": "2021-05-13T19:31:42.254Z"
-  },
-  {
-    "id_torneo": 48,
-    "id_particip1": 142,
-    "id_particip2": 107,
-    "puntos1": 6,
-    "puntos2": 4,
-    "fecha": "2020-12-15T04:08:24.929Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 151,
-    "id_particip2": 30,
-    "puntos1": 9,
-    "puntos2": 1,
-    "fecha": "2020-12-29T05:47:21.115Z"
-  },
-  {
-    "id_torneo": 23,
-    "id_particip1": 161,
-    "id_particip2": 123,
-    "puntos1": 7,
-    "puntos2": 9,
-    "fecha": "2023-12-10T03:47:03.924Z"
-  },
-  {
-    "id_torneo": 10,
-    "id_particip1": 181,
-    "id_particip2": 99,
-    "puntos1": 5,
-    "puntos2": 8,
-    "fecha": "2020-06-01T05:04:19.446Z"
-  },
-  {
-    "id_torneo": 22,
-    "id_particip1": 171,
-    "id_particip2": 178,
-    "puntos1": 3,
-    "puntos2": 7,
-    "fecha": "2021-01-30T09:28:33.443Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 5,
-    "id_particip2": 54,
-    "puntos1": 10,
-    "puntos2": 5,
-    "fecha": "2024-11-01T13:57:20.428Z"
-  },
-  {
-    "id_torneo": 16,
-    "id_particip1": 84,
-    "id_particip2": 140,
-    "puntos1": 6,
-    "puntos2": 2,
-    "fecha": "2022-06-24T10:11:30.683Z"
-  },
-  {
-    "id_torneo": 47,
-    "id_particip1": 112,
-    "id_particip2": 179,
-    "puntos1": 10,
-    "puntos2": 0,
-    "fecha": "2020-06-27T04:41:37.801Z"
-  },
-  {
-    "id_torneo": 15,
-    "id_particip1": 155,
-    "id_particip2": 7,
-    "puntos1": 4,
-    "puntos2": 6,
-    "fecha": "2022-05-14T13:40:40.508Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 121,
-    "id_particip2": 43,
-    "puntos1": 8,
-    "puntos2": 9,
-    "fecha": "2022-09-07T07:59:46.539Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 191,
-    "id_particip2": 78,
-    "puntos1": 4,
-    "puntos2": 7,
-    "fecha": "2022-04-25T07:42:56.652Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 172,
-    "id_particip2": 114,
-    "puntos1": 2,
-    "puntos2": 7,
-    "fecha": "2023-10-09T04:41:12.086Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 7,
-    "id_particip2": 155,
-    "puntos1": 2,
-    "puntos2": 3,
-    "fecha": "2023-10-15T00:47:09.048Z"
-  },
-  {
-    "id_torneo": 1,
-    "id_particip1": 142,
-    "id_particip2": 200,
-    "puntos1": 5,
-    "puntos2": 5,
-    "fecha": "2023-07-04T09:18:11.630Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 55,
-    "id_particip2": 48,
-    "puntos1": 4,
-    "puntos2": 9,
-    "fecha": "2022-09-09T19:04:36.854Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 93,
-    "id_particip2": 153,
-    "puntos1": 5,
-    "puntos2": 4,
-    "fecha": "2022-12-16T11:50:07.723Z"
-  },
-  {
-    "id_torneo": 41,
-    "id_particip1": 98,
-    "id_particip2": 111,
-    "puntos1": 3,
-    "puntos2": 3,
-    "fecha": "2021-08-03T07:48:57.206Z"
-  },
-  {
-    "id_torneo": 41,
-    "id_particip1": 165,
-    "id_particip2": 119,
-    "puntos1": 7,
-    "puntos2": 3,
-    "fecha": "2023-04-21T11:37:12.933Z"
-  },
-  {
-    "id_torneo": 17,
-    "id_particip1": 65,
-    "id_particip2": 63,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2022-08-20T05:44:27.260Z"
-  },
-  {
-    "id_torneo": 11,
-    "id_particip1": 22,
-    "id_particip2": 96,
-    "puntos1": 3,
-    "puntos2": 9,
-    "fecha": "2021-09-02T13:27:14.059Z"
-  },
-  {
-    "id_torneo": 33,
-    "id_particip1": 13,
-    "id_particip2": 134,
-    "puntos1": 3,
-    "puntos2": 4,
-    "fecha": "2021-04-29T01:56:29.144Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 166,
-    "id_particip2": 45,
-    "puntos1": 1,
-    "puntos2": 7,
-    "fecha": "2021-05-19T10:45:54.033Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 170,
-    "id_particip2": 186,
-    "puntos1": 9,
-    "puntos2": 7,
-    "fecha": "2020-02-01T18:51:14.184Z"
-  },
-  {
-    "id_torneo": 8,
-    "id_particip1": 52,
-    "id_particip2": 69,
-    "puntos1": 5,
-    "puntos2": 3,
-    "fecha": "2022-05-21T03:40:19.232Z"
-  },
-  {
-    "id_torneo": 43,
-    "id_particip1": 99,
-    "id_particip2": 24,
-    "puntos1": 3,
-    "puntos2": 1,
-    "fecha": "2022-11-26T14:20:53.461Z"
-  },
-  {
-    "id_torneo": 10,
-    "id_particip1": 157,
-    "id_particip2": 32,
-    "puntos1": 4,
-    "puntos2": 5,
-    "fecha": "2020-11-19T20:23:31.738Z"
-  },
-  {
-    "id_torneo": 20,
-    "id_particip1": 185,
-    "id_particip2": 86,
-    "puntos1": 9,
-    "puntos2": 0,
-    "fecha": "2024-07-24T12:58:08.787Z"
-  },
-  {
-    "id_torneo": 20,
-    "id_particip1": 38,
-    "id_particip2": 179,
-    "puntos1": 9,
-    "puntos2": 9,
-    "fecha": "2020-03-02T16:47:05.495Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 132,
-    "id_particip2": 134,
-    "puntos1": 3,
-    "puntos2": 3,
-    "fecha": "2021-09-11T12:00:16.333Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 105,
-    "id_particip2": 171,
-    "puntos1": 10,
-    "puntos2": 1,
-    "fecha": "2020-08-25T15:31:46.321Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 126,
-    "id_particip2": 133,
-    "puntos1": 10,
-    "puntos2": 7,
-    "fecha": "2021-08-30T14:31:05.420Z"
-  },
-  {
-    "id_torneo": 15,
-    "id_particip1": 1,
-    "id_particip2": 115,
     "puntos1": 6,
     "puntos2": 1,
-    "fecha": "2021-07-14T17:23:18.105Z"
-  },
-  {
-    "id_torneo": 12,
-    "id_particip1": 45,
-    "id_particip2": 22,
-    "puntos1": 1,
-    "puntos2": 8,
-    "fecha": "2024-09-04T08:59:50.619Z"
-  },
-  {
-    "id_torneo": 20,
-    "id_particip1": 26,
-    "id_particip2": 93,
-    "puntos1": 4,
-    "puntos2": 10,
-    "fecha": "2023-01-31T08:43:44.955Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 49,
-    "id_particip2": 38,
-    "puntos1": 3,
-    "puntos2": 7,
-    "fecha": "2024-09-30T05:28:31.665Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 143,
-    "id_particip2": 95,
-    "puntos1": 1,
-    "puntos2": 2,
-    "fecha": "2021-06-19T23:46:17.309Z"
-  },
-  {
-    "id_torneo": 42,
-    "id_particip1": 134,
-    "id_particip2": 85,
-    "puntos1": 4,
-    "puntos2": 10,
-    "fecha": "2021-03-26T20:37:44.388Z"
+    "fecha": "2021-01-09T23:32:46.420Z"
   },
   {
     "id_torneo": 50,
-    "id_particip1": 135,
-    "id_particip2": 24,
-    "puntos1": 2,
-    "puntos2": 9,
-    "fecha": "2022-10-30T11:59:44.475Z"
-  },
-  {
-    "id_torneo": 46,
-    "id_particip1": 11,
-    "id_particip2": 87,
-    "puntos1": 8,
-    "puntos2": 10,
-    "fecha": "2020-02-01T04:44:48.818Z"
-  },
-  {
-    "id_torneo": 8,
-    "id_particip1": 9,
-    "id_particip2": 82,
-    "puntos1": 6,
-    "puntos2": 0,
-    "fecha": "2020-11-20T03:25:14.533Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 114,
-    "id_particip2": 99,
-    "puntos1": 6,
-    "puntos2": 4,
-    "fecha": "2022-05-26T21:38:12.968Z"
-  },
-  {
-    "id_torneo": 48,
     "id_particip1": 192,
-    "id_particip2": 194,
-    "puntos1": 3,
-    "puntos2": 2,
-    "fecha": "2020-07-07T10:59:34.958Z"
-  },
-  {
-    "id_torneo": 6,
-    "id_particip1": 188,
-    "id_particip2": 20,
+    "id_particip2": 106,
     "puntos1": 8,
-    "puntos2": 0,
-    "fecha": "2021-01-02T16:51:16.739Z"
+    "puntos2": 2,
+    "fecha": "2021-12-25T05:30:17.703Z"
   },
   {
-    "id_torneo": 30,
-    "id_particip1": 55,
-    "id_particip2": 64,
-    "puntos1": 9,
+    "id_torneo": 38,
+    "id_particip1": 147,
+    "id_particip2": 73,
+    "puntos1": 1,
     "puntos2": 8,
-    "fecha": "2023-02-15T06:15:10.031Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 18,
-    "id_particip2": 160,
-    "puntos1": 3,
-    "puntos2": 1,
-    "fecha": "2022-09-14T03:41:33.198Z"
+    "fecha": "2020-07-07T17:13:14.757Z"
   },
   {
     "id_torneo": 44,
-    "id_particip1": 136,
-    "id_particip2": 104,
-    "puntos1": 2,
-    "puntos2": 8,
-    "fecha": "2022-08-30T04:38:18.457Z"
-  },
-  {
-    "id_torneo": 47,
-    "id_particip1": 61,
-    "id_particip2": 61,
-    "puntos1": 9,
-    "puntos2": 4,
-    "fecha": "2023-07-24T19:43:22.826Z"
-  },
-  {
-    "id_torneo": 12,
-    "id_particip1": 48,
-    "id_particip2": 14,
-    "puntos1": 4,
-    "puntos2": 8,
-    "fecha": "2022-09-02T06:37:06.467Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 50,
-    "id_particip2": 74,
-    "puntos1": 5,
-    "puntos2": 10,
-    "fecha": "2022-04-05T17:26:06.095Z"
-  },
-  {
-    "id_torneo": 1,
-    "id_particip1": 97,
-    "id_particip2": 82,
-    "puntos1": 7,
-    "puntos2": 7,
-    "fecha": "2021-12-06T14:36:46.698Z"
-  },
-  {
-    "id_torneo": 44,
-    "id_particip1": 175,
-    "id_particip2": 81,
-    "puntos1": 0,
-    "puntos2": 2,
-    "fecha": "2020-05-26T04:34:47.154Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 23,
-    "id_particip2": 98,
-    "puntos1": 4,
-    "puntos2": 0,
-    "fecha": "2023-08-08T03:41:25.676Z"
-  },
-  {
-    "id_torneo": 29,
-    "id_particip1": 48,
-    "id_particip2": 126,
-    "puntos1": 0,
-    "puntos2": 7,
-    "fecha": "2021-07-30T19:50:01.075Z"
-  },
-  {
-    "id_torneo": 50,
-    "id_particip1": 4,
-    "id_particip2": 63,
-    "puntos1": 5,
-    "puntos2": 2,
-    "fecha": "2022-03-20T04:53:16.735Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 126,
-    "id_particip2": 162,
-    "puntos1": 9,
-    "puntos2": 7,
-    "fecha": "2020-05-30T22:17:26.224Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 170,
-    "id_particip2": 58,
-    "puntos1": 8,
-    "puntos2": 7,
-    "fecha": "2024-05-11T16:55:15.107Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 155,
-    "id_particip2": 84,
-    "puntos1": 5,
-    "puntos2": 7,
-    "fecha": "2021-02-21T00:22:08.482Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 130,
-    "id_particip2": 180,
-    "puntos1": 0,
-    "puntos2": 10,
-    "fecha": "2021-08-20T10:30:49.237Z"
-  },
-  {
-    "id_torneo": 37,
-    "id_particip1": 81,
-    "id_particip2": 5,
-    "puntos1": 0,
-    "puntos2": 9,
-    "fecha": "2023-01-19T09:28:10.968Z"
-  },
-  {
-    "id_torneo": 15,
-    "id_particip1": 42,
+    "id_particip1": 94,
     "id_particip2": 130,
-    "puntos1": 5,
-    "puntos2": 2,
-    "fecha": "2023-11-14T14:43:34.074Z"
-  },
-  {
-    "id_torneo": 20,
-    "id_particip1": 140,
-    "id_particip2": 105,
-    "puntos1": 0,
-    "puntos2": 6,
-    "fecha": "2022-05-26T08:03:48.057Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 139,
-    "id_particip2": 89,
-    "puntos1": 1,
-    "puntos2": 10,
-    "fecha": "2024-02-23T06:23:13.451Z"
-  },
-  {
-    "id_torneo": 24,
-    "id_particip1": 157,
-    "id_particip2": 112,
-    "puntos1": 8,
-    "puntos2": 0,
-    "fecha": "2023-05-31T23:45:36.231Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 65,
-    "id_particip2": 85,
-    "puntos1": 4,
-    "puntos2": 6,
-    "fecha": "2021-08-14T23:35:49.171Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 198,
-    "id_particip2": 104,
-    "puntos1": 6,
-    "puntos2": 9,
-    "fecha": "2021-10-11T19:40:20.411Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 142,
-    "id_particip2": 90,
-    "puntos1": 6,
-    "puntos2": 8,
-    "fecha": "2020-04-14T16:26:54.857Z"
-  },
-  {
-    "id_torneo": 40,
-    "id_particip1": 187,
-    "id_particip2": 194,
-    "puntos1": 6,
-    "puntos2": 6,
-    "fecha": "2020-06-29T01:49:56.333Z"
-  },
-  {
-    "id_torneo": 7,
-    "id_particip1": 182,
-    "id_particip2": 41,
-    "puntos1": 8,
-    "puntos2": 4,
-    "fecha": "2024-01-02T12:06:09.365Z"
-  },
-  {
-    "id_torneo": 27,
-    "id_particip1": 161,
-    "id_particip2": 71,
-    "puntos1": 9,
-    "puntos2": 1,
-    "fecha": "2021-06-04T05:26:02.888Z"
-  },
-  {
-    "id_torneo": 11,
-    "id_particip1": 91,
-    "id_particip2": 65,
-    "puntos1": 1,
-    "puntos2": 3,
-    "fecha": "2020-06-07T03:45:48.578Z"
-  },
-  {
-    "id_torneo": 28,
-    "id_particip1": 55,
-    "id_particip2": 31,
-    "puntos1": 2,
-    "puntos2": 4,
-    "fecha": "2024-11-06T18:49:36.345Z"
-  },
-  {
-    "id_torneo": 4,
-    "id_particip1": 42,
-    "id_particip2": 22,
     "puntos1": 3,
-    "puntos2": 5,
-    "fecha": "2022-12-20T03:32:58.142Z"
+    "puntos2": 10,
+    "fecha": "2020-02-29T06:45:26.373Z"
   },
   {
-    "id_torneo": 11,
-    "id_particip1": 176,
-    "id_particip2": 199,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2020-07-24T14:52:07.386Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 36,
-    "id_particip2": 199,
-    "puntos1": 2,
-    "puntos2": 2,
-    "fecha": "2021-05-01T01:37:37.238Z"
-  },
-  {
-    "id_torneo": 6,
-    "id_particip1": 34,
-    "id_particip2": 148,
-    "puntos1": 8,
-    "puntos2": 4,
-    "fecha": "2020-07-20T01:37:49.107Z"
-  },
-  {
-    "id_torneo": 20,
-    "id_particip1": 95,
-    "id_particip2": 172,
-    "puntos1": 9,
-    "puntos2": 8,
-    "fecha": "2020-09-13T20:29:53.903Z"
-  },
-  {
-    "id_torneo": 23,
-    "id_particip1": 182,
-    "id_particip2": 124,
-    "puntos1": 4,
-    "puntos2": 3,
-    "fecha": "2023-05-27T20:36:49.695Z"
-  },
-  {
-    "id_torneo": 47,
-    "id_particip1": 21,
-    "id_particip2": 47,
-    "puntos1": 5,
-    "puntos2": 3,
-    "fecha": "2021-11-01T18:17:02.696Z"
-  },
-  {
-    "id_torneo": 21,
-    "id_particip1": 156,
-    "id_particip2": 61,
-    "puntos1": 10,
-    "puntos2": 0,
-    "fecha": "2024-10-19T18:58:04.407Z"
-  },
-  {
-    "id_torneo": 45,
-    "id_particip1": 14,
-    "id_particip2": 154,
-    "puntos1": 7,
-    "puntos2": 3,
-    "fecha": "2022-08-07T10:51:09.147Z"
-  },
-  {
-    "id_torneo": 5,
-    "id_particip1": 45,
-    "id_particip2": 83,
-    "puntos1": 10,
-    "puntos2": 6,
-    "fecha": "2022-07-26T01:25:34.456Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 152,
-    "id_particip2": 29,
-    "puntos1": 1,
-    "puntos2": 2,
-    "fecha": "2023-07-25T03:38:12.910Z"
-  },
-  {
-    "id_torneo": 15,
-    "id_particip1": 124,
-    "id_particip2": 61,
-    "puntos1": 6,
-    "puntos2": 2,
-    "fecha": "2024-12-06T11:49:56.102Z"
-  },
-  {
-    "id_torneo": 10,
+    "id_torneo": 12,
     "id_particip1": 183,
-    "id_particip2": 83,
-    "puntos1": 9,
-    "puntos2": 5,
-    "fecha": "2020-02-18T21:54:49.413Z"
-  },
-  {
-    "id_torneo": 36,
-    "id_particip1": 174,
-    "id_particip2": 111,
-    "puntos1": 2,
-    "puntos2": 10,
-    "fecha": "2021-12-24T23:57:15.236Z"
-  },
-  {
-    "id_torneo": 19,
-    "id_particip1": 62,
-    "id_particip2": 62,
-    "puntos1": 5,
-    "puntos2": 9,
-    "fecha": "2021-10-28T02:14:44.560Z"
-  },
-  {
-    "id_torneo": 26,
-    "id_particip1": 79,
-    "id_particip2": 184,
-    "puntos1": 9,
-    "puntos2": 6,
-    "fecha": "2020-06-10T20:03:24.422Z"
-  },
-  {
-    "id_torneo": 41,
-    "id_particip1": 84,
-    "id_particip2": 103,
-    "puntos1": 1,
-    "puntos2": 0,
-    "fecha": "2024-06-14T11:38:30.443Z"
-  },
-  {
-    "id_torneo": 32,
-    "id_particip1": 35,
-    "id_particip2": 108,
-    "puntos1": 8,
-    "puntos2": 1,
-    "fecha": "2022-04-22T16:26:16.933Z"
-  },
-  {
-    "id_torneo": 1,
-    "id_particip1": 4,
-    "id_particip2": 111,
-    "puntos1": 6,
-    "puntos2": 3,
-    "fecha": "2022-05-03T16:44:07.505Z"
-  },
-  {
-    "id_torneo": 41,
-    "id_particip1": 24,
-    "id_particip2": 80,
-    "puntos1": 8,
-    "puntos2": 9,
-    "fecha": "2022-03-08T06:32:11.215Z"
-  },
-  {
-    "id_torneo": 22,
-    "id_particip1": 184,
-    "id_particip2": 159,
-    "puntos1": 10,
-    "puntos2": 0,
-    "fecha": "2021-04-04T00:44:12.897Z"
-  },
-  {
-    "id_torneo": 50,
-    "id_particip1": 162,
-    "id_particip2": 120,
-    "puntos1": 7,
-    "puntos2": 1,
-    "fecha": "2022-06-12T10:04:39.012Z"
-  },
-  {
-    "id_torneo": 41,
-    "id_particip1": 131,
-    "id_particip2": 66,
-    "puntos1": 6,
-    "puntos2": 4,
-    "fecha": "2024-10-01T19:56:31.500Z"
-  },
-  {
-    "id_torneo": 32,
-    "id_particip1": 161,
-    "id_particip2": 19,
-    "puntos1": 8,
-    "puntos2": 3,
-    "fecha": "2023-10-06T09:35:39.077Z"
-  },
-  {
-    "id_torneo": 22,
-    "id_particip1": 26,
-    "id_particip2": 173,
-    "puntos1": 0,
-    "puntos2": 2,
-    "fecha": "2024-06-21T11:25:45.375Z"
-  },
-  {
-    "id_torneo": 9,
-    "id_particip1": 144,
-    "id_particip2": 96,
-    "puntos1": 4,
-    "puntos2": 2,
-    "fecha": "2020-05-16T11:57:34.007Z"
-  },
-  {
-    "id_torneo": 8,
-    "id_particip1": 23,
-    "id_particip2": 5,
-    "puntos1": 2,
-    "puntos2": 7,
-    "fecha": "2024-06-03T15:19:30.853Z"
-  },
-  {
-    "id_torneo": 50,
-    "id_particip1": 50,
-    "id_particip2": 41,
-    "puntos1": 7,
-    "puntos2": 3,
-    "fecha": "2023-08-31T03:29:20.336Z"
-  },
-  {
-    "id_torneo": 17,
-    "id_particip1": 60,
-    "id_particip2": 3,
-    "puntos1": 9,
-    "puntos2": 4,
-    "fecha": "2022-05-23T20:50:29.853Z"
-  },
-  {
-    "id_torneo": 37,
-    "id_particip1": 131,
-    "id_particip2": 97,
-    "puntos1": 1,
-    "puntos2": 2,
-    "fecha": "2022-10-25T23:03:12.949Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 88,
-    "id_particip2": 58,
-    "puntos1": 9,
-    "puntos2": 5,
-    "fecha": "2022-11-14T06:36:19.081Z"
-  },
-  {
-    "id_torneo": 20,
-    "id_particip1": 143,
-    "id_particip2": 180,
-    "puntos1": 7,
-    "puntos2": 1,
-    "fecha": "2023-01-17T21:15:17.454Z"
-  },
-  {
-    "id_torneo": 42,
-    "id_particip1": 37,
-    "id_particip2": 112,
-    "puntos1": 6,
-    "puntos2": 5,
-    "fecha": "2020-05-11T08:10:30.379Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 89,
-    "id_particip2": 146,
-    "puntos1": 10,
-    "puntos2": 7,
-    "fecha": "2022-10-07T02:32:31.613Z"
-  },
-  {
-    "id_torneo": 12,
-    "id_particip1": 125,
-    "id_particip2": 132,
-    "puntos1": 10,
-    "puntos2": 3,
-    "fecha": "2024-06-21T19:40:17.895Z"
-  },
-  {
-    "id_torneo": 14,
-    "id_particip1": 89,
-    "id_particip2": 60,
-    "puntos1": 0,
-    "puntos2": 8,
-    "fecha": "2023-05-20T07:38:07.253Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 200,
-    "id_particip2": 48,
-    "puntos1": 9,
-    "puntos2": 5,
-    "fecha": "2021-08-20T21:10:02.330Z"
-  },
-  {
-    "id_torneo": 12,
-    "id_particip1": 188,
-    "id_particip2": 105,
-    "puntos1": 9,
-    "puntos2": 0,
-    "fecha": "2024-01-26T09:29:47.916Z"
-  },
-  {
-    "id_torneo": 47,
-    "id_particip1": 129,
-    "id_particip2": 72,
-    "puntos1": 2,
-    "puntos2": 8,
-    "fecha": "2023-03-20T03:46:39.482Z"
-  },
-  {
-    "id_torneo": 42,
-    "id_particip1": 167,
-    "id_particip2": 119,
-    "puntos1": 3,
-    "puntos2": 8,
-    "fecha": "2023-09-19T13:50:17.248Z"
-  },
-  {
-    "id_torneo": 5,
-    "id_particip1": 68,
-    "id_particip2": 105,
-    "puntos1": 1,
-    "puntos2": 10,
-    "fecha": "2022-05-12T01:12:07.157Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 124,
-    "id_particip2": 125,
-    "puntos1": 1,
-    "puntos2": 4,
-    "fecha": "2021-03-29T09:38:53.654Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 71,
-    "id_particip2": 91,
-    "puntos1": 2,
-    "puntos2": 6,
-    "fecha": "2024-10-15T19:21:54.716Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 22,
-    "id_particip2": 69,
-    "puntos1": 10,
-    "puntos2": 4,
-    "fecha": "2021-03-23T19:26:06.582Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 114,
-    "id_particip2": 129,
-    "puntos1": 6,
-    "puntos2": 8,
-    "fecha": "2022-03-22T12:37:33.186Z"
-  },
-  {
-    "id_torneo": 40,
-    "id_particip1": 87,
-    "id_particip2": 154,
-    "puntos1": 5,
-    "puntos2": 6,
-    "fecha": "2022-06-17T02:28:56.383Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 152,
-    "id_particip2": 74,
-    "puntos1": 3,
-    "puntos2": 4,
-    "fecha": "2020-07-29T03:28:33.784Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 113,
-    "id_particip2": 46,
-    "puntos1": 7,
-    "puntos2": 6,
-    "fecha": "2023-07-04T23:28:22.760Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 6,
-    "id_particip2": 53,
-    "puntos1": 10,
-    "puntos2": 2,
-    "fecha": "2024-01-24T09:59:01.622Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 147,
-    "id_particip2": 70,
-    "puntos1": 10,
-    "puntos2": 3,
-    "fecha": "2021-07-10T15:37:36.390Z"
-  },
-  {
-    "id_torneo": 2,
-    "id_particip1": 27,
-    "id_particip2": 51,
-    "puntos1": 9,
-    "puntos2": 2,
-    "fecha": "2020-12-25T15:42:10.155Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 65,
-    "id_particip2": 188,
-    "puntos1": 9,
-    "puntos2": 5,
-    "fecha": "2020-11-11T08:38:32.177Z"
-  },
-  {
-    "id_torneo": 38,
-    "id_particip1": 91,
-    "id_particip2": 3,
-    "puntos1": 10,
-    "puntos2": 10,
-    "fecha": "2020-07-28T08:43:11.269Z"
-  },
-  {
-    "id_torneo": 30,
-    "id_particip1": 161,
-    "id_particip2": 106,
-    "puntos1": 9,
-    "puntos2": 2,
-    "fecha": "2022-01-02T18:42:44.307Z"
-  },
-  {
-    "id_torneo": 32,
-    "id_particip1": 114,
-    "id_particip2": 105,
-    "puntos1": 10,
-    "puntos2": 1,
-    "fecha": "2020-11-08T06:16:03.001Z"
-  },
-  {
-    "id_torneo": 37,
-    "id_particip1": 169,
     "id_particip2": 36,
-    "puntos1": 1,
-    "puntos2": 5,
-    "fecha": "2022-01-26T16:16:01.695Z"
-  },
-  {
-    "id_torneo": 49,
-    "id_particip1": 142,
-    "id_particip2": 45,
-    "puntos1": 1,
-    "puntos2": 3,
-    "fecha": "2020-07-31T14:19:46.736Z"
-  },
-  {
-    "id_torneo": 42,
-    "id_particip1": 123,
-    "id_particip2": 110,
-    "puntos1": 10,
-    "puntos2": 6,
-    "fecha": "2024-08-03T08:26:41.617Z"
-  },
-  {
-    "id_torneo": 25,
-    "id_particip1": 102,
-    "id_particip2": 152,
-    "puntos1": 1,
-    "puntos2": 1,
-    "fecha": "2020-08-26T14:41:26.319Z"
-  },
-  {
-    "id_torneo": 30,
-    "id_particip1": 177,
-    "id_particip2": 93,
-    "puntos1": 0,
-    "puntos2": 6,
-    "fecha": "2023-02-25T19:24:20.499Z"
-  },
-  {
-    "id_torneo": 50,
-    "id_particip1": 68,
-    "id_particip2": 127,
     "puntos1": 2,
-    "puntos2": 5,
-    "fecha": "2024-03-29T03:35:13.163Z"
-  },
-  {
-    "id_torneo": 15,
-    "id_particip1": 126,
-    "id_particip2": 90,
-    "puntos1": 1,
-    "puntos2": 7,
-    "fecha": "2024-07-13T19:08:51.865Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 147,
-    "id_particip2": 68,
-    "puntos1": 6,
-    "puntos2": 5,
-    "fecha": "2023-02-06T19:07:26.551Z"
-  },
-  {
-    "id_torneo": 27,
-    "id_particip1": 142,
-    "id_particip2": 77,
-    "puntos1": 1,
-    "puntos2": 2,
-    "fecha": "2024-01-08T15:39:44.252Z"
-  },
-  {
-    "id_torneo": 36,
-    "id_particip1": 184,
-    "id_particip2": 14,
-    "puntos1": 2,
-    "puntos2": 6,
-    "fecha": "2021-08-03T23:59:18.932Z"
-  },
-  {
-    "id_torneo": 34,
-    "id_particip1": 186,
-    "id_particip2": 104,
-    "puntos1": 10,
-    "puntos2": 7,
-    "fecha": "2024-05-10T18:59:37.203Z"
-  },
-  {
-    "id_torneo": 13,
-    "id_particip1": 53,
-    "id_particip2": 56,
-    "puntos1": 10,
-    "puntos2": 10,
-    "fecha": "2022-09-07T19:13:17.976Z"
-  },
-  {
-    "id_torneo": 35,
-    "id_particip1": 120,
-    "id_particip2": 96,
-    "puntos1": 4,
-    "puntos2": 2,
-    "fecha": "2024-01-26T03:23:02.738Z"
-  },
-  {
-    "id_torneo": 31,
-    "id_particip1": 71,
-    "id_particip2": 196,
-    "puntos1": 1,
-    "puntos2": 3,
-    "fecha": "2023-11-18T17:33:44.275Z"
-  },
-  {
-    "id_torneo": 43,
-    "id_particip1": 26,
-    "id_particip2": 106,
-    "puntos1": 9,
-    "puntos2": 3,
-    "fecha": "2024-09-05T10:41:35.282Z"
-  },
-  {
-    "id_torneo": 39,
-    "id_particip1": 9,
-    "id_particip2": 42,
-    "puntos1": 9,
-    "puntos2": 0,
-    "fecha": "2021-01-08T10:10:31.843Z"
-  },
-  {
-    "id_torneo": 43,
-    "id_particip1": 25,
-    "id_particip2": 48,
-    "puntos1": 5,
     "puntos2": 1,
-    "fecha": "2022-06-20T09:10:46.349Z"
+    "fecha": "2021-06-22T23:54:40.681Z"
   }
 ]
